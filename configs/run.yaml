@@ -38,7 +38,7 @@ axes:
   sentiment_version: "base"
   concerns_version: "base"
   min_hits_per_axis: 5        # minimum number of tokens found in a set to compute an axis
-  min_hits_per_concept: 4     # minimum number of tech seed tokens found per decade to compute concept centroid
+  min_hits_per_concept: 3     # minimum number of tech seed tokens found per decade to compute concept centroid
 
 baseline:
   enabled: true

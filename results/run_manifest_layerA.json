@@ -38,7 +38,7 @@
     "sentiment_version": "base",
     "concerns_version": "base",
     "min_hits_per_axis": 5,
-    "min_hits_per_concept": 4
+    "min_hits_per_concept": 3
   },
   "n_rows": 84
 }

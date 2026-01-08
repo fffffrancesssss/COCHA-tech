@@ -249,7 +249,7 @@ def main():
     sentiment_version = cfg_run["axes"].get("sentiment_version", "base")
     concerns_version = cfg_run["axes"].get("concerns_version", "base")
     min_hits_axis = int(cfg_run["axes"].get("min_hits_per_axis", 5))
-    min_hits_concept = int(cfg_run["axes"].get("min_hits_per_concept", 4))
+    min_hits_concept = int(cfg_run["axes"].get("min_hits_per_concept", 3))
 
     baseline_enabled = bool(cfg_run["baseline"]["enabled"])
     baseline_size = int(cfg_run["baseline"].get("sample_size", 5000))
@@ -303,6 +303,13 @@ def main():
 
         for concept in concepts_to_compute:
             tech_vec, tech_meta = concept_centroid(concept, cfg_seeds, W_use, w2i, version="base")
+
+            # Enforce: AI only starts from 1950s (inclusive)
+            if concept == "ai" and int(decade) < 1950:
+                tech_vec = None  # force NaN downstream
+
+            if concept == "phone_social" and int(decade) < 1970:
+                tech_vec = None  # force NaN downstream
 
             row = {
                 "decade": decade,
