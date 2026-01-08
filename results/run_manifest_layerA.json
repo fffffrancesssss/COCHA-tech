@@ -1,0 +1,44 @@
+{
+  "raw_dir": "/Users/liruiling/Desktop/COCHA/raw",
+  "reference_decade": "2000",
+  "alignment": {
+    "enabled": true,
+    "method": "orthogonal_procrustes",
+    "reference_decade": "2000",
+    "anchors": {
+      "strategy": "intersection_topk",
+      "topk": 50000,
+      "min_token_length": 2,
+      "exclude_regex": [
+        "^[0-9]+$",
+        "^[^a-zA-Z]+$"
+      ]
+    }
+  },
+  "baseline": {
+    "enabled": true,
+    "strategy": "random_vocab_sample",
+    "sample_size": 5000,
+    "random_seed": 13
+  },
+  "concepts": {
+    "tech_concepts_to_run": [
+      "nuclear",
+      "gmo",
+      "phone_social",
+      "ai"
+    ],
+    "also_run_subconcepts": [
+      "smartphone",
+      "social_media",
+      "automation_control"
+    ]
+  },
+  "axes": {
+    "sentiment_version": "base",
+    "concerns_version": "base",
+    "min_hits_per_axis": 5,
+    "min_hits_per_concept": 4
+  },
+  "n_rows": 84
+}

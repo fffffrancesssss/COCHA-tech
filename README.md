@@ -7,15 +7,3 @@
 
 本仓库只管理代码、配置和小体积输出；COCHA embedding 等大文件未上传
 
----
-
-## 目录结构
-
-COCHA_PROJECT/
-README.md
-.gitignore
-requirements.txt            # 可选：用于复现环境
-notebooks/                  # Jupyter notebooks（分析与作图）
-src/                        # 可复用的核心代码（读取、对齐、指标、聚类）
-configs/                    # 词表与参数（seeds/concerns/plot settings）
-results/                    # 输出图表/表格（建议仅放小文件）
