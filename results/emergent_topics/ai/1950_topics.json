@@ -1,0 +1,823 @@
+{
+  "decade": 1950,
+  "concept": "ai",
+  "concept_hits": 3,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.18275879323482513,
+  "clusters": {
+    "4": [
+      {
+        "token": "ml",
+        "sim": 0.6939449906349182
+      },
+      {
+        "token": "bichromate",
+        "sim": 0.6071632504463196
+      },
+      {
+        "token": "iodate",
+        "sim": 0.599463701248169
+      },
+      {
+        "token": "ceric",
+        "sim": 0.5981842875480652
+      },
+      {
+        "token": "chromic",
+        "sim": 0.5812687873840332
+      },
+      {
+        "token": "arsenite",
+        "sim": 0.5792973041534424
+      },
+      {
+        "token": "thiocyanate",
+        "sim": 0.5754966735839844
+      },
+      {
+        "token": "arsenious",
+        "sim": 0.563981294631958
+      },
+      {
+        "token": "oxalate",
+        "sim": 0.559502363204956
+      },
+      {
+        "token": "thiosulfate",
+        "sim": 0.5546765327453613
+      },
+      {
+        "token": "diphenylamine",
+        "sim": 0.5493688583374023
+      },
+      {
+        "token": "titrate",
+        "sim": 0.5463883876800537
+      },
+      {
+        "token": "ferrocyanide",
+        "sim": 0.54459547996521
+      },
+      {
+        "token": "titrating",
+        "sim": 0.5432206392288208
+      },
+      {
+        "token": "stannous",
+        "sim": 0.5297495722770691
+      },
+      {
+        "token": "phenolphthalein",
+        "sim": 0.5261387825012207
+      },
+      {
+        "token": "sulfuric",
+        "sim": 0.521391749382019
+      },
+      {
+        "token": "volumetric",
+        "sim": 0.5202102065086365
+      },
+      {
+        "token": "benzoic",
+        "sim": 0.5122138857841492
+      },
+      {
+        "token": "permanganate",
+        "sim": 0.5038613080978394
+      },
+      {
+        "token": "xanthate",
+        "sim": 0.5024346113204956
+      },
+      {
+        "token": "titrated",
+        "sim": 0.5023332238197327
+      },
+      {
+        "token": "axby",
+        "sim": 0.4956344664096832
+      },
+      {
+        "token": "adsorption",
+        "sim": 0.49104809761047363
+      },
+      {
+        "token": "titrations",
+        "sim": 0.490435928106308
+      },
+      {
+        "token": "hypochlorite",
+        "sim": 0.48883292078971863
+      },
+      {
+        "token": "cuprammonium",
+        "sim": 0.48877963423728943
+      },
+      {
+        "token": "hydrocellulose",
+        "sim": 0.48411238193511963
+      },
+      {
+        "token": "grams",
+        "sim": 0.481864333152771
+      },
+      {
+        "token": "cadmium",
+        "sim": 0.4811853766441345
+      },
+      {
+        "token": "barium",
+        "sim": 0.48055702447891235
+      },
+      {
+        "token": "titration",
+        "sim": 0.477813184261322
+      },
+      {
+        "token": "humic",
+        "sim": 0.4774901866912842
+      },
+      {
+        "token": "acetic",
+        "sim": 0.47736212611198425
+      },
+      {
+        "token": "iodide",
+        "sim": 0.47701600193977356
+      },
+      {
+        "token": "hydroxide",
+        "sim": 0.47433286905288696
+      },
+      {
+        "token": "lignins",
+        "sim": 0.471165269613266
+      },
+      {
+        "token": "crystallites",
+        "sim": 0.4693669080734253
+      },
+      {
+        "token": "colloidal",
+        "sim": 0.46905970573425293
+      },
+      {
+        "token": "sulfate",
+        "sim": 0.4685717225074768
+      },
+      {
+        "token": "bismuth",
+        "sim": 0.4685222804546356
+      },
+      {
+        "token": "chromate",
+        "sim": 0.4665980935096741
+      },
+      {
+        "token": "lithium",
+        "sim": 0.4640292525291443
+      },
+      {
+        "token": "nh",
+        "sim": 0.46358710527420044
+      },
+      {
+        "token": "electrolytic",
+        "sim": 0.4622170329093933
+      },
+      {
+        "token": "stoichiometric",
+        "sim": 0.46178963780403137
+      },
+      {
+        "token": "isoprene",
+        "sim": 0.46127280592918396
+      },
+      {
+        "token": "alkalis",
+        "sim": 0.45987629890441895
+      },
+      {
+        "token": "ferric",
+        "sim": 0.4589611887931824
+      },
+      {
+        "token": "oxidizing",
+        "sim": 0.4571244716644287
+      },
+      {
+        "token": "naoh",
+        "sim": 0.4525913894176483
+      },
+      {
+        "token": "adsorbed",
+        "sim": 0.45143765211105347
+      },
+      {
+        "token": "chloride",
+        "sim": 0.4499129056930542
+      },
+      {
+        "token": "reagent",
+        "sim": 0.44858086109161377
+      },
+      {
+        "token": "hc",
+        "sim": 0.44693928956985474
+      },
+      {
+        "token": "nonferrous",
+        "sim": 0.4464975595474243
+      },
+      {
+        "token": "phosphoric",
+        "sim": 0.44556117057800293
+      },
+      {
+        "token": "carboxyl",
+        "sim": 0.444935142993927
+      },
+      {
+        "token": "decompose",
+        "sim": 0.4445955455303192
+      },
+      {
+        "token": "sulfide",
+        "sim": 0.44436439871788025
+      },
+      {
+        "token": "thorium",
+        "sim": 0.44430744647979736
+      },
+      {
+        "token": "carbons",
+        "sim": 0.44357073307037354
+      },
+      {
+        "token": "colloid",
+        "sim": 0.4435459077358246
+      },
+      {
+        "token": "ferrite",
+        "sim": 0.44143396615982056
+      },
+      {
+        "token": "buffered",
+        "sim": 0.44020986557006836
+      },
+      {
+        "token": "carbonate",
+        "sim": 0.44017186760902405
+      },
+      {
+        "token": "pearlite",
+        "sim": 0.4399203360080719
+      },
+      {
+        "token": "aeration",
+        "sim": 0.43742644786834717
+      },
+      {
+        "token": "boron",
+        "sim": 0.4364737868309021
+      },
+      {
+        "token": "nitrogen",
+        "sim": 0.43535885214805603
+      },
+      {
+        "token": "ascorbic",
+        "sim": 0.4350124001502991
+      },
+      {
+        "token": "bicarbonate",
+        "sim": 0.4341071844100952
+      },
+      {
+        "token": "oxycellulose",
+        "sim": 0.43397676944732666
+      },
+      {
+        "token": "ferrous",
+        "sim": 0.43360963463783264
+      },
+      {
+        "token": "bl",
+        "sim": 0.432856023311615
+      },
+      {
+        "token": "solvents",
+        "sim": 0.4316641390323639
+      },
+      {
+        "token": "silicon",
+        "sim": 0.43065884709358215
+      },
+      {
+        "token": "potassium",
+        "sim": 0.4305822253227234
+      },
+      {
+        "token": "strontium",
+        "sim": 0.4305415749549866
+      }
+    ],
+    "2": [
+      {
+        "token": "computing",
+        "sim": 0.6423259973526001
+      },
+      {
+        "token": "worths",
+        "sim": 0.5267954468727112
+      },
+      {
+        "token": "multiples",
+        "sim": 0.5103652477264404
+      },
+      {
+        "token": "compute",
+        "sim": 0.49685370922088623
+      },
+      {
+        "token": "denier",
+        "sim": 0.48694974184036255
+      },
+      {
+        "token": "brazing",
+        "sim": 0.4835895895957947
+      },
+      {
+        "token": "kilogram",
+        "sim": 0.4799118638038635
+      },
+      {
+        "token": "subtract",
+        "sim": 0.4795694053173065
+      },
+      {
+        "token": "kilowatthour",
+        "sim": 0.4752499461174011
+      },
+      {
+        "token": "ordinates",
+        "sim": 0.4748706817626953
+      },
+      {
+        "token": "yardage",
+        "sim": 0.47080153226852417
+      },
+      {
+        "token": "decimal",
+        "sim": 0.46653085947036743
+      },
+      {
+        "token": "calculator",
+        "sim": 0.4655840992927551
+      },
+      {
+        "token": "budgeting",
+        "sim": 0.4629359841346741
+      },
+      {
+        "token": "calculate",
+        "sim": 0.458951473236084
+      },
+      {
+        "token": "interpolation",
+        "sim": 0.45605242252349854
+      },
+      {
+        "token": "vector",
+        "sim": 0.4552091956138611
+      },
+      {
+        "token": "fractional",
+        "sim": 0.4546535015106201
+      },
+      {
+        "token": "glost",
+        "sim": 0.45394545793533325
+      },
+      {
+        "token": "ratios",
+        "sim": 0.4517758786678314
+      },
+      {
+        "token": "jigs",
+        "sim": 0.4508616328239441
+      },
+      {
+        "token": "trainee",
+        "sim": 0.45009711384773254
+      },
+      {
+        "token": "alternant",
+        "sim": 0.4497469663619995
+      },
+      {
+        "token": "ansco",
+        "sim": 0.44974038004875183
+      },
+      {
+        "token": "measurement",
+        "sim": 0.4456748962402344
+      },
+      {
+        "token": "fractions",
+        "sim": 0.44487547874450684
+      },
+      {
+        "token": "arithmetical",
+        "sim": 0.44390469789505005
+      },
+      {
+        "token": "estimating",
+        "sim": 0.4438507556915283
+      },
+      {
+        "token": "machining",
+        "sim": 0.4411853849887848
+      },
+      {
+        "token": "allowable",
+        "sim": 0.44107434153556824
+      },
+      {
+        "token": "bk",
+        "sim": 0.44084399938583374
+      },
+      {
+        "token": "kwhr",
+        "sim": 0.4403877854347229
+      },
+      {
+        "token": "computed",
+        "sim": 0.44030675292015076
+      },
+      {
+        "token": "auditing",
+        "sim": 0.44015058875083923
+      },
+      {
+        "token": "butterfat",
+        "sim": 0.43886515498161316
+      },
+      {
+        "token": "joule",
+        "sim": 0.43802410364151
+      },
+      {
+        "token": "fueled",
+        "sim": 0.43597933650016785
+      },
+      {
+        "token": "figuring",
+        "sim": 0.43588757514953613
+      },
+      {
+        "token": "computers",
+        "sim": 0.4347223937511444
+      },
+      {
+        "token": "metric",
+        "sim": 0.4346792995929718
+      },
+      {
+        "token": "morpheme",
+        "sim": 0.4337926208972931
+      },
+      {
+        "token": "mortise",
+        "sim": 0.43338543176651
+      },
+      {
+        "token": "inductive",
+        "sim": 0.431283563375473
+      },
+      {
+        "token": "divisible",
+        "sim": 0.4305461049079895
+      },
+      {
+        "token": "anaphoric",
+        "sim": 0.4304417669773102
+      }
+    ],
+    "3": [
+      {
+        "token": "ai",
+        "sim": 0.5944575667381287
+      },
+      {
+        "token": "mikewhat",
+        "sim": 0.4734123945236206
+      },
+      {
+        "token": "thornhillyes",
+        "sim": 0.4631093144416809
+      },
+      {
+        "token": "norawell",
+        "sim": 0.4611213207244873
+      },
+      {
+        "token": "patwhat",
+        "sim": 0.45846331119537354
+      },
+      {
+        "token": "wo",
+        "sim": 0.4580479860305786
+      },
+      {
+        "token": "robby",
+        "sim": 0.45107704401016235
+      },
+      {
+        "token": "mikeyou",
+        "sim": 0.45080897212028503
+      },
+      {
+        "token": "theres",
+        "sim": 0.4498910903930664
+      },
+      {
+        "token": "ung",
+        "sim": 0.44753673672676086
+      },
+      {
+        "token": "patyou",
+        "sim": 0.4459526240825653
+      },
+      {
+        "token": "mikei",
+        "sim": 0.44541218876838684
+      },
+      {
+        "token": "soljer",
+        "sim": 0.43874943256378174
+      },
+      {
+        "token": "sansi",
+        "sim": 0.4382935166358948
+      },
+      {
+        "token": "noraoh",
+        "sim": 0.43769246339797974
+      },
+      {
+        "token": "griffini",
+        "sim": 0.43712395429611206
+      },
+      {
+        "token": "thornhillwell",
+        "sim": 0.43636149168014526
+      },
+      {
+        "token": "dianei",
+        "sim": 0.4361332952976227
+      },
+      {
+        "token": "trucker",
+        "sim": 0.4354749023914337
+      },
+      {
+        "token": "royi",
+        "sim": 0.43545860052108765
+      },
+      {
+        "token": "joewhat",
+        "sim": 0.4351733326911926
+      },
+      {
+        "token": "paulwell",
+        "sim": 0.4308219850063324
+      }
+    ],
+    "5": [
+      {
+        "token": "lumens",
+        "sim": 0.54828941822052
+      },
+      {
+        "token": "subsecond",
+        "sim": 0.5292634963989258
+      },
+      {
+        "token": "balmer",
+        "sim": 0.507573127746582
+      },
+      {
+        "token": "centimeter",
+        "sim": 0.5002853870391846
+      },
+      {
+        "token": "ergs",
+        "sim": 0.4955984354019165
+      },
+      {
+        "token": "resistor",
+        "sim": 0.49059027433395386
+      },
+      {
+        "token": "amperes",
+        "sim": 0.48575106263160706
+      },
+      {
+        "token": "luminaires",
+        "sim": 0.47740375995635986
+      },
+      {
+        "token": "alternators",
+        "sim": 0.4751908779144287
+      },
+      {
+        "token": "decrement",
+        "sim": 0.47069746255874634
+      },
+      {
+        "token": "platting",
+        "sim": 0.46995264291763306
+      },
+      {
+        "token": "constants",
+        "sim": 0.46364539861679077
+      },
+      {
+        "token": "coefficient",
+        "sim": 0.4610074758529663
+      },
+      {
+        "token": "oscillation",
+        "sim": 0.45925259590148926
+      },
+      {
+        "token": "exciters",
+        "sim": 0.45757657289505005
+      },
+      {
+        "token": "plunger",
+        "sim": 0.4567234516143799
+      },
+      {
+        "token": "densities",
+        "sim": 0.4562886655330658
+      },
+      {
+        "token": "angstroms",
+        "sim": 0.45386016368865967
+      },
+      {
+        "token": "wavelength",
+        "sim": 0.45318353176116943
+      },
+      {
+        "token": "germinative",
+        "sim": 0.4497542679309845
+      },
+      {
+        "token": "erythrocytes",
+        "sim": 0.44732511043548584
+      },
+      {
+        "token": "luminaire",
+        "sim": 0.44587257504463196
+      },
+      {
+        "token": "subatomic",
+        "sim": 0.44380104541778564
+      },
+      {
+        "token": "impedance",
+        "sim": 0.44323283433914185
+      },
+      {
+        "token": "centimeters",
+        "sim": 0.44304537773132324
+      },
+      {
+        "token": "synchronism",
+        "sim": 0.4425577223300934
+      },
+      {
+        "token": "diffraction",
+        "sim": 0.442527174949646
+      },
+      {
+        "token": "deflection",
+        "sim": 0.44106173515319824
+      },
+      {
+        "token": "oscillator",
+        "sim": 0.4409250020980835
+      },
+      {
+        "token": "diameters",
+        "sim": 0.43845081329345703
+      },
+      {
+        "token": "thyratron",
+        "sim": 0.43649959564208984
+      },
+      {
+        "token": "dielectric",
+        "sim": 0.4329094886779785
+      },
+      {
+        "token": "compressive",
+        "sim": 0.4326854944229126
+      },
+      {
+        "token": "emission",
+        "sim": 0.431380033493042
+      },
+      {
+        "token": "ignitor",
+        "sim": 0.43115168809890747
+      },
+      {
+        "token": "linear",
+        "sim": 0.4307625889778137
+      }
+    ],
+    "1": [
+      {
+        "token": "ducados",
+        "sim": 0.49736571311950684
+      },
+      {
+        "token": "reals",
+        "sim": 0.49197906255722046
+      },
+      {
+        "token": "roubles",
+        "sim": 0.48690471053123474
+      },
+      {
+        "token": "hundredths",
+        "sim": 0.4705590009689331
+      },
+      {
+        "token": "ktch",
+        "sim": 0.4404269754886627
+      },
+      {
+        "token": "mayinit",
+        "sim": 0.43901994824409485
+      },
+      {
+        "token": "valorem",
+        "sim": 0.43406394124031067
+      },
+      {
+        "token": "taille",
+        "sim": 0.4334266483783722
+      },
+      {
+        "token": "bxp",
+        "sim": 0.43213939666748047
+      },
+      {
+        "token": "liter",
+        "sim": 0.43186408281326294
+      }
+    ],
+    "0": [
+      {
+        "token": "excystation",
+        "sim": 0.4666571617126465
+      },
+      {
+        "token": "kilometres",
+        "sim": 0.46095001697540283
+      },
+      {
+        "token": "irrigating",
+        "sim": 0.4385485053062439
+      },
+      {
+        "token": "greensand",
+        "sim": 0.4381318688392639
+      },
+      {
+        "token": "wt",
+        "sim": 0.4377366900444031
+      },
+      {
+        "token": "zeros",
+        "sim": 0.4340358078479767
+      },
+      {
+        "token": "rothamsted",
+        "sim": 0.43259596824645996
+      },
+      {
+        "token": "homicides",
+        "sim": 0.43057548999786377
+      }
+    ]
+  }
+}

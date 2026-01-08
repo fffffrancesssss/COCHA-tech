@@ -1,0 +1,825 @@
+{
+  "decade": 2000,
+  "concept": "ai",
+  "concept_hits": 6,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 7,
+  "silhouette": 0.08219091594219208,
+  "clusters": {
+    "6": [
+      {
+        "token": "algorithm",
+        "sim": 0.6550991535186768
+      },
+      {
+        "token": "computing",
+        "sim": 0.6179254651069641
+      },
+      {
+        "token": "adiabatic",
+        "sim": 0.6178195476531982
+      },
+      {
+        "token": "algorithms",
+        "sim": 0.5931203365325928
+      },
+      {
+        "token": "bdpa",
+        "sim": 0.5890611410140991
+      },
+      {
+        "token": "computation",
+        "sim": 0.5863550901412964
+      },
+      {
+        "token": "computational",
+        "sim": 0.572970986366272
+      },
+      {
+        "token": "bdfp",
+        "sim": 0.5528402328491211
+      },
+      {
+        "token": "optimization",
+        "sim": 0.5510525107383728
+      },
+      {
+        "token": "multiprocessor",
+        "sim": 0.5438232421875
+      },
+      {
+        "token": "quantum",
+        "sim": 0.5437126159667969
+      },
+      {
+        "token": "teraflops",
+        "sim": 0.5408095717430115
+      },
+      {
+        "token": "dft",
+        "sim": 0.5350285172462463
+      },
+      {
+        "token": "intensional",
+        "sim": 0.5344122648239136
+      },
+      {
+        "token": "computations",
+        "sim": 0.530299186706543
+      },
+      {
+        "token": "analogizing",
+        "sim": 0.5285473465919495
+      },
+      {
+        "token": "scalability",
+        "sim": 0.5257160067558289
+      },
+      {
+        "token": "microtechnology",
+        "sim": 0.5255299806594849
+      },
+      {
+        "token": "mathematical",
+        "sim": 0.5249226689338684
+      },
+      {
+        "token": "microprocessor",
+        "sim": 0.5241636633872986
+      },
+      {
+        "token": "probabilistic",
+        "sim": 0.5169317722320557
+      },
+      {
+        "token": "sequencers",
+        "sim": 0.5165477395057678
+      },
+      {
+        "token": "nontrivial",
+        "sim": 0.5142154693603516
+      },
+      {
+        "token": "architectures",
+        "sim": 0.5133979320526123
+      },
+      {
+        "token": "microarchitecture",
+        "sim": 0.5112632513046265
+      },
+      {
+        "token": "computationally",
+        "sim": 0.5098089575767517
+      }
+    ],
+    "2": [
+      {
+        "token": "turing",
+        "sim": 0.6418880224227905
+      },
+      {
+        "token": "nems",
+        "sim": 0.6031453609466553
+      },
+      {
+        "token": "proteome",
+        "sim": 0.5800531506538391
+      },
+      {
+        "token": "cybernetics",
+        "sim": 0.5716695785522461
+      },
+      {
+        "token": "confocal",
+        "sim": 0.5697330236434937
+      },
+      {
+        "token": "dcomp",
+        "sim": 0.5660063624382019
+      },
+      {
+        "token": "bacteriophage",
+        "sim": 0.5571664571762085
+      },
+      {
+        "token": "dti",
+        "sim": 0.5553373694419861
+      },
+      {
+        "token": "palem",
+        "sim": 0.552830159664154
+      },
+      {
+        "token": "microelectromechanical",
+        "sim": 0.552523136138916
+      },
+      {
+        "token": "turneaure",
+        "sim": 0.552263081073761
+      },
+      {
+        "token": "nanomechanical",
+        "sim": 0.5514947772026062
+      },
+      {
+        "token": "bionics",
+        "sim": 0.5501788854598999
+      },
+      {
+        "token": "dssp",
+        "sim": 0.5500833988189697
+      },
+      {
+        "token": "qed",
+        "sim": 0.5456497669219971
+      },
+      {
+        "token": "microarray",
+        "sim": 0.5443817377090454
+      },
+      {
+        "token": "engram",
+        "sim": 0.535165011882782
+      },
+      {
+        "token": "metrology",
+        "sim": 0.5349441766738892
+      },
+      {
+        "token": "ribosomal",
+        "sim": 0.5324962139129639
+      },
+      {
+        "token": "electrodynamics",
+        "sim": 0.5303769111633301
+      },
+      {
+        "token": "centromere",
+        "sim": 0.5295613408088684
+      },
+      {
+        "token": "mits",
+        "sim": 0.527866005897522
+      },
+      {
+        "token": "nanite",
+        "sim": 0.5252652168273926
+      },
+      {
+        "token": "biomolecular",
+        "sim": 0.5243417620658875
+      },
+      {
+        "token": "lonberg",
+        "sim": 0.523978054523468
+      },
+      {
+        "token": "crystallographic",
+        "sim": 0.5206583142280579
+      },
+      {
+        "token": "cryptology",
+        "sim": 0.5173919200897217
+      },
+      {
+        "token": "antiproton",
+        "sim": 0.5173280239105225
+      },
+      {
+        "token": "superstring",
+        "sim": 0.5163688659667969
+      },
+      {
+        "token": "nanomix",
+        "sim": 0.5156001448631287
+      },
+      {
+        "token": "cycloid",
+        "sim": 0.5137253999710083
+      },
+      {
+        "token": "nanoscience",
+        "sim": 0.513267993927002
+      },
+      {
+        "token": "gorlov",
+        "sim": 0.5105523467063904
+      },
+      {
+        "token": "boltzmann",
+        "sim": 0.5102846026420593
+      },
+      {
+        "token": "schilke",
+        "sim": 0.5101996064186096
+      },
+      {
+        "token": "zrich",
+        "sim": 0.50995934009552
+      },
+      {
+        "token": "laborat",
+        "sim": 0.509343147277832
+      }
+    ],
+    "4": [
+      {
+        "token": "rtop",
+        "sim": 0.6287744045257568
+      },
+      {
+        "token": "itsacorr",
+        "sim": 0.5647636651992798
+      },
+      {
+        "token": "lemeshow",
+        "sim": 0.560762882232666
+      },
+      {
+        "token": "xrf",
+        "sim": 0.5568374395370483
+      },
+      {
+        "token": "oniom",
+        "sim": 0.5561036467552185
+      },
+      {
+        "token": "bioelectric",
+        "sim": 0.5536242723464966
+      },
+      {
+        "token": "cloze",
+        "sim": 0.5509508848190308
+      },
+      {
+        "token": "glai",
+        "sim": 0.550765335559845
+      },
+      {
+        "token": "stata",
+        "sim": 0.550078272819519
+      },
+      {
+        "token": "tcr",
+        "sim": 0.5486422777175903
+      },
+      {
+        "token": "muthn",
+        "sim": 0.548202633857727
+      },
+      {
+        "token": "iir",
+        "sim": 0.5452266335487366
+      },
+      {
+        "token": "spme",
+        "sim": 0.5443934202194214
+      },
+      {
+        "token": "dinp",
+        "sim": 0.5435786247253418
+      },
+      {
+        "token": "multipoles",
+        "sim": 0.5433604121208191
+      },
+      {
+        "token": "pfbs",
+        "sim": 0.5410898327827454
+      },
+      {
+        "token": "hlm",
+        "sim": 0.5403215885162354
+      },
+      {
+        "token": "brc",
+        "sim": 0.538651704788208
+      },
+      {
+        "token": "bayes",
+        "sim": 0.5357762575149536
+      },
+      {
+        "token": "bayesian",
+        "sim": 0.5342988967895508
+      },
+      {
+        "token": "summated",
+        "sim": 0.5330621600151062
+      },
+      {
+        "token": "polynomial",
+        "sim": 0.5314455032348633
+      },
+      {
+        "token": "rrna",
+        "sim": 0.5282043814659119
+      },
+      {
+        "token": "logarithms",
+        "sim": 0.5261580348014832
+      },
+      {
+        "token": "lisrel",
+        "sim": 0.5254753232002258
+      },
+      {
+        "token": "sraps",
+        "sim": 0.5238469243049622
+      },
+      {
+        "token": "grundrechnung",
+        "sim": 0.5209249258041382
+      },
+      {
+        "token": "tanita",
+        "sim": 0.5196149945259094
+      },
+      {
+        "token": "bidimensional",
+        "sim": 0.519554078578949
+      },
+      {
+        "token": "osra",
+        "sim": 0.5194620490074158
+      },
+      {
+        "token": "autoregressive",
+        "sim": 0.5187291502952576
+      },
+      {
+        "token": "percolation",
+        "sim": 0.5184692144393921
+      },
+      {
+        "token": "fomalont",
+        "sim": 0.5171424150466919
+      },
+      {
+        "token": "abelian",
+        "sim": 0.5160419940948486
+      },
+      {
+        "token": "coblation",
+        "sim": 0.5152914524078369
+      },
+      {
+        "token": "gwpq",
+        "sim": 0.5129917860031128
+      },
+      {
+        "token": "microsatellite",
+        "sim": 0.5127900838851929
+      },
+      {
+        "token": "glm",
+        "sim": 0.5127313733100891
+      },
+      {
+        "token": "pedhazur",
+        "sim": 0.5125543475151062
+      },
+      {
+        "token": "wrcm",
+        "sim": 0.5115912556648254
+      },
+      {
+        "token": "tdm",
+        "sim": 0.5115615129470825
+      },
+      {
+        "token": "centroid",
+        "sim": 0.5114027857780457
+      },
+      {
+        "token": "otoscopy",
+        "sim": 0.5113334059715271
+      },
+      {
+        "token": "uasb",
+        "sim": 0.5108994245529175
+      },
+      {
+        "token": "randomization",
+        "sim": 0.5100758075714111
+      },
+      {
+        "token": "bootstrapped",
+        "sim": 0.5100623369216919
+      },
+      {
+        "token": "spectrographic",
+        "sim": 0.5094789266586304
+      },
+      {
+        "token": "genotyping",
+        "sim": 0.5089574456214905
+      }
+    ],
+    "1": [
+      {
+        "token": "dpotrf",
+        "sim": 0.6027043461799622
+      },
+      {
+        "token": "multithreaded",
+        "sim": 0.5699747204780579
+      },
+      {
+        "token": "pka",
+        "sim": 0.5699489116668701
+      },
+      {
+        "token": "mflops",
+        "sim": 0.5667628049850464
+      },
+      {
+        "token": "cholesky",
+        "sim": 0.5649296641349792
+      },
+      {
+        "token": "factorization",
+        "sim": 0.563227117061615
+      },
+      {
+        "token": "einstimer",
+        "sim": 0.5573564767837524
+      },
+      {
+        "token": "preprocessor",
+        "sim": 0.553400993347168
+      },
+      {
+        "token": "microcode",
+        "sim": 0.5525938868522644
+      },
+      {
+        "token": "tangora",
+        "sim": 0.5515581369400024
+      },
+      {
+        "token": "synopsys",
+        "sim": 0.5473556518554688
+      },
+      {
+        "token": "rivina",
+        "sim": 0.5469880700111389
+      },
+      {
+        "token": "coprocessor",
+        "sim": 0.5460535287857056
+      },
+      {
+        "token": "graphing",
+        "sim": 0.5449584722518921
+      },
+      {
+        "token": "memoryless",
+        "sim": 0.5445811152458191
+      },
+      {
+        "token": "ibmlz",
+        "sim": 0.5430387258529663
+      },
+      {
+        "token": "fortran",
+        "sim": 0.5400172472000122
+      },
+      {
+        "token": "boolean",
+        "sim": 0.5349859595298767
+      },
+      {
+        "token": "spm",
+        "sim": 0.5344923734664917
+      },
+      {
+        "token": "eniac",
+        "sim": 0.5341888070106506
+      },
+      {
+        "token": "nirtsat",
+        "sim": 0.5306258201599121
+      },
+      {
+        "token": "chemstation",
+        "sim": 0.5288146138191223
+      },
+      {
+        "token": "sxct",
+        "sim": 0.5275751948356628
+      },
+      {
+        "token": "debugger",
+        "sim": 0.5244656205177307
+      },
+      {
+        "token": "mosfet",
+        "sim": 0.5223203897476196
+      },
+      {
+        "token": "subroutine",
+        "sim": 0.5215556621551514
+      },
+      {
+        "token": "lossless",
+        "sim": 0.521418035030365
+      },
+      {
+        "token": "lapack",
+        "sim": 0.5200969576835632
+      },
+      {
+        "token": "colind",
+        "sim": 0.5191123485565186
+      },
+      {
+        "token": "initialization",
+        "sim": 0.518851637840271
+      },
+      {
+        "token": "operand",
+        "sim": 0.5161922574043274
+      },
+      {
+        "token": "multiplexing",
+        "sim": 0.515907883644104
+      },
+      {
+        "token": "cisc",
+        "sim": 0.5153073072433472
+      },
+      {
+        "token": "pipelining",
+        "sim": 0.5099771022796631
+      },
+      {
+        "token": "pdp",
+        "sim": 0.5090195536613464
+      }
+    ],
+    "0": [
+      {
+        "token": "hyperspectral",
+        "sim": 0.59782874584198
+      },
+      {
+        "token": "qnx",
+        "sim": 0.5840886831283569
+      },
+      {
+        "token": "labview",
+        "sim": 0.5840050578117371
+      },
+      {
+        "token": "reconfigurable",
+        "sim": 0.5728315114974976
+      },
+      {
+        "token": "verichip",
+        "sim": 0.5662296414375305
+      },
+      {
+        "token": "sql",
+        "sim": 0.5615091919898987
+      },
+      {
+        "token": "genesys",
+        "sim": 0.559075117111206
+      },
+      {
+        "token": "stereolithography",
+        "sim": 0.5514161586761475
+      },
+      {
+        "token": "abaqus",
+        "sim": 0.5461938381195068
+      },
+      {
+        "token": "frogpad",
+        "sim": 0.5431764125823975
+      },
+      {
+        "token": "brightmail",
+        "sim": 0.5413325428962708
+      },
+      {
+        "token": "mozy",
+        "sim": 0.5353094339370728
+      },
+      {
+        "token": "planetlab",
+        "sim": 0.534300684928894
+      },
+      {
+        "token": "subagent",
+        "sim": 0.5313079953193665
+      },
+      {
+        "token": "fraank",
+        "sim": 0.5286257863044739
+      },
+      {
+        "token": "evdo",
+        "sim": 0.524275541305542
+      },
+      {
+        "token": "middleware",
+        "sim": 0.523880660533905
+      },
+      {
+        "token": "virtualization",
+        "sim": 0.5232256650924683
+      },
+      {
+        "token": "braillenote",
+        "sim": 0.5230246782302856
+      },
+      {
+        "token": "automates",
+        "sim": 0.5229244828224182
+      },
+      {
+        "token": "rootkit",
+        "sim": 0.5203060507774353
+      },
+      {
+        "token": "sequencer",
+        "sim": 0.5194823145866394
+      },
+      {
+        "token": "nvivo",
+        "sim": 0.5190132260322571
+      },
+      {
+        "token": "xslt",
+        "sim": 0.5185061693191528
+      },
+      {
+        "token": "veritest",
+        "sim": 0.5181876420974731
+      },
+      {
+        "token": "pgp",
+        "sim": 0.5180200934410095
+      },
+      {
+        "token": "geospatial",
+        "sim": 0.5135038495063782
+      },
+      {
+        "token": "cloudmark",
+        "sim": 0.5111004710197449
+      },
+      {
+        "token": "dsr",
+        "sim": 0.5106075406074524
+      },
+      {
+        "token": "opto",
+        "sim": 0.5100398063659668
+      }
+    ],
+    "3": [
+      {
+        "token": "poweredge",
+        "sim": 0.5715333819389343
+      },
+      {
+        "token": "terabit",
+        "sim": 0.5651870965957642
+      },
+      {
+        "token": "penryn",
+        "sim": 0.5472599267959595
+      },
+      {
+        "token": "overclocked",
+        "sim": 0.545573890209198
+      },
+      {
+        "token": "mmc",
+        "sim": 0.5435791611671448
+      },
+      {
+        "token": "ultraportable",
+        "sim": 0.5386266708374023
+      },
+      {
+        "token": "polywell",
+        "sim": 0.5306898355484009
+      },
+      {
+        "token": "ml",
+        "sim": 0.530599057674408
+      },
+      {
+        "token": "sdram",
+        "sim": 0.5258129239082336
+      },
+      {
+        "token": "avchd",
+        "sim": 0.5248624682426453
+      },
+      {
+        "token": "piii",
+        "sim": 0.5234577655792236
+      },
+      {
+        "token": "gigabit",
+        "sim": 0.5214025974273682
+      },
+      {
+        "token": "netbook",
+        "sim": 0.5158601999282837
+      },
+      {
+        "token": "hdr",
+        "sim": 0.5106624960899353
+      }
+    ],
+    "5": [
+      {
+        "token": "transcoder",
+        "sim": 0.5674225687980652
+      },
+      {
+        "token": "instron",
+        "sim": 0.5604432225227356
+      },
+      {
+        "token": "cmm",
+        "sim": 0.5464803576469421
+      },
+      {
+        "token": "usr",
+        "sim": 0.5390671491622925
+      },
+      {
+        "token": "wideband",
+        "sim": 0.5323651432991028
+      },
+      {
+        "token": "emulator",
+        "sim": 0.5235723853111267
+      },
+      {
+        "token": "microcontroller",
+        "sim": 0.5219611525535583
+      },
+      {
+        "token": "carchip",
+        "sim": 0.5213889479637146
+      },
+      {
+        "token": "floscan",
+        "sim": 0.5206862688064575
+      },
+      {
+        "token": "biochips",
+        "sim": 0.519328236579895
+      }
+    ]
+  }
+}

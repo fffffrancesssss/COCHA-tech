@@ -1,0 +1,831 @@
+{
+  "decade": 2010,
+  "concept": "gmo",
+  "concept_hits": 7,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 10,
+  "silhouette": 0.06533150374889374,
+  "clusters": {
+    "3": [
+      {
+        "token": "biotechnology",
+        "sim": 0.7586632966995239
+      },
+      {
+        "token": "genetics",
+        "sim": 0.651951789855957
+      },
+      {
+        "token": "biotechnologies",
+        "sim": 0.6363102197647095
+      },
+      {
+        "token": "bioplastics",
+        "sim": 0.5878323316574097
+      },
+      {
+        "token": "nanotechnology",
+        "sim": 0.5861855149269104
+      },
+      {
+        "token": "nanotech",
+        "sim": 0.584229588508606
+      },
+      {
+        "token": "nanomaterials",
+        "sim": 0.5831812620162964
+      },
+      {
+        "token": "bioengineers",
+        "sim": 0.5653627514839172
+      },
+      {
+        "token": "biomedical",
+        "sim": 0.5592643022537231
+      },
+      {
+        "token": "bioengineering",
+        "sim": 0.5591435432434082
+      }
+    ],
+    "2": [
+      {
+        "token": "recombinant",
+        "sim": 0.7357912659645081
+      },
+      {
+        "token": "chimeric",
+        "sim": 0.6137619018554688
+      },
+      {
+        "token": "monoclonal",
+        "sim": 0.5843477845191956
+      },
+      {
+        "token": "prion",
+        "sim": 0.5810577869415283
+      },
+      {
+        "token": "otii",
+        "sim": 0.5806072950363159
+      },
+      {
+        "token": "plasmid",
+        "sim": 0.5787971019744873
+      },
+      {
+        "token": "prions",
+        "sim": 0.5759194493293762
+      },
+      {
+        "token": "plasmids",
+        "sim": 0.5682820081710815
+      },
+      {
+        "token": "adeno",
+        "sim": 0.5663532018661499
+      },
+      {
+        "token": "mdck",
+        "sim": 0.5648672580718994
+      },
+      {
+        "token": "lentivirus",
+        "sim": 0.5600554943084717
+      }
+    ],
+    "5": [
+      {
+        "token": "biotech",
+        "sim": 0.72024005651474
+      },
+      {
+        "token": "gmo",
+        "sim": 0.6806614398956299
+      },
+      {
+        "token": "monsanto",
+        "sim": 0.564284086227417
+      },
+      {
+        "token": "agrichemical",
+        "sim": 0.5593442320823669
+      },
+      {
+        "token": "pharmaceutical",
+        "sim": 0.5566495656967163
+      }
+    ],
+    "8": [
+      {
+        "token": "genetically",
+        "sim": 0.696755051612854
+      },
+      {
+        "token": "engineered",
+        "sim": 0.6478511095046997
+      },
+      {
+        "token": "oxitec",
+        "sim": 0.6340031623840332
+      },
+      {
+        "token": "gmos",
+        "sim": 0.6234216094017029
+      },
+      {
+        "token": "superweeds",
+        "sim": 0.6111910939216614
+      },
+      {
+        "token": "pharming",
+        "sim": 0.5927587747573853
+      },
+      {
+        "token": "bollworms",
+        "sim": 0.586696982383728
+      },
+      {
+        "token": "glyphosate",
+        "sim": 0.5859277844429016
+      },
+      {
+        "token": "pesticides",
+        "sim": 0.5689239501953125
+      },
+      {
+        "token": "neonicotinoid",
+        "sim": 0.5677409768104553
+      },
+      {
+        "token": "neonics",
+        "sim": 0.5620117783546448
+      },
+      {
+        "token": "superbug",
+        "sim": 0.5614364743232727
+      },
+      {
+        "token": "glofish",
+        "sim": 0.5613407492637634
+      },
+      {
+        "token": "biosimilar",
+        "sim": 0.5575884580612183
+      },
+      {
+        "token": "soybean",
+        "sim": 0.5561026334762573
+      },
+      {
+        "token": "spinosad",
+        "sim": 0.5560417175292969
+      }
+    ],
+    "0": [
+      {
+        "token": "transgenic",
+        "sim": 0.6938424706459045
+      },
+      {
+        "token": "xrcc",
+        "sim": 0.5830382704734802
+      },
+      {
+        "token": "sws",
+        "sim": 0.5618258714675903
+      }
+    ],
+    "9": [
+      {
+        "token": "overexpress",
+        "sim": 0.6558260321617126
+      },
+      {
+        "token": "sftpc",
+        "sim": 0.6215355396270752
+      },
+      {
+        "token": "hepatoma",
+        "sim": 0.6180339455604553
+      },
+      {
+        "token": "hepatocyte",
+        "sim": 0.6129277944564819
+      },
+      {
+        "token": "overexpressing",
+        "sim": 0.6127167344093323
+      },
+      {
+        "token": "xenografts",
+        "sim": 0.6099668741226196
+      },
+      {
+        "token": "hekt",
+        "sim": 0.5902413129806519
+      },
+      {
+        "token": "dynch",
+        "sim": 0.5882226228713989
+      },
+      {
+        "token": "gecs",
+        "sim": 0.5865507125854492
+      },
+      {
+        "token": "triptolide",
+        "sim": 0.5853815078735352
+      },
+      {
+        "token": "kras",
+        "sim": 0.5849741101264954
+      },
+      {
+        "token": "hdac",
+        "sim": 0.5816893577575684
+      },
+      {
+        "token": "lectin",
+        "sim": 0.5804389715194702
+      },
+      {
+        "token": "piwi",
+        "sim": 0.5794457197189331
+      },
+      {
+        "token": "neun",
+        "sim": 0.5789933800697327
+      },
+      {
+        "token": "dhfr",
+        "sim": 0.5772067308425903
+      },
+      {
+        "token": "igfr",
+        "sim": 0.5759062170982361
+      },
+      {
+        "token": "hypermethylated",
+        "sim": 0.5753556489944458
+      },
+      {
+        "token": "nanog",
+        "sim": 0.5743998289108276
+      },
+      {
+        "token": "myocilin",
+        "sim": 0.5729686617851257
+      },
+      {
+        "token": "neuace",
+        "sim": 0.5726878046989441
+      },
+      {
+        "token": "boprp",
+        "sim": 0.5724015235900879
+      },
+      {
+        "token": "rapamycin",
+        "sim": 0.5721873641014099
+      },
+      {
+        "token": "bleomycin",
+        "sim": 0.571578860282898
+      },
+      {
+        "token": "ovalbumin",
+        "sim": 0.5714102983474731
+      },
+      {
+        "token": "nucleases",
+        "sim": 0.5705286264419556
+      },
+      {
+        "token": "prnp",
+        "sim": 0.5695576667785645
+      },
+      {
+        "token": "microvesicles",
+        "sim": 0.5690259337425232
+      },
+      {
+        "token": "chondrocyte",
+        "sim": 0.5682738423347473
+      },
+      {
+        "token": "fgfr",
+        "sim": 0.5677899718284607
+      },
+      {
+        "token": "lentiviral",
+        "sim": 0.5677744150161743
+      },
+      {
+        "token": "bmmscs",
+        "sim": 0.5655125379562378
+      },
+      {
+        "token": "exbb",
+        "sim": 0.5650106072425842
+      },
+      {
+        "token": "deacetylase",
+        "sim": 0.564766526222229
+      },
+      {
+        "token": "transglutaminase",
+        "sim": 0.5644451379776001
+      },
+      {
+        "token": "prpc",
+        "sim": 0.5643113851547241
+      },
+      {
+        "token": "ligase",
+        "sim": 0.5634282231330872
+      },
+      {
+        "token": "neurofilament",
+        "sim": 0.5624986290931702
+      },
+      {
+        "token": "overexpression",
+        "sim": 0.5619356632232666
+      },
+      {
+        "token": "oncogenes",
+        "sim": 0.5613448619842529
+      },
+      {
+        "token": "demethylase",
+        "sim": 0.5599973201751709
+      },
+      {
+        "token": "foxo",
+        "sim": 0.558347761631012
+      },
+      {
+        "token": "eyfp",
+        "sim": 0.5582508444786072
+      },
+      {
+        "token": "hepatocytes",
+        "sim": 0.5578913688659668
+      },
+      {
+        "token": "nestincre",
+        "sim": 0.557742714881897
+      },
+      {
+        "token": "gadb",
+        "sim": 0.557684600353241
+      },
+      {
+        "token": "bmdm",
+        "sim": 0.5573477745056152
+      },
+      {
+        "token": "caenorhabditis",
+        "sim": 0.5571698546409607
+      },
+      {
+        "token": "inducible",
+        "sim": 0.5571073293685913
+      },
+      {
+        "token": "ibalpha",
+        "sim": 0.5570490956306458
+      },
+      {
+        "token": "ccsp",
+        "sim": 0.5564292669296265
+      },
+      {
+        "token": "dsrna",
+        "sim": 0.5560319423675537
+      }
+    ],
+    "7": [
+      {
+        "token": "proteomics",
+        "sim": 0.6339207887649536
+      },
+      {
+        "token": "genomics",
+        "sim": 0.627134382724762
+      },
+      {
+        "token": "crispr",
+        "sim": 0.6223989129066467
+      },
+      {
+        "token": "rnai",
+        "sim": 0.6178065538406372
+      },
+      {
+        "token": "biotechnological",
+        "sim": 0.6008855104446411
+      },
+      {
+        "token": "metabolomics",
+        "sim": 0.5947787761688232
+      },
+      {
+        "token": "transcriptomics",
+        "sim": 0.5905712246894836
+      },
+      {
+        "token": "mitalipov",
+        "sim": 0.5887433290481567
+      },
+      {
+        "token": "optogenetics",
+        "sim": 0.5857537388801575
+      },
+      {
+        "token": "cloning",
+        "sim": 0.5834543108940125
+      },
+      {
+        "token": "genomic",
+        "sim": 0.5804175138473511
+      },
+      {
+        "token": "microfluidics",
+        "sim": 0.5785425901412964
+      },
+      {
+        "token": "mutagenesis",
+        "sim": 0.5717824101448059
+      },
+      {
+        "token": "metagenomics",
+        "sim": 0.569598913192749
+      },
+      {
+        "token": "cgh",
+        "sim": 0.5685807466506958
+      },
+      {
+        "token": "macromolecular",
+        "sim": 0.5680546164512634
+      },
+      {
+        "token": "scnt",
+        "sim": 0.5618981122970581
+      },
+      {
+        "token": "genome",
+        "sim": 0.5617167949676514
+      },
+      {
+        "token": "genetic",
+        "sim": 0.5599368810653687
+      },
+      {
+        "token": "proteomic",
+        "sim": 0.5590248703956604
+      },
+      {
+        "token": "microarrays",
+        "sim": 0.5567762851715088
+      }
+    ],
+    "1": [
+      {
+        "token": "biopharmaceuticals",
+        "sim": 0.6335439085960388
+      },
+      {
+        "token": "mutagenicity",
+        "sim": 0.5925772190093994
+      },
+      {
+        "token": "sphaeroides",
+        "sim": 0.5913998484611511
+      },
+      {
+        "token": "campestris",
+        "sim": 0.5889362692832947
+      },
+      {
+        "token": "hirsutum",
+        "sim": 0.5858217477798462
+      },
+      {
+        "token": "bombyx",
+        "sim": 0.5817999839782715
+      },
+      {
+        "token": "metabolome",
+        "sim": 0.5800322890281677
+      },
+      {
+        "token": "rhizobacteria",
+        "sim": 0.5790932178497314
+      },
+      {
+        "token": "vigs",
+        "sim": 0.5787562131881714
+      },
+      {
+        "token": "oligosaccharide",
+        "sim": 0.5764715671539307
+      },
+      {
+        "token": "biochemicals",
+        "sim": 0.5716109871864319
+      },
+      {
+        "token": "syringae",
+        "sim": 0.5713454484939575
+      },
+      {
+        "token": "psms",
+        "sim": 0.5695716738700867
+      },
+      {
+        "token": "fertilisers",
+        "sim": 0.5694990158081055
+      },
+      {
+        "token": "triazole",
+        "sim": 0.568468451499939
+      },
+      {
+        "token": "thermodox",
+        "sim": 0.5658206939697266
+      },
+      {
+        "token": "physalis",
+        "sim": 0.5644675493240356
+      },
+      {
+        "token": "helioscopia",
+        "sim": 0.5638999938964844
+      },
+      {
+        "token": "quinazolinone",
+        "sim": 0.5631061792373657
+      },
+      {
+        "token": "isomerase",
+        "sim": 0.5628006458282471
+      },
+      {
+        "token": "farnesene",
+        "sim": 0.5611327886581421
+      },
+      {
+        "token": "xylose",
+        "sim": 0.5601286292076111
+      },
+      {
+        "token": "palmitate",
+        "sim": 0.5599935054779053
+      },
+      {
+        "token": "siderophores",
+        "sim": 0.5582833886146545
+      },
+      {
+        "token": "cyanobacterial",
+        "sim": 0.558071494102478
+      },
+      {
+        "token": "thermostability",
+        "sim": 0.5561541318893433
+      },
+      {
+        "token": "cerevisiae",
+        "sim": 0.5560662746429443
+      }
+    ],
+    "6": [
+      {
+        "token": "heterodera",
+        "sim": 0.6293734312057495
+      },
+      {
+        "token": "hybridisation",
+        "sim": 0.6152281761169434
+      },
+      {
+        "token": "hemolysin",
+        "sim": 0.6137045621871948
+      },
+      {
+        "token": "immunoassays",
+        "sim": 0.6135121583938599
+      },
+      {
+        "token": "glycines",
+        "sim": 0.6116331815719604
+      },
+      {
+        "token": "agrobacterium",
+        "sim": 0.6072800755500793
+      },
+      {
+        "token": "zeolin",
+        "sim": 0.6002663373947144
+      },
+      {
+        "token": "bacteriophage",
+        "sim": 0.5996738076210022
+      },
+      {
+        "token": "bifidobacterium",
+        "sim": 0.5990216732025146
+      },
+      {
+        "token": "lactamases",
+        "sim": 0.5947659015655518
+      },
+      {
+        "token": "poxvirus",
+        "sim": 0.5939261317253113
+      },
+      {
+        "token": "endotoxins",
+        "sim": 0.592560887336731
+      },
+      {
+        "token": "ribozymes",
+        "sim": 0.5896629095077515
+      },
+      {
+        "token": "carbapenemase",
+        "sim": 0.5883022546768188
+      },
+      {
+        "token": "capsulatum",
+        "sim": 0.5860517024993896
+      },
+      {
+        "token": "isogenic",
+        "sim": 0.5849910378456116
+      },
+      {
+        "token": "carbapenem",
+        "sim": 0.5828894376754761
+      },
+      {
+        "token": "solanum",
+        "sim": 0.5815850496292114
+      },
+      {
+        "token": "bioassays",
+        "sim": 0.5811169147491455
+      },
+      {
+        "token": "brucella",
+        "sim": 0.577408492565155
+      },
+      {
+        "token": "fumigatus",
+        "sim": 0.5770822763442993
+      },
+      {
+        "token": "transgenes",
+        "sim": 0.5744903683662415
+      },
+      {
+        "token": "saccharomyces",
+        "sim": 0.5730278491973877
+      },
+      {
+        "token": "cssgr",
+        "sim": 0.5730035305023193
+      },
+      {
+        "token": "transposon",
+        "sim": 0.5728124380111694
+      },
+      {
+        "token": "transposons",
+        "sim": 0.5705692172050476
+      },
+      {
+        "token": "truncatula",
+        "sim": 0.5703136920928955
+      },
+      {
+        "token": "heterologous",
+        "sim": 0.570292592048645
+      },
+      {
+        "token": "esbls",
+        "sim": 0.5699245929718018
+      },
+      {
+        "token": "integrase",
+        "sim": 0.5679318308830261
+      },
+      {
+        "token": "neuraminidase",
+        "sim": 0.5675251483917236
+      },
+      {
+        "token": "nosocomialis",
+        "sim": 0.5655637979507446
+      },
+      {
+        "token": "agalactiae",
+        "sim": 0.5642403364181519
+      },
+      {
+        "token": "thuringiensis",
+        "sim": 0.5636957883834839
+      },
+      {
+        "token": "xoo",
+        "sim": 0.5627932548522949
+      },
+      {
+        "token": "crybb",
+        "sim": 0.5606507062911987
+      },
+      {
+        "token": "oxa",
+        "sim": 0.5572395324707031
+      },
+      {
+        "token": "leprae",
+        "sim": 0.5570683479309082
+      },
+      {
+        "token": "orthopoxvirus",
+        "sim": 0.5565076470375061
+      },
+      {
+        "token": "bacteroides",
+        "sim": 0.5558748245239258
+      },
+      {
+        "token": "gallisepticum",
+        "sim": 0.5554789304733276
+      }
+    ],
+    "4": [
+      {
+        "token": "dharmacon",
+        "sim": 0.6004383563995361
+      },
+      {
+        "token": "amersham",
+        "sim": 0.5964010953903198
+      },
+      {
+        "token": "hek",
+        "sim": 0.5958808660507202
+      },
+      {
+        "token": "polyclonal",
+        "sim": 0.590055525302887
+      },
+      {
+        "token": "lipofectamine",
+        "sim": 0.575725257396698
+      },
+      {
+        "token": "pcdna",
+        "sim": 0.5728309154510498
+      },
+      {
+        "token": "electroporation",
+        "sim": 0.5652214288711548
+      },
+      {
+        "token": "pcaggs",
+        "sim": 0.565212070941925
+      },
+      {
+        "token": "genechip",
+        "sim": 0.564745306968689
+      },
+      {
+        "token": "clontech",
+        "sim": 0.5641534328460693
+      },
+      {
+        "token": "oligonucleotides",
+        "sim": 0.5616428256034851
+      },
+      {
+        "token": "cloned",
+        "sim": 0.5615369081497192
+      },
+      {
+        "token": "pharmingen",
+        "sim": 0.5578988194465637
+      },
+      {
+        "token": "sequenom",
+        "sim": 0.5575681924819946
+      }
+    ]
+  }
+}

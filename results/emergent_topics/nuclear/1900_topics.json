@@ -1,0 +1,823 @@
+{
+  "decade": 1900,
+  "concept": "nuclear",
+  "concept_hits": 7,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.07943878322839737,
+  "clusters": {
+    "2": [
+      {
+        "token": "uranium",
+        "sim": 0.8628592491149902
+      },
+      {
+        "token": "helium",
+        "sim": 0.817499041557312
+      },
+      {
+        "token": "gaseous",
+        "sim": 0.8042435646057129
+      },
+      {
+        "token": "solids",
+        "sim": 0.7949914932250977
+      },
+      {
+        "token": "liquefied",
+        "sim": 0.7943570613861084
+      },
+      {
+        "token": "dioxide",
+        "sim": 0.793742299079895
+      },
+      {
+        "token": "molecule",
+        "sim": 0.7849792242050171
+      },
+      {
+        "token": "nitrous",
+        "sim": 0.7819662690162659
+      },
+      {
+        "token": "carbonic",
+        "sim": 0.781527042388916
+      },
+      {
+        "token": "valence",
+        "sim": 0.777026355266571
+      },
+      {
+        "token": "decomposition",
+        "sim": 0.7722009420394897
+      },
+      {
+        "token": "radium",
+        "sim": 0.7721480131149292
+      },
+      {
+        "token": "nitric",
+        "sim": 0.7690489888191223
+      },
+      {
+        "token": "arsenic",
+        "sim": 0.7662818431854248
+      },
+      {
+        "token": "hydrochloric",
+        "sim": 0.7639105916023254
+      },
+      {
+        "token": "magnesium",
+        "sim": 0.7562737464904785
+      },
+      {
+        "token": "manganese",
+        "sim": 0.7542178630828857
+      },
+      {
+        "token": "oxide",
+        "sim": 0.7539844512939453
+      },
+      {
+        "token": "heats",
+        "sim": 0.7539247870445251
+      },
+      {
+        "token": "zinc",
+        "sim": 0.7491618394851685
+      },
+      {
+        "token": "molecules",
+        "sim": 0.7462084293365479
+      },
+      {
+        "token": "sulphuric",
+        "sim": 0.7429991364479065
+      },
+      {
+        "token": "sodium",
+        "sim": 0.7383618950843811
+      },
+      {
+        "token": "carbonate",
+        "sim": 0.7382326722145081
+      },
+      {
+        "token": "carbon",
+        "sim": 0.7297101020812988
+      },
+      {
+        "token": "chloride",
+        "sim": 0.7292270064353943
+      },
+      {
+        "token": "chlorine",
+        "sim": 0.7262452840805054
+      },
+      {
+        "token": "sulphate",
+        "sim": 0.7260087132453918
+      },
+      {
+        "token": "atmospheres",
+        "sim": 0.7255879044532776
+      },
+      {
+        "token": "dilute",
+        "sim": 0.7252054214477539
+      },
+      {
+        "token": "fermentation",
+        "sim": 0.7246807813644409
+      },
+      {
+        "token": "hy",
+        "sim": 0.7231441140174866
+      },
+      {
+        "token": "dissolves",
+        "sim": 0.71160489320755
+      },
+      {
+        "token": "potassium",
+        "sim": 0.709213376045227
+      },
+      {
+        "token": "nitrate",
+        "sim": 0.7068580389022827
+      },
+      {
+        "token": "gases",
+        "sim": 0.7058172225952148
+      }
+    ],
+    "3": [
+      {
+        "token": "radioactive",
+        "sim": 0.8485877513885498
+      },
+      {
+        "token": "molecular",
+        "sim": 0.8075619339942932
+      },
+      {
+        "token": "aqueous",
+        "sim": 0.8019965887069702
+      },
+      {
+        "token": "thermal",
+        "sim": 0.8004370927810669
+      },
+      {
+        "token": "dissociation",
+        "sim": 0.7997610569000244
+      },
+      {
+        "token": "interaction",
+        "sim": 0.7970831394195557
+      },
+      {
+        "token": "radiation",
+        "sim": 0.7941678762435913
+      },
+      {
+        "token": "oxidation",
+        "sim": 0.7858337163925171
+      },
+      {
+        "token": "cohesion",
+        "sim": 0.7825573086738586
+      },
+      {
+        "token": "determinations",
+        "sim": 0.7786250114440918
+      },
+      {
+        "token": "condensation",
+        "sim": 0.7761414051055908
+      },
+      {
+        "token": "generating",
+        "sim": 0.773932933807373
+      },
+      {
+        "token": "semen",
+        "sim": 0.7707633972167969
+      },
+      {
+        "token": "combustion",
+        "sim": 0.7683330774307251
+      },
+      {
+        "token": "experimentally",
+        "sim": 0.7678323984146118
+      },
+      {
+        "token": "emission",
+        "sim": 0.7660861015319824
+      },
+      {
+        "token": "plasm",
+        "sim": 0.7594574093818665
+      },
+      {
+        "token": "oscillations",
+        "sim": 0.7567147016525269
+      },
+      {
+        "token": "compression",
+        "sim": 0.7523398399353027
+      },
+      {
+        "token": "determinants",
+        "sim": 0.751644492149353
+      },
+      {
+        "token": "testes",
+        "sim": 0.74905925989151
+      },
+      {
+        "token": "bacterial",
+        "sim": 0.7484117746353149
+      },
+      {
+        "token": "albuminoids",
+        "sim": 0.745648980140686
+      },
+      {
+        "token": "micro",
+        "sim": 0.743976891040802
+      },
+      {
+        "token": "decreases",
+        "sim": 0.743802547454834
+      },
+      {
+        "token": "intestinal",
+        "sim": 0.7414989471435547
+      },
+      {
+        "token": "nutrients",
+        "sim": 0.7406020760536194
+      },
+      {
+        "token": "segregation",
+        "sim": 0.7400387525558472
+      },
+      {
+        "token": "antitoxin",
+        "sim": 0.7383453249931335
+      },
+      {
+        "token": "undigested",
+        "sim": 0.7375733256340027
+      },
+      {
+        "token": "serum",
+        "sim": 0.7356022596359253
+      },
+      {
+        "token": "undergoes",
+        "sim": 0.7307687997817993
+      },
+      {
+        "token": "deviation",
+        "sim": 0.7298230528831482
+      },
+      {
+        "token": "virulence",
+        "sim": 0.7296701669692993
+      },
+      {
+        "token": "atmospheric",
+        "sim": 0.7290465831756592
+      },
+      {
+        "token": "respiratory",
+        "sim": 0.728009819984436
+      },
+      {
+        "token": "neutralize",
+        "sim": 0.7279106378555298
+      },
+      {
+        "token": "shrinkage",
+        "sim": 0.7261360883712769
+      },
+      {
+        "token": "curvature",
+        "sim": 0.724719762802124
+      },
+      {
+        "token": "nutritive",
+        "sim": 0.7214494347572327
+      },
+      {
+        "token": "deduced",
+        "sim": 0.7200682759284973
+      },
+      {
+        "token": "obviated",
+        "sim": 0.7200145721435547
+      },
+      {
+        "token": "stimulations",
+        "sim": 0.7170221209526062
+      },
+      {
+        "token": "selective",
+        "sim": 0.7159579396247864
+      },
+      {
+        "token": "cerebral",
+        "sim": 0.7138338685035706
+      },
+      {
+        "token": "disintegrating",
+        "sim": 0.7112718224525452
+      },
+      {
+        "token": "proportional",
+        "sim": 0.7098062634468079
+      },
+      {
+        "token": "injection",
+        "sim": 0.7074490785598755
+      },
+      {
+        "token": "virus",
+        "sim": 0.7044780254364014
+      },
+      {
+        "token": "subdivision",
+        "sim": 0.7043272256851196
+      }
+    ],
+    "5": [
+      {
+        "token": "atomic",
+        "sim": 0.8328182101249695
+      },
+      {
+        "token": "nuclear",
+        "sim": 0.7873187065124512
+      },
+      {
+        "token": "spectroscope",
+        "sim": 0.7775208950042725
+      },
+      {
+        "token": "inductive",
+        "sim": 0.7721604108810425
+      },
+      {
+        "token": "radioactivity",
+        "sim": 0.7679641842842102
+      },
+      {
+        "token": "nebular",
+        "sim": 0.7638376355171204
+      },
+      {
+        "token": "equation",
+        "sim": 0.7546876072883606
+      },
+      {
+        "token": "schwann",
+        "sim": 0.7405974268913269
+      },
+      {
+        "token": "complementary",
+        "sim": 0.7324795126914978
+      },
+      {
+        "token": "binary",
+        "sim": 0.7314227819442749
+      },
+      {
+        "token": "platting",
+        "sim": 0.7304217219352722
+      },
+      {
+        "token": "equations",
+        "sim": 0.729587197303772
+      },
+      {
+        "token": "conceptual",
+        "sim": 0.7295703291893005
+      },
+      {
+        "token": "instability",
+        "sim": 0.7274910807609558
+      },
+      {
+        "token": "correlation",
+        "sim": 0.7261326909065247
+      },
+      {
+        "token": "spectra",
+        "sim": 0.7254068851470947
+      },
+      {
+        "token": "helmholtz",
+        "sim": 0.7247611284255981
+      },
+      {
+        "token": "nicety",
+        "sim": 0.719475269317627
+      },
+      {
+        "token": "analytic",
+        "sim": 0.7134013772010803
+      },
+      {
+        "token": "determinate",
+        "sim": 0.7132558822631836
+      },
+      {
+        "token": "rearrangement",
+        "sim": 0.7097994089126587
+      },
+      {
+        "token": "faraday",
+        "sim": 0.7089332342147827
+      },
+      {
+        "token": "entities",
+        "sim": 0.7079463601112366
+      },
+      {
+        "token": "laplace",
+        "sim": 0.7048449516296387
+      },
+      {
+        "token": "geometrical",
+        "sim": 0.7043139934539795
+      }
+    ],
+    "0": [
+      {
+        "token": "chemically",
+        "sim": 0.8206113576889038
+      },
+      {
+        "token": "urine",
+        "sim": 0.7984018325805664
+      },
+      {
+        "token": "granules",
+        "sim": 0.7863672375679016
+      },
+      {
+        "token": "oxides",
+        "sim": 0.7861157655715942
+      },
+      {
+        "token": "decomposed",
+        "sim": 0.7700404524803162
+      },
+      {
+        "token": "proteids",
+        "sim": 0.7649728655815125
+      },
+      {
+        "token": "condensing",
+        "sim": 0.7636619210243225
+      },
+      {
+        "token": "nitrates",
+        "sim": 0.7627865672111511
+      },
+      {
+        "token": "fluids",
+        "sim": 0.7578153610229492
+      },
+      {
+        "token": "cellular",
+        "sim": 0.755774736404419
+      },
+      {
+        "token": "decomposes",
+        "sim": 0.7515308856964111
+      },
+      {
+        "token": "bleaching",
+        "sim": 0.7510586977005005
+      },
+      {
+        "token": "granular",
+        "sim": 0.7453432083129883
+      },
+      {
+        "token": "liquids",
+        "sim": 0.7405135631561279
+      },
+      {
+        "token": "seminal",
+        "sim": 0.7400031685829163
+      },
+      {
+        "token": "intestine",
+        "sim": 0.7359384894371033
+      },
+      {
+        "token": "chemicals",
+        "sim": 0.7343435883522034
+      },
+      {
+        "token": "basal",
+        "sim": 0.7342170476913452
+      },
+      {
+        "token": "castings",
+        "sim": 0.7319566011428833
+      },
+      {
+        "token": "sugars",
+        "sim": 0.7318863868713379
+      },
+      {
+        "token": "hornblende",
+        "sim": 0.7310061454772949
+      },
+      {
+        "token": "alkaline",
+        "sim": 0.7272608280181885
+      },
+      {
+        "token": "duct",
+        "sim": 0.7254177927970886
+      },
+      {
+        "token": "silicious",
+        "sim": 0.7253844141960144
+      },
+      {
+        "token": "sulphurous",
+        "sim": 0.7250643372535706
+      },
+      {
+        "token": "feldspar",
+        "sim": 0.7227872014045715
+      },
+      {
+        "token": "spermatozoa",
+        "sim": 0.720672607421875
+      },
+      {
+        "token": "carbohydrates",
+        "sim": 0.718683123588562
+      },
+      {
+        "token": "lavas",
+        "sim": 0.7184419631958008
+      },
+      {
+        "token": "conglomerate",
+        "sim": 0.7184059023857117
+      },
+      {
+        "token": "silica",
+        "sim": 0.7183335423469543
+      },
+      {
+        "token": "vesicles",
+        "sim": 0.7182401418685913
+      },
+      {
+        "token": "cavities",
+        "sim": 0.7176411747932434
+      },
+      {
+        "token": "nodules",
+        "sim": 0.7172811031341553
+      },
+      {
+        "token": "viscid",
+        "sim": 0.7169638872146606
+      },
+      {
+        "token": "urethra",
+        "sim": 0.7157375812530518
+      },
+      {
+        "token": "ducts",
+        "sim": 0.715046763420105
+      },
+      {
+        "token": "cellulose",
+        "sim": 0.7130435109138489
+      },
+      {
+        "token": "gland",
+        "sim": 0.7093403935432434
+      },
+      {
+        "token": "stratified",
+        "sim": 0.7072829008102417
+      },
+      {
+        "token": "calcareous",
+        "sim": 0.7056297659873962
+      },
+      {
+        "token": "juices",
+        "sim": 0.7034848928451538
+      },
+      {
+        "token": "mucous",
+        "sim": 0.7030245065689087
+      }
+    ],
+    "4": [
+      {
+        "token": "electro",
+        "sim": 0.806624710559845
+      },
+      {
+        "token": "magneto",
+        "sim": 0.7985295653343201
+      },
+      {
+        "token": "filament",
+        "sim": 0.7958633899688721
+      },
+      {
+        "token": "contacts",
+        "sim": 0.7910407781600952
+      },
+      {
+        "token": "electrons",
+        "sim": 0.7858393788337708
+      },
+      {
+        "token": "cathode",
+        "sim": 0.7858173847198486
+      },
+      {
+        "token": "antenna",
+        "sim": 0.7857173681259155
+      },
+      {
+        "token": "electrode",
+        "sim": 0.7793925404548645
+      },
+      {
+        "token": "condenser",
+        "sim": 0.7745007872581482
+      },
+      {
+        "token": "interrupter",
+        "sim": 0.7650013566017151
+      },
+      {
+        "token": "electromotive",
+        "sim": 0.7589287161827087
+      },
+      {
+        "token": "voltage",
+        "sim": 0.7543524503707886
+      },
+      {
+        "token": "electrodes",
+        "sim": 0.7538232207298279
+      },
+      {
+        "token": "armature",
+        "sim": 0.7519714832305908
+      },
+      {
+        "token": "magnetized",
+        "sim": 0.7505205869674683
+      },
+      {
+        "token": "displacement",
+        "sim": 0.743909478187561
+      },
+      {
+        "token": "segment",
+        "sim": 0.7435063719749451
+      },
+      {
+        "token": "membrane",
+        "sim": 0.7340394854545593
+      },
+      {
+        "token": "platinum",
+        "sim": 0.7327882647514343
+      },
+      {
+        "token": "centrifugal",
+        "sim": 0.7317637205123901
+      },
+      {
+        "token": "magnets",
+        "sim": 0.7271286249160767
+      },
+      {
+        "token": "inserting",
+        "sim": 0.7171188592910767
+      },
+      {
+        "token": "generator",
+        "sim": 0.7152178287506104
+      },
+      {
+        "token": "projectile",
+        "sim": 0.711311936378479
+      },
+      {
+        "token": "prism",
+        "sim": 0.7100289463996887
+      },
+      {
+        "token": "circuits",
+        "sim": 0.7098652124404907
+      },
+      {
+        "token": "appliance",
+        "sim": 0.7054445147514343
+      },
+      {
+        "token": "molding",
+        "sim": 0.7052457332611084
+      }
+    ],
+    "1": [
+      {
+        "token": "phlogiston",
+        "sim": 0.7943310737609863
+      },
+      {
+        "token": "electron",
+        "sim": 0.7870332598686218
+      },
+      {
+        "token": "nebula",
+        "sim": 0.7846975922584534
+      },
+      {
+        "token": "emanation",
+        "sim": 0.7647720575332642
+      },
+      {
+        "token": "refraction",
+        "sim": 0.7595651149749756
+      },
+      {
+        "token": "protoplasm",
+        "sim": 0.7547084093093872
+      },
+      {
+        "token": "generated",
+        "sim": 0.745516836643219
+      },
+      {
+        "token": "imponderable",
+        "sim": 0.7438091039657593
+      },
+      {
+        "token": "dislocation",
+        "sim": 0.7363029718399048
+      },
+      {
+        "token": "planetary",
+        "sim": 0.7339327931404114
+      },
+      {
+        "token": "inthe",
+        "sim": 0.7334319949150085
+      },
+      {
+        "token": "propagated",
+        "sim": 0.7244677543640137
+      },
+      {
+        "token": "corona",
+        "sim": 0.7156598567962646
+      },
+      {
+        "token": "optical",
+        "sim": 0.714110791683197
+      },
+      {
+        "token": "coloration",
+        "sim": 0.7138397693634033
+      },
+      {
+        "token": "ovum",
+        "sim": 0.7133094668388367
+      },
+      {
+        "token": "instantaneously",
+        "sim": 0.7080941200256348
+      },
+      {
+        "token": "metamorphosis",
+        "sim": 0.7029738426208496
+      }
+    ]
+  }
+}

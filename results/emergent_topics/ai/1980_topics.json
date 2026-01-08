@@ -1,0 +1,823 @@
+{
+  "decade": 1980,
+  "concept": "ai",
+  "concept_hits": 3,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.15136133134365082,
+  "clusters": {
+    "0": [
+      {
+        "token": "ml",
+        "sim": 0.7297177910804749
+      },
+      {
+        "token": "iodate",
+        "sim": 0.5724096298217773
+      },
+      {
+        "token": "chromic",
+        "sim": 0.5585442781448364
+      },
+      {
+        "token": "ceric",
+        "sim": 0.5572080612182617
+      },
+      {
+        "token": "thiocyanate",
+        "sim": 0.5552425384521484
+      },
+      {
+        "token": "arsenious",
+        "sim": 0.5379159450531006
+      },
+      {
+        "token": "acetic",
+        "sim": 0.525469183921814
+      },
+      {
+        "token": "arsenite",
+        "sim": 0.5222179889678955
+      },
+      {
+        "token": "bichromate",
+        "sim": 0.5215208530426025
+      },
+      {
+        "token": "ferrocyanide",
+        "sim": 0.5173785090446472
+      },
+      {
+        "token": "anhydrous",
+        "sim": 0.5160018801689148
+      },
+      {
+        "token": "thiosulfate",
+        "sim": 0.5090878009796143
+      },
+      {
+        "token": "titrate",
+        "sim": 0.5038999915122986
+      },
+      {
+        "token": "ethyl",
+        "sim": 0.5035247802734375
+      },
+      {
+        "token": "titrating",
+        "sim": 0.5033093094825745
+      },
+      {
+        "token": "chromate",
+        "sim": 0.5003930926322937
+      },
+      {
+        "token": "hypochlorite",
+        "sim": 0.4988446533679962
+      },
+      {
+        "token": "diphenylamine",
+        "sim": 0.49773985147476196
+      },
+      {
+        "token": "naoh",
+        "sim": 0.48919084668159485
+      },
+      {
+        "token": "permanganate",
+        "sim": 0.4876023530960083
+      },
+      {
+        "token": "phosphoric",
+        "sim": 0.48441624641418457
+      },
+      {
+        "token": "oxalate",
+        "sim": 0.47278425097465515
+      },
+      {
+        "token": "sulphate",
+        "sim": 0.4715195894241333
+      },
+      {
+        "token": "benzoic",
+        "sim": 0.4710938036441803
+      },
+      {
+        "token": "hydroxide",
+        "sim": 0.4676250219345093
+      },
+      {
+        "token": "acetate",
+        "sim": 0.4676036238670349
+      },
+      {
+        "token": "sulfate",
+        "sim": 0.46673429012298584
+      },
+      {
+        "token": "titration",
+        "sim": 0.46109455823898315
+      },
+      {
+        "token": "phenolphthalein",
+        "sim": 0.45984894037246704
+      },
+      {
+        "token": "stannous",
+        "sim": 0.4548746347427368
+      },
+      {
+        "token": "iodide",
+        "sim": 0.4539244771003723
+      },
+      {
+        "token": "chloride",
+        "sim": 0.45302027463912964
+      },
+      {
+        "token": "bicarbonate",
+        "sim": 0.45157450437545776
+      },
+      {
+        "token": "aniline",
+        "sim": 0.45033204555511475
+      },
+      {
+        "token": "fluorine",
+        "sim": 0.45030730962753296
+      },
+      {
+        "token": "barium",
+        "sim": 0.449463427066803
+      },
+      {
+        "token": "titrated",
+        "sim": 0.44762304425239563
+      },
+      {
+        "token": "potassium",
+        "sim": 0.44552525877952576
+      },
+      {
+        "token": "nitric",
+        "sim": 0.4451420307159424
+      },
+      {
+        "token": "hydrochloric",
+        "sim": 0.4438899755477905
+      },
+      {
+        "token": "selenium",
+        "sim": 0.4435901641845703
+      },
+      {
+        "token": "peroxide",
+        "sim": 0.4399915337562561
+      },
+      {
+        "token": "bismuth",
+        "sim": 0.4374932646751404
+      },
+      {
+        "token": "detergent",
+        "sim": 0.43496793508529663
+      },
+      {
+        "token": "ammonium",
+        "sim": 0.433594673871994
+      },
+      {
+        "token": "magneto",
+        "sim": 0.4302733540534973
+      }
+    ],
+    "5": [
+      {
+        "token": "computing",
+        "sim": 0.6228682398796082
+      },
+      {
+        "token": "imaging",
+        "sim": 0.4667506217956543
+      },
+      {
+        "token": "microcomputers",
+        "sim": 0.45879489183425903
+      },
+      {
+        "token": "kraftco",
+        "sim": 0.4552972912788391
+      },
+      {
+        "token": "puter",
+        "sim": 0.45458298921585083
+      },
+      {
+        "token": "tenneco",
+        "sim": 0.4506604075431824
+      },
+      {
+        "token": "cpm",
+        "sim": 0.4478588104248047
+      },
+      {
+        "token": "turbocharger",
+        "sim": 0.4468112289905548
+      },
+      {
+        "token": "database",
+        "sim": 0.44342947006225586
+      },
+      {
+        "token": "microchip",
+        "sim": 0.44122233986854553
+      },
+      {
+        "token": "atomics",
+        "sim": 0.44025248289108276
+      },
+      {
+        "token": "microcomputer",
+        "sim": 0.43852850794792175
+      },
+      {
+        "token": "aerotech",
+        "sim": 0.43842118978500366
+      },
+      {
+        "token": "branchell",
+        "sim": 0.4370919466018677
+      },
+      {
+        "token": "feedstocks",
+        "sim": 0.4349072277545929
+      },
+      {
+        "token": "ordinates",
+        "sim": 0.43313121795654297
+      },
+      {
+        "token": "recombinant",
+        "sim": 0.43239909410476685
+      },
+      {
+        "token": "wg",
+        "sim": 0.4323137104511261
+      },
+      {
+        "token": "searle",
+        "sim": 0.42999544739723206
+      },
+      {
+        "token": "downside",
+        "sim": 0.42853885889053345
+      },
+      {
+        "token": "intel",
+        "sim": 0.4271996319293976
+      },
+      {
+        "token": "premix",
+        "sim": 0.4261552691459656
+      }
+    ],
+    "2": [
+      {
+        "token": "ai",
+        "sim": 0.613310694694519
+      },
+      {
+        "token": "wo",
+        "sim": 0.4636121094226837
+      },
+      {
+        "token": "dyou",
+        "sim": 0.4574616551399231
+      },
+      {
+        "token": "robno",
+        "sim": 0.456644743680954
+      },
+      {
+        "token": "pooty",
+        "sim": 0.4496912360191345
+      },
+      {
+        "token": "horni",
+        "sim": 0.44497621059417725
+      },
+      {
+        "token": "squiresyou",
+        "sim": 0.44405168294906616
+      },
+      {
+        "token": "chucki",
+        "sim": 0.4420844316482544
+      },
+      {
+        "token": "mincer",
+        "sim": 0.440407395362854
+      },
+      {
+        "token": "squiresi",
+        "sim": 0.4348665475845337
+      },
+      {
+        "token": "nt",
+        "sim": 0.4344611167907715
+      },
+      {
+        "token": "ninai",
+        "sim": 0.43344491720199585
+      },
+      {
+        "token": "dannyi",
+        "sim": 0.4333503842353821
+      },
+      {
+        "token": "happent",
+        "sim": 0.43250101804733276
+      },
+      {
+        "token": "youve",
+        "sim": 0.43085795640945435
+      },
+      {
+        "token": "thorazine",
+        "sim": 0.4299176335334778
+      },
+      {
+        "token": "omer",
+        "sim": 0.429356187582016
+      },
+      {
+        "token": "afeart",
+        "sim": 0.4276815354824066
+      },
+      {
+        "token": "budduskyyou",
+        "sim": 0.42647022008895874
+      },
+      {
+        "token": "roseoh",
+        "sim": 0.42646652460098267
+      },
+      {
+        "token": "sandyi",
+        "sim": 0.426351398229599
+      },
+      {
+        "token": "cai",
+        "sim": 0.4263298511505127
+      },
+      {
+        "token": "lissen",
+        "sim": 0.42581069469451904
+      },
+      {
+        "token": "rosei",
+        "sim": 0.4255363643169403
+      },
+      {
+        "token": "laureni",
+        "sim": 0.4248449504375458
+      },
+      {
+        "token": "realy",
+        "sim": 0.424735426902771
+      }
+    ],
+    "4": [
+      {
+        "token": "hc",
+        "sim": 0.5411964058876038
+      },
+      {
+        "token": "cuprammonium",
+        "sim": 0.5175660848617554
+      },
+      {
+        "token": "ethanol",
+        "sim": 0.5082075595855713
+      },
+      {
+        "token": "thorium",
+        "sim": 0.5032712817192078
+      },
+      {
+        "token": "monomeric",
+        "sim": 0.4987090826034546
+      },
+      {
+        "token": "hydrocellulose",
+        "sim": 0.4956821799278259
+      },
+      {
+        "token": "volumetric",
+        "sim": 0.49491602182388306
+      },
+      {
+        "token": "phenylpropane",
+        "sim": 0.4886394143104553
+      },
+      {
+        "token": "ethanolysis",
+        "sim": 0.48479482531547546
+      },
+      {
+        "token": "carboxyl",
+        "sim": 0.48037639260292053
+      },
+      {
+        "token": "nitrobenzene",
+        "sim": 0.47916364669799805
+      },
+      {
+        "token": "sulfite",
+        "sim": 0.47097471356391907
+      },
+      {
+        "token": "refractive",
+        "sim": 0.4708896279335022
+      },
+      {
+        "token": "lignosulfonic",
+        "sim": 0.469062477350235
+      },
+      {
+        "token": "fructose",
+        "sim": 0.46505075693130493
+      },
+      {
+        "token": "benzene",
+        "sim": 0.46185773611068726
+      },
+      {
+        "token": "methoxyl",
+        "sim": 0.4603613615036011
+      },
+      {
+        "token": "esters",
+        "sim": 0.4593503475189209
+      },
+      {
+        "token": "streptomycin",
+        "sim": 0.4580700397491455
+      },
+      {
+        "token": "phenolic",
+        "sim": 0.4574749171733856
+      },
+      {
+        "token": "sulfonation",
+        "sim": 0.4569142162799835
+      },
+      {
+        "token": "alternant",
+        "sim": 0.4559858739376068
+      },
+      {
+        "token": "butadiene",
+        "sim": 0.4556984007358551
+      },
+      {
+        "token": "folic",
+        "sim": 0.4554803669452667
+      },
+      {
+        "token": "brazing",
+        "sim": 0.45466917753219604
+      },
+      {
+        "token": "phenols",
+        "sim": 0.45320940017700195
+      },
+      {
+        "token": "effluent",
+        "sim": 0.4527430236339569
+      },
+      {
+        "token": "riboflavin",
+        "sim": 0.45138317346572876
+      },
+      {
+        "token": "oxycellulose",
+        "sim": 0.4501428008079529
+      },
+      {
+        "token": "ase",
+        "sim": 0.44973674416542053
+      },
+      {
+        "token": "adsorption",
+        "sim": 0.4474278688430786
+      },
+      {
+        "token": "cesium",
+        "sim": 0.44626957178115845
+      },
+      {
+        "token": "xanthate",
+        "sim": 0.44602736830711365
+      },
+      {
+        "token": "titrations",
+        "sim": 0.4451379179954529
+      },
+      {
+        "token": "solubility",
+        "sim": 0.44301262497901917
+      },
+      {
+        "token": "amylopectin",
+        "sim": 0.4429889917373657
+      },
+      {
+        "token": "hydroxyl",
+        "sim": 0.4403991103172302
+      },
+      {
+        "token": "stoichiometric",
+        "sim": 0.44006526470184326
+      },
+      {
+        "token": "resistor",
+        "sim": 0.4392040967941284
+      },
+      {
+        "token": "maltose",
+        "sim": 0.4387681484222412
+      },
+      {
+        "token": "nucleic",
+        "sim": 0.4373575448989868
+      },
+      {
+        "token": "pantothenic",
+        "sim": 0.436906635761261
+      },
+      {
+        "token": "strontium",
+        "sim": 0.43668878078460693
+      },
+      {
+        "token": "ignitor",
+        "sim": 0.43662697076797485
+      },
+      {
+        "token": "boron",
+        "sim": 0.4353746473789215
+      },
+      {
+        "token": "glucose",
+        "sim": 0.4341895580291748
+      },
+      {
+        "token": "sarcoplasmic",
+        "sim": 0.433919757604599
+      },
+      {
+        "token": "uric",
+        "sim": 0.43380865454673767
+      },
+      {
+        "token": "myoglobin",
+        "sim": 0.4329911470413208
+      },
+      {
+        "token": "stoichiometry",
+        "sim": 0.43276944756507874
+      },
+      {
+        "token": "isoprene",
+        "sim": 0.4325074553489685
+      },
+      {
+        "token": "gompertz",
+        "sim": 0.43177857995033264
+      },
+      {
+        "token": "intramuscular",
+        "sim": 0.4301578402519226
+      },
+      {
+        "token": "myofibrillar",
+        "sim": 0.42843756079673767
+      },
+      {
+        "token": "aldehyde",
+        "sim": 0.42835476994514465
+      },
+      {
+        "token": "pulping",
+        "sim": 0.4278634190559387
+      },
+      {
+        "token": "polymer",
+        "sim": 0.4270797073841095
+      },
+      {
+        "token": "polariser",
+        "sim": 0.4263231158256531
+      },
+      {
+        "token": "enterococci",
+        "sim": 0.4248666763305664
+      }
+    ],
+    "3": [
+      {
+        "token": "btu",
+        "sim": 0.5222259759902954
+      },
+      {
+        "token": "coul",
+        "sim": 0.5132749676704407
+      },
+      {
+        "token": "tdn",
+        "sim": 0.5076975226402283
+      },
+      {
+        "token": "lumens",
+        "sim": 0.4915202260017395
+      },
+      {
+        "token": "ducados",
+        "sim": 0.4892531633377075
+      },
+      {
+        "token": "picocuries",
+        "sim": 0.4869389533996582
+      },
+      {
+        "token": "butterfat",
+        "sim": 0.4826415181159973
+      },
+      {
+        "token": "kg",
+        "sim": 0.478381872177124
+      },
+      {
+        "token": "amperes",
+        "sim": 0.47627267241477966
+      },
+      {
+        "token": "mpc",
+        "sim": 0.47475168108940125
+      },
+      {
+        "token": "kilowatthour",
+        "sim": 0.46813875436782837
+      },
+      {
+        "token": "propellant",
+        "sim": 0.4680211842060089
+      },
+      {
+        "token": "variances",
+        "sim": 0.4647354483604431
+      },
+      {
+        "token": "worths",
+        "sim": 0.46354517340660095
+      },
+      {
+        "token": "ergs",
+        "sim": 0.46207624673843384
+      },
+      {
+        "token": "joule",
+        "sim": 0.45943862199783325
+      },
+      {
+        "token": "leakages",
+        "sim": 0.45624619722366333
+      },
+      {
+        "token": "kilogram",
+        "sim": 0.4549025297164917
+      },
+      {
+        "token": "liters",
+        "sim": 0.454189270734787
+      },
+      {
+        "token": "kwhr",
+        "sim": 0.4463333487510681
+      },
+      {
+        "token": "liter",
+        "sim": 0.4406602680683136
+      },
+      {
+        "token": "multiples",
+        "sim": 0.43564480543136597
+      },
+      {
+        "token": "fractional",
+        "sim": 0.43346157670021057
+      },
+      {
+        "token": "gdp",
+        "sim": 0.4330044388771057
+      },
+      {
+        "token": "denier",
+        "sim": 0.4318716526031494
+      },
+      {
+        "token": "calibres",
+        "sim": 0.42964470386505127
+      },
+      {
+        "token": "str",
+        "sim": 0.4274964928627014
+      },
+      {
+        "token": "compute",
+        "sim": 0.4266975224018097
+      }
+    ],
+    "1": [
+      {
+        "token": "wts",
+        "sim": 0.5076432824134827
+      },
+      {
+        "token": "erdtman",
+        "sim": 0.49018359184265137
+      },
+      {
+        "token": "nh",
+        "sim": 0.4842025637626648
+      },
+      {
+        "token": "cn",
+        "sim": 0.4786851406097412
+      },
+      {
+        "token": "adr",
+        "sim": 0.47553130984306335
+      },
+      {
+        "token": "inds",
+        "sim": 0.469379723072052
+      },
+      {
+        "token": "mn",
+        "sim": 0.4572908282279968
+      },
+      {
+        "token": "ans",
+        "sim": 0.4558672308921814
+      },
+      {
+        "token": "freudenberg",
+        "sim": 0.45583632588386536
+      },
+      {
+        "token": "wt",
+        "sim": 0.4556439518928528
+      },
+      {
+        "token": "ei",
+        "sim": 0.45323610305786133
+      },
+      {
+        "token": "natl",
+        "sim": 0.44594722986221313
+      },
+      {
+        "token": "momigliano",
+        "sim": 0.44023802876472473
+      },
+      {
+        "token": "lelievre",
+        "sim": 0.4381638467311859
+      },
+      {
+        "token": "cygni",
+        "sim": 0.43561166524887085
+      },
+      {
+        "token": "ci",
+        "sim": 0.4327373802661896
+      },
+      {
+        "token": "madler",
+        "sim": 0.43183115124702454
+      },
+      {
+        "token": "chem",
+        "sim": 0.4257332384586334
+      },
+      {
+        "token": "strobus",
+        "sim": 0.4254457652568817
+      }
+    ]
+  }
+}

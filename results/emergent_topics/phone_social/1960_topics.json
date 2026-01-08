@@ -1,0 +1,834 @@
+{
+  "decade": 1960,
+  "concept": "phone_social",
+  "concept_hits": 6,
+  "sub_hits": {
+    "smartphone": 3,
+    "social_media": 3
+  },
+  "topn": 200,
+  "k": 10,
+  "silhouette": 0.05016659200191498,
+  "clusters": {
+    "7": [
+      {
+        "token": "tweet",
+        "sim": 0.6737769842147827
+      },
+      {
+        "token": "montesq",
+        "sim": 0.5311343669891357
+      },
+      {
+        "token": "ktch",
+        "sim": 0.5133697986602783
+      },
+      {
+        "token": "anthr",
+        "sim": 0.5129393339157104
+      },
+      {
+        "token": "babeau",
+        "sim": 0.5018136501312256
+      },
+      {
+        "token": "kickback",
+        "sim": 0.4973507523536682
+      },
+      {
+        "token": "serv",
+        "sim": 0.49202263355255127
+      },
+      {
+        "token": "batman",
+        "sim": 0.49018922448158264
+      },
+      {
+        "token": "ginia",
+        "sim": 0.4865722060203552
+      },
+      {
+        "token": "eadie",
+        "sim": 0.48565608263015747
+      },
+      {
+        "token": "newscasts",
+        "sim": 0.48469021916389465
+      },
+      {
+        "token": "wack",
+        "sim": 0.48311030864715576
+      },
+      {
+        "token": "bc",
+        "sim": 0.47963225841522217
+      },
+      {
+        "token": "strobus",
+        "sim": 0.47921988368034363
+      },
+      {
+        "token": "broadhaven",
+        "sim": 0.4792144298553467
+      },
+      {
+        "token": "persch",
+        "sim": 0.47693905234336853
+      },
+      {
+        "token": "delkoff",
+        "sim": 0.475750207901001
+      },
+      {
+        "token": "eacute",
+        "sim": 0.4724237024784088
+      }
+    ],
+    "8": [
+      {
+        "token": "twitter",
+        "sim": 0.6193314790725708
+      },
+      {
+        "token": "palada",
+        "sim": 0.5377477407455444
+      },
+      {
+        "token": "buly",
+        "sim": 0.5119529366493225
+      },
+      {
+        "token": "nevison",
+        "sim": 0.49925991892814636
+      },
+      {
+        "token": "sarie",
+        "sim": 0.4899361729621887
+      },
+      {
+        "token": "parcival",
+        "sim": 0.48777735233306885
+      },
+      {
+        "token": "dilsey",
+        "sim": 0.4870675206184387
+      },
+      {
+        "token": "tamson",
+        "sim": 0.4832576811313629
+      },
+      {
+        "token": "lowwood",
+        "sim": 0.48296910524368286
+      },
+      {
+        "token": "shaggam",
+        "sim": 0.4815150797367096
+      },
+      {
+        "token": "splain",
+        "sim": 0.47902387380599976
+      },
+      {
+        "token": "melcher",
+        "sim": 0.47719115018844604
+      },
+      {
+        "token": "gummidge",
+        "sim": 0.47465261816978455
+      },
+      {
+        "token": "meakin",
+        "sim": 0.47394564747810364
+      },
+      {
+        "token": "caruthers",
+        "sim": 0.47120121121406555
+      },
+      {
+        "token": "kewaukee",
+        "sim": 0.471005916595459
+      }
+    ],
+    "3": [
+      {
+        "token": "phone",
+        "sim": 0.5861514210700989
+      },
+      {
+        "token": "buzzes",
+        "sim": 0.5785210132598877
+      },
+      {
+        "token": "vanderhof",
+        "sim": 0.5688936114311218
+      },
+      {
+        "token": "dedman",
+        "sim": 0.5451735854148865
+      },
+      {
+        "token": "durkee",
+        "sim": 0.5375126004219055
+      },
+      {
+        "token": "wimmer",
+        "sim": 0.528163492679596
+      },
+      {
+        "token": "piggott",
+        "sim": 0.5260345935821533
+      },
+      {
+        "token": "schlaegel",
+        "sim": 0.5091651082038879
+      },
+      {
+        "token": "telephone",
+        "sim": 0.5025984644889832
+      },
+      {
+        "token": "dialing",
+        "sim": 0.49788159132003784
+      },
+      {
+        "token": "whitacre",
+        "sim": 0.49196597933769226
+      },
+      {
+        "token": "laibowitz",
+        "sim": 0.490423321723938
+      },
+      {
+        "token": "rutkowski",
+        "sim": 0.49037861824035645
+      },
+      {
+        "token": "lorrison",
+        "sim": 0.49036139249801636
+      },
+      {
+        "token": "chinky",
+        "sim": 0.48968827724456787
+      },
+      {
+        "token": "hartwell",
+        "sim": 0.4888213872909546
+      },
+      {
+        "token": "mccleery",
+        "sim": 0.4877023696899414
+      },
+      {
+        "token": "hendrickson",
+        "sim": 0.4862514138221741
+      },
+      {
+        "token": "lowery",
+        "sim": 0.48564857244491577
+      },
+      {
+        "token": "lieberman",
+        "sim": 0.4850185513496399
+      },
+      {
+        "token": "brinsley",
+        "sim": 0.48304951190948486
+      },
+      {
+        "token": "moneypenny",
+        "sim": 0.4830039441585541
+      },
+      {
+        "token": "dictograph",
+        "sim": 0.4825279116630554
+      },
+      {
+        "token": "robair",
+        "sim": 0.48199450969696045
+      },
+      {
+        "token": "scowls",
+        "sim": 0.48083698749542236
+      },
+      {
+        "token": "waynfleet",
+        "sim": 0.4801362156867981
+      },
+      {
+        "token": "cardell",
+        "sim": 0.4782446026802063
+      },
+      {
+        "token": "weissberg",
+        "sim": 0.47785574197769165
+      },
+      {
+        "token": "sidensticker",
+        "sim": 0.47744932770729065
+      },
+      {
+        "token": "kiosk",
+        "sim": 0.47681182622909546
+      },
+      {
+        "token": "intercom",
+        "sim": 0.47261667251586914
+      },
+      {
+        "token": "marcasson",
+        "sim": 0.4724014103412628
+      }
+    ],
+    "0": [
+      {
+        "token": "thornhillyes",
+        "sim": 0.569365382194519
+      },
+      {
+        "token": "lolitaoh",
+        "sim": 0.5453916788101196
+      },
+      {
+        "token": "feelie",
+        "sim": 0.5301048755645752
+      },
+      {
+        "token": "humbertwhat",
+        "sim": 0.5247116684913635
+      },
+      {
+        "token": "thornhilloh",
+        "sim": 0.515526294708252
+      },
+      {
+        "token": "sinjie",
+        "sim": 0.5123785138130188
+      },
+      {
+        "token": "peterwhat",
+        "sim": 0.509053647518158
+      },
+      {
+        "token": "thornhillwell",
+        "sim": 0.5027256608009338
+      },
+      {
+        "token": "mellie",
+        "sim": 0.49633175134658813
+      },
+      {
+        "token": "andersoni",
+        "sim": 0.4954797625541687
+      },
+      {
+        "token": "thankyou",
+        "sim": 0.49478113651275635
+      },
+      {
+        "token": "patouwhat",
+        "sim": 0.49359142780303955
+      },
+      {
+        "token": "patouyou",
+        "sim": 0.4930327534675598
+      },
+      {
+        "token": "patwhat",
+        "sim": 0.48841044306755066
+      },
+      {
+        "token": "lollypop",
+        "sim": 0.4870339035987854
+      },
+      {
+        "token": "cantrick",
+        "sim": 0.4852573275566101
+      },
+      {
+        "token": "humbertyou",
+        "sim": 0.48416173458099365
+      },
+      {
+        "token": "voiceand",
+        "sim": 0.48305004835128784
+      },
+      {
+        "token": "iggy",
+        "sim": 0.48153752088546753
+      },
+      {
+        "token": "eddiewhat",
+        "sim": 0.47932496666908264
+      },
+      {
+        "token": "wilchick",
+        "sim": 0.47852522134780884
+      },
+      {
+        "token": "lesteri",
+        "sim": 0.4782629609107971
+      },
+      {
+        "token": "paulwell",
+        "sim": 0.4775713086128235
+      },
+      {
+        "token": "dianei",
+        "sim": 0.4771532714366913
+      },
+      {
+        "token": "tisdale",
+        "sim": 0.47611141204833984
+      },
+      {
+        "token": "lolitai",
+        "sim": 0.4748099446296692
+      },
+      {
+        "token": "mikei",
+        "sim": 0.47320276498794556
+      },
+      {
+        "token": "margoi",
+        "sim": 0.47208279371261597
+      },
+      {
+        "token": "satz",
+        "sim": 0.4717845916748047
+      },
+      {
+        "token": "tassie",
+        "sim": 0.4714486598968506
+      }
+    ],
+    "1": [
+      {
+        "token": "claris",
+        "sim": 0.5406503677368164
+      },
+      {
+        "token": "dotty",
+        "sim": 0.5284367799758911
+      },
+      {
+        "token": "ruta",
+        "sim": 0.521206259727478
+      },
+      {
+        "token": "ecomcon",
+        "sim": 0.5175828337669373
+      },
+      {
+        "token": "skirov",
+        "sim": 0.5053669214248657
+      },
+      {
+        "token": "rosaleen",
+        "sim": 0.49946311116218567
+      },
+      {
+        "token": "manuelo",
+        "sim": 0.4971879720687866
+      },
+      {
+        "token": "aminta",
+        "sim": 0.49582505226135254
+      },
+      {
+        "token": "widdy",
+        "sim": 0.4925723075866699
+      },
+      {
+        "token": "sneaders",
+        "sim": 0.49141234159469604
+      },
+      {
+        "token": "ragland",
+        "sim": 0.488790363073349
+      },
+      {
+        "token": "shhh",
+        "sim": 0.4881736934185028
+      },
+      {
+        "token": "momps",
+        "sim": 0.4870516061782837
+      },
+      {
+        "token": "petesy",
+        "sim": 0.485779345035553
+      },
+      {
+        "token": "tchip",
+        "sim": 0.4854322671890259
+      },
+      {
+        "token": "winstein",
+        "sim": 0.48470640182495117
+      },
+      {
+        "token": "tabib",
+        "sim": 0.48403510451316833
+      },
+      {
+        "token": "dienst",
+        "sim": 0.48359978199005127
+      },
+      {
+        "token": "nicknames",
+        "sim": 0.4831952452659607
+      },
+      {
+        "token": "wealthia",
+        "sim": 0.4818340241909027
+      },
+      {
+        "token": "crud",
+        "sim": 0.481261283159256
+      },
+      {
+        "token": "hendy",
+        "sim": 0.4809030592441559
+      },
+      {
+        "token": "bullshit",
+        "sim": 0.47996649146080017
+      },
+      {
+        "token": "nostrander",
+        "sim": 0.47979864478111267
+      },
+      {
+        "token": "bissle",
+        "sim": 0.4768725633621216
+      },
+      {
+        "token": "belavista",
+        "sim": 0.4768120348453522
+      },
+      {
+        "token": "sugarman",
+        "sim": 0.47620123624801636
+      },
+      {
+        "token": "demetra",
+        "sim": 0.47442272305488586
+      },
+      {
+        "token": "romana",
+        "sim": 0.473138689994812
+      },
+      {
+        "token": "moonbloom",
+        "sim": 0.4725710153579712
+      },
+      {
+        "token": "faggot",
+        "sim": 0.471691370010376
+      },
+      {
+        "token": "conversationally",
+        "sim": 0.4716595411300659
+      },
+      {
+        "token": "caseworker",
+        "sim": 0.4716159701347351
+      },
+      {
+        "token": "malinda",
+        "sim": 0.4710889160633087
+      },
+      {
+        "token": "grahams",
+        "sim": 0.47082048654556274
+      },
+      {
+        "token": "wintertree",
+        "sim": 0.47047728300094604
+      }
+    ],
+    "2": [
+      {
+        "token": "apers",
+        "sim": 0.5383920073509216
+      },
+      {
+        "token": "app",
+        "sim": 0.5358235836029053
+      },
+      {
+        "token": "hinnery",
+        "sim": 0.5150907039642334
+      },
+      {
+        "token": "sinit",
+        "sim": 0.5053291320800781
+      },
+      {
+        "token": "anm",
+        "sim": 0.5010988116264343
+      },
+      {
+        "token": "clowdy",
+        "sim": 0.500176191329956
+      },
+      {
+        "token": "coort",
+        "sim": 0.4925749897956848
+      },
+      {
+        "token": "sinitor",
+        "sim": 0.4830865263938904
+      },
+      {
+        "token": "hyah",
+        "sim": 0.48297902941703796
+      },
+      {
+        "token": "frind",
+        "sim": 0.4818052053451538
+      },
+      {
+        "token": "throuble",
+        "sim": 0.4777052402496338
+      }
+    ],
+    "4": [
+      {
+        "token": "johnniewhat",
+        "sim": 0.5268921256065369
+      },
+      {
+        "token": "adamwhat",
+        "sim": 0.5126275420188904
+      },
+      {
+        "token": "melquist",
+        "sim": 0.5097368359565735
+      },
+      {
+        "token": "symanthia",
+        "sim": 0.5071080327033997
+      },
+      {
+        "token": "bradleywhat",
+        "sim": 0.5060642957687378
+      },
+      {
+        "token": "mascarenayou",
+        "sim": 0.5058712363243103
+      },
+      {
+        "token": "adami",
+        "sim": 0.4966389238834381
+      },
+      {
+        "token": "lill",
+        "sim": 0.4903218746185303
+      },
+      {
+        "token": "claytonwell",
+        "sim": 0.4899786114692688
+      },
+      {
+        "token": "wyley",
+        "sim": 0.4898753762245178
+      },
+      {
+        "token": "johnniei",
+        "sim": 0.48972606658935547
+      },
+      {
+        "token": "strumm",
+        "sim": 0.4896036386489868
+      },
+      {
+        "token": "zosh",
+        "sim": 0.4870849549770355
+      },
+      {
+        "token": "tonii",
+        "sim": 0.4863232970237732
+      },
+      {
+        "token": "royi",
+        "sim": 0.484814316034317
+      },
+      {
+        "token": "claytonoh",
+        "sim": 0.48295286297798157
+      },
+      {
+        "token": "kriven",
+        "sim": 0.48291701078414917
+      },
+      {
+        "token": "milleri",
+        "sim": 0.4807734489440918
+      },
+      {
+        "token": "bordenoh",
+        "sim": 0.4798222780227661
+      },
+      {
+        "token": "susani",
+        "sim": 0.4776036739349365
+      },
+      {
+        "token": "jesseoh",
+        "sim": 0.47677871584892273
+      },
+      {
+        "token": "marthai",
+        "sim": 0.47393396496772766
+      },
+      {
+        "token": "greyyou",
+        "sim": 0.47215405106544495
+      },
+      {
+        "token": "ludus",
+        "sim": 0.47052857279777527
+      }
+    ],
+    "5": [
+      {
+        "token": "yoo",
+        "sim": 0.5239347815513611
+      },
+      {
+        "token": "perna",
+        "sim": 0.5212756395339966
+      },
+      {
+        "token": "giulietta",
+        "sim": 0.4962695837020874
+      },
+      {
+        "token": "schmuck",
+        "sim": 0.49237561225891113
+      },
+      {
+        "token": "lomax",
+        "sim": 0.48527881503105164
+      },
+      {
+        "token": "sportswriter",
+        "sim": 0.4851873815059662
+      },
+      {
+        "token": "lonborg",
+        "sim": 0.47382354736328125
+      },
+      {
+        "token": "christoph",
+        "sim": 0.47151675820350647
+      }
+    ],
+    "9": [
+      {
+        "token": "footsy",
+        "sim": 0.5111778378486633
+      },
+      {
+        "token": "halzer",
+        "sim": 0.5104885697364807
+      },
+      {
+        "token": "sokal",
+        "sim": 0.5101883411407471
+      },
+      {
+        "token": "skeeny",
+        "sim": 0.5097019672393799
+      },
+      {
+        "token": "stefanowski",
+        "sim": 0.5086802840232849
+      },
+      {
+        "token": "slingshot",
+        "sim": 0.5045087337493896
+      },
+      {
+        "token": "doriett",
+        "sim": 0.5030621886253357
+      },
+      {
+        "token": "bundra",
+        "sim": 0.5017834901809692
+      },
+      {
+        "token": "hoban",
+        "sim": 0.4995902180671692
+      },
+      {
+        "token": "flutters",
+        "sim": 0.49723580479621887
+      },
+      {
+        "token": "radarscope",
+        "sim": 0.49650123715400696
+      },
+      {
+        "token": "ukulele",
+        "sim": 0.49013733863830566
+      },
+      {
+        "token": "coady",
+        "sim": 0.4852752983570099
+      },
+      {
+        "token": "howey",
+        "sim": 0.4846115708351135
+      },
+      {
+        "token": "melia",
+        "sim": 0.48400992155075073
+      },
+      {
+        "token": "westerfield",
+        "sim": 0.47989335656166077
+      },
+      {
+        "token": "gy",
+        "sim": 0.47972482442855835
+      },
+      {
+        "token": "tummy",
+        "sim": 0.4760475158691406
+      },
+      {
+        "token": "roxie",
+        "sim": 0.4748900532722473
+      },
+      {
+        "token": "schwiefka",
+        "sim": 0.4747565686702728
+      },
+      {
+        "token": "chopsticks",
+        "sim": 0.4732738733291626
+      },
+      {
+        "token": "sipperly",
+        "sim": 0.47311511635780334
+      },
+      {
+        "token": "boola",
+        "sim": 0.4724756181240082
+      }
+    ],
+    "6": [
+      {
+        "token": "cetery",
+        "sim": 0.5027111768722534
+      },
+      {
+        "token": "enterococci",
+        "sim": 0.4747566878795624
+      }
+    ]
+  }
+}

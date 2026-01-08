@@ -1,0 +1,829 @@
+{
+  "decade": 1980,
+  "concept": "gmo",
+  "concept_hits": 4,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 9,
+  "silhouette": 0.07023672759532928,
+  "clusters": {
+    "6": [
+      {
+        "token": "recombinant",
+        "sim": 0.8195077180862427
+      },
+      {
+        "token": "interferon",
+        "sim": 0.6506173014640808
+      },
+      {
+        "token": "poliovirus",
+        "sim": 0.6071821451187134
+      },
+      {
+        "token": "genetically",
+        "sim": 0.6070063710212708
+      },
+      {
+        "token": "transplantation",
+        "sim": 0.6016649007797241
+      },
+      {
+        "token": "vitro",
+        "sim": 0.5989056825637817
+      },
+      {
+        "token": "hiv",
+        "sim": 0.5972627401351929
+      },
+      {
+        "token": "anthrax",
+        "sim": 0.591416597366333
+      },
+      {
+        "token": "bacterium",
+        "sim": 0.5794539451599121
+      },
+      {
+        "token": "immunological",
+        "sim": 0.5762355923652649
+      },
+      {
+        "token": "dna",
+        "sim": 0.5700414180755615
+      },
+      {
+        "token": "microbiological",
+        "sim": 0.56644207239151
+      },
+      {
+        "token": "botulism",
+        "sim": 0.5661201477050781
+      },
+      {
+        "token": "periodontal",
+        "sim": 0.5658485889434814
+      },
+      {
+        "token": "ionizing",
+        "sim": 0.5606077313423157
+      },
+      {
+        "token": "vaccines",
+        "sim": 0.5580249428749084
+      },
+      {
+        "token": "diabetics",
+        "sim": 0.5564983487129211
+      },
+      {
+        "token": "carcinogenic",
+        "sim": 0.5521606206893921
+      },
+      {
+        "token": "toxins",
+        "sim": 0.5515912175178528
+      },
+      {
+        "token": "pathogenic",
+        "sim": 0.5491957068443298
+      },
+      {
+        "token": "azt",
+        "sim": 0.5469344258308411
+      },
+      {
+        "token": "mellitus",
+        "sim": 0.545036792755127
+      },
+      {
+        "token": "genetic",
+        "sim": 0.5449506044387817
+      },
+      {
+        "token": "toxicity",
+        "sim": 0.5363155603408813
+      },
+      {
+        "token": "therapies",
+        "sim": 0.5337796211242676
+      },
+      {
+        "token": "bacteriological",
+        "sim": 0.5326986312866211
+      },
+      {
+        "token": "simplex",
+        "sim": 0.5314412713050842
+      },
+      {
+        "token": "std",
+        "sim": 0.5286269783973694
+      },
+      {
+        "token": "myasthenia",
+        "sim": 0.5265163779258728
+      },
+      {
+        "token": "pasteurization",
+        "sim": 0.5263288617134094
+      },
+      {
+        "token": "gallstones",
+        "sim": 0.5262193083763123
+      },
+      {
+        "token": "nitrites",
+        "sim": 0.5258427858352661
+      },
+      {
+        "token": "steroid",
+        "sim": 0.5258180499076843
+      },
+      {
+        "token": "pcbs",
+        "sim": 0.5254930257797241
+      },
+      {
+        "token": "hodgkin",
+        "sim": 0.5238527655601501
+      },
+      {
+        "token": "dioxin",
+        "sim": 0.5220081806182861
+      },
+      {
+        "token": "programed",
+        "sim": 0.521984338760376
+      },
+      {
+        "token": "rlf",
+        "sim": 0.5218443274497986
+      }
+    ],
+    "5": [
+      {
+        "token": "genetics",
+        "sim": 0.7699717283248901
+      },
+      {
+        "token": "biochemistry",
+        "sim": 0.609443187713623
+      },
+      {
+        "token": "bacteriology",
+        "sim": 0.5845540761947632
+      },
+      {
+        "token": "molecular",
+        "sim": 0.5733968019485474
+      },
+      {
+        "token": "biology",
+        "sim": 0.5368161201477051
+      },
+      {
+        "token": "meteorology",
+        "sim": 0.5357057452201843
+      },
+      {
+        "token": "laboratory",
+        "sim": 0.5335867404937744
+      },
+      {
+        "token": "physiology",
+        "sim": 0.5309456586837769
+      }
+    ],
+    "8": [
+      {
+        "token": "biotechnology",
+        "sim": 0.764642059803009
+      },
+      {
+        "token": "pretechnology",
+        "sim": 0.6672875881195068
+      },
+      {
+        "token": "varietal",
+        "sim": 0.658490777015686
+      },
+      {
+        "token": "database",
+        "sim": 0.6418300867080688
+      },
+      {
+        "token": "collaborative",
+        "sim": 0.611649751663208
+      },
+      {
+        "token": "interdisciplinary",
+        "sim": 0.6073102355003357
+      },
+      {
+        "token": "intsormil",
+        "sim": 0.598175585269928
+      },
+      {
+        "token": "research",
+        "sim": 0.5969423651695251
+      },
+      {
+        "token": "fsr",
+        "sim": 0.5943787097930908
+      },
+      {
+        "token": "coproduction",
+        "sim": 0.5820156335830688
+      },
+      {
+        "token": "devel",
+        "sim": 0.5816019773483276
+      },
+      {
+        "token": "commercialization",
+        "sim": 0.5784062147140503
+      },
+      {
+        "token": "nsf",
+        "sim": 0.5704216361045837
+      },
+      {
+        "token": "motivational",
+        "sim": 0.5644404888153076
+      },
+      {
+        "token": "grassroots",
+        "sim": 0.5582355260848999
+      },
+      {
+        "token": "saes",
+        "sim": 0.5528116822242737
+      },
+      {
+        "token": "agribusiness",
+        "sim": 0.549494743347168
+      },
+      {
+        "token": "clausius",
+        "sim": 0.5456216931343079
+      },
+      {
+        "token": "tq",
+        "sim": 0.5444275140762329
+      },
+      {
+        "token": "lorentz",
+        "sim": 0.5432636737823486
+      },
+      {
+        "token": "abbreviation",
+        "sim": 0.5425474047660828
+      },
+      {
+        "token": "carnot",
+        "sim": 0.5370180010795593
+      },
+      {
+        "token": "productivist",
+        "sim": 0.5360773801803589
+      },
+      {
+        "token": "momigliano",
+        "sim": 0.5326380729675293
+      },
+      {
+        "token": "longrange",
+        "sim": 0.5315687656402588
+      },
+      {
+        "token": "tutorial",
+        "sim": 0.5315555930137634
+      },
+      {
+        "token": "geophysical",
+        "sim": 0.5303559303283691
+      },
+      {
+        "token": "deterministic",
+        "sim": 0.5275689959526062
+      },
+      {
+        "token": "protocols",
+        "sim": 0.5274155735969543
+      },
+      {
+        "token": "development",
+        "sim": 0.5267840623855591
+      },
+      {
+        "token": "naihs",
+        "sim": 0.5257533192634583
+      },
+      {
+        "token": "scanzoni",
+        "sim": 0.5244882702827454
+      },
+      {
+        "token": "computerization",
+        "sim": 0.5237559676170349
+      },
+      {
+        "token": "esp",
+        "sim": 0.5212690830230713
+      }
+    ],
+    "7": [
+      {
+        "token": "cloning",
+        "sim": 0.6934452056884766
+      },
+      {
+        "token": "engineered",
+        "sim": 0.6476167440414429
+      },
+      {
+        "token": "simulations",
+        "sim": 0.6338533163070679
+      },
+      {
+        "token": "accelerators",
+        "sim": 0.6150740385055542
+      },
+      {
+        "token": "herbicides",
+        "sim": 0.5943840146064758
+      },
+      {
+        "token": "imaging",
+        "sim": 0.5863854289054871
+      },
+      {
+        "token": "microchip",
+        "sim": 0.585919976234436
+      },
+      {
+        "token": "lampmaking",
+        "sim": 0.5846357345581055
+      },
+      {
+        "token": "unproven",
+        "sim": 0.5774132013320923
+      },
+      {
+        "token": "supercomputers",
+        "sim": 0.5767410397529602
+      },
+      {
+        "token": "microcomputers",
+        "sim": 0.5738957524299622
+      },
+      {
+        "token": "videodisc",
+        "sim": 0.5702517032623291
+      },
+      {
+        "token": "replicate",
+        "sim": 0.5693460702896118
+      },
+      {
+        "token": "proliferated",
+        "sim": 0.5668512582778931
+      },
+      {
+        "token": "adaptive",
+        "sim": 0.5657203197479248
+      },
+      {
+        "token": "breakthroughs",
+        "sim": 0.563506543636322
+      },
+      {
+        "token": "hackers",
+        "sim": 0.5618125200271606
+      },
+      {
+        "token": "metallurgy",
+        "sim": 0.559609591960907
+      },
+      {
+        "token": "technologists",
+        "sim": 0.5474909543991089
+      },
+      {
+        "token": "redesign",
+        "sim": 0.5454307794570923
+      },
+      {
+        "token": "technology",
+        "sim": 0.5417462587356567
+      },
+      {
+        "token": "microchips",
+        "sim": 0.5387334823608398
+      },
+      {
+        "token": "redesigned",
+        "sim": 0.5375951528549194
+      },
+      {
+        "token": "ecologically",
+        "sim": 0.5338224768638611
+      },
+      {
+        "token": "countermeasures",
+        "sim": 0.5327449440956116
+      },
+      {
+        "token": "technics",
+        "sim": 0.5315167903900146
+      },
+      {
+        "token": "metalworking",
+        "sim": 0.5284690856933594
+      },
+      {
+        "token": "coding",
+        "sim": 0.5254986882209778
+      },
+      {
+        "token": "developed",
+        "sim": 0.5247586369514465
+      },
+      {
+        "token": "subcontracting",
+        "sim": 0.5240004062652588
+      },
+      {
+        "token": "interface",
+        "sim": 0.5222059488296509
+      }
+    ],
+    "4": [
+      {
+        "token": "biomedical",
+        "sim": 0.6702131628990173
+      },
+      {
+        "token": "fermilab",
+        "sim": 0.6189649701118469
+      },
+      {
+        "token": "geneticist",
+        "sim": 0.6040867567062378
+      },
+      {
+        "token": "rifkin",
+        "sim": 0.5902016758918762
+      },
+      {
+        "token": "nutritionist",
+        "sim": 0.5765316486358643
+      },
+      {
+        "token": "phd",
+        "sim": 0.5596568584442139
+      },
+      {
+        "token": "benacerraf",
+        "sim": 0.5521024465560913
+      },
+      {
+        "token": "osrd",
+        "sim": 0.5511681437492371
+      },
+      {
+        "token": "physiologist",
+        "sim": 0.548103928565979
+      },
+      {
+        "token": "charcot",
+        "sim": 0.5453850030899048
+      },
+      {
+        "token": "pediatrics",
+        "sim": 0.541923999786377
+      },
+      {
+        "token": "kulpe",
+        "sim": 0.5403009653091431
+      },
+      {
+        "token": "majoring",
+        "sim": 0.5332129001617432
+      },
+      {
+        "token": "krebs",
+        "sim": 0.5325785875320435
+      },
+      {
+        "token": "scholz",
+        "sim": 0.5321745872497559
+      },
+      {
+        "token": "soddy",
+        "sim": 0.5321376323699951
+      },
+      {
+        "token": "researching",
+        "sim": 0.5292574167251587
+      },
+      {
+        "token": "kettering",
+        "sim": 0.5277303457260132
+      },
+      {
+        "token": "astronautics",
+        "sim": 0.5255861282348633
+      },
+      {
+        "token": "wasserman",
+        "sim": 0.5234473347663879
+      },
+      {
+        "token": "pioneered",
+        "sim": 0.5213439464569092
+      }
+    ],
+    "3": [
+      {
+        "token": "radiological",
+        "sim": 0.6324087977409363
+      },
+      {
+        "token": "immunology",
+        "sim": 0.6176446080207825
+      },
+      {
+        "token": "nci",
+        "sim": 0.5961461663246155
+      },
+      {
+        "token": "ecologists",
+        "sim": 0.5666303634643555
+      },
+      {
+        "token": "pacemaker",
+        "sim": 0.5632394552230835
+      },
+      {
+        "token": "jarvik",
+        "sim": 0.5549231171607971
+      },
+      {
+        "token": "baikalsk",
+        "sim": 0.5531312227249146
+      },
+      {
+        "token": "orthomolecular",
+        "sim": 0.5498052835464478
+      },
+      {
+        "token": "geneticists",
+        "sim": 0.5493408441543579
+      },
+      {
+        "token": "becquerel",
+        "sim": 0.5416836738586426
+      },
+      {
+        "token": "eugenics",
+        "sim": 0.5404053926467896
+      },
+      {
+        "token": "sartorius",
+        "sim": 0.5341764688491821
+      },
+      {
+        "token": "institutes",
+        "sim": 0.5287647247314453
+      },
+      {
+        "token": "langmuir",
+        "sim": 0.5257149934768677
+      },
+      {
+        "token": "dentistry",
+        "sim": 0.5240161418914795
+      },
+      {
+        "token": "phs",
+        "sim": 0.5233101844787598
+      }
+    ],
+    "2": [
+      {
+        "token": "robotics",
+        "sim": 0.6210308074951172
+      },
+      {
+        "token": "supercomputer",
+        "sim": 0.6022289395332336
+      },
+      {
+        "token": "microcomputer",
+        "sim": 0.6001185774803162
+      },
+      {
+        "token": "mainframe",
+        "sim": 0.5919008851051331
+      },
+      {
+        "token": "helionetics",
+        "sim": 0.578361451625824
+      },
+      {
+        "token": "agro",
+        "sim": 0.5737800598144531
+      },
+      {
+        "token": "pharmaceuticals",
+        "sim": 0.5695677995681763
+      },
+      {
+        "token": "revamping",
+        "sim": 0.5677732229232788
+      },
+      {
+        "token": "kraftco",
+        "sim": 0.5591013431549072
+      },
+      {
+        "token": "lyphomed",
+        "sim": 0.5500215291976929
+      },
+      {
+        "token": "overseen",
+        "sim": 0.5496275424957275
+      },
+      {
+        "token": "searle",
+        "sim": 0.5387358665466309
+      },
+      {
+        "token": "compaq",
+        "sim": 0.5385175347328186
+      },
+      {
+        "token": "wts",
+        "sim": 0.5371444225311279
+      },
+      {
+        "token": "cray",
+        "sim": 0.5309593677520752
+      },
+      {
+        "token": "inductoheat",
+        "sim": 0.5303974747657776
+      },
+      {
+        "token": "mitsubishi",
+        "sim": 0.5262950658798218
+      },
+      {
+        "token": "litton",
+        "sim": 0.5257395505905151
+      }
+    ],
+    "1": [
+      {
+        "token": "nucleic",
+        "sim": 0.6020259857177734
+      },
+      {
+        "token": "biochemical",
+        "sim": 0.5936890840530396
+      },
+      {
+        "token": "auxins",
+        "sim": 0.5913474559783936
+      },
+      {
+        "token": "dieldrin",
+        "sim": 0.5677013993263245
+      },
+      {
+        "token": "cesium",
+        "sim": 0.5676472187042236
+      },
+      {
+        "token": "luteum",
+        "sim": 0.5610203146934509
+      },
+      {
+        "token": "folic",
+        "sim": 0.5537449717521667
+      },
+      {
+        "token": "corpora",
+        "sim": 0.5509177446365356
+      },
+      {
+        "token": "morphological",
+        "sim": 0.5449010133743286
+      },
+      {
+        "token": "catalysts",
+        "sim": 0.5445047616958618
+      },
+      {
+        "token": "lactic",
+        "sim": 0.543715238571167
+      },
+      {
+        "token": "serotonin",
+        "sim": 0.540902853012085
+      },
+      {
+        "token": "uptake",
+        "sim": 0.5407171249389648
+      },
+      {
+        "token": "ethanolysis",
+        "sim": 0.5401303172111511
+      },
+      {
+        "token": "clostridium",
+        "sim": 0.5390422344207764
+      },
+      {
+        "token": "diploid",
+        "sim": 0.5382403135299683
+      },
+      {
+        "token": "selaginella",
+        "sim": 0.5366646647453308
+      },
+      {
+        "token": "senescence",
+        "sim": 0.535161554813385
+      },
+      {
+        "token": "enterococci",
+        "sim": 0.5332602858543396
+      },
+      {
+        "token": "progesterone",
+        "sim": 0.5323593616485596
+      },
+      {
+        "token": "rumen",
+        "sim": 0.5314151048660278
+      },
+      {
+        "token": "staphylococcus",
+        "sim": 0.5311014652252197
+      },
+      {
+        "token": "effluent",
+        "sim": 0.5302183032035828
+      },
+      {
+        "token": "ase",
+        "sim": 0.5281374454498291
+      },
+      {
+        "token": "gompertz",
+        "sim": 0.5278858542442322
+      },
+      {
+        "token": "phenylpropane",
+        "sim": 0.5268060564994812
+      },
+      {
+        "token": "pineal",
+        "sim": 0.5264478921890259
+      },
+      {
+        "token": "chemotherapeutic",
+        "sim": 0.5259210467338562
+      },
+      {
+        "token": "streptococci",
+        "sim": 0.5258605480194092
+      },
+      {
+        "token": "uric",
+        "sim": 0.5236011147499084
+      },
+      {
+        "token": "sulfonation",
+        "sim": 0.5232704877853394
+      },
+      {
+        "token": "aureus",
+        "sim": 0.5229833722114563
+      },
+      {
+        "token": "antheridia",
+        "sim": 0.5223920345306396
+      }
+    ],
+    "0": [
+      {
+        "token": "argyrol",
+        "sim": 0.5294010043144226
+      }
+    ]
+  }
+}

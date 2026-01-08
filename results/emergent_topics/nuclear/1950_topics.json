@@ -1,0 +1,829 @@
+{
+  "decade": 1950,
+  "concept": "nuclear",
+  "concept_hits": 11,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 9,
+  "silhouette": 0.07901768386363983,
+  "clusters": {
+    "5": [
+      {
+        "token": "nuclear",
+        "sim": 0.7890889644622803
+      },
+      {
+        "token": "atomic",
+        "sim": 0.7795655727386475
+      },
+      {
+        "token": "thermonuclear",
+        "sim": 0.7312103509902954
+      },
+      {
+        "token": "hydrogen",
+        "sim": 0.7226644158363342
+      },
+      {
+        "token": "bomb",
+        "sim": 0.7157695889472961
+      },
+      {
+        "token": "atom",
+        "sim": 0.6643783450126648
+      },
+      {
+        "token": "weapons",
+        "sim": 0.6490746736526489
+      },
+      {
+        "token": "energy",
+        "sim": 0.581009566783905
+      },
+      {
+        "token": "aec",
+        "sim": 0.5431647896766663
+      }
+    ],
+    "3": [
+      {
+        "token": "warhead",
+        "sim": 0.7731112241744995
+      },
+      {
+        "token": "fallout",
+        "sim": 0.7466562390327454
+      },
+      {
+        "token": "megaton",
+        "sim": 0.7172300815582275
+      },
+      {
+        "token": "intercontinental",
+        "sim": 0.6626193523406982
+      },
+      {
+        "token": "icbm",
+        "sim": 0.6541222333908081
+      },
+      {
+        "token": "detonated",
+        "sim": 0.6533933877944946
+      },
+      {
+        "token": "fireball",
+        "sim": 0.6126754283905029
+      },
+      {
+        "token": "ballistic",
+        "sim": 0.6034728288650513
+      },
+      {
+        "token": "bombs",
+        "sim": 0.5968877077102661
+      },
+      {
+        "token": "redstone",
+        "sim": 0.5877818465232849
+      },
+      {
+        "token": "eniwetok",
+        "sim": 0.5870085954666138
+      },
+      {
+        "token": "probes",
+        "sim": 0.5794889330863953
+      },
+      {
+        "token": "detonation",
+        "sim": 0.5783693790435791
+      },
+      {
+        "token": "missiles",
+        "sim": 0.5713165402412415
+      },
+      {
+        "token": "payload",
+        "sim": 0.5704683065414429
+      },
+      {
+        "token": "accumulators",
+        "sim": 0.5694083571434021
+      },
+      {
+        "token": "missile",
+        "sim": 0.5656890869140625
+      },
+      {
+        "token": "sputniks",
+        "sim": 0.5656704902648926
+      },
+      {
+        "token": "orbiting",
+        "sim": 0.5586024522781372
+      },
+      {
+        "token": "rocket",
+        "sim": 0.5511959791183472
+      },
+      {
+        "token": "explosions",
+        "sim": 0.5476707816123962
+      },
+      {
+        "token": "weapon",
+        "sim": 0.5437732934951782
+      },
+      {
+        "token": "incendiaries",
+        "sim": 0.539247989654541
+      },
+      {
+        "token": "explosion",
+        "sim": 0.5340116620063782
+      },
+      {
+        "token": "incendiary",
+        "sim": 0.5264496207237244
+      },
+      {
+        "token": "hiroshima",
+        "sim": 0.5244703888893127
+      },
+      {
+        "token": "nagasaki",
+        "sim": 0.5075421333312988
+      },
+      {
+        "token": "buna",
+        "sim": 0.5065214037895203
+      },
+      {
+        "token": "bazooka",
+        "sim": 0.506467342376709
+      }
+    ],
+    "7": [
+      {
+        "token": "plutonium",
+        "sim": 0.7603377103805542
+      },
+      {
+        "token": "radioactive",
+        "sim": 0.7258932590484619
+      },
+      {
+        "token": "reactor",
+        "sim": 0.7218067646026611
+      },
+      {
+        "token": "fissionable",
+        "sim": 0.7137330174446106
+      },
+      {
+        "token": "fission",
+        "sim": 0.7090646624565125
+      },
+      {
+        "token": "thorium",
+        "sim": 0.7018396854400635
+      },
+      {
+        "token": "uranium",
+        "sim": 0.6977307796478271
+      },
+      {
+        "token": "isotope",
+        "sim": 0.692169189453125
+      },
+      {
+        "token": "reactors",
+        "sim": 0.6665094494819641
+      },
+      {
+        "token": "stockpile",
+        "sim": 0.6335784196853638
+      },
+      {
+        "token": "tnt",
+        "sim": 0.6201038360595703
+      },
+      {
+        "token": "kilograms",
+        "sim": 0.6178012490272522
+      },
+      {
+        "token": "kilowatts",
+        "sim": 0.5487024188041687
+      },
+      {
+        "token": "fuel",
+        "sim": 0.5379014015197754
+      },
+      {
+        "token": "kilogram",
+        "sim": 0.5285919904708862
+      },
+      {
+        "token": "hanford",
+        "sim": 0.5260899066925049
+      },
+      {
+        "token": "alamos",
+        "sim": 0.5055371522903442
+      }
+    ],
+    "8": [
+      {
+        "token": "warheads",
+        "sim": 0.6817469596862793
+      },
+      {
+        "token": "bacteriological",
+        "sim": 0.6740791201591492
+      },
+      {
+        "token": "destructiveness",
+        "sim": 0.6035880446434021
+      },
+      {
+        "token": "explosives",
+        "sim": 0.5593052506446838
+      },
+      {
+        "token": "firepower",
+        "sim": 0.5587891340255737
+      },
+      {
+        "token": "stockpiles",
+        "sim": 0.5574385523796082
+      },
+      {
+        "token": "stockpiling",
+        "sim": 0.5351083278656006
+      },
+      {
+        "token": "lethal",
+        "sim": 0.5329779386520386
+      },
+      {
+        "token": "retaliatory",
+        "sim": 0.529187023639679
+      },
+      {
+        "token": "bombarding",
+        "sim": 0.5246348977088928
+      },
+      {
+        "token": "detection",
+        "sim": 0.5126565098762512
+      },
+      {
+        "token": "capability",
+        "sim": 0.5090958476066589
+      },
+      {
+        "token": "redeployment",
+        "sim": 0.5086807012557983
+      },
+      {
+        "token": "submarine",
+        "sim": 0.5030583739280701
+      },
+      {
+        "token": "submarines",
+        "sim": 0.49851861596107483
+      }
+    ],
+    "4": [
+      {
+        "token": "radiation",
+        "sim": 0.6806856989860535
+      },
+      {
+        "token": "radioactivity",
+        "sim": 0.6303632259368896
+      },
+      {
+        "token": "cyclotron",
+        "sim": 0.6213960647583008
+      },
+      {
+        "token": "subatomic",
+        "sim": 0.6090010404586792
+      },
+      {
+        "token": "neutrons",
+        "sim": 0.6081212759017944
+      },
+      {
+        "token": "ionized",
+        "sim": 0.5881804823875427
+      },
+      {
+        "token": "radiations",
+        "sim": 0.5868130326271057
+      },
+      {
+        "token": "proton",
+        "sim": 0.5800882577896118
+      },
+      {
+        "token": "neutron",
+        "sim": 0.5576687455177307
+      },
+      {
+        "token": "thyratron",
+        "sim": 0.5529747009277344
+      },
+      {
+        "token": "gases",
+        "sim": 0.5474477410316467
+      },
+      {
+        "token": "caloric",
+        "sim": 0.5451780557632446
+      },
+      {
+        "token": "entropy",
+        "sim": 0.5409031510353088
+      },
+      {
+        "token": "resistor",
+        "sim": 0.5332062244415283
+      },
+      {
+        "token": "ionosphere",
+        "sim": 0.5308645963668823
+      },
+      {
+        "token": "electromagnetic",
+        "sim": 0.5290345549583435
+      },
+      {
+        "token": "radium",
+        "sim": 0.5286583304405212
+      },
+      {
+        "token": "gamma",
+        "sim": 0.5283054113388062
+      },
+      {
+        "token": "electron",
+        "sim": 0.5270432233810425
+      },
+      {
+        "token": "oscillator",
+        "sim": 0.5263856053352356
+      },
+      {
+        "token": "particles",
+        "sim": 0.5222571492195129
+      },
+      {
+        "token": "ergs",
+        "sim": 0.5204205513000488
+      },
+      {
+        "token": "ionization",
+        "sim": 0.5176303386688232
+      },
+      {
+        "token": "ignitor",
+        "sim": 0.5163400769233704
+      },
+      {
+        "token": "protons",
+        "sim": 0.5131030082702637
+      },
+      {
+        "token": "cosmic",
+        "sim": 0.511081874370575
+      },
+      {
+        "token": "wavelength",
+        "sim": 0.5098056197166443
+      },
+      {
+        "token": "ultraviolet",
+        "sim": 0.507307767868042
+      },
+      {
+        "token": "nuclei",
+        "sim": 0.5040541887283325
+      }
+    ],
+    "1": [
+      {
+        "token": "isotopes",
+        "sim": 0.6680481433868408
+      },
+      {
+        "token": "byproduct",
+        "sim": 0.623375415802002
+      },
+      {
+        "token": "fragmentation",
+        "sim": 0.5977585315704346
+      },
+      {
+        "token": "strontium",
+        "sim": 0.595623254776001
+      },
+      {
+        "token": "insecticide",
+        "sim": 0.584406852722168
+      },
+      {
+        "token": "stulls",
+        "sim": 0.5821035504341125
+      },
+      {
+        "token": "agglutination",
+        "sim": 0.5695491433143616
+      },
+      {
+        "token": "photosynthesis",
+        "sim": 0.5656145811080933
+      },
+      {
+        "token": "nitroglycerin",
+        "sim": 0.5644586682319641
+      },
+      {
+        "token": "globulin",
+        "sim": 0.5595759153366089
+      },
+      {
+        "token": "insecticides",
+        "sim": 0.5539999008178711
+      },
+      {
+        "token": "auxins",
+        "sim": 0.5523935556411743
+      },
+      {
+        "token": "toxic",
+        "sim": 0.5500093102455139
+      },
+      {
+        "token": "immunization",
+        "sim": 0.5471020340919495
+      },
+      {
+        "token": "vitro",
+        "sim": 0.5436393022537231
+      },
+      {
+        "token": "detectable",
+        "sim": 0.5360574722290039
+      },
+      {
+        "token": "residues",
+        "sim": 0.5311297178268433
+      },
+      {
+        "token": "antu",
+        "sim": 0.5305585861206055
+      },
+      {
+        "token": "cholin",
+        "sim": 0.5292021036148071
+      },
+      {
+        "token": "langmuir",
+        "sim": 0.5226361751556396
+      },
+      {
+        "token": "tetanus",
+        "sim": 0.5213321447372437
+      },
+      {
+        "token": "antibiotics",
+        "sim": 0.5202397704124451
+      },
+      {
+        "token": "transpiration",
+        "sim": 0.5198385119438171
+      },
+      {
+        "token": "outflow",
+        "sim": 0.5178980231285095
+      },
+      {
+        "token": "pyrethrum",
+        "sim": 0.5170954465866089
+      },
+      {
+        "token": "antibiotic",
+        "sim": 0.5120893716812134
+      },
+      {
+        "token": "antitoxin",
+        "sim": 0.5115636587142944
+      },
+      {
+        "token": "pyogenes",
+        "sim": 0.5111827254295349
+      },
+      {
+        "token": "toxins",
+        "sim": 0.5103713274002075
+      },
+      {
+        "token": "electronically",
+        "sim": 0.5095506310462952
+      },
+      {
+        "token": "utilizes",
+        "sim": 0.5087772607803345
+      },
+      {
+        "token": "phosphors",
+        "sim": 0.5079371929168701
+      },
+      {
+        "token": "streptomycin",
+        "sim": 0.5072240233421326
+      },
+      {
+        "token": "diffraction",
+        "sim": 0.5067925453186035
+      },
+      {
+        "token": "synthetics",
+        "sim": 0.5009794235229492
+      },
+      {
+        "token": "toxin",
+        "sim": 0.49871084094047546
+      }
+    ],
+    "0": [
+      {
+        "token": "fueled",
+        "sim": 0.6580321788787842
+      },
+      {
+        "token": "fuels",
+        "sim": 0.5716789364814758
+      },
+      {
+        "token": "projectiles",
+        "sim": 0.5614804625511169
+      },
+      {
+        "token": "meteorites",
+        "sim": 0.5459573268890381
+      },
+      {
+        "token": "propulsion",
+        "sim": 0.5384366512298584
+      },
+      {
+        "token": "smokeless",
+        "sim": 0.5279363393783569
+      },
+      {
+        "token": "turbines",
+        "sim": 0.5155523419380188
+      },
+      {
+        "token": "tracers",
+        "sim": 0.5118554830551147
+      },
+      {
+        "token": "detectors",
+        "sim": 0.5101698040962219
+      }
+    ],
+    "2": [
+      {
+        "token": "lithium",
+        "sim": 0.6560799479484558
+      },
+      {
+        "token": "boron",
+        "sim": 0.5744234919548035
+      },
+      {
+        "token": "helium",
+        "sim": 0.5625874996185303
+      },
+      {
+        "token": "cuprammonium",
+        "sim": 0.555385947227478
+      },
+      {
+        "token": "butadiene",
+        "sim": 0.5463161468505859
+      },
+      {
+        "token": "titanium",
+        "sim": 0.545863926410675
+      },
+      {
+        "token": "beryllium",
+        "sim": 0.5411788821220398
+      },
+      {
+        "token": "nonferrous",
+        "sim": 0.5403071045875549
+      },
+      {
+        "token": "brazing",
+        "sim": 0.5401538014411926
+      },
+      {
+        "token": "carbon",
+        "sim": 0.5401090979576111
+      },
+      {
+        "token": "acetylene",
+        "sim": 0.5365771651268005
+      },
+      {
+        "token": "hydrocellulose",
+        "sim": 0.5331226587295532
+      },
+      {
+        "token": "xanthate",
+        "sim": 0.5313351154327393
+      },
+      {
+        "token": "hypochlorite",
+        "sim": 0.5312708020210266
+      },
+      {
+        "token": "aldehyde",
+        "sim": 0.5305951833724976
+      },
+      {
+        "token": "graphite",
+        "sim": 0.52952641248703
+      },
+      {
+        "token": "catalyst",
+        "sim": 0.5280302166938782
+      },
+      {
+        "token": "fluorine",
+        "sim": 0.5277970433235168
+      },
+      {
+        "token": "arsenite",
+        "sim": 0.5273990631103516
+      },
+      {
+        "token": "chlorine",
+        "sim": 0.5262593626976013
+      },
+      {
+        "token": "sulfide",
+        "sim": 0.5231555104255676
+      },
+      {
+        "token": "lignin",
+        "sim": 0.5221322774887085
+      },
+      {
+        "token": "chromic",
+        "sim": 0.5216794013977051
+      },
+      {
+        "token": "nitrogen",
+        "sim": 0.5211950540542603
+      },
+      {
+        "token": "ammonium",
+        "sim": 0.5198274850845337
+      },
+      {
+        "token": "monoxide",
+        "sim": 0.5197585225105286
+      },
+      {
+        "token": "potassium",
+        "sim": 0.5196871161460876
+      },
+      {
+        "token": "magnesium",
+        "sim": 0.5151628255844116
+      },
+      {
+        "token": "nitro",
+        "sim": 0.5137698650360107
+      },
+      {
+        "token": "carboxyl",
+        "sim": 0.5114213824272156
+      },
+      {
+        "token": "acetone",
+        "sim": 0.5090653300285339
+      },
+      {
+        "token": "colloidal",
+        "sim": 0.5081742405891418
+      },
+      {
+        "token": "electrochemical",
+        "sim": 0.5078752040863037
+      },
+      {
+        "token": "polymer",
+        "sim": 0.5075540542602539
+      },
+      {
+        "token": "ferrous",
+        "sim": 0.5075008273124695
+      },
+      {
+        "token": "bauxite",
+        "sim": 0.5064021944999695
+      },
+      {
+        "token": "iodate",
+        "sim": 0.505738377571106
+      },
+      {
+        "token": "phosphates",
+        "sim": 0.5034959316253662
+      },
+      {
+        "token": "ferrocyanide",
+        "sim": 0.5029144287109375
+      },
+      {
+        "token": "dioxide",
+        "sim": 0.502772331237793
+      },
+      {
+        "token": "oxycellulose",
+        "sim": 0.5023007988929749
+      },
+      {
+        "token": "adsorption",
+        "sim": 0.5019708871841431
+      },
+      {
+        "token": "oxalate",
+        "sim": 0.501899003982544
+      },
+      {
+        "token": "titrations",
+        "sim": 0.5002257823944092
+      },
+      {
+        "token": "acetate",
+        "sim": 0.4994313716888428
+      },
+      {
+        "token": "luminaire",
+        "sim": 0.4993881285190582
+      }
+    ],
+    "6": [
+      {
+        "token": "atomics",
+        "sim": 0.5787081122398376
+      },
+      {
+        "token": "prototypes",
+        "sim": 0.5359880924224854
+      },
+      {
+        "token": "supersonic",
+        "sim": 0.5316914319992065
+      },
+      {
+        "token": "transistor",
+        "sim": 0.5305795073509216
+      },
+      {
+        "token": "sonar",
+        "sim": 0.5249118208885193
+      },
+      {
+        "token": "obsolescent",
+        "sim": 0.5163171291351318
+      },
+      {
+        "token": "airliners",
+        "sim": 0.5093988180160522
+      },
+      {
+        "token": "turbo",
+        "sim": 0.5057846307754517
+      },
+      {
+        "token": "ibm",
+        "sim": 0.5015259385108948
+      },
+      {
+        "token": "turbine",
+        "sim": 0.49905580282211304
+      }
+    ]
+  }
+}

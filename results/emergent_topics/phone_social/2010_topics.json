@@ -1,0 +1,830 @@
+{
+  "decade": 2010,
+  "concept": "phone_social",
+  "concept_hits": 23,
+  "sub_hits": {
+    "smartphone": 11,
+    "social_media": 12
+  },
+  "topn": 200,
+  "k": 8,
+  "silhouette": 0.05976279079914093,
+  "clusters": {
+    "5": [
+      {
+        "token": "facebook",
+        "sim": 0.7971857786178589
+      },
+      {
+        "token": "instagram",
+        "sim": 0.7764862775802612
+      },
+      {
+        "token": "snapchat",
+        "sim": 0.7439994215965271
+      },
+      {
+        "token": "twitter",
+        "sim": 0.740238606929779
+      },
+      {
+        "token": "tumblr",
+        "sim": 0.71410071849823
+      },
+      {
+        "token": "myspace",
+        "sim": 0.7114433646202087
+      },
+      {
+        "token": "linkedin",
+        "sim": 0.6760135889053345
+      },
+      {
+        "token": "pinterest",
+        "sim": 0.6668235063552856
+      },
+      {
+        "token": "whatsapp",
+        "sim": 0.665943443775177
+      },
+      {
+        "token": "fb",
+        "sim": 0.6485050320625305
+      },
+      {
+        "token": "youtube",
+        "sim": 0.6463272571563721
+      },
+      {
+        "token": "newsfeed",
+        "sim": 0.6412514448165894
+      },
+      {
+        "token": "facebooks",
+        "sim": 0.6358217000961304
+      },
+      {
+        "token": "tweets",
+        "sim": 0.6255877614021301
+      },
+      {
+        "token": "orkut",
+        "sim": 0.6251106262207031
+      },
+      {
+        "token": "foursquare",
+        "sim": 0.6243584752082825
+      },
+      {
+        "token": "reddit",
+        "sim": 0.6113193035125732
+      },
+      {
+        "token": "tweet",
+        "sim": 0.6078628301620483
+      },
+      {
+        "token": "hashtag",
+        "sim": 0.6026523113250732
+      },
+      {
+        "token": "quora",
+        "sim": 0.5887221693992615
+      },
+      {
+        "token": "livejournal",
+        "sim": 0.5868557691574097
+      },
+      {
+        "token": "hipstamatic",
+        "sim": 0.5860838294029236
+      }
+    ],
+    "7": [
+      {
+        "token": "iphone",
+        "sim": 0.7621487379074097
+      },
+      {
+        "token": "smartphone",
+        "sim": 0.7562000751495361
+      },
+      {
+        "token": "smartphones",
+        "sim": 0.7062668800354004
+      },
+      {
+        "token": "skype",
+        "sim": 0.6965054869651794
+      },
+      {
+        "token": "ipad",
+        "sim": 0.6962421536445618
+      },
+      {
+        "token": "mobile",
+        "sim": 0.673795223236084
+      },
+      {
+        "token": "iphones",
+        "sim": 0.6576407551765442
+      },
+      {
+        "token": "facetime",
+        "sim": 0.6373164653778076
+      },
+      {
+        "token": "phones",
+        "sim": 0.637209415435791
+      },
+      {
+        "token": "tablet",
+        "sim": 0.629035472869873
+      },
+      {
+        "token": "ipod",
+        "sim": 0.6278785467147827
+      },
+      {
+        "token": "tivo",
+        "sim": 0.6214181184768677
+      },
+      {
+        "token": "phone",
+        "sim": 0.6187933683395386
+      },
+      {
+        "token": "internet",
+        "sim": 0.6119122505187988
+      },
+      {
+        "token": "cellphone",
+        "sim": 0.6075416803359985
+      },
+      {
+        "token": "ipads",
+        "sim": 0.5998404026031494
+      },
+      {
+        "token": "laptop",
+        "sim": 0.5845038294792175
+      }
+    ],
+    "3": [
+      {
+        "token": "app",
+        "sim": 0.7269884347915649
+      },
+      {
+        "token": "ios",
+        "sim": 0.7224169969558716
+      },
+      {
+        "token": "apps",
+        "sim": 0.7126721739768982
+      },
+      {
+        "token": "android",
+        "sim": 0.7124282121658325
+      },
+      {
+        "token": "imessage",
+        "sim": 0.6871359348297119
+      },
+      {
+        "token": "icloud",
+        "sim": 0.6560736894607544
+      },
+      {
+        "token": "zune",
+        "sim": 0.6410418748855591
+      },
+      {
+        "token": "smartglass",
+        "sim": 0.6219432950019836
+      },
+      {
+        "token": "blackberry",
+        "sim": 0.6200283169746399
+      },
+      {
+        "token": "desktop",
+        "sim": 0.6114850640296936
+      },
+      {
+        "token": "jailbroken",
+        "sim": 0.606813907623291
+      },
+      {
+        "token": "skydrive",
+        "sim": 0.6027262210845947
+      },
+      {
+        "token": "homekit",
+        "sim": 0.6013128161430359
+      },
+      {
+        "token": "swype",
+        "sim": 0.6005691289901733
+      },
+      {
+        "token": "lumia",
+        "sim": 0.599758505821228
+      },
+      {
+        "token": "chromecast",
+        "sim": 0.5971994400024414
+      },
+      {
+        "token": "xbox",
+        "sim": 0.5945197343826294
+      },
+      {
+        "token": "xoom",
+        "sim": 0.5907217264175415
+      },
+      {
+        "token": "symbian",
+        "sim": 0.5882548093795776
+      },
+      {
+        "token": "carplay",
+        "sim": 0.5869013071060181
+      },
+      {
+        "token": "nokia",
+        "sim": 0.5865681171417236
+      }
+    ],
+    "1": [
+      {
+        "token": "viber",
+        "sim": 0.7182683944702148
+      },
+      {
+        "token": "getglue",
+        "sim": 0.6992521286010742
+      },
+      {
+        "token": "flipboard",
+        "sim": 0.6779131293296814
+      },
+      {
+        "token": "linkedln",
+        "sim": 0.6757264733314514
+      },
+      {
+        "token": "mixi",
+        "sim": 0.6729006171226501
+      },
+      {
+        "token": "google",
+        "sim": 0.6707348227500916
+      },
+      {
+        "token": "youku",
+        "sim": 0.6577838659286499
+      },
+      {
+        "token": "hootsuite",
+        "sim": 0.6506668329238892
+      },
+      {
+        "token": "branchout",
+        "sim": 0.641092836856842
+      },
+      {
+        "token": "addthis",
+        "sim": 0.6350237131118774
+      },
+      {
+        "token": "gowalla",
+        "sim": 0.6203221082687378
+      },
+      {
+        "token": "waze",
+        "sim": 0.6189796924591064
+      },
+      {
+        "token": "tiktok",
+        "sim": 0.6181051135063171
+      },
+      {
+        "token": "sysomos",
+        "sim": 0.614454448223114
+      },
+      {
+        "token": "gogobot",
+        "sim": 0.6138786673545837
+      },
+      {
+        "token": "microblogging",
+        "sim": 0.6124385595321655
+      },
+      {
+        "token": "slideshare",
+        "sim": 0.6111962199211121
+      },
+      {
+        "token": "dropbox",
+        "sim": 0.6096249222755432
+      },
+      {
+        "token": "admob",
+        "sim": 0.604296088218689
+      },
+      {
+        "token": "giphy",
+        "sim": 0.6035008430480957
+      },
+      {
+        "token": "adsense",
+        "sim": 0.6027201414108276
+      },
+      {
+        "token": "seesmic",
+        "sim": 0.6026079058647156
+      },
+      {
+        "token": "adwords",
+        "sim": 0.6002451777458191
+      },
+      {
+        "token": "chartbeat",
+        "sim": 0.5992092490196228
+      },
+      {
+        "token": "rockmelt",
+        "sim": 0.5976333618164062
+      },
+      {
+        "token": "edmodo",
+        "sim": 0.5947464108467102
+      },
+      {
+        "token": "dropcam",
+        "sim": 0.591925859451294
+      },
+      {
+        "token": "songkick",
+        "sim": 0.5871224403381348
+      },
+      {
+        "token": "streetview",
+        "sim": 0.5869671106338501
+      },
+      {
+        "token": "powtoon",
+        "sim": 0.5867223739624023
+      },
+      {
+        "token": "microsite",
+        "sim": 0.5865550637245178
+      },
+      {
+        "token": "snapfish",
+        "sim": 0.5849989652633667
+      },
+      {
+        "token": "yahoo",
+        "sim": 0.5840852856636047
+      }
+    ],
+    "0": [
+      {
+        "token": "bretbaier",
+        "sim": 0.6856989860534668
+      },
+      {
+        "token": "stumbleupon",
+        "sim": 0.6715619564056396
+      },
+      {
+        "token": "posterous",
+        "sim": 0.6602491140365601
+      },
+      {
+        "token": "photobucket",
+        "sim": 0.6527438163757324
+      },
+      {
+        "token": "fanpage",
+        "sim": 0.6510618925094604
+      },
+      {
+        "token": "techmeme",
+        "sim": 0.6496353149414062
+      },
+      {
+        "token": "twtr",
+        "sim": 0.6423746347427368
+      },
+      {
+        "token": "friendfeed",
+        "sim": 0.6369483470916748
+      },
+      {
+        "token": "thefivefnc",
+        "sim": 0.6289250254631042
+      },
+      {
+        "token": "pornhub",
+        "sim": 0.6199713349342346
+      },
+      {
+        "token": "mybloglog",
+        "sim": 0.6174014806747437
+      },
+      {
+        "token": "newsfeeds",
+        "sim": 0.6153259873390198
+      },
+      {
+        "token": "foxnewssunday",
+        "sim": 0.6148394346237183
+      },
+      {
+        "token": "twitters",
+        "sim": 0.6109939217567444
+      },
+      {
+        "token": "microblog",
+        "sim": 0.6060529947280884
+      },
+      {
+        "token": "tedtalks",
+        "sim": 0.6011701226234436
+      },
+      {
+        "token": "dribbble",
+        "sim": 0.59963059425354
+      },
+      {
+        "token": "seanhannity",
+        "sim": 0.5978909730911255
+      },
+      {
+        "token": "screencaps",
+        "sim": 0.5975445508956909
+      },
+      {
+        "token": "ngram",
+        "sim": 0.597423791885376
+      },
+      {
+        "token": "twitpic",
+        "sim": 0.5941194295883179
+      },
+      {
+        "token": "ustream",
+        "sim": 0.593001127243042
+      },
+      {
+        "token": "vimeo",
+        "sim": 0.592570960521698
+      },
+      {
+        "token": "andersoncooper",
+        "sim": 0.5922759175300598
+      },
+      {
+        "token": "imgur",
+        "sim": 0.5908904075622559
+      },
+      {
+        "token": "youtubes",
+        "sim": 0.5897478461265564
+      },
+      {
+        "token": "pintrest",
+        "sim": 0.5873271822929382
+      },
+      {
+        "token": "macrumors",
+        "sim": 0.5864765048027039
+      },
+      {
+        "token": "screengrab",
+        "sim": 0.5859644412994385
+      }
+    ],
+    "6": [
+      {
+        "token": "tweetdeck",
+        "sim": 0.6824324131011963
+      },
+      {
+        "token": "igoogle",
+        "sim": 0.6612222194671631
+      },
+      {
+        "token": "netvibes",
+        "sim": 0.6423503160476685
+      },
+      {
+        "token": "feedblitz",
+        "sim": 0.6397011876106262
+      },
+      {
+        "token": "peoplebrowsr",
+        "sim": 0.6393831968307495
+      },
+      {
+        "token": "instapaper",
+        "sim": 0.6385209560394287
+      },
+      {
+        "token": "squarespace",
+        "sim": 0.6341763138771057
+      },
+      {
+        "token": "tweetbot",
+        "sim": 0.6325207948684692
+      },
+      {
+        "token": "wunderlist",
+        "sim": 0.6253253221511841
+      },
+      {
+        "token": "aweber",
+        "sim": 0.625322163105011
+      },
+      {
+        "token": "meebo",
+        "sim": 0.623586118221283
+      },
+      {
+        "token": "evernote",
+        "sim": 0.6194606423377991
+      },
+      {
+        "token": "bluehost",
+        "sim": 0.6189925670623779
+      },
+      {
+        "token": "runkeeper",
+        "sim": 0.6181776523590088
+      },
+      {
+        "token": "myfitnesspal",
+        "sim": 0.6171480417251587
+      },
+      {
+        "token": "bitly",
+        "sim": 0.6168975830078125
+      },
+      {
+        "token": "bookmarklet",
+        "sim": 0.6147609949111938
+      },
+      {
+        "token": "sugarsync",
+        "sim": 0.6141719818115234
+      },
+      {
+        "token": "embeddable",
+        "sim": 0.6114544868469238
+      },
+      {
+        "token": "demetricator",
+        "sim": 0.6109445691108704
+      },
+      {
+        "token": "startpage",
+        "sim": 0.6082569360733032
+      },
+      {
+        "token": "brainshark",
+        "sim": 0.607376217842102
+      },
+      {
+        "token": "trello",
+        "sim": 0.6072009801864624
+      },
+      {
+        "token": "miiverse",
+        "sim": 0.6052078604698181
+      },
+      {
+        "token": "picnik",
+        "sim": 0.6035934686660767
+      },
+      {
+        "token": "ifttt",
+        "sim": 0.6002207398414612
+      },
+      {
+        "token": "sideloading",
+        "sim": 0.5996773838996887
+      },
+      {
+        "token": "wordpress",
+        "sim": 0.5953602194786072
+      },
+      {
+        "token": "weebly",
+        "sim": 0.5952702164649963
+      },
+      {
+        "token": "flattr",
+        "sim": 0.5952534675598145
+      },
+      {
+        "token": "scrobbler",
+        "sim": 0.5943044424057007
+      },
+      {
+        "token": "typepad",
+        "sim": 0.5937259197235107
+      },
+      {
+        "token": "picasa",
+        "sim": 0.5936374664306641
+      },
+      {
+        "token": "filezilla",
+        "sim": 0.5905060768127441
+      },
+      {
+        "token": "picmonkey",
+        "sim": 0.5899399518966675
+      },
+      {
+        "token": "libguides",
+        "sim": 0.5898669958114624
+      },
+      {
+        "token": "squidoo",
+        "sim": 0.5890496969223022
+      },
+      {
+        "token": "ghostery",
+        "sim": 0.5885660648345947
+      },
+      {
+        "token": "bloglines",
+        "sim": 0.5864322781562805
+      },
+      {
+        "token": "mapbox",
+        "sim": 0.5861787796020508
+      },
+      {
+        "token": "pcworid",
+        "sim": 0.5830941200256348
+      },
+      {
+        "token": "zimbra",
+        "sim": 0.5830546021461487
+      }
+    ],
+    "4": [
+      {
+        "token": "imessages",
+        "sim": 0.6807677745819092
+      },
+      {
+        "token": "airdroid",
+        "sim": 0.6468261480331421
+      },
+      {
+        "token": "gchat",
+        "sim": 0.6455902457237244
+      },
+      {
+        "token": "checkins",
+        "sim": 0.641957700252533
+      },
+      {
+        "token": "oovoo",
+        "sim": 0.6307992935180664
+      },
+      {
+        "token": "mobileme",
+        "sim": 0.6289849281311035
+      },
+      {
+        "token": "blackberryr",
+        "sim": 0.6285126209259033
+      },
+      {
+        "token": "ichat",
+        "sim": 0.6253224015235901
+      },
+      {
+        "token": "notifier",
+        "sim": 0.6210755109786987
+      },
+      {
+        "token": "inmail",
+        "sim": 0.6181761026382446
+      },
+      {
+        "token": "picthread",
+        "sim": 0.609390914440155
+      },
+      {
+        "token": "idevice",
+        "sim": 0.6059108376502991
+      },
+      {
+        "token": "toggl",
+        "sim": 0.6028851270675659
+      },
+      {
+        "token": "lockscreen",
+        "sim": 0.5981923937797546
+      },
+      {
+        "token": "wlm",
+        "sim": 0.5965949892997742
+      },
+      {
+        "token": "messaging",
+        "sim": 0.592890202999115
+      },
+      {
+        "token": "udid",
+        "sim": 0.5910495519638062
+      },
+      {
+        "token": "hushmail",
+        "sim": 0.5871578454971313
+      },
+      {
+        "token": "uploader",
+        "sim": 0.5846154093742371
+      }
+    ],
+    "2": [
+      {
+        "token": "zite",
+        "sim": 0.6759130954742432
+      },
+      {
+        "token": "spotify",
+        "sim": 0.6309428215026855
+      },
+      {
+        "token": "tunein",
+        "sim": 0.6279861330986023
+      },
+      {
+        "token": "magisto",
+        "sim": 0.617559015750885
+      },
+      {
+        "token": "itunes",
+        "sim": 0.611322283744812
+      },
+      {
+        "token": "navigon",
+        "sim": 0.6073654890060425
+      },
+      {
+        "token": "soundcloud",
+        "sim": 0.6047255992889404
+      },
+      {
+        "token": "zinio",
+        "sim": 0.6046065092086792
+      },
+      {
+        "token": "appstore",
+        "sim": 0.6013299226760864
+      },
+      {
+        "token": "whispersync",
+        "sim": 0.5999245643615723
+      },
+      {
+        "token": "watchespn",
+        "sim": 0.5973602533340454
+      },
+      {
+        "token": "aurasma",
+        "sim": 0.5910485982894897
+      },
+      {
+        "token": "nvi",
+        "sim": 0.588924765586853
+      },
+      {
+        "token": "rdio",
+        "sim": 0.5863356590270996
+      },
+      {
+        "token": "fictionwise",
+        "sim": 0.5852881073951721
+      },
+      {
+        "token": "appletv",
+        "sim": 0.5839388370513916
+      },
+      {
+        "token": "vevo",
+        "sim": 0.5839081406593323
+      }
+    ]
+  }
+}

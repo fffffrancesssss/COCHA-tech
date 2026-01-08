@@ -1,0 +1,823 @@
+{
+  "decade": 1960,
+  "concept": "ai",
+  "concept_hits": 3,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.0736234113574028,
+  "clusters": {
+    "4": [
+      {
+        "token": "ml",
+        "sim": 0.7473912835121155
+      },
+      {
+        "token": "chromic",
+        "sim": 0.6509254574775696
+      },
+      {
+        "token": "ceric",
+        "sim": 0.6480866074562073
+      },
+      {
+        "token": "bichromate",
+        "sim": 0.6476395726203918
+      },
+      {
+        "token": "iodate",
+        "sim": 0.6390929818153381
+      },
+      {
+        "token": "thiocyanate",
+        "sim": 0.6344307065010071
+      },
+      {
+        "token": "arsenious",
+        "sim": 0.6301775574684143
+      },
+      {
+        "token": "ferrocyanide",
+        "sim": 0.6187719106674194
+      },
+      {
+        "token": "titrating",
+        "sim": 0.6062389016151428
+      },
+      {
+        "token": "arsenite",
+        "sim": 0.605524480342865
+      },
+      {
+        "token": "thiosulfate",
+        "sim": 0.5932749509811401
+      },
+      {
+        "token": "diphenylamine",
+        "sim": 0.5898494720458984
+      },
+      {
+        "token": "titrate",
+        "sim": 0.582194983959198
+      },
+      {
+        "token": "iodide",
+        "sim": 0.5805364847183228
+      },
+      {
+        "token": "sulfuric",
+        "sim": 0.5769884586334229
+      },
+      {
+        "token": "chromate",
+        "sim": 0.5747376084327698
+      },
+      {
+        "token": "barium",
+        "sim": 0.574310302734375
+      },
+      {
+        "token": "volumetric",
+        "sim": 0.5740393996238708
+      },
+      {
+        "token": "oxalate",
+        "sim": 0.5722523331642151
+      },
+      {
+        "token": "permanganate",
+        "sim": 0.5673797130584717
+      },
+      {
+        "token": "benzoic",
+        "sim": 0.5669575929641724
+      },
+      {
+        "token": "potassium",
+        "sim": 0.5594183802604675
+      },
+      {
+        "token": "axby",
+        "sim": 0.5584288835525513
+      },
+      {
+        "token": "phenolphthalein",
+        "sim": 0.5581996440887451
+      },
+      {
+        "token": "acetic",
+        "sim": 0.5576438307762146
+      },
+      {
+        "token": "colloidal",
+        "sim": 0.5523394346237183
+      },
+      {
+        "token": "hydrochloric",
+        "sim": 0.5517019033432007
+      },
+      {
+        "token": "titrated",
+        "sim": 0.5508855581283569
+      },
+      {
+        "token": "stannous",
+        "sim": 0.5503451824188232
+      },
+      {
+        "token": "bismuth",
+        "sim": 0.5485923886299133
+      },
+      {
+        "token": "hydroxide",
+        "sim": 0.545113205909729
+      },
+      {
+        "token": "peroxide",
+        "sim": 0.542521595954895
+      },
+      {
+        "token": "antimony",
+        "sim": 0.5409227609634399
+      },
+      {
+        "token": "sulphate",
+        "sim": 0.5399285554885864
+      },
+      {
+        "token": "sulphuric",
+        "sim": 0.5394975543022156
+      },
+      {
+        "token": "sulfate",
+        "sim": 0.5385560989379883
+      },
+      {
+        "token": "naoh",
+        "sim": 0.5374910831451416
+      },
+      {
+        "token": "phosphoric",
+        "sim": 0.5358313322067261
+      },
+      {
+        "token": "nitric",
+        "sim": 0.5356692671775818
+      },
+      {
+        "token": "nitrite",
+        "sim": 0.5356541275978088
+      },
+      {
+        "token": "ethyl",
+        "sim": 0.5352579355239868
+      },
+      {
+        "token": "hypochlorite",
+        "sim": 0.5336145758628845
+      },
+      {
+        "token": "chloride",
+        "sim": 0.5316892862319946
+      },
+      {
+        "token": "reagent",
+        "sim": 0.5247837901115417
+      },
+      {
+        "token": "sodium",
+        "sim": 0.5243766903877258
+      },
+      {
+        "token": "humic",
+        "sim": 0.521373987197876
+      },
+      {
+        "token": "bicarbonate",
+        "sim": 0.5168715715408325
+      },
+      {
+        "token": "titration",
+        "sim": 0.5162556767463684
+      },
+      {
+        "token": "oxide",
+        "sim": 0.514002799987793
+      },
+      {
+        "token": "sulfide",
+        "sim": 0.5130805373191833
+      },
+      {
+        "token": "ferrous",
+        "sim": 0.5080370903015137
+      },
+      {
+        "token": "ferric",
+        "sim": 0.5050909519195557
+      },
+      {
+        "token": "oxides",
+        "sim": 0.5012457370758057
+      },
+      {
+        "token": "ammonium",
+        "sim": 0.49964261054992676
+      },
+      {
+        "token": "carbonate",
+        "sim": 0.49535617232322693
+      },
+      {
+        "token": "alkalis",
+        "sim": 0.4923095405101776
+      },
+      {
+        "token": "adsorbed",
+        "sim": 0.4921813905239105
+      },
+      {
+        "token": "cyanide",
+        "sim": 0.4877859055995941
+      },
+      {
+        "token": "nitrate",
+        "sim": 0.4815356135368347
+      },
+      {
+        "token": "nitrogen",
+        "sim": 0.48048460483551025
+      },
+      {
+        "token": "annealed",
+        "sim": 0.47832632064819336
+      },
+      {
+        "token": "acetate",
+        "sim": 0.4774571359157562
+      },
+      {
+        "token": "selenium",
+        "sim": 0.4740583598613739
+      },
+      {
+        "token": "methyl",
+        "sim": 0.4685106873512268
+      }
+    ],
+    "1": [
+      {
+        "token": "computing",
+        "sim": 0.6184346079826355
+      },
+      {
+        "token": "resistor",
+        "sim": 0.5588314533233643
+      },
+      {
+        "token": "lumens",
+        "sim": 0.5488706231117249
+      },
+      {
+        "token": "worths",
+        "sim": 0.5304942727088928
+      },
+      {
+        "token": "vector",
+        "sim": 0.5164902210235596
+      },
+      {
+        "token": "balmer",
+        "sim": 0.5142936706542969
+      },
+      {
+        "token": "butterfat",
+        "sim": 0.513450562953949
+      },
+      {
+        "token": "subsecond",
+        "sim": 0.511065661907196
+      },
+      {
+        "token": "multiples",
+        "sim": 0.5072330236434937
+      },
+      {
+        "token": "linkage",
+        "sim": 0.5070428848266602
+      },
+      {
+        "token": "thyratron",
+        "sim": 0.5004162788391113
+      },
+      {
+        "token": "dipole",
+        "sim": 0.49826955795288086
+      },
+      {
+        "token": "ignitor",
+        "sim": 0.49724069237709045
+      },
+      {
+        "token": "stoichiometric",
+        "sim": 0.4964595437049866
+      },
+      {
+        "token": "tdn",
+        "sim": 0.49643009901046753
+      },
+      {
+        "token": "mesons",
+        "sim": 0.4930061995983124
+      },
+      {
+        "token": "joule",
+        "sim": 0.48293596506118774
+      },
+      {
+        "token": "ansco",
+        "sim": 0.4820523262023926
+      },
+      {
+        "token": "excystation",
+        "sim": 0.4818040728569031
+      },
+      {
+        "token": "stoichiometry",
+        "sim": 0.4799136817455292
+      },
+      {
+        "token": "outputs",
+        "sim": 0.47965025901794434
+      },
+      {
+        "token": "electrostatic",
+        "sim": 0.4777592718601227
+      },
+      {
+        "token": "inputs",
+        "sim": 0.476815402507782
+      },
+      {
+        "token": "calculates",
+        "sim": 0.4765092134475708
+      },
+      {
+        "token": "alternant",
+        "sim": 0.47470688819885254
+      },
+      {
+        "token": "denier",
+        "sim": 0.4729999005794525
+      },
+      {
+        "token": "nonproper",
+        "sim": 0.472859263420105
+      },
+      {
+        "token": "alternators",
+        "sim": 0.4709722101688385
+      },
+      {
+        "token": "luminaires",
+        "sim": 0.47007858753204346
+      },
+      {
+        "token": "glost",
+        "sim": 0.4692539572715759
+      },
+      {
+        "token": "equi",
+        "sim": 0.46840184926986694
+      }
+    ],
+    "5": [
+      {
+        "token": "coul",
+        "sim": 0.6118663549423218
+      },
+      {
+        "token": "ai",
+        "sim": 0.5579601526260376
+      },
+      {
+        "token": "dt",
+        "sim": 0.5469373464584351
+      },
+      {
+        "token": "grams",
+        "sim": 0.525314211845398
+      },
+      {
+        "token": "erdtman",
+        "sim": 0.518130898475647
+      },
+      {
+        "token": "nh",
+        "sim": 0.5132900476455688
+      },
+      {
+        "token": "mn",
+        "sim": 0.5076642036437988
+      },
+      {
+        "token": "ergs",
+        "sim": 0.5009204745292664
+      },
+      {
+        "token": "gs",
+        "sim": 0.48773884773254395
+      },
+      {
+        "token": "wt",
+        "sim": 0.48495951294898987
+      },
+      {
+        "token": "cn",
+        "sim": 0.484889417886734
+      },
+      {
+        "token": "hc",
+        "sim": 0.4746948182582855
+      },
+      {
+        "token": "fl",
+        "sim": 0.47468462586402893
+      },
+      {
+        "token": "freudenberg",
+        "sim": 0.4737173020839691
+      },
+      {
+        "token": "bl",
+        "sim": 0.4679398536682129
+      }
+    ],
+    "2": [
+      {
+        "token": "anhydrous",
+        "sim": 0.5942245125770569
+      },
+      {
+        "token": "cadmium",
+        "sim": 0.5783024430274963
+      },
+      {
+        "token": "ethanol",
+        "sim": 0.5739779472351074
+      },
+      {
+        "token": "cuprammonium",
+        "sim": 0.5439648628234863
+      },
+      {
+        "token": "benzene",
+        "sim": 0.5405459403991699
+      },
+      {
+        "token": "naphtha",
+        "sim": 0.5336265563964844
+      },
+      {
+        "token": "xanthate",
+        "sim": 0.5330820083618164
+      },
+      {
+        "token": "ferrite",
+        "sim": 0.5313848853111267
+      },
+      {
+        "token": "thorium",
+        "sim": 0.5292449593544006
+      },
+      {
+        "token": "brazing",
+        "sim": 0.5279151797294617
+      },
+      {
+        "token": "tannic",
+        "sim": 0.5277979373931885
+      },
+      {
+        "token": "lignosulfonic",
+        "sim": 0.5255106687545776
+      },
+      {
+        "token": "graphite",
+        "sim": 0.5252492427825928
+      },
+      {
+        "token": "hydrocellulose",
+        "sim": 0.5229752063751221
+      },
+      {
+        "token": "ethanolysis",
+        "sim": 0.5196176767349243
+      },
+      {
+        "token": "titanium",
+        "sim": 0.516765296459198
+      },
+      {
+        "token": "boron",
+        "sim": 0.5160031914710999
+      },
+      {
+        "token": "lithium",
+        "sim": 0.5158587098121643
+      },
+      {
+        "token": "phenols",
+        "sim": 0.5152102112770081
+      },
+      {
+        "token": "acetone",
+        "sim": 0.5142428874969482
+      },
+      {
+        "token": "nitrobenzene",
+        "sim": 0.5123806595802307
+      },
+      {
+        "token": "adsorption",
+        "sim": 0.51035076379776
+      },
+      {
+        "token": "monomeric",
+        "sim": 0.5099204778671265
+      },
+      {
+        "token": "titrations",
+        "sim": 0.5097708106040955
+      },
+      {
+        "token": "sulfite",
+        "sim": 0.5074664354324341
+      },
+      {
+        "token": "creosote",
+        "sim": 0.5050827860832214
+      },
+      {
+        "token": "phenolic",
+        "sim": 0.5049006342887878
+      },
+      {
+        "token": "alcohols",
+        "sim": 0.5029333829879761
+      },
+      {
+        "token": "phenylpropane",
+        "sim": 0.5007089376449585
+      },
+      {
+        "token": "pulping",
+        "sim": 0.5006961226463318
+      },
+      {
+        "token": "tannin",
+        "sim": 0.5002425909042358
+      },
+      {
+        "token": "methoxyl",
+        "sim": 0.49979302287101746
+      },
+      {
+        "token": "crystallites",
+        "sim": 0.4991125464439392
+      },
+      {
+        "token": "pearlite",
+        "sim": 0.4970247745513916
+      },
+      {
+        "token": "solids",
+        "sim": 0.4960564970970154
+      },
+      {
+        "token": "sulfur",
+        "sim": 0.495929479598999
+      },
+      {
+        "token": "sulfonation",
+        "sim": 0.4954013228416443
+      },
+      {
+        "token": "phosphates",
+        "sim": 0.4918147921562195
+      },
+      {
+        "token": "buffered",
+        "sim": 0.49154072999954224
+      },
+      {
+        "token": "fluoride",
+        "sim": 0.4891805648803711
+      },
+      {
+        "token": "hydroxyl",
+        "sim": 0.48869284987449646
+      },
+      {
+        "token": "strontium",
+        "sim": 0.48861727118492126
+      },
+      {
+        "token": "benzine",
+        "sim": 0.48806893825531006
+      },
+      {
+        "token": "dammar",
+        "sim": 0.48803186416625977
+      },
+      {
+        "token": "oxycellulose",
+        "sim": 0.4830961227416992
+      },
+      {
+        "token": "enterococci",
+        "sim": 0.48298943042755127
+      },
+      {
+        "token": "flotation",
+        "sim": 0.4796173870563507
+      },
+      {
+        "token": "electrolyte",
+        "sim": 0.47895628213882446
+      },
+      {
+        "token": "linkages",
+        "sim": 0.47867274284362793
+      },
+      {
+        "token": "riboflavin",
+        "sim": 0.47828996181488037
+      },
+      {
+        "token": "aldehyde",
+        "sim": 0.4773629903793335
+      },
+      {
+        "token": "carboxyl",
+        "sim": 0.4772097170352936
+      },
+      {
+        "token": "varnishes",
+        "sim": 0.4758360981941223
+      },
+      {
+        "token": "waterproofing",
+        "sim": 0.4750092625617981
+      },
+      {
+        "token": "paraffin",
+        "sim": 0.4748380184173584
+      },
+      {
+        "token": "butadiene",
+        "sim": 0.4741157293319702
+      },
+      {
+        "token": "nonferrous",
+        "sim": 0.47362422943115234
+      },
+      {
+        "token": "rosin",
+        "sim": 0.4695000648498535
+      },
+      {
+        "token": "methane",
+        "sim": 0.4694312810897827
+      },
+      {
+        "token": "isoprene",
+        "sim": 0.46818310022354126
+      },
+      {
+        "token": "fluorine",
+        "sim": 0.46785086393356323
+      }
+    ],
+    "3": [
+      {
+        "token": "btu",
+        "sim": 0.5547266602516174
+      },
+      {
+        "token": "kilogram",
+        "sim": 0.5496155619621277
+      },
+      {
+        "token": "amperes",
+        "sim": 0.5262277126312256
+      },
+      {
+        "token": "kilowatthour",
+        "sim": 0.5157326459884644
+      },
+      {
+        "token": "ampule",
+        "sim": 0.5125764012336731
+      },
+      {
+        "token": "carbons",
+        "sim": 0.5104259848594666
+      },
+      {
+        "token": "ducados",
+        "sim": 0.5067528486251831
+      },
+      {
+        "token": "beaker",
+        "sim": 0.506382167339325
+      },
+      {
+        "token": "milligrams",
+        "sim": 0.5062495470046997
+      },
+      {
+        "token": "centimeter",
+        "sim": 0.5052593946456909
+      },
+      {
+        "token": "kwhr",
+        "sim": 0.5012617707252502
+      },
+      {
+        "token": "rectifier",
+        "sim": 0.49897217750549316
+      },
+      {
+        "token": "magneto",
+        "sim": 0.4971272945404053
+      },
+      {
+        "token": "hypo",
+        "sim": 0.4911830723285675
+      },
+      {
+        "token": "centimeters",
+        "sim": 0.4896225333213806
+      },
+      {
+        "token": "soldering",
+        "sim": 0.48881614208221436
+      },
+      {
+        "token": "plunger",
+        "sim": 0.4854399561882019
+      },
+      {
+        "token": "hundredths",
+        "sim": 0.48255711793899536
+      },
+      {
+        "token": "separator",
+        "sim": 0.48199379444122314
+      },
+      {
+        "token": "calculator",
+        "sim": 0.47793734073638916
+      },
+      {
+        "token": "oscilloscope",
+        "sim": 0.47565239667892456
+      },
+      {
+        "token": "flask",
+        "sim": 0.4744168519973755
+      },
+      {
+        "token": "fume",
+        "sim": 0.47196686267852783
+      },
+      {
+        "token": "mayinit",
+        "sim": 0.4706517457962036
+      },
+      {
+        "token": "kilograms",
+        "sim": 0.4694761037826538
+      },
+      {
+        "token": "flasks",
+        "sim": 0.4687456786632538
+      }
+    ],
+    "0": [
+      {
+        "token": "artesian",
+        "sim": 0.48325204849243164
+      },
+      {
+        "token": "saline",
+        "sim": 0.48139050602912903
+      },
+      {
+        "token": "lac",
+        "sim": 0.46808356046676636
+      }
+    ]
+  }
+}

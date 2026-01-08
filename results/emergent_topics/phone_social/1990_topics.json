@@ -1,0 +1,826 @@
+{
+  "decade": 1990,
+  "concept": "phone_social",
+  "concept_hits": 11,
+  "sub_hits": {
+    "smartphone": 7,
+    "social_media": 4
+  },
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.09949660301208496,
+  "clusters": {
+    "2": [
+      {
+        "token": "uploading",
+        "sim": 0.6796326041221619
+      },
+      {
+        "token": "cgc",
+        "sim": 0.6152446269989014
+      },
+      {
+        "token": "busrr",
+        "sim": 0.6126788854598999
+      },
+      {
+        "token": "lsar",
+        "sim": 0.6041663885116577
+      },
+      {
+        "token": "sideband",
+        "sim": 0.5946405529975891
+      },
+      {
+        "token": "config",
+        "sim": 0.592638373374939
+      },
+      {
+        "token": "doublespace",
+        "sim": 0.5924618244171143
+      },
+      {
+        "token": "autoexec",
+        "sim": 0.5850343704223633
+      },
+      {
+        "token": "requestor",
+        "sim": 0.5842478275299072
+      },
+      {
+        "token": "lfar",
+        "sim": 0.5830384492874146
+      },
+      {
+        "token": "alphanumeric",
+        "sim": 0.5773454904556274
+      },
+      {
+        "token": "sequencer",
+        "sim": 0.5767800807952881
+      },
+      {
+        "token": "filename",
+        "sim": 0.5765475034713745
+      },
+      {
+        "token": "maf",
+        "sim": 0.5730208158493042
+      },
+      {
+        "token": "millicode",
+        "sim": 0.5717225074768066
+      },
+      {
+        "token": "nirtsat",
+        "sim": 0.5691205263137817
+      },
+      {
+        "token": "colind",
+        "sim": 0.5658790469169617
+      },
+      {
+        "token": "biometric",
+        "sim": 0.5657499432563782
+      },
+      {
+        "token": "crb",
+        "sim": 0.5647187829017639
+      },
+      {
+        "token": "executable",
+        "sim": 0.5647075176239014
+      },
+      {
+        "token": "subroutine",
+        "sim": 0.5641369223594666
+      },
+      {
+        "token": "preprocessor",
+        "sim": 0.5641167759895325
+      },
+      {
+        "token": "addressable",
+        "sim": 0.5623835325241089
+      },
+      {
+        "token": "xor",
+        "sim": 0.5607634782791138
+      },
+      {
+        "token": "printhead",
+        "sim": 0.5606820583343506
+      },
+      {
+        "token": "tsr",
+        "sim": 0.5606151819229126
+      },
+      {
+        "token": "telix",
+        "sim": 0.5604986548423767
+      },
+      {
+        "token": "pka",
+        "sim": 0.5604486465454102
+      },
+      {
+        "token": "microcode",
+        "sim": 0.5596092939376831
+      },
+      {
+        "token": "calibrator",
+        "sim": 0.5589690804481506
+      },
+      {
+        "token": "dcu",
+        "sim": 0.5579761862754822
+      },
+      {
+        "token": "pll",
+        "sim": 0.5571591854095459
+      },
+      {
+        "token": "lookup",
+        "sim": 0.5570430755615234
+      },
+      {
+        "token": "weps",
+        "sim": 0.5561287999153137
+      },
+      {
+        "token": "uncompressed",
+        "sim": 0.5556909441947937
+      },
+      {
+        "token": "initialized",
+        "sim": 0.5529513955116272
+      }
+    ],
+    "0": [
+      {
+        "token": "dialtone",
+        "sim": 0.6574683785438538
+      },
+      {
+        "token": "tweet",
+        "sim": 0.6104846596717834
+      },
+      {
+        "token": "mics",
+        "sim": 0.6008829474449158
+      },
+      {
+        "token": "waverunner",
+        "sim": 0.597866415977478
+      },
+      {
+        "token": "pulverizer",
+        "sim": 0.595926821231842
+      },
+      {
+        "token": "sfx",
+        "sim": 0.5912307500839233
+      },
+      {
+        "token": "rrr",
+        "sim": 0.5867841243743896
+      },
+      {
+        "token": "cel",
+        "sim": 0.5797916650772095
+      },
+      {
+        "token": "woofer",
+        "sim": 0.578148365020752
+      },
+      {
+        "token": "bleeps",
+        "sim": 0.5763810873031616
+      },
+      {
+        "token": "shrilling",
+        "sim": 0.5637996792793274
+      },
+      {
+        "token": "amped",
+        "sim": 0.5624678134918213
+      },
+      {
+        "token": "tweeter",
+        "sim": 0.5592828392982483
+      },
+      {
+        "token": "zaps",
+        "sim": 0.5577815771102905
+      },
+      {
+        "token": "darcie",
+        "sim": 0.557231068611145
+      },
+      {
+        "token": "alarm_wailing",
+        "sim": 0.5544678568840027
+      },
+      {
+        "token": "police_radio",
+        "sim": 0.5542212724685669
+      },
+      {
+        "token": "pings",
+        "sim": 0.5528820753097534
+      },
+      {
+        "token": "staticky",
+        "sim": 0.5526049137115479
+      }
+    ],
+    "4": [
+      {
+        "token": "dialer",
+        "sim": 0.6444502472877502
+      },
+      {
+        "token": "wirelessly",
+        "sim": 0.6341375708580017
+      },
+      {
+        "token": "locater",
+        "sim": 0.6329004764556885
+      },
+      {
+        "token": "voiceprint",
+        "sim": 0.6306358575820923
+      },
+      {
+        "token": "turtlecom",
+        "sim": 0.6267213225364685
+      },
+      {
+        "token": "barcode",
+        "sim": 0.6109350919723511
+      },
+      {
+        "token": "cellphone",
+        "sim": 0.6075095534324646
+      },
+      {
+        "token": "voltmeter",
+        "sim": 0.6058721542358398
+      },
+      {
+        "token": "dialling",
+        "sim": 0.5961089730262756
+      },
+      {
+        "token": "navcomp",
+        "sim": 0.5947229862213135
+      },
+      {
+        "token": "touchtone",
+        "sim": 0.5902384519577026
+      },
+      {
+        "token": "flasher",
+        "sim": 0.5901316404342651
+      },
+      {
+        "token": "magneton",
+        "sim": 0.5879594087600708
+      },
+      {
+        "token": "rocketship",
+        "sim": 0.5854232907295227
+      },
+      {
+        "token": "autodialers",
+        "sim": 0.5839181542396545
+      },
+      {
+        "token": "scrambler",
+        "sim": 0.5820252895355225
+      },
+      {
+        "token": "redial",
+        "sim": 0.5775700807571411
+      },
+      {
+        "token": "phon",
+        "sim": 0.5757302641868591
+      },
+      {
+        "token": "padd",
+        "sim": 0.5687685012817383
+      },
+      {
+        "token": "videophone",
+        "sim": 0.5649398565292358
+      },
+      {
+        "token": "voicemail",
+        "sim": 0.5639774799346924
+      },
+      {
+        "token": "mickeys",
+        "sim": 0.5616490244865417
+      },
+      {
+        "token": "pager",
+        "sim": 0.5602723360061646
+      },
+      {
+        "token": "headphone",
+        "sim": 0.5597420930862427
+      },
+      {
+        "token": "computer",
+        "sim": 0.5593109130859375
+      },
+      {
+        "token": "passkey",
+        "sim": 0.5576062202453613
+      },
+      {
+        "token": "keypad",
+        "sim": 0.5538005828857422
+      },
+      {
+        "token": "combadge",
+        "sim": 0.5533924698829651
+      }
+    ],
+    "3": [
+      {
+        "token": "puppetman",
+        "sim": 0.6384661197662354
+      },
+      {
+        "token": "aldohn",
+        "sim": 0.6020994186401367
+      },
+      {
+        "token": "frohike",
+        "sim": 0.6018968820571899
+      },
+      {
+        "token": "kleiss",
+        "sim": 0.599934458732605
+      },
+      {
+        "token": "bursey",
+        "sim": 0.5937081575393677
+      },
+      {
+        "token": "flava",
+        "sim": 0.5906513929367065
+      },
+      {
+        "token": "radio_static",
+        "sim": 0.5898489952087402
+      },
+      {
+        "token": "medkit",
+        "sim": 0.5851471424102783
+      },
+      {
+        "token": "naville",
+        "sim": 0.5818865895271301
+      },
+      {
+        "token": "goopster",
+        "sim": 0.5798099040985107
+      },
+      {
+        "token": "whimsicalmusic",
+        "sim": 0.5790088176727295
+      },
+      {
+        "token": "doohickey",
+        "sim": 0.5790010094642639
+      },
+      {
+        "token": "doorbell_chimes",
+        "sim": 0.5766028165817261
+      },
+      {
+        "token": "frip",
+        "sim": 0.5739741325378418
+      },
+      {
+        "token": "wordekemper",
+        "sim": 0.5695298910140991
+      },
+      {
+        "token": "linda_narrating",
+        "sim": 0.5688909888267517
+      },
+      {
+        "token": "einie",
+        "sim": 0.5659404397010803
+      },
+      {
+        "token": "soft_instrumental_music",
+        "sim": 0.5658770203590393
+      },
+      {
+        "token": "machine_beeping",
+        "sim": 0.5651612877845764
+      },
+      {
+        "token": "eveything",
+        "sim": 0.5649749040603638
+      },
+      {
+        "token": "seitchik",
+        "sim": 0.5632638931274414
+      },
+      {
+        "token": "electronic_beeping",
+        "sim": 0.5630270838737488
+      },
+      {
+        "token": "portal_opens",
+        "sim": 0.5625077486038208
+      },
+      {
+        "token": "yis",
+        "sim": 0.560064435005188
+      },
+      {
+        "token": "phone_beeps",
+        "sim": 0.559464693069458
+      },
+      {
+        "token": "himbry",
+        "sim": 0.5591970086097717
+      },
+      {
+        "token": "vladakov",
+        "sim": 0.5590797662734985
+      },
+      {
+        "token": "woodrue",
+        "sim": 0.5589902400970459
+      },
+      {
+        "token": "stramm",
+        "sim": 0.5589222311973572
+      },
+      {
+        "token": "selvidge",
+        "sim": 0.5575655698776245
+      },
+      {
+        "token": "alarm_stops",
+        "sim": 0.5563141703605652
+      },
+      {
+        "token": "car_engine_starting",
+        "sim": 0.5555470585823059
+      },
+      {
+        "token": "chuckles_nervously",
+        "sim": 0.5554419755935669
+      },
+      {
+        "token": "alarm_sounds",
+        "sim": 0.5547744035720825
+      },
+      {
+        "token": "alarm_rings",
+        "sim": 0.5545583367347717
+      },
+      {
+        "token": "dionna",
+        "sim": 0.553813099861145
+      },
+      {
+        "token": "raph",
+        "sim": 0.5538036823272705
+      },
+      {
+        "token": "machine_whirring",
+        "sim": 0.5533924102783203
+      },
+      {
+        "token": "honks_horn",
+        "sim": 0.5532448291778564
+      }
+    ],
+    "1": [
+      {
+        "token": "firmware",
+        "sim": 0.636600136756897
+      },
+      {
+        "token": "touchscreen",
+        "sim": 0.6269639134407043
+      },
+      {
+        "token": "palmpilot",
+        "sim": 0.6225899457931519
+      },
+      {
+        "token": "freeware",
+        "sim": 0.6036601066589355
+      },
+      {
+        "token": "kflex",
+        "sim": 0.6006864309310913
+      },
+      {
+        "token": "vax",
+        "sim": 0.5992609262466431
+      },
+      {
+        "token": "debugger",
+        "sim": 0.5972754955291748
+      },
+      {
+        "token": "virusscan",
+        "sim": 0.5963636636734009
+      },
+      {
+        "token": "realaudio",
+        "sim": 0.5913764238357544
+      },
+      {
+        "token": "batchworks",
+        "sim": 0.5904807448387146
+      },
+      {
+        "token": "firewire",
+        "sim": 0.5872238874435425
+      },
+      {
+        "token": "activex",
+        "sim": 0.5868386030197144
+      },
+      {
+        "token": "satcom",
+        "sim": 0.5867069363594055
+      },
+      {
+        "token": "ultrafast",
+        "sim": 0.5853555202484131
+      },
+      {
+        "token": "handspring",
+        "sim": 0.5850592851638794
+      },
+      {
+        "token": "multipoint",
+        "sim": 0.5848281383514404
+      },
+      {
+        "token": "dgps",
+        "sim": 0.5825029611587524
+      },
+      {
+        "token": "ttl",
+        "sim": 0.5813908576965332
+      },
+      {
+        "token": "foxpro",
+        "sim": 0.5789904594421387
+      },
+      {
+        "token": "subnotebook",
+        "sim": 0.5772870779037476
+      },
+      {
+        "token": "thx",
+        "sim": 0.5746655464172363
+      },
+      {
+        "token": "standalone",
+        "sim": 0.5745697617530823
+      },
+      {
+        "token": "cdma",
+        "sim": 0.572775661945343
+      },
+      {
+        "token": "procomm",
+        "sim": 0.5725066661834717
+      },
+      {
+        "token": "preinstalled",
+        "sim": 0.5718592405319214
+      },
+      {
+        "token": "prosignia",
+        "sim": 0.5718328952789307
+      },
+      {
+        "token": "mvs",
+        "sim": 0.5709740519523621
+      },
+      {
+        "token": "inmarsat",
+        "sim": 0.5703334808349609
+      },
+      {
+        "token": "infobahn",
+        "sim": 0.5690203905105591
+      },
+      {
+        "token": "pdq",
+        "sim": 0.568824291229248
+      },
+      {
+        "token": "plcs",
+        "sim": 0.5685580372810364
+      },
+      {
+        "token": "wavetable",
+        "sim": 0.5665063858032227
+      },
+      {
+        "token": "laserdisc",
+        "sim": 0.5664486289024353
+      },
+      {
+        "token": "kx",
+        "sim": 0.566137433052063
+      },
+      {
+        "token": "wav",
+        "sim": 0.5657932162284851
+      },
+      {
+        "token": "applets",
+        "sim": 0.5654189586639404
+      },
+      {
+        "token": "sequencers",
+        "sim": 0.5653433203697205
+      },
+      {
+        "token": "cdrom",
+        "sim": 0.5636302828788757
+      },
+      {
+        "token": "furuno",
+        "sim": 0.5628306865692139
+      },
+      {
+        "token": "tangora",
+        "sim": 0.5603309869766235
+      },
+      {
+        "token": "scada",
+        "sim": 0.5600066184997559
+      },
+      {
+        "token": "locators",
+        "sim": 0.5598793029785156
+      },
+      {
+        "token": "denon",
+        "sim": 0.5593611598014832
+      },
+      {
+        "token": "exe",
+        "sim": 0.5583412051200867
+      },
+      {
+        "token": "nct",
+        "sim": 0.5578597784042358
+      },
+      {
+        "token": "shockwave",
+        "sim": 0.5572289228439331
+      },
+      {
+        "token": "psion",
+        "sim": 0.5566614866256714
+      },
+      {
+        "token": "garmin",
+        "sim": 0.5562455058097839
+      },
+      {
+        "token": "srl",
+        "sim": 0.5554876327514648
+      },
+      {
+        "token": "subwoofer",
+        "sim": 0.5545920729637146
+      },
+      {
+        "token": "syquest",
+        "sim": 0.5536147356033325
+      },
+      {
+        "token": "pbx",
+        "sim": 0.5526258945465088
+      }
+    ],
+    "5": [
+      {
+        "token": "northfulton",
+        "sim": 0.6082322597503662
+      },
+      {
+        "token": "lnternet",
+        "sim": 0.6036350131034851
+      },
+      {
+        "token": "messaging",
+        "sim": 0.6026297807693481
+      },
+      {
+        "token": "foxnews",
+        "sim": 0.5951587557792664
+      },
+      {
+        "token": "fileworld",
+        "sim": 0.5868701934814453
+      },
+      {
+        "token": "faq",
+        "sim": 0.5864196419715881
+      },
+      {
+        "token": "citylife",
+        "sim": 0.5850789546966553
+      },
+      {
+        "token": "compu",
+        "sim": 0.5847851037979126
+      },
+      {
+        "token": "denverpost",
+        "sim": 0.5844500064849854
+      },
+      {
+        "token": "newsreader",
+        "sim": 0.5815500020980835
+      },
+      {
+        "token": "pagemaster",
+        "sim": 0.579670786857605
+      },
+      {
+        "token": "sasslink",
+        "sim": 0.5727816820144653
+      },
+      {
+        "token": "skynet",
+        "sim": 0.5701361894607544
+      },
+      {
+        "token": "infonet",
+        "sim": 0.5670993328094482
+      },
+      {
+        "token": "tamu",
+        "sim": 0.5665470361709595
+      },
+      {
+        "token": "travelocity",
+        "sim": 0.5656652450561523
+      },
+      {
+        "token": "mov",
+        "sim": 0.5637720823287964
+      },
+      {
+        "token": "downloadable",
+        "sim": 0.5634347796440125
+      },
+      {
+        "token": "cbsnews",
+        "sim": 0.562772274017334
+      },
+      {
+        "token": "altavista",
+        "sim": 0.5612999796867371
+      },
+      {
+        "token": "telnet",
+        "sim": 0.5608010292053223
+      },
+      {
+        "token": "oped",
+        "sim": 0.5572073459625244
+      },
+      {
+        "token": "roboticizer",
+        "sim": 0.5569361448287964
+      },
+      {
+        "token": "worldnet",
+        "sim": 0.5564495921134949
+      },
+      {
+        "token": "algor",
+        "sim": 0.5529931783676147
+      },
+      {
+        "token": "cdnow",
+        "sim": 0.5528744459152222
+      }
+    ]
+  }
+}
