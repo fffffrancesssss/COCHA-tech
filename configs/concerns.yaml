@@ -1,0 +1,191 @@
+version: "v1"
+notes:
+  - "All axes are computed from word sets: axis = mean(pos) - mean(neg) (or mean(setA)-mean(setB))."
+  - "If a token is missing in a decade vocab, skip it; enforce min_hits to avoid noisy axes."
+
+sentiment:
+  positive:
+    base:
+      - good
+      - benefit
+      - benefits
+      - improve
+      - improved
+      - safe
+      - safety
+      - progress
+      - opportunity
+      - efficient
+      - promising
+    alt:
+      - positive
+      - helpful
+      - advantage
+      - success
+      - hope
+      - innovation
+      - modern
+      - advanced
+      - convenient
+      - reliable
+  negative:
+    base:
+      - bad
+      - harm
+      - harmful
+      - danger
+      - dangerous
+      - threat
+      - fear
+      - problem
+      - crisis
+      - disaster
+      - risk
+    alt:
+      - negative
+      - awful
+      - failure
+      - panic
+      - concern
+      - worried
+      - alarming
+      - catastrophe
+      - unsafe
+      - poison
+
+concerns:
+  unemployment:
+    base:
+      - unemployment
+      - job
+      - jobs
+      - layoff
+      - layoffs
+      - worker
+      - workers
+      - wage
+      - wages
+      - displacement
+    alt:
+      - employment
+      - jobless
+      - layoffs
+      - labor
+      - workers
+      - workplace
+      - replace
+      - replacing
+      - automation
+      - outsource
+
+  health:
+    base:
+      - health
+      - safe
+      - safety
+      - risk
+      - harmful
+      - disease
+      - cancer
+      - toxic
+      - side
+      - effect
+    alt:
+      - illness
+      - sick
+      - medicine
+      - hospital
+      - poison
+      - contamination
+      - outbreak
+      - infection
+      - vaccine
+      - symptoms
+
+  privacy:
+    base:
+      - privacy
+      - surveillance
+      - tracking
+      - data
+      - personal
+      - consent
+      - leak
+      - spying
+    alt:
+      - private
+      - confidential
+      - monitor
+      - monitoring
+      - cameras
+      - record
+      - recording
+      - identity
+      - anonymous
+      - breach
+
+  childhood:
+    base:
+      - child
+      - children
+      - teen
+      - teens
+      - youth
+      - school
+      - addiction
+      - attention
+    alt:
+      - childhood
+      - teenager
+      - students
+      - classroom
+      - parenting
+      - parent
+      - play
+      - screen
+      - bullying
+      - abuse
+
+  information:
+    base:
+      - misinformation
+      - rumor
+      - propaganda
+      - censorship
+      - truth
+      - bias
+      - fake
+      - echo
+    alt:
+      - information
+      - news
+      - media
+      - narrative
+      - lies
+      - deception
+      - manipulation
+      - credibility
+      - trust
+      - hoax
+
+  tech_companies:
+    base:
+      - company
+      - companies
+      - corporation
+      - monopoly
+      - platform
+      - regulation
+      - antitrust
+      - lobby
+    alt:
+      - corporate
+      - industry
+      - firms
+      - business
+      - profit
+      - power
+      - control
+      - governance
+      - lawsuit
+      - regulator

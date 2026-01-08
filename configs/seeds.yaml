@@ -1,0 +1,166 @@
+version: "v1"
+notes:
+  - "Each tech concept is represented by a seed list. Use centroid of available tokens per decade."
+  - "Keep seeds mostly unigrams to be robust if vocab has no phrases."
+  - "Use alt lists for sensitivity checks."
+
+tech_concepts:
+  nuclear:
+    base:
+      - nuclear
+      - atomic
+      - reactor
+      - radiation
+      - uranium
+      - plutonium
+      - fallout
+      - radioactive
+      - isotope
+      - meltdown
+      - weapon
+      - bomb
+    alt:
+      - nuclear
+      - atomic
+      - reactor
+      - reactors
+      - radiation
+      - radioactive
+      - uranium
+      - plutonium
+      - waste
+      - accident
+      - disaster
+      - test
+
+  gmo:
+    base:
+      - gmo
+      - genetically
+      - modified
+      - transgenic
+      - biotechnology
+      - biotech
+      - crop
+      - crops
+      - seed
+      - corn
+      - soybean
+    alt:
+      - genetic
+      - genetically
+      - modified
+      - modification
+      - transgenic
+      - engineered
+      - engineering
+      - biotech
+      - biotechnology
+      - crop
+      - crops
+      - food
+
+  smartphone:
+    base:
+      - smartphone
+      - iphone
+      - android
+      - mobile
+      - cellphone
+      - phone
+      - app
+      - apps
+      - texting
+      - touchscreen
+    alt:
+      - mobile
+      - cellphone
+      - phones
+      - wireless
+      - handheld
+      - iphone
+      - android
+      - app
+      - apps
+      - messaging
+
+  social_media:
+    base:
+      - social
+      - media
+      - facebook
+      - twitter
+      - instagram
+      - blog
+      - blogging
+      - tweet
+      - online
+      - community
+    alt:
+      - social
+      - media
+      - networking
+      - network
+      - online
+      - forum
+      - forums
+      - platform
+      - sharing
+      - viral
+
+  # Combined concept: smartphone & social media
+  phone_social:
+    combine:
+      - smartphone
+      - social_media
+    notes:
+      - "Compute centroid_smartphone and centroid_social_media, then average them."
+      - "Also report each sub-concept separately for internal contrast."
+
+  ai:
+    base:
+      - ai
+      - artificial
+      - intelligence
+      - machine
+      - learning
+      - algorithm
+      - neural
+      - network
+      - expert
+      - system
+    alt:
+      - artificial
+      - intelligence
+      - ai
+      - algorithms
+      - neural
+      - networks
+      - model
+      - models
+      - prediction
+      - automated
+
+  automation_control:
+    base:
+      - robot
+      - robotics
+      - automation
+      - automated
+      - computerization
+      - software
+      - machinery
+      - replace
+      - replacing
+      - productivity
+    alt:
+      - automation
+      - automated
+      - robots
+      - robot
+      - software
+      - computerized
+      - replacing
+      - efficiency
+      - workplace
+      - factory

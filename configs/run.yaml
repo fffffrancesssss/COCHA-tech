@@ -1,0 +1,79 @@
+version: "v1"
+
+paths:
+  raw_dir: "/Users/liruiling/Desktop/COCHA/raw"
+  output_dir: "results"
+
+data:
+  decade_glob: "*-w.npy"
+  vocab_suffix: "-vocab.pkl"
+  vector_suffix: "-w.npy"
+
+alignment:
+  enabled: true
+  method: "orthogonal_procrustes"
+  reference_decade: "2000"
+  # anchors define which tokens are used to align each decade to reference space
+  anchors:
+    strategy: "intersection_topk"
+    topk: 50000
+    # If you can get frequency ranks later, use them; otherwise this is a fallback.
+    min_token_length: 2
+    exclude_regex:
+      - "^[0-9]+$"
+      - "^[^a-zA-Z]+$"
+
+concepts:
+  tech_concepts_to_run:
+    - nuclear
+    - gmo
+    - phone_social
+    - ai
+  also_run_subconcepts:
+    - smartphone
+    - social_media
+    - automation_control
+
+axes:
+  sentiment_version: "base"
+  concerns_version: "base"
+  min_hits_per_axis: 5        # minimum number of tokens found in a set to compute an axis
+  min_hits_per_concept: 4     # minimum number of tech seed tokens found per decade to compute concept centroid
+
+baseline:
+  enabled: true
+  # baseline tokens used to estimate background association per decade
+  strategy: "random_vocab_sample"
+  sample_size: 5000
+  random_seed: 13
+
+neighbors:
+  enabled: true
+  topn: 200
+  filter:
+    min_length: 2
+    exclude_regex:
+      - "^[0-9]+$"
+      - "^[^a-zA-Z]+$"
+
+clustering:
+  enabled: true
+  method: "kmeans"
+  k_range: [6, 10]        # try multiple K, pick by silhouette or fixed rule
+  random_seed: 13
+
+bootstrap:
+  enabled: true
+  n_boot: 200
+  ci: 0.95
+  # bootstrap over seeds to get uncertainty bands (simple + fast)
+  resample:
+    tech_seeds: true
+    axis_seeds: true
+    anchors: false
+
+reporting:
+  save_csv: true
+  save_figures: true
+  figure_format: "png"
+  decimals: 4
