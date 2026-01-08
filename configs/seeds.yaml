@@ -122,23 +122,36 @@ tech_concepts:
   ai:
     base:
       - ai
-      - ml
-      - artificial_intelligence
-      - machine_learning
+      - inference
+      - heuristic
       - algorithm
-      - neural_network
+      - algorithms
       - deep_learning
+      - perceptron
       - turing
       - cybernetics
       - computing
+      - computational
+      - cryptography
+      - dbms
+      - sql
+      - deepblue
+      - deepmind
+      - openai
+      - alphago
+      - expertsystem
+
     alt:
       - artificial
       - intelligence
+      - programming
       - machine
       - learning
       - ai
       - algorithms
       - neural
+      - network
+      - net
       - networks
       - model
       - models

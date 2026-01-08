@@ -4,819 +4,821 @@
   "concept_hits": 3,
   "sub_hits": null,
   "topn": 200,
-  "k": 6,
-  "silhouette": 0.1180727556347847,
+  "k": 7,
+  "silhouette": 0.056549862027168274,
   "clusters": {
-    "4": [
-      {
-        "token": "ml",
-        "sim": 0.7246400117874146
-      },
-      {
-        "token": "chromic",
-        "sim": 0.6031609177589417
-      },
-      {
-        "token": "iodate",
-        "sim": 0.592963457107544
-      },
-      {
-        "token": "arsenious",
-        "sim": 0.586137592792511
-      },
-      {
-        "token": "ceric",
-        "sim": 0.5793837308883667
-      },
-      {
-        "token": "thiocyanate",
-        "sim": 0.5716564059257507
-      },
-      {
-        "token": "bichromate",
-        "sim": 0.5671348571777344
-      },
-      {
-        "token": "ferrocyanide",
-        "sim": 0.5630939602851868
-      },
-      {
-        "token": "volumetric",
-        "sim": 0.5627763271331787
-      },
-      {
-        "token": "arsenite",
-        "sim": 0.5509949922561646
-      },
-      {
-        "token": "anhydrous",
-        "sim": 0.5390909910202026
-      },
-      {
-        "token": "acetic",
-        "sim": 0.5307811498641968
-      },
-      {
-        "token": "titrating",
-        "sim": 0.5289961099624634
-      },
-      {
-        "token": "titrate",
-        "sim": 0.5246599316596985
-      },
-      {
-        "token": "barium",
-        "sim": 0.5228179097175598
-      },
-      {
-        "token": "benzoic",
-        "sim": 0.5221656560897827
-      },
-      {
-        "token": "thiosulfate",
-        "sim": 0.520849347114563
-      },
-      {
-        "token": "phosphoric",
-        "sim": 0.5199733972549438
-      },
-      {
-        "token": "diphenylamine",
-        "sim": 0.5199729800224304
-      },
-      {
-        "token": "iodide",
-        "sim": 0.5196678638458252
-      },
-      {
-        "token": "naoh",
-        "sim": 0.5156738758087158
-      },
-      {
-        "token": "cuprammonium",
-        "sim": 0.5125749707221985
-      },
-      {
-        "token": "oxalate",
-        "sim": 0.5079255700111389
-      },
-      {
-        "token": "permanganate",
-        "sim": 0.5061444044113159
-      },
-      {
-        "token": "ethyl",
-        "sim": 0.5016865134239197
-      },
-      {
-        "token": "nh",
-        "sim": 0.5002663731575012
-      },
-      {
-        "token": "hypochlorite",
-        "sim": 0.4983960688114166
-      },
-      {
-        "token": "sulfuric",
-        "sim": 0.49729305505752563
-      },
-      {
-        "token": "lithium",
-        "sim": 0.4955388903617859
-      },
-      {
-        "token": "potassium",
-        "sim": 0.4947517216205597
-      },
-      {
-        "token": "sulphate",
-        "sim": 0.4945601522922516
-      },
-      {
-        "token": "hydrochloric",
-        "sim": 0.4942551255226135
-      },
-      {
-        "token": "chromate",
-        "sim": 0.49159717559814453
-      },
-      {
-        "token": "stannous",
-        "sim": 0.4903852939605713
-      },
-      {
-        "token": "chloride",
-        "sim": 0.4875819683074951
-      },
-      {
-        "token": "sulfate",
-        "sim": 0.48592260479927063
-      },
-      {
-        "token": "hydroxide",
-        "sim": 0.4856293201446533
-      },
-      {
-        "token": "fluoride",
-        "sim": 0.48241591453552246
-      },
-      {
-        "token": "ethanol",
-        "sim": 0.48030585050582886
-      },
-      {
-        "token": "bismuth",
-        "sim": 0.47970548272132874
-      },
-      {
-        "token": "sodium",
-        "sim": 0.4782951772212982
-      },
-      {
-        "token": "phenolphthalein",
-        "sim": 0.47787249088287354
-      },
-      {
-        "token": "xanthate",
-        "sim": 0.47480204701423645
-      },
-      {
-        "token": "colloidal",
-        "sim": 0.47197529673576355
-      },
-      {
-        "token": "axby",
-        "sim": 0.4708750545978546
-      },
-      {
-        "token": "titrated",
-        "sim": 0.4708276093006134
-      },
-      {
-        "token": "titration",
-        "sim": 0.47012054920196533
-      },
-      {
-        "token": "electrolyte",
-        "sim": 0.46994924545288086
-      },
-      {
-        "token": "sulphuric",
-        "sim": 0.46821898221969604
-      },
-      {
-        "token": "bicarbonate",
-        "sim": 0.4675697684288025
-      },
-      {
-        "token": "hc",
-        "sim": 0.46605736017227173
-      },
-      {
-        "token": "fluorine",
-        "sim": 0.4655000865459442
-      },
-      {
-        "token": "humic",
-        "sim": 0.46272897720336914
-      },
-      {
-        "token": "alkalis",
-        "sim": 0.4615047872066498
-      },
-      {
-        "token": "reagent",
-        "sim": 0.4610499143600464
-      },
-      {
-        "token": "titanium",
-        "sim": 0.45976337790489197
-      },
-      {
-        "token": "carbonate",
-        "sim": 0.4563007950782776
-      },
-      {
-        "token": "excystation",
-        "sim": 0.45524758100509644
-      },
-      {
-        "token": "nitrite",
-        "sim": 0.4545629322528839
-      },
-      {
-        "token": "cadmium",
-        "sim": 0.45449644327163696
-      },
-      {
-        "token": "acetone",
-        "sim": 0.4544207453727722
-      },
-      {
-        "token": "nitric",
-        "sim": 0.45252758264541626
-      },
-      {
-        "token": "antimony",
-        "sim": 0.45164889097213745
-      },
-      {
-        "token": "tannic",
-        "sim": 0.4514683783054352
-      },
-      {
-        "token": "solids",
-        "sim": 0.45076608657836914
-      },
-      {
-        "token": "hypo",
-        "sim": 0.44861847162246704
-      },
-      {
-        "token": "bromide",
-        "sim": 0.44790542125701904
-      },
-      {
-        "token": "glucose",
-        "sim": 0.4450966417789459
-      },
-      {
-        "token": "oxide",
-        "sim": 0.44408297538757324
-      },
-      {
-        "token": "methyl",
-        "sim": 0.44381165504455566
-      },
-      {
-        "token": "adsorbed",
-        "sim": 0.443494975566864
-      },
-      {
-        "token": "buffered",
-        "sim": 0.44267699122428894
-      },
-      {
-        "token": "beaker",
-        "sim": 0.4404936730861664
-      },
-      {
-        "token": "ammonium",
-        "sim": 0.43920525908470154
-      },
-      {
-        "token": "carbonic",
-        "sim": 0.4390961527824402
-      },
-      {
-        "token": "selenium",
-        "sim": 0.43907713890075684
-      }
-    ],
-    "2": [
+    "0": [
       {
         "token": "computing",
-        "sim": 0.6642799377441406
-      },
-      {
-        "token": "coul",
-        "sim": 0.5667993426322937
-      },
-      {
-        "token": "leakages",
-        "sim": 0.5144071578979492
-      },
-      {
-        "token": "dt",
-        "sim": 0.5110391974449158
-      },
-      {
-        "token": "refractive",
-        "sim": 0.5074923634529114
-      },
-      {
-        "token": "worths",
-        "sim": 0.507247805595398
-      },
-      {
-        "token": "mesons",
-        "sim": 0.48423153162002563
-      },
-      {
-        "token": "ans",
-        "sim": 0.48144179582595825
-      },
-      {
-        "token": "multiples",
-        "sim": 0.47191542387008667
-      },
-      {
-        "token": "outputs",
-        "sim": 0.4712669551372528
-      },
-      {
-        "token": "nonproper",
-        "sim": 0.46942418813705444
-      },
-      {
-        "token": "bc",
-        "sim": 0.4660492539405823
-      },
-      {
-        "token": "variances",
-        "sim": 0.46554625034332275
-      },
-      {
-        "token": "cpm",
-        "sim": 0.4645764231681824
-      },
-      {
-        "token": "xo",
-        "sim": 0.45809274911880493
+        "sim": 0.6899291276931763
       },
       {
         "token": "computation",
-        "sim": 0.45529496669769287
+        "sim": 0.5063650608062744
       },
       {
-        "token": "measurement",
-        "sim": 0.45253604650497437
+        "token": "actuarial",
+        "sim": 0.49937549233436584
       },
       {
-        "token": "coefficient",
-        "sim": 0.45221826434135437
+        "token": "computed",
+        "sim": 0.49817487597465515
+      },
+      {
+        "token": "unplanned",
+        "sim": 0.45927250385284424
       },
       {
         "token": "compute",
-        "sim": 0.4498261511325836
+        "sim": 0.45582979917526245
       },
       {
-        "token": "vector",
-        "sim": 0.4479743242263794
+        "token": "shortcuts",
+        "sim": 0.4553959369659424
+      },
+      {
+        "token": "somatic",
+        "sim": 0.454717218875885
+      },
+      {
+        "token": "estimating",
+        "sim": 0.445730984210968
+      },
+      {
+        "token": "determining",
+        "sim": 0.4400014579296112
+      },
+      {
+        "token": "cuny",
+        "sim": 0.4394497275352478
+      },
+      {
+        "token": "gatherers",
+        "sim": 0.43898269534111023
+      },
+      {
+        "token": "calculation",
+        "sim": 0.4344254732131958
+      },
+      {
+        "token": "unanticipated",
+        "sim": 0.4290139675140381
+      },
+      {
+        "token": "evaluating",
+        "sim": 0.42869704961776733
+      },
+      {
+        "token": "dialysis",
+        "sim": 0.42681998014450073
+      },
+      {
+        "token": "overestimate",
+        "sim": 0.4227079451084137
+      }
+    ],
+    "4": [
+      {
+        "token": "inference",
+        "sim": 0.6274120211601257
+      },
+      {
+        "token": "explicandum",
+        "sim": 0.5457425117492676
+      },
+      {
+        "token": "epistemologist",
+        "sim": 0.5241804718971252
+      },
+      {
+        "token": "observational",
+        "sim": 0.5201365947723389
+      },
+      {
+        "token": "logico",
+        "sim": 0.5027159452438354
+      },
+      {
+        "token": "explicans",
+        "sim": 0.4928257465362549
+      },
+      {
+        "token": "conjectural",
+        "sim": 0.49198049306869507
+      },
+      {
+        "token": "dretske",
+        "sim": 0.4835911989212036
+      },
+      {
+        "token": "inductive",
+        "sim": 0.48349466919898987
+      },
+      {
+        "token": "phenomenological",
+        "sim": 0.48091819882392883
+      },
+      {
+        "token": "predictive",
+        "sim": 0.4807250499725342
+      },
+      {
+        "token": "husserl",
+        "sim": 0.4755541980266571
+      },
+      {
+        "token": "litwak",
+        "sim": 0.4746614396572113
+      },
+      {
+        "token": "postulates",
+        "sim": 0.4743068814277649
+      },
+      {
+        "token": "phenomenology",
+        "sim": 0.4735764265060425
+      },
+      {
+        "token": "deductive",
+        "sim": 0.47162961959838867
+      },
+      {
+        "token": "grammars",
+        "sim": 0.4712345004081726
+      },
+      {
+        "token": "senescence",
+        "sim": 0.46562105417251587
+      },
+      {
+        "token": "unscientific",
+        "sim": 0.4632320702075958
+      },
+      {
+        "token": "mediational",
+        "sim": 0.46059131622314453
+      },
+      {
+        "token": "demonstrable",
+        "sim": 0.45611417293548584
+      },
+      {
+        "token": "theoretic",
+        "sim": 0.4558590352535248
+      },
+      {
+        "token": "charcot",
+        "sim": 0.45582646131515503
+      },
+      {
+        "token": "transformational",
+        "sim": 0.45397573709487915
+      },
+      {
+        "token": "reversibility",
+        "sim": 0.4531160593032837
+      },
+      {
+        "token": "kulpe",
+        "sim": 0.4530050754547119
+      },
+      {
+        "token": "ebbinghaus",
+        "sim": 0.452580988407135
+      },
+      {
+        "token": "uniformities",
+        "sim": 0.4518711566925049
+      },
+      {
+        "token": "complementarity",
+        "sim": 0.4509405493736267
+      },
+      {
+        "token": "geomorphology",
+        "sim": 0.4502909183502197
+      },
+      {
+        "token": "conventionalism",
+        "sim": 0.44886189699172974
+      },
+      {
+        "token": "predicates",
+        "sim": 0.4456924498081207
+      },
+      {
+        "token": "nep",
+        "sim": 0.44427841901779175
+      },
+      {
+        "token": "biomedical",
+        "sim": 0.443393349647522
+      },
+      {
+        "token": "rapp",
+        "sim": 0.4422951340675354
+      },
+      {
+        "token": "agassi",
+        "sim": 0.440238356590271
+      },
+      {
+        "token": "commonsense",
+        "sim": 0.43928128480911255
+      },
+      {
+        "token": "calculus",
+        "sim": 0.43830767273902893
+      },
+      {
+        "token": "intelligibility",
+        "sim": 0.43464237451553345
+      },
+      {
+        "token": "formulations",
+        "sim": 0.4330800771713257
+      },
+      {
+        "token": "empiricist",
+        "sim": 0.43159541487693787
+      },
+      {
+        "token": "linguistics",
+        "sim": 0.43084651231765747
+      },
+      {
+        "token": "wundt",
+        "sim": 0.42991703748703003
+      },
+      {
+        "token": "imprecise",
+        "sim": 0.4271417558193207
+      },
+      {
+        "token": "regrettably",
+        "sim": 0.42623257637023926
+      },
+      {
+        "token": "bracketing",
+        "sim": 0.425607830286026
+      },
+      {
+        "token": "applicability",
+        "sim": 0.4248465597629547
+      },
+      {
+        "token": "analytical",
+        "sim": 0.42467236518859863
+      },
+      {
+        "token": "morphological",
+        "sim": 0.4240303933620453
+      },
+      {
+        "token": "gestalt",
+        "sim": 0.42389920353889465
+      },
+      {
+        "token": "danda",
+        "sim": 0.42322176694869995
+      },
+      {
+        "token": "internalization",
+        "sim": 0.4229443669319153
+      },
+      {
+        "token": "keynesian",
+        "sim": 0.42267081141471863
+      },
+      {
+        "token": "statistical",
+        "sim": 0.42234426736831665
+      },
+      {
+        "token": "conventionalist",
+        "sim": 0.42230772972106934
+      },
+      {
+        "token": "giedion",
+        "sim": 0.42128729820251465
+      },
+      {
+        "token": "stenography",
+        "sim": 0.4209696650505066
       }
     ],
     "5": [
       {
         "token": "ai",
-        "sim": 0.6051149368286133
+        "sim": 0.595819890499115
       },
       {
-        "token": "erdtman",
-        "sim": 0.528784990310669
+        "token": "humbertwhat",
+        "sim": 0.47874516248703003
       },
       {
-        "token": "freudenberg",
-        "sim": 0.48802340030670166
+        "token": "gemora",
+        "sim": 0.45577189326286316
       },
       {
-        "token": "pieper",
-        "sim": 0.47620922327041626
+        "token": "spooked",
+        "sim": 0.44642025232315063
       },
       {
-        "token": "stoichiometry",
-        "sim": 0.47169405221939087
+        "token": "is",
+        "sim": 0.44173017144203186
       },
       {
-        "token": "wg",
-        "sim": 0.4673182964324951
+        "token": "menzel",
+        "sim": 0.4396427273750305
       },
       {
-        "token": "cp",
-        "sim": 0.46619343757629395
+        "token": "xo",
+        "sim": 0.4390712380409241
       },
       {
-        "token": "chem",
-        "sim": 0.4576745629310608
+        "token": "aubie",
+        "sim": 0.4302981495857239
       },
       {
-        "token": "mn",
-        "sim": 0.4573913514614105
+        "token": "shitting",
+        "sim": 0.4280858337879181
       },
       {
-        "token": "supp",
-        "sim": 0.4527984857559204
+        "token": "larrywhat",
+        "sim": 0.4278251826763153
       },
       {
-        "token": "rothamsted",
-        "sim": 0.45042648911476135
+        "token": "charlieyou",
+        "sim": 0.42554837465286255
       },
+      {
+        "token": "ericait",
+        "sim": 0.4254336357116699
+      },
+      {
+        "token": "eddiewhat",
+        "sim": 0.4234869182109833
+      },
+      {
+        "token": "relaciones",
+        "sim": 0.4229649603366852
+      }
+    ],
+    "2": [
       {
         "token": "schell",
-        "sim": 0.44913315773010254
+        "sim": 0.5159956216812134
       },
       {
-        "token": "ien",
-        "sim": 0.44837889075279236
+        "token": "proration",
+        "sim": 0.5097450017929077
       },
       {
-        "token": "cygni",
-        "sim": 0.44601160287857056
+        "token": "meruit",
+        "sim": 0.47503066062927246
       },
       {
-        "token": "proc",
-        "sim": 0.4438111186027527
+        "token": "tera",
+        "sim": 0.468452513217926
       },
       {
-        "token": "roseoh",
-        "sim": 0.4436856210231781
+        "token": "deduction",
+        "sim": 0.4618806540966034
       },
       {
-        "token": "ithaca",
-        "sim": 0.4427449703216553
+        "token": "specifying",
+        "sim": 0.4614329934120178
       },
       {
-        "token": "ci",
-        "sim": 0.4407699704170227
+        "token": "parol",
+        "sim": 0.4603596031665802
       },
       {
-        "token": "cn",
-        "sim": 0.4403645694255829
+        "token": "deducting",
+        "sim": 0.4597903788089752
       },
       {
-        "token": "hui",
-        "sim": 0.4390084147453308
-      }
-    ],
-    "3": [
-      {
-        "token": "kg",
-        "sim": 0.5663188695907593
-      },
-      {
-        "token": "tdn",
-        "sim": 0.5235467553138733
-      },
-      {
-        "token": "btu",
-        "sim": 0.5180538892745972
-      },
-      {
-        "token": "kilogram",
-        "sim": 0.49725303053855896
-      },
-      {
-        "token": "lumens",
-        "sim": 0.4926006495952606
-      },
-      {
-        "token": "ducados",
-        "sim": 0.4872518479824066
-      },
-      {
-        "token": "mpc",
-        "sim": 0.4767169952392578
-      },
-      {
-        "token": "rads",
-        "sim": 0.4741201400756836
-      },
-      {
-        "token": "ergs",
-        "sim": 0.4724899232387543
-      },
-      {
-        "token": "butterfat",
-        "sim": 0.46557268500328064
-      },
-      {
-        "token": "kilowatthour",
-        "sim": 0.46530479192733765
-      },
-      {
-        "token": "rem",
-        "sim": 0.4626750648021698
-      },
-      {
-        "token": "milligrams",
-        "sim": 0.4550219774246216
-      },
-      {
-        "token": "centimeter",
-        "sim": 0.4548533260822296
-      },
-      {
-        "token": "kwhr",
-        "sim": 0.45427393913269043
-      },
-      {
-        "token": "roubles",
-        "sim": 0.45326343178749084
-      },
-      {
-        "token": "hundredths",
-        "sim": 0.4447822570800781
-      },
-      {
-        "token": "calculates",
-        "sim": 0.44318631291389465
-      }
-    ],
-    "0": [
-      {
-        "token": "ethanolysis",
-        "sim": 0.524468183517456
-      },
-      {
-        "token": "monomeric",
-        "sim": 0.5191704034805298
-      },
-      {
-        "token": "nitrobenzene",
-        "sim": 0.5087372660636902
-      },
-      {
-        "token": "phenols",
-        "sim": 0.5062485337257385
-      },
-      {
-        "token": "hydrocellulose",
-        "sim": 0.5025368928909302
-      },
-      {
-        "token": "sulfite",
-        "sim": 0.5022684335708618
-      },
-      {
-        "token": "lignosulfonic",
-        "sim": 0.5021295547485352
-      },
-      {
-        "token": "benzene",
-        "sim": 0.5010673403739929
-      },
-      {
-        "token": "phenylpropane",
-        "sim": 0.501049816608429
-      },
-      {
-        "token": "thorium",
-        "sim": 0.500220000743866
-      },
-      {
-        "token": "sulfonation",
-        "sim": 0.4973813593387604
-      },
-      {
-        "token": "pulping",
-        "sim": 0.49584633111953735
-      },
-      {
-        "token": "methoxyl",
-        "sim": 0.49186599254608154
-      },
-      {
-        "token": "hs",
-        "sim": 0.4865040183067322
-      },
-      {
-        "token": "riboflavin",
-        "sim": 0.48608648777008057
-      },
-      {
-        "token": "enterococci",
-        "sim": 0.48326611518859863
-      },
-      {
-        "token": "lysine",
-        "sim": 0.4820897579193115
-      },
-      {
-        "token": "adsorption",
-        "sim": 0.47978779673576355
-      },
-      {
-        "token": "pantothenic",
-        "sim": 0.4783504605293274
-      },
-      {
-        "token": "phenolic",
-        "sim": 0.4781583249568939
-      },
-      {
-        "token": "stoichiometric",
-        "sim": 0.47422879934310913
-      },
-      {
-        "token": "carboxyl",
-        "sim": 0.4735031723976135
-      },
-      {
-        "token": "titrations",
-        "sim": 0.47163286805152893
-      },
-      {
-        "token": "oxycellulose",
-        "sim": 0.4683017134666443
-      },
-      {
-        "token": "alcohols",
-        "sim": 0.46642595529556274
-      },
-      {
-        "token": "streptomycin",
-        "sim": 0.4646797180175781
-      },
-      {
-        "token": "roughage",
-        "sim": 0.46107161045074463
-      },
-      {
-        "token": "tannins",
-        "sim": 0.4599013328552246
-      },
-      {
-        "token": "pasteurization",
-        "sim": 0.4592980444431305
-      },
-      {
-        "token": "strontium",
-        "sim": 0.4572979807853699
-      },
-      {
-        "token": "esters",
-        "sim": 0.4566183090209961
-      },
-      {
-        "token": "ase",
-        "sim": 0.45614466071128845
-      },
-      {
-        "token": "sterols",
-        "sim": 0.4557260274887085
-      },
-      {
-        "token": "ingestion",
-        "sim": 0.4556867182254791
-      },
-      {
-        "token": "myoglobin",
-        "sim": 0.45415621995925903
-      },
-      {
-        "token": "hydroxyl",
-        "sim": 0.454038143157959
-      },
-      {
-        "token": "catalysts",
-        "sim": 0.4535735547542572
-      },
-      {
-        "token": "hemoglobin",
-        "sim": 0.4530743658542633
-      },
-      {
-        "token": "tritium",
-        "sim": 0.4523477554321289
-      },
-      {
-        "token": "dammar",
-        "sim": 0.4501992166042328
-      },
-      {
-        "token": "effluent",
-        "sim": 0.4499640166759491
-      },
-      {
-        "token": "myofibrillar",
-        "sim": 0.44809967279434204
-      },
-      {
-        "token": "aldehyde",
-        "sim": 0.4465157985687256
-      },
-      {
-        "token": "creosote",
-        "sim": 0.44475042819976807
-      },
-      {
-        "token": "intramuscular",
-        "sim": 0.44457054138183594
+        "token": "hettrick",
+        "sim": 0.444509357213974
       },
       {
-        "token": "pasteurized",
-        "sim": 0.44326215982437134
+        "token": "nya",
+        "sim": 0.4442063868045807
       },
       {
-        "token": "pollutant",
-        "sim": 0.4426339268684387
+        "token": "reclassification",
+        "sim": 0.4418935477733612
       },
       {
-        "token": "ambient",
-        "sim": 0.4424310028553009
+        "token": "admissible",
+        "sim": 0.440753698348999
       },
       {
-        "token": "particulate",
-        "sim": 0.4417906701564789
+        "token": "bonk",
+        "sim": 0.4378839135169983
       },
       {
-        "token": "isoprene",
-        "sim": 0.44095945358276367
+        "token": "audited",
+        "sim": 0.43725189566612244
       },
       {
-        "token": "lignins",
-        "sim": 0.44095391035079956
+        "token": "retroactively",
+        "sim": 0.42956218123435974
       },
       {
-        "token": "aniline",
-        "sim": 0.4405377507209778
+        "token": "atascadero",
+        "sim": 0.4292391538619995
       },
       {
-        "token": "glycolysis",
-        "sim": 0.4404841661453247
+        "token": "apportionment",
+        "sim": 0.4238858222961426
       },
       {
-        "token": "methylene",
-        "sim": 0.44039541482925415
+        "token": "contributory",
+        "sim": 0.42126157879829407
       }
     ],
     "1": [
       {
-        "token": "resistor",
-        "sim": 0.4980870485305786
+        "token": "stoichiometry",
+        "sim": 0.5141377449035645
       },
       {
-        "token": "amperes",
-        "sim": 0.49155181646347046
+        "token": "kroeber",
+        "sim": 0.4989664554595947
       },
       {
-        "token": "brazing",
-        "sim": 0.4817623496055603
+        "token": "interpolation",
+        "sim": 0.4725256562232971
       },
       {
-        "token": "ignitor",
-        "sim": 0.46268120408058167
+        "token": "democritus",
+        "sim": 0.46794217824935913
       },
       {
-        "token": "thyratron",
-        "sim": 0.45428621768951416
+        "token": "koyre",
+        "sim": 0.46411821246147156
       },
       {
-        "token": "subsecond",
-        "sim": 0.4511979818344116
+        "token": "generalization",
+        "sim": 0.45334893465042114
       },
       {
-        "token": "polariser",
-        "sim": 0.44675183296203613
+        "token": "dobereiner",
+        "sim": 0.45269811153411865
       },
       {
-        "token": "pearlite",
-        "sim": 0.44580814242362976
+        "token": "formism",
+        "sim": 0.44879600405693054
       },
       {
-        "token": "alternant",
-        "sim": 0.4443797767162323
+        "token": "uw",
+        "sim": 0.44558945298194885
       },
       {
-        "token": "dielectric",
-        "sim": 0.4442653954029083
+        "token": "berdyaev",
+        "sim": 0.44381916522979736
       },
       {
-        "token": "ferrite",
-        "sim": 0.44127196073532104
+        "token": "bonfils",
+        "sim": 0.440219521522522
       },
       {
-        "token": "balmer",
-        "sim": 0.43924733996391296
+        "token": "nomenclature",
+        "sim": 0.43871399760246277
+      },
+      {
+        "token": "referential",
+        "sim": 0.43678128719329834
+      },
+      {
+        "token": "danilevsky",
+        "sim": 0.43366190791130066
+      },
+      {
+        "token": "hsin",
+        "sim": 0.4321761429309845
+      },
+      {
+        "token": "walras",
+        "sim": 0.4318915009498596
+      },
+      {
+        "token": "allport",
+        "sim": 0.43145692348480225
+      },
+      {
+        "token": "analogical",
+        "sim": 0.429660826921463
+      },
+      {
+        "token": "anaphoric",
+        "sim": 0.4291993975639343
+      },
+      {
+        "token": "eclecticism",
+        "sim": 0.429158478975296
+      },
+      {
+        "token": "nabhi",
+        "sim": 0.42826592922210693
+      },
+      {
+        "token": "concordance",
+        "sim": 0.4279664158821106
+      },
+      {
+        "token": "phonemic",
+        "sim": 0.4266263544559479
+      },
+      {
+        "token": "linguistician",
+        "sim": 0.4264383316040039
+      },
+      {
+        "token": "datum",
+        "sim": 0.42535310983657837
+      },
+      {
+        "token": "corpuscular",
+        "sim": 0.4246624708175659
+      }
+    ],
+    "6": [
+      {
+        "token": "joule",
+        "sim": 0.4804578423500061
+      },
+      {
+        "token": "dt",
+        "sim": 0.4793938994407654
+      },
+      {
+        "token": "heritability",
+        "sim": 0.4759318232536316
+      },
+      {
+        "token": "retrieval",
+        "sim": 0.47232159972190857
+      },
+      {
+        "token": "nonproper",
+        "sim": 0.47073978185653687
+      },
+      {
+        "token": "variances",
+        "sim": 0.4637995660305023
+      },
+      {
+        "token": "subfield",
+        "sim": 0.46257293224334717
+      },
+      {
+        "token": "cpm",
+        "sim": 0.4620404839515686
+      },
+      {
+        "token": "relativistic",
+        "sim": 0.4608950614929199
+      },
+      {
+        "token": "ethanolysis",
+        "sim": 0.46013209223747253
+      },
+      {
+        "token": "worths",
+        "sim": 0.4588788151741028
+      },
+      {
+        "token": "arithmetical",
+        "sim": 0.45741409063339233
+      },
+      {
+        "token": "outputs",
+        "sim": 0.4568484425544739
+      },
+      {
+        "token": "volumetric",
+        "sim": 0.4551496207714081
+      },
+      {
+        "token": "coul",
+        "sim": 0.45499521493911743
+      },
+      {
+        "token": "erdtman",
+        "sim": 0.44943690299987793
+      },
+      {
+        "token": "phenylpropane",
+        "sim": 0.44777676463127136
+      },
+      {
+        "token": "monomeric",
+        "sim": 0.44521892070770264
+      },
+      {
+        "token": "leakages",
+        "sim": 0.44415467977523804
+      },
+      {
+        "token": "measurement",
+        "sim": 0.44222941994667053
+      },
+      {
+        "token": "excystation",
+        "sim": 0.44003480672836304
+      },
+      {
+        "token": "stoichiometric",
+        "sim": 0.4393445551395416
+      },
+      {
+        "token": "ingestion",
+        "sim": 0.4392803907394409
+      },
+      {
+        "token": "sulfonation",
+        "sim": 0.4386827349662781
+      },
+      {
+        "token": "carcinogen",
+        "sim": 0.4382588267326355
+      },
+      {
+        "token": "equivalence",
+        "sim": 0.43708017468452454
+      },
+      {
+        "token": "subsidization",
+        "sim": 0.43665552139282227
+      },
+      {
+        "token": "optimal",
+        "sim": 0.4345490336418152
+      },
+      {
+        "token": "durations",
+        "sim": 0.43392413854599
+      },
+      {
+        "token": "proc",
+        "sim": 0.43366894125938416
+      },
+      {
+        "token": "tdn",
+        "sim": 0.43346914649009705
+      },
+      {
+        "token": "carcinogenic",
+        "sim": 0.4321579039096832
+      },
+      {
+        "token": "quasar",
+        "sim": 0.4315691590309143
+      },
+      {
+        "token": "tritium",
+        "sim": 0.4309787154197693
+      },
+      {
+        "token": "titrations",
+        "sim": 0.4280881881713867
+      },
+      {
+        "token": "subatomic",
+        "sim": 0.42789748311042786
+      },
+      {
+        "token": "adsorption",
+        "sim": 0.42648977041244507
+      },
+      {
+        "token": "stulls",
+        "sim": 0.42642301321029663
+      },
+      {
+        "token": "noncritical",
+        "sim": 0.4256548583507538
+      },
+      {
+        "token": "lysine",
+        "sim": 0.42477530241012573
+      },
+      {
+        "token": "caries",
+        "sim": 0.4233325123786926
+      },
+      {
+        "token": "multiplier",
+        "sim": 0.42179447412490845
+      },
+      {
+        "token": "freudenberg",
+        "sim": 0.4211015999317169
+      }
+    ],
+    "3": [
+      {
+        "token": "empirically",
+        "sim": 0.4792643189430237
+      },
+      {
+        "token": "causality",
+        "sim": 0.472182035446167
+      },
+      {
+        "token": "referents",
+        "sim": 0.4703778624534607
+      },
+      {
+        "token": "idealization",
+        "sim": 0.468781054019928
+      },
+      {
+        "token": "verifiable",
+        "sim": 0.4630519151687622
+      },
+      {
+        "token": "noumenal",
+        "sim": 0.4626719355583191
+      },
+      {
+        "token": "phenomenologist",
+        "sim": 0.4617697596549988
+      },
+      {
+        "token": "instrumentalities",
+        "sim": 0.45841723680496216
+      },
+      {
+        "token": "redundancy",
+        "sim": 0.45213863253593445
+      },
+      {
+        "token": "postulated",
+        "sim": 0.4503445625305176
+      },
+      {
+        "token": "brahm",
+        "sim": 0.45007234811782837
+      },
+      {
+        "token": "syllogism",
+        "sim": 0.44964146614074707
+      },
+      {
+        "token": "sirrush",
+        "sim": 0.44588762521743774
+      },
+      {
+        "token": "apprehending",
+        "sim": 0.4412122368812561
+      },
+      {
+        "token": "acronym",
+        "sim": 0.44018566608428955
+      },
+      {
+        "token": "determinateness",
+        "sim": 0.43680739402770996
+      },
+      {
+        "token": "prevalences",
+        "sim": 0.4355906844139099
+      },
+      {
+        "token": "subsistent",
+        "sim": 0.4345008432865143
+      },
+      {
+        "token": "ontological",
+        "sim": 0.4314415156841278
+      },
+      {
+        "token": "clinically",
+        "sim": 0.43089866638183594
+      },
+      {
+        "token": "postulate",
+        "sim": 0.4297720491886139
+      },
+      {
+        "token": "spiritistic",
+        "sim": 0.42531144618988037
+      },
+      {
+        "token": "objectivated",
+        "sim": 0.423780232667923
+      },
+      {
+        "token": "mediated",
+        "sim": 0.42248061299324036
+      },
+      {
+        "token": "esse",
+        "sim": 0.42214810848236084
       }
     ]
   }
