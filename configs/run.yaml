@@ -29,10 +29,19 @@ concepts:
     - gmo
     - phone_social
     - ai
+    - television
+    - internet
+    - online_shopping
+    - penicillin
+    - insulin
+    - stainless_steel
+    - radar
+    - radio
+    - automation_control
   also_run_subconcepts:
     - smartphone
     - social_media
-    - automation_control
+   
 
 axes:
   sentiment_version: "base"

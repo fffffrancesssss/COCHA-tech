@@ -33,6 +33,124 @@ tech_concepts:
       - disaster
       - test
 
+  television:
+  base:
+    - television
+    - tv
+    - telecast
+    - broadcast
+    - broadcaster
+    - sitcom
+  alt:
+    - television
+    - tv
+    - broadcasting
+    - televised
+    - cable
+
+internet:
+  base:
+    - internet
+    - web
+    - website
+    - browser
+    - email
+    - online
+    - cyberspace
+    - webpage
+    - hyperlink
+  alt:
+    - internet
+    - web
+    - www
+
+
+online_shopping:
+  base:
+    - ecommerce
+    - e-commerce
+    - webshop
+    - paypal
+    - amazon
+  alt:
+    - online
+    - shopping
+    - retail
+    - order
+    - delivery
+    - shipping
+    - checkout
+    - cart
+
+antibiotics:
+  base:
+    - antibiotic
+    - antibiotics
+    - penicillin
+    - streptomycin
+    - tetracycline
+    - erythromycin
+    - amoxicillin
+    - cephalosporin
+    - antimicrobial
+    - antibacterials
+  alt:
+    - antibiotic
+    - antibiotics
+    - penicillin
+
+
+insulin:
+  base:
+    - insulin
+    - diabetes
+    - diabetic
+    - glucose
+    - hypoglycemia
+  alt:
+    - insulin
+    - diabetes
+    - bloodsugar
+    - glucose
+
+stainless_steel:
+  base:
+    - stainless
+    - chromium
+    - alloy
+  alt:
+    - corrosion
+    - stainless
+    - steel
+    - alloy
+    - chromium
+
+radar:` 1,  
+  base:
+    - radar
+    - microwave
+    - transmitter
+    - receiver
+    - antenna
+  alt:
+    - radar
+    - detection
+    - tracking
+    - signal
+
+radio:
+  base:
+    - radio
+    - broadcast
+    - transmitter
+    - receiver
+    - wireless
+  alt:
+    - radio
+    - broadcasting
+    - station
+    - program
+
   gmo:
     base:
       - gmo

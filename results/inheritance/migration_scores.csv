@@ -1,0 +1,7 @@
+from,to,concern,prev_decade,target_decade,onset_from,onset_to,edge_weight,migration_jaccard,from_tokens_n,to_tokens_n
+ai,social_media,childhood,1950,1960,1950,1960,0.6065306597126334,0.0,0,0
+ai,social_media,health,1950,1960,1950,1960,0.6065306597126334,0.0,0,0
+phone_social,gmo,childhood,1970,1980,1970,1980,0.6065306597126334,0.0,0,0
+phone_social,gmo,health,1970,1980,1970,1980,0.6065306597126334,0.0,0,0
+social_media,phone_social,childhood,1960,1970,1960,1970,0.6065306597126334,0.0,0,0
+social_media,phone_social,health,1960,1970,1960,1970,0.6065306597126334,0.0,0,0

@@ -112,106 +112,94 @@ osirak, detonators, thermite, detonates, supergun, detonated, bombs, detonation,
 
 ## ai 1980
 
-- concept_hits: 5
+- concept_hits: 3
 
-- k: 8, silhouette: 0.054
+- k: 6, silhouette: 0.103
 
 ### Cluster 0
 
-artificial, insemination, azarcon, herbicides
+heritability, phenylpropane, subfield, algol, ethanolysis, alternant, monomeric, phoneme, sulfonation, quantitatively, titrations, nonproper
 
 ### Cluster 1
 
-inference, phonological, relational, logico, conceptually, spatiotemporal, metonymic, grammars, reversibility, foodways, metaphoric, cognition
+robno, gremionis, humbertwhat, gemora, joannai, oops, chandleri, remywhat, maudei, larrywhat, squiresyou, annewhat
 
 ### Cluster 2
 
-mri, myasthenia, mammography, hiv, dyslexia, botulism, grinspoon, orthomolecular, pid, interferon, gravis, periodontal
+predictive, phonological, articulating, deletion, stoichiometry, analogue, mri, nonlinear, morphological, is, gompertz, cpm
 
 ### Cluster 3
 
-computing, imaging, coding, cloning, countermeasures, protocols, echolocation, microcomputer, accelerators, videodisc, recombinant, unproven
+ai, dyou, samuelson, aubie, lissen, afeart, rosei, realy, happent, hornwell, dannyi
 
 ### Cluster 4
 
-adaptive, gompertz, predictive, electromagnetism, heritability, physiologic, senescence, morphological, uptake, phenylpropane, prolificness, proration
+inference, observational, herskovits, explicandum, relational, explicans, logico, epistemologist, grammars, phonemic, empirically, knowable
 
 ### Cluster 5
 
-intelligence, hackers, categorized, serios, puthoff, publicizing, parapsychologists
-
-### Cluster 6
-
-observational, dramaturgical, nonlinear, analogue, programed, herskovits, extraterrestrial, knowable, relativist, epistemologist, gremionis, straightforwardly
-
-### Cluster 7
-
-articulating, rehabilitative, pretechnology, decisionmaking, abbreviation, fsr, database, simplifying, interdisciplinary, motivational, lwr, analysis
+computing, computation, arithmetical, computed, interpolation, compute, guesswork, mathematical, actuarial
 
 ## ai 1990
 
-- concept_hits: 9
+- concept_hits: 12
 
-- k: 8, silhouette: 0.068
+- k: 6, silhouette: 0.063
 
 ### Cluster 0
 
-mathematical, prereading, funetics
+combinatorial, symyx, biogenetic
 
 ### Cluster 1
 
-heuristic, deductively, instantiations, estimative, heuristics, computational, wavelet, modularity, autogenics, hemisphericity, mesoscopic, notational
+computational, algorithmic, heuristic, deductively, instantiations, computationally, nop, operationalization, microeconomics, modularity, heuristics, notational
 
 ### Cluster 2
 
-exemplification, nonsensory, techne, unilinear, predication, theoretic, counterfactual, metalanguage, epistemic, telekinesis, psychologism, determinacy
+sql, lossless, vhdl, essl, microcode, sysplex, synopsys, vsa, mnets, foxpro, mosfet, cryptography
 
 ### Cluster 3
 
-summarization, operationalization, translog, semiclassical, chronometric, nop, cointegration, inferential, computationally, hlm, nonlinearity, randomization
+algorithms, algorithm, ibmlz, pipelining, memoryless, einstimer, pka, parametric, hexadecimal, translog, subroutines, preprocessor
 
 ### Cluster 4
 
-superstring, kurzweil, turing, electrodynamics, symyx, cybernetics, cryptography, cycloid, combinatorial, biogenetic, nanoscale
+semiclassical, mesoscopic, wavelet, superstring, nanostructures, chronometric, nanoscale, electrodynamics, nonlinearity, allometric, thermodynamic, cointegration
 
 ### Cluster 5
 
-algorithm, memoryless, parametric, glm, ipsative, cacheing, divisia, boolean, traversal, cholesky, recursion, algebraic
-
-### Cluster 6
-
-einstimer, dbms, ibmlz, pka, algorithms, exocomps, vsa, pipelining, mosfet, preprocessor, sql, lossless
-
-### Cluster 7
-
-microeconomics, ijiri, operationalizing, congruency, laudan, psycholinguistic, interactionist, nacoste, evidential, paivio, logicians, posteriori
+dbms, summarization, hlm, bayesian, flowcharts, epm, graphing, cbm, floorplan, randomization, multiplexing, flexibilities
 
 ## ai 2000
 
-- concept_hits: 9
+- concept_hits: 12
 
-- k: 6, silhouette: 0.066
+- k: 7, silhouette: 0.073
 
 ### Cluster 0
 
-turing, mathematical, cryptography, fomalont, renormalization, supersymmetry, qed, superstring, combinatorial, electrodynamics, quantum, bootstrapping
+poweredge, teraflops, computer
 
 ### Cluster 1
 
-reconfigurable, geospatial, fraank, subagent, transcoder, hyperspectral, qnx, frogpad, humint, planetlab, middleware, xslt
+hlm, stata, rtop, itsacorr, bidimensional, codebook, rrna, muthn, autoregressive, hydrogeologic, summated, braillenote
 
 ### Cluster 2
 
-intensional, anthropometry, heuristic, analogizing, dembski, inference, bayesian, memetic, postbiological, grundrechnung, bayes, abelian
+reconfigurable, sql, labview, fraank, automates, nvivo, xslt, subagent, hyperspectral, planetlab, virtualization, middleware
 
 ### Cluster 3
 
-nems, barcoding, bidimensional, rtop, rrna, multipoles, engram, microtechnology, hlm, dssp, braillenote, summated
+dbms, einstimer, multithreaded, pka, microcode, cisc, preprocessor, memoryless, vhdl, graphing, ibmlz, fortran
 
 ### Cluster 4
 
-algorithm, adiabatic, algorithms, computing, bdpa, computational, multiprocessor, probabilistic, bdfp, dft, optimization, einstimer
+bdpa, nems, adiabatic, bdfp, multiprocessor, optimization, dft, microelectromechanical, scalability, sraf, architectures, algorithmic
 
 ### Cluster 5
 
-palem, microelectromechanical, proteome, germline, cryptology, turneaure, bioinformatics, moravec, cybernetics, nanomix, biomolecular, doehlert
+intensional, grundrechnung, palem, anthropometry, bayes, geospatial, analogizing, barcoding, cryptology, heuristic, memetic, bioinformatics
+
+### Cluster 6
+
+algorithms, computational, algorithm, computing, boolean, computation, probabilistic, bayesian, cryptography, mathematical, computations, deductive
