@@ -33,6 +33,18 @@ tech_concepts:
       - disaster
       - test
 
+  vaccination:
+  base:
+    - vaccine
+    - vaccines
+    - vaccination
+    - immunization
+    - inoculation
+  alt:
+    - booster
+    - shot
+    - immunity
+
   television:
   base:
     - television
@@ -98,7 +110,9 @@ antibiotics:
     - antibiotic
     - antibiotics
     - penicillin
-
+    - infection
+    - bacterial
+    - bacteria
 
 insulin:
   base:
@@ -239,7 +253,6 @@ radio:
 
   ai:
     base:
-      - ai
       - inference
       - heuristic
       - algorithm
@@ -262,6 +275,7 @@ radio:
     alt:
       - artificial
       - intelligence
+      - ai
       - programming
       - machine
       - learning

@@ -11,45 +11,51 @@ def infer_concerns(df: pd.DataFrame) -> list[str]:
 
 
 def onset_time(
-    ts: pd.DataFrame,
-    value_col: str,
-    min_hits_col: str = "concept_hits",
-    min_hits: int = 3,
-    tau: float = 0.05,
-    window: int = 3,
-    min_keep: int = 2,
-) -> float:
-    """
-    Find earliest decade t* such that:
-      - A(t) > tau
-      - among next `window` decades including t, at least `min_keep` satisfy A > tau
-      - concept_hits >= min_hits at t and at least for those kept points
-    Return decade (int) or np.nan
-    """
-    ts = ts.sort_values("decade").copy()
-    decades = ts["decade"].to_numpy()
-    vals = ts[value_col].to_numpy()
-    hits = ts[min_hits_col].to_numpy()
+    ts,                    # DataFrame: decade, A, concept_hits
+    tau: float,
+    min_hits: int,
+    window: int,
+    min_keep: int,
+    earliest_decade: int,  # 新增
+):
+    ts = ts.sort_values("decade").reset_index(drop=True)
 
-    n = len(ts)
-    for i in range(n):
-        if hits[i] < min_hits:
-            continue
-        if not np.isfinite(vals[i]):
-            continue
-        if vals[i] <= tau:
+    # A: 先跳过技术出现前的 decade
+    ts = ts[ts["decade"] >= earliest_decade].reset_index(drop=True)
+    if ts.empty:
+        return None
+
+    decades = ts["decade"].to_list()
+
+    for i in range(1, len(ts)):   # 注意从 1 开始，才能用到 t-10
+        t = ts.loc[i, "decade"]
+        prev = ts.loc[i-1, "decade"]
+
+        # 只支持 decade 步长 10 的情况
+        if t - prev != 10:
             continue
 
-        j_end = min(n, i + window)
-        ok = 0
-        for j in range(i, j_end):
-            if hits[j] < min_hits:
-                continue
-            if np.isfinite(vals[j]) and vals[j] > tau:
-                ok += 1
-        if ok >= min_keep:
-            return int(decades[i])
-    return np.nan
+        if ts.loc[i, "concept_hits"] < min_hits:
+            continue
+
+        A_prev = ts.loc[i-1, "A"]
+        A_now  = ts.loc[i, "A"]
+
+        # B: crossing 条件
+        if not (A_prev <= tau and A_now > tau):
+            continue
+
+        # window/min_keep：从 i 开始往后 window 个 decade，A>tau 且 hits>=min_hits 计数
+        end = min(len(ts), i + window)
+        keep = 0
+        for j in range(i, end):
+            if ts.loc[j, "concept_hits"] >= min_hits and ts.loc[j, "A"] > tau:
+                keep += 1
+
+        if keep >= min_keep:
+            return int(t)
+
+    return None
 
 
 def main():
