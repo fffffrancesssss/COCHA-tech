@@ -1,0 +1,827 @@
+{
+  "decade": 1900,
+  "concept": "radar",
+  "concept_hits": 3,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 8,
+  "silhouette": 0.05987809598445892,
+  "clusters": {
+    "3": [
+      {
+        "token": "transmitter",
+        "sim": 0.8790051937103271
+      },
+      {
+        "token": "receiver",
+        "sim": 0.8379172086715698
+      },
+      {
+        "token": "magneto",
+        "sim": 0.8356685638427734
+      },
+      {
+        "token": "antenna",
+        "sim": 0.8073949813842773
+      },
+      {
+        "token": "generator",
+        "sim": 0.7956506013870239
+      },
+      {
+        "token": "interrupter",
+        "sim": 0.7636681199073792
+      },
+      {
+        "token": "armature",
+        "sim": 0.7631174921989441
+      },
+      {
+        "token": "diaphragm",
+        "sim": 0.7590824961662292
+      },
+      {
+        "token": "electro",
+        "sim": 0.7526529431343079
+      },
+      {
+        "token": "magnetized",
+        "sim": 0.7364081144332886
+      },
+      {
+        "token": "condenser",
+        "sim": 0.7338459491729736
+      },
+      {
+        "token": "magnet",
+        "sim": 0.7155898213386536
+      },
+      {
+        "token": "dynamo",
+        "sim": 0.7094792127609253
+      },
+      {
+        "token": "cathode",
+        "sim": 0.7086383104324341
+      },
+      {
+        "token": "clockwork",
+        "sim": 0.707083523273468
+      },
+      {
+        "token": "switchboard",
+        "sim": 0.7041873931884766
+      },
+      {
+        "token": "turbine",
+        "sim": 0.6969379782676697
+      },
+      {
+        "token": "voltage",
+        "sim": 0.6944428086280823
+      },
+      {
+        "token": "coils",
+        "sim": 0.6859124898910522
+      },
+      {
+        "token": "watt",
+        "sim": 0.6840219497680664
+      },
+      {
+        "token": "coil",
+        "sim": 0.6749956011772156
+      },
+      {
+        "token": "electromotive",
+        "sim": 0.6650190949440002
+      },
+      {
+        "token": "vibration",
+        "sim": 0.6589831113815308
+      },
+      {
+        "token": "piston",
+        "sim": 0.642420768737793
+      },
+      {
+        "token": "ohms",
+        "sim": 0.6363738775253296
+      },
+      {
+        "token": "signaling",
+        "sim": 0.6236528754234314
+      },
+      {
+        "token": "subscriber",
+        "sim": 0.622998833656311
+      },
+      {
+        "token": "displacement",
+        "sim": 0.622244656085968
+      },
+      {
+        "token": "vibrations",
+        "sim": 0.6201230883598328
+      },
+      {
+        "token": "mercury",
+        "sim": 0.6198226809501648
+      },
+      {
+        "token": "induction",
+        "sim": 0.618763267993927
+      },
+      {
+        "token": "volts",
+        "sim": 0.6144294142723083
+      },
+      {
+        "token": "electrified",
+        "sim": 0.6130563020706177
+      },
+      {
+        "token": "aeroplanes",
+        "sim": 0.6051651239395142
+      },
+      {
+        "token": "aeroplane",
+        "sim": 0.6016413569450378
+      },
+      {
+        "token": "electrical",
+        "sim": 0.5966968536376953
+      },
+      {
+        "token": "circuit",
+        "sim": 0.5920435190200806
+      },
+      {
+        "token": "torpedoes",
+        "sim": 0.5855413675308228
+      }
+    ],
+    "1": [
+      {
+        "token": "electrode",
+        "sim": 0.7303654551506042
+      },
+      {
+        "token": "contacts",
+        "sim": 0.6942548155784607
+      },
+      {
+        "token": "filament",
+        "sim": 0.6821112036705017
+      },
+      {
+        "token": "carbon",
+        "sim": 0.6529597043991089
+      },
+      {
+        "token": "electrons",
+        "sim": 0.6492092609405518
+      },
+      {
+        "token": "granules",
+        "sim": 0.6485061645507812
+      },
+      {
+        "token": "rotating",
+        "sim": 0.6058818101882935
+      },
+      {
+        "token": "castings",
+        "sim": 0.6055400371551514
+      },
+      {
+        "token": "atmospheres",
+        "sim": 0.6025654077529907
+      },
+      {
+        "token": "meter",
+        "sim": 0.5911357402801514
+      },
+      {
+        "token": "metallic",
+        "sim": 0.5891627669334412
+      },
+      {
+        "token": "gears",
+        "sim": 0.5867962837219238
+      },
+      {
+        "token": "viscid",
+        "sim": 0.5852311849594116
+      }
+    ],
+    "7": [
+      {
+        "token": "disc",
+        "sim": 0.7257146239280701
+      },
+      {
+        "token": "platinum",
+        "sim": 0.6873764991760254
+      },
+      {
+        "token": "shank",
+        "sim": 0.645594596862793
+      },
+      {
+        "token": "stopper",
+        "sim": 0.6423170566558838
+      },
+      {
+        "token": "inserts",
+        "sim": 0.6415876150131226
+      },
+      {
+        "token": "pulley",
+        "sim": 0.6365827322006226
+      },
+      {
+        "token": "lever",
+        "sim": 0.6348464488983154
+      },
+      {
+        "token": "lens",
+        "sim": 0.6287566423416138
+      },
+      {
+        "token": "mouthpiece",
+        "sim": 0.6228578686714172
+      },
+      {
+        "token": "suction",
+        "sim": 0.6222188472747803
+      },
+      {
+        "token": "cog",
+        "sim": 0.6206768751144409
+      },
+      {
+        "token": "benzine",
+        "sim": 0.6178862452507019
+      },
+      {
+        "token": "radiator",
+        "sim": 0.615187406539917
+      },
+      {
+        "token": "vacuum",
+        "sim": 0.6126940846443176
+      },
+      {
+        "token": "projectile",
+        "sim": 0.6121236085891724
+      },
+      {
+        "token": "cylinder",
+        "sim": 0.611987829208374
+      },
+      {
+        "token": "bellows",
+        "sim": 0.6117013096809387
+      },
+      {
+        "token": "socket",
+        "sim": 0.6067623496055603
+      },
+      {
+        "token": "bulb",
+        "sim": 0.6055110096931458
+      },
+      {
+        "token": "tube",
+        "sim": 0.5994788408279419
+      },
+      {
+        "token": "clamp",
+        "sim": 0.5960033535957336
+      },
+      {
+        "token": "flue",
+        "sim": 0.5947633981704712
+      },
+      {
+        "token": "percussion",
+        "sim": 0.5898176431655884
+      },
+      {
+        "token": "galvanized",
+        "sim": 0.5886983871459961
+      },
+      {
+        "token": "kiln",
+        "sim": 0.5880778431892395
+      },
+      {
+        "token": "blower",
+        "sim": 0.5879789590835571
+      },
+      {
+        "token": "valve",
+        "sim": 0.5844552516937256
+      }
+    ],
+    "4": [
+      {
+        "token": "transmitting",
+        "sim": 0.7201600074768066
+      },
+      {
+        "token": "telephonic",
+        "sim": 0.6691129803657532
+      },
+      {
+        "token": "inserting",
+        "sim": 0.6574612259864807
+      },
+      {
+        "token": "decreases",
+        "sim": 0.6434319019317627
+      },
+      {
+        "token": "counterpoise",
+        "sim": 0.6394110918045044
+      },
+      {
+        "token": "complementary",
+        "sim": 0.6379029750823975
+      },
+      {
+        "token": "appliance",
+        "sim": 0.6367663741111755
+      },
+      {
+        "token": "faraday",
+        "sim": 0.6360510587692261
+      },
+      {
+        "token": "multiple",
+        "sim": 0.6335886120796204
+      },
+      {
+        "token": "declination",
+        "sim": 0.6195241808891296
+      },
+      {
+        "token": "transmission",
+        "sim": 0.6184272170066833
+      },
+      {
+        "token": "resonance",
+        "sim": 0.6173940896987915
+      },
+      {
+        "token": "equation",
+        "sim": 0.6154423952102661
+      },
+      {
+        "token": "molding",
+        "sim": 0.6140618324279785
+      },
+      {
+        "token": "electron",
+        "sim": 0.6125662326812744
+      },
+      {
+        "token": "marginal",
+        "sim": 0.6121417284011841
+      },
+      {
+        "token": "telephony",
+        "sim": 0.6041086912155151
+      },
+      {
+        "token": "registering",
+        "sim": 0.6033241748809814
+      },
+      {
+        "token": "inductive",
+        "sim": 0.6021271347999573
+      },
+      {
+        "token": "equations",
+        "sim": 0.6005659103393555
+      },
+      {
+        "token": "operates",
+        "sim": 0.6004908680915833
+      },
+      {
+        "token": "nuclear",
+        "sim": 0.5985497236251831
+      },
+      {
+        "token": "reversing",
+        "sim": 0.5979167819023132
+      },
+      {
+        "token": "variant",
+        "sim": 0.5974703431129456
+      },
+      {
+        "token": "socalled",
+        "sim": 0.5972740650177002
+      },
+      {
+        "token": "alignment",
+        "sim": 0.5943759679794312
+      },
+      {
+        "token": "adverb",
+        "sim": 0.5906363725662231
+      },
+      {
+        "token": "platting",
+        "sim": 0.5899192094802856
+      },
+      {
+        "token": "spectroscope",
+        "sim": 0.5881357789039612
+      },
+      {
+        "token": "stellar",
+        "sim": 0.5874198079109192
+      },
+      {
+        "token": "rearrangement",
+        "sim": 0.5873340368270874
+      },
+      {
+        "token": "cohesion",
+        "sim": 0.5870773792266846
+      },
+      {
+        "token": "conceptual",
+        "sim": 0.5867467522621155
+      },
+      {
+        "token": "transmit",
+        "sim": 0.5857570171356201
+      },
+      {
+        "token": "draftsman",
+        "sim": 0.5848051905632019
+      }
+    ],
+    "2": [
+      {
+        "token": "electrodes",
+        "sim": 0.7080798149108887
+      },
+      {
+        "token": "magnets",
+        "sim": 0.698428213596344
+      },
+      {
+        "token": "dynamos",
+        "sim": 0.6948243379592896
+      },
+      {
+        "token": "circuits",
+        "sim": 0.6815520524978638
+      },
+      {
+        "token": "receivers",
+        "sim": 0.6671702861785889
+      },
+      {
+        "token": "valves",
+        "sim": 0.6448208093643188
+      },
+      {
+        "token": "tuning",
+        "sim": 0.6307498216629028
+      },
+      {
+        "token": "plugs",
+        "sim": 0.6242751479148865
+      },
+      {
+        "token": "cylinders",
+        "sim": 0.6062183976173401
+      },
+      {
+        "token": "cylindrical",
+        "sim": 0.6058944463729858
+      },
+      {
+        "token": "terminals",
+        "sim": 0.6054825186729431
+      },
+      {
+        "token": "fillets",
+        "sim": 0.5979434251785278
+      },
+      {
+        "token": "loops",
+        "sim": 0.5903171896934509
+      }
+    ],
+    "5": [
+      {
+        "token": "chemically",
+        "sim": 0.6683534383773804
+      },
+      {
+        "token": "dioxide",
+        "sim": 0.6636656522750854
+      },
+      {
+        "token": "liquefied",
+        "sim": 0.6596236824989319
+      },
+      {
+        "token": "carbonic",
+        "sim": 0.6594594717025757
+      },
+      {
+        "token": "oxides",
+        "sim": 0.6502203941345215
+      },
+      {
+        "token": "hy",
+        "sim": 0.6501665115356445
+      },
+      {
+        "token": "decomposed",
+        "sim": 0.6448152661323547
+      },
+      {
+        "token": "magnesium",
+        "sim": 0.6354387998580933
+      },
+      {
+        "token": "gaseous",
+        "sim": 0.6349766254425049
+      },
+      {
+        "token": "dissociation",
+        "sim": 0.6335486173629761
+      },
+      {
+        "token": "hydrochloric",
+        "sim": 0.6320914030075073
+      },
+      {
+        "token": "duct",
+        "sim": 0.626215934753418
+      },
+      {
+        "token": "manganese",
+        "sim": 0.6253848075866699
+      },
+      {
+        "token": "calcium",
+        "sim": 0.6244884729385376
+      },
+      {
+        "token": "zinc",
+        "sim": 0.6233078837394714
+      },
+      {
+        "token": "nitric",
+        "sim": 0.6221750974655151
+      },
+      {
+        "token": "bleaching",
+        "sim": 0.6201733350753784
+      },
+      {
+        "token": "nitrous",
+        "sim": 0.6199511289596558
+      },
+      {
+        "token": "urine",
+        "sim": 0.6178460121154785
+      },
+      {
+        "token": "aqua",
+        "sim": 0.6132301092147827
+      },
+      {
+        "token": "aqueous",
+        "sim": 0.612575352191925
+      },
+      {
+        "token": "sulphuric",
+        "sim": 0.6093696355819702
+      },
+      {
+        "token": "helium",
+        "sim": 0.6075657606124878
+      },
+      {
+        "token": "uranium",
+        "sim": 0.6056575775146484
+      },
+      {
+        "token": "oxide",
+        "sim": 0.6023116111755371
+      },
+      {
+        "token": "sulphurous",
+        "sim": 0.6021127700805664
+      },
+      {
+        "token": "molecule",
+        "sim": 0.6012855172157288
+      },
+      {
+        "token": "arsenic",
+        "sim": 0.5977786779403687
+      },
+      {
+        "token": "molecular",
+        "sim": 0.593177080154419
+      },
+      {
+        "token": "valence",
+        "sim": 0.5902416706085205
+      },
+      {
+        "token": "diluted",
+        "sim": 0.5880275964736938
+      },
+      {
+        "token": "dissolves",
+        "sim": 0.5877174735069275
+      },
+      {
+        "token": "atomic",
+        "sim": 0.5866595506668091
+      },
+      {
+        "token": "ammonia",
+        "sim": 0.58543461561203
+      },
+      {
+        "token": "decomposes",
+        "sim": 0.5849627256393433
+      },
+      {
+        "token": "condensation",
+        "sim": 0.5848402380943298
+      }
+    ],
+    "0": [
+      {
+        "token": "motors",
+        "sim": 0.6569820046424866
+      },
+      {
+        "token": "thermal",
+        "sim": 0.6526398658752441
+      },
+      {
+        "token": "condensing",
+        "sim": 0.6443413496017456
+      },
+      {
+        "token": "generated",
+        "sim": 0.6276071667671204
+      },
+      {
+        "token": "combustion",
+        "sim": 0.6223560571670532
+      },
+      {
+        "token": "centrifugal",
+        "sim": 0.6220628023147583
+      },
+      {
+        "token": "discharges",
+        "sim": 0.6198527812957764
+      },
+      {
+        "token": "generating",
+        "sim": 0.6175931096076965
+      },
+      {
+        "token": "hydraulic",
+        "sim": 0.617518424987793
+      },
+      {
+        "token": "electrically",
+        "sim": 0.6136071681976318
+      },
+      {
+        "token": "oscillations",
+        "sim": 0.6004797220230103
+      },
+      {
+        "token": "intestine",
+        "sim": 0.5980299115180969
+      },
+      {
+        "token": "instantaneously",
+        "sim": 0.5979887843132019
+      },
+      {
+        "token": "nitrates",
+        "sim": 0.596175491809845
+      },
+      {
+        "token": "interaction",
+        "sim": 0.5954760313034058
+      },
+      {
+        "token": "oxidation",
+        "sim": 0.5954522490501404
+      },
+      {
+        "token": "urethra",
+        "sim": 0.5933250784873962
+      },
+      {
+        "token": "incandescent",
+        "sim": 0.5927640199661255
+      },
+      {
+        "token": "compression",
+        "sim": 0.5914510488510132
+      },
+      {
+        "token": "chemicals",
+        "sim": 0.5889489650726318
+      },
+      {
+        "token": "fluids",
+        "sim": 0.5875385999679565
+      }
+    ],
+    "6": [
+      {
+        "token": "prism",
+        "sim": 0.6542720794677734
+      },
+      {
+        "token": "membrane",
+        "sim": 0.6348038911819458
+      },
+      {
+        "token": "transverse",
+        "sim": 0.6331502795219421
+      },
+      {
+        "token": "radial",
+        "sim": 0.631218433380127
+      },
+      {
+        "token": "artery",
+        "sim": 0.6298243403434753
+      },
+      {
+        "token": "funnel",
+        "sim": 0.6172360777854919
+      },
+      {
+        "token": "segment",
+        "sim": 0.6169604659080505
+      },
+      {
+        "token": "longitudinal",
+        "sim": 0.6105986833572388
+      },
+      {
+        "token": "dislocation",
+        "sim": 0.6055808663368225
+      },
+      {
+        "token": "refraction",
+        "sim": 0.6049937605857849
+      },
+      {
+        "token": "spiral",
+        "sim": 0.6032000780105591
+      },
+      {
+        "token": "alternating",
+        "sim": 0.6000291705131531
+      },
+      {
+        "token": "elliptical",
+        "sim": 0.5942711234092712
+      },
+      {
+        "token": "tangent",
+        "sim": 0.5926333665847778
+      },
+      {
+        "token": "vertically",
+        "sim": 0.5886487364768982
+      },
+      {
+        "token": "rotate",
+        "sim": 0.5880879163742065
+      },
+      {
+        "token": "concave",
+        "sim": 0.5844958424568176
+      }
+    ]
+  }
+}

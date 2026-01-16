@@ -1,0 +1,825 @@
+{
+  "decade": 1990,
+  "concept": "vaccination",
+  "concept_hits": 5,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 7,
+  "silhouette": 0.0841735452413559,
+  "clusters": {
+    "6": [
+      {
+        "token": "vaccines",
+        "sim": 0.8209712505340576
+      },
+      {
+        "token": "vaccine",
+        "sim": 0.8167787790298462
+      },
+      {
+        "token": "smallpox",
+        "sim": 0.6331031322479248
+      },
+      {
+        "token": "infection",
+        "sim": 0.6325415968894958
+      },
+      {
+        "token": "polio",
+        "sim": 0.6238542795181274
+      },
+      {
+        "token": "penicillin",
+        "sim": 0.6236565709114075
+      },
+      {
+        "token": "meningitis",
+        "sim": 0.6225019693374634
+      },
+      {
+        "token": "tuberculosis",
+        "sim": 0.6220899820327759
+      },
+      {
+        "token": "antibiotics",
+        "sim": 0.6164394021034241
+      },
+      {
+        "token": "hepatitis",
+        "sim": 0.6140015125274658
+      },
+      {
+        "token": "malaria",
+        "sim": 0.6101730465888977
+      },
+      {
+        "token": "hiv",
+        "sim": 0.6035279035568237
+      },
+      {
+        "token": "rabies",
+        "sim": 0.5950764417648315
+      },
+      {
+        "token": "influenza",
+        "sim": 0.5948103666305542
+      },
+      {
+        "token": "viral",
+        "sim": 0.5855492949485779
+      },
+      {
+        "token": "diseases",
+        "sim": 0.5826296806335449
+      },
+      {
+        "token": "infections",
+        "sim": 0.5710114240646362
+      },
+      {
+        "token": "salmonella",
+        "sim": 0.5628423094749451
+      },
+      {
+        "token": "bacterial",
+        "sim": 0.5610963106155396
+      },
+      {
+        "token": "typhoid",
+        "sim": 0.5585213899612427
+      },
+      {
+        "token": "virus",
+        "sim": 0.5470209121704102
+      },
+      {
+        "token": "cholera",
+        "sim": 0.5445318222045898
+      },
+      {
+        "token": "disease",
+        "sim": 0.5441775918006897
+      },
+      {
+        "token": "strep",
+        "sim": 0.5410120487213135
+      },
+      {
+        "token": "fmd",
+        "sim": 0.5319044589996338
+      },
+      {
+        "token": "gonorrhea",
+        "sim": 0.5310554504394531
+      },
+      {
+        "token": "brucellosis",
+        "sim": 0.5299811363220215
+      }
+    ],
+    "4": [
+      {
+        "token": "vaccination",
+        "sim": 0.8017485737800598
+      },
+      {
+        "token": "inoculation",
+        "sim": 0.7546097636222839
+      },
+      {
+        "token": "immunization",
+        "sim": 0.7449823617935181
+      },
+      {
+        "token": "vaccinations",
+        "sim": 0.6986103057861328
+      },
+      {
+        "token": "tetanus",
+        "sim": 0.6827003955841064
+      },
+      {
+        "token": "rubella",
+        "sim": 0.6734397411346436
+      },
+      {
+        "token": "vaccinating",
+        "sim": 0.6465045213699341
+      },
+      {
+        "token": "inoculations",
+        "sim": 0.646355926990509
+      },
+      {
+        "token": "mumps",
+        "sim": 0.6359724998474121
+      },
+      {
+        "token": "measles",
+        "sim": 0.632529616355896
+      },
+      {
+        "token": "immunizations",
+        "sim": 0.627419650554657
+      },
+      {
+        "token": "diphtheria",
+        "sim": 0.6059190034866333
+      },
+      {
+        "token": "vaccinated",
+        "sim": 0.5659763813018799
+      },
+      {
+        "token": "chickenpox",
+        "sim": 0.5318018198013306
+      }
+    ],
+    "1": [
+      {
+        "token": "immunisation",
+        "sim": 0.7201207280158997
+      },
+      {
+        "token": "pertussis",
+        "sim": 0.7171182036399841
+      },
+      {
+        "token": "ipv",
+        "sim": 0.6609956622123718
+      },
+      {
+        "token": "dpt",
+        "sim": 0.6351525783538818
+      },
+      {
+        "token": "vancomycin",
+        "sim": 0.6236304044723511
+      },
+      {
+        "token": "immunogenicity",
+        "sim": 0.621118426322937
+      },
+      {
+        "token": "acellular",
+        "sim": 0.6183266639709473
+      },
+      {
+        "token": "hib",
+        "sim": 0.6154545545578003
+      },
+      {
+        "token": "neutralising",
+        "sim": 0.6068163514137268
+      },
+      {
+        "token": "toxoid",
+        "sim": 0.6061444282531738
+      },
+      {
+        "token": "poliovirus",
+        "sim": 0.6059256196022034
+      },
+      {
+        "token": "capsular",
+        "sim": 0.6032302379608154
+      },
+      {
+        "token": "immunoglobulin",
+        "sim": 0.6005347967147827
+      },
+      {
+        "token": "immunogen",
+        "sim": 0.599879264831543
+      },
+      {
+        "token": "immunogens",
+        "sim": 0.5971156358718872
+      },
+      {
+        "token": "immunoglobulins",
+        "sim": 0.5944223403930664
+      },
+      {
+        "token": "dtp",
+        "sim": 0.5939925909042358
+      },
+      {
+        "token": "immunised",
+        "sim": 0.5931680202484131
+      },
+      {
+        "token": "mmr",
+        "sim": 0.5917745232582092
+      },
+      {
+        "token": "antibody",
+        "sim": 0.5895938873291016
+      },
+      {
+        "token": "hcv",
+        "sim": 0.5892645716667175
+      },
+      {
+        "token": "globulin",
+        "sim": 0.5835197567939758
+      },
+      {
+        "token": "mnrgp",
+        "sim": 0.5827265381813049
+      },
+      {
+        "token": "seronegative",
+        "sim": 0.5814118385314941
+      },
+      {
+        "token": "inactivated",
+        "sim": 0.5782482624053955
+      },
+      {
+        "token": "antibodies",
+        "sim": 0.57215416431427
+      },
+      {
+        "token": "seropositive",
+        "sim": 0.5567554235458374
+      },
+      {
+        "token": "inoculated",
+        "sim": 0.544204831123352
+      },
+      {
+        "token": "titres",
+        "sim": 0.5418451428413391
+      },
+      {
+        "token": "enterococcus",
+        "sim": 0.5400446057319641
+      },
+      {
+        "token": "seroconversion",
+        "sim": 0.5359820127487183
+      }
+    ],
+    "2": [
+      {
+        "token": "pneumococcal",
+        "sim": 0.6558269262313843
+      },
+      {
+        "token": "rotavirus",
+        "sim": 0.644301176071167
+      },
+      {
+        "token": "cowpox",
+        "sim": 0.6166913509368896
+      },
+      {
+        "token": "mycobacterium",
+        "sim": 0.613856315612793
+      },
+      {
+        "token": "diarrheal",
+        "sim": 0.6114854216575623
+      },
+      {
+        "token": "poliomyelitis",
+        "sim": 0.6082145571708679
+      },
+      {
+        "token": "carinii",
+        "sim": 0.6081140041351318
+      },
+      {
+        "token": "bloodborne",
+        "sim": 0.604904055595398
+      },
+      {
+        "token": "mastitis",
+        "sim": 0.6010834574699402
+      },
+      {
+        "token": "multidrug",
+        "sim": 0.5991268157958984
+      },
+      {
+        "token": "falciparum",
+        "sim": 0.5963535904884338
+      },
+      {
+        "token": "giardiasis",
+        "sim": 0.5936958193778992
+      },
+      {
+        "token": "staphylococcal",
+        "sim": 0.5887916088104248
+      },
+      {
+        "token": "chlamydia",
+        "sim": 0.5869027376174927
+      },
+      {
+        "token": "pneumocystis",
+        "sim": 0.5868767499923706
+      },
+      {
+        "token": "hsv",
+        "sim": 0.584439218044281
+      },
+      {
+        "token": "tuberculous",
+        "sim": 0.5817135572433472
+      },
+      {
+        "token": "campylobacter",
+        "sim": 0.5793883800506592
+      },
+      {
+        "token": "streptococcal",
+        "sim": 0.5757089257240295
+      },
+      {
+        "token": "streptococcus",
+        "sim": 0.5750239491462708
+      },
+      {
+        "token": "cytomegalovirus",
+        "sim": 0.5714541673660278
+      },
+      {
+        "token": "meningococcal",
+        "sim": 0.5713797211647034
+      },
+      {
+        "token": "pylori",
+        "sim": 0.57026207447052
+      },
+      {
+        "token": "hbv",
+        "sim": 0.5670254826545715
+      },
+      {
+        "token": "cmv",
+        "sim": 0.5668725967407227
+      },
+      {
+        "token": "staph",
+        "sim": 0.566405177116394
+      },
+      {
+        "token": "hpv",
+        "sim": 0.5640780329704285
+      },
+      {
+        "token": "staphylococcus",
+        "sim": 0.5638070702552795
+      },
+      {
+        "token": "lassa",
+        "sim": 0.5611897706985474
+      },
+      {
+        "token": "bluetongue",
+        "sim": 0.5607302784919739
+      },
+      {
+        "token": "retroviruses",
+        "sim": 0.5585964322090149
+      },
+      {
+        "token": "shigella",
+        "sim": 0.5580234527587891
+      },
+      {
+        "token": "vivax",
+        "sim": 0.5577830076217651
+      },
+      {
+        "token": "sepsis",
+        "sim": 0.5551385879516602
+      },
+      {
+        "token": "leishmaniasis",
+        "sim": 0.5545492172241211
+      },
+      {
+        "token": "influenzae",
+        "sim": 0.5511829257011414
+      },
+      {
+        "token": "pneumoniae",
+        "sim": 0.551048994064331
+      },
+      {
+        "token": "listeria",
+        "sim": 0.5472742319107056
+      },
+      {
+        "token": "spongiform",
+        "sim": 0.5450202226638794
+      },
+      {
+        "token": "autoimmune",
+        "sim": 0.5448028445243835
+      },
+      {
+        "token": "leukaemia",
+        "sim": 0.5424430966377258
+      },
+      {
+        "token": "mononucleosis",
+        "sim": 0.5424041748046875
+      },
+      {
+        "token": "encephalopathy",
+        "sim": 0.5395759344100952
+      },
+      {
+        "token": "heartworm",
+        "sim": 0.5391343832015991
+      },
+      {
+        "token": "bacillus",
+        "sim": 0.5389707088470459
+      },
+      {
+        "token": "labialis",
+        "sim": 0.5363227725028992
+      },
+      {
+        "token": "plasmodium",
+        "sim": 0.5352780222892761
+      },
+      {
+        "token": "typhimurium",
+        "sim": 0.5341833829879761
+      },
+      {
+        "token": "toxoplasmosis",
+        "sim": 0.5337328910827637
+      },
+      {
+        "token": "mycobacteria",
+        "sim": 0.5326229333877563
+      },
+      {
+        "token": "endocarditis",
+        "sim": 0.531674325466156
+      },
+      {
+        "token": "chagas",
+        "sim": 0.5290287733078003
+      }
+    ],
+    "5": [
+      {
+        "token": "parenteral",
+        "sim": 0.6409198045730591
+      },
+      {
+        "token": "ceftriaxone",
+        "sim": 0.6338151693344116
+      },
+      {
+        "token": "chloramphenicol",
+        "sim": 0.631307065486908
+      },
+      {
+        "token": "antibiotic",
+        "sim": 0.6288518905639648
+      },
+      {
+        "token": "ampicillin",
+        "sim": 0.6234451532363892
+      },
+      {
+        "token": "cephalosporin",
+        "sim": 0.617739737033844
+      },
+      {
+        "token": "enteric",
+        "sim": 0.604035496711731
+      },
+      {
+        "token": "neomycin",
+        "sim": 0.6029218435287476
+      },
+      {
+        "token": "rehydration",
+        "sim": 0.5996060371398926
+      },
+      {
+        "token": "nsaid",
+        "sim": 0.5891359448432922
+      },
+      {
+        "token": "erythromycin",
+        "sim": 0.5876427888870239
+      },
+      {
+        "token": "fluoroquinolones",
+        "sim": 0.5864161252975464
+      },
+      {
+        "token": "chloroquine",
+        "sim": 0.5860066413879395
+      },
+      {
+        "token": "antiviral",
+        "sim": 0.5787664651870728
+      },
+      {
+        "token": "antimalarial",
+        "sim": 0.5750742554664612
+      },
+      {
+        "token": "anticoagulant",
+        "sim": 0.5737984776496887
+      },
+      {
+        "token": "amoxicillin",
+        "sim": 0.5695521235466003
+      },
+      {
+        "token": "immunosuppressive",
+        "sim": 0.5679105520248413
+      },
+      {
+        "token": "azt",
+        "sim": 0.5646198391914368
+      },
+      {
+        "token": "imitrex",
+        "sim": 0.5639734268188477
+      },
+      {
+        "token": "dexamethasone",
+        "sim": 0.56356281042099
+      },
+      {
+        "token": "rifampicin",
+        "sim": 0.5624005794525146
+      },
+      {
+        "token": "acidophilus",
+        "sim": 0.5598952770233154
+      },
+      {
+        "token": "ciprofloxacin",
+        "sim": 0.5592707395553589
+      },
+      {
+        "token": "antimicrobial",
+        "sim": 0.5584293603897095
+      },
+      {
+        "token": "methotrexate",
+        "sim": 0.5548305511474609
+      },
+      {
+        "token": "tetracycline",
+        "sim": 0.551260232925415
+      },
+      {
+        "token": "atabrine",
+        "sim": 0.5505244731903076
+      },
+      {
+        "token": "corticosteroids",
+        "sim": 0.5502560138702393
+      },
+      {
+        "token": "streptomycin",
+        "sim": 0.5477039217948914
+      },
+      {
+        "token": "anticoagulants",
+        "sim": 0.546413004398346
+      },
+      {
+        "token": "cisplatin",
+        "sim": 0.5459372401237488
+      },
+      {
+        "token": "corticosteroid",
+        "sim": 0.5455456972122192
+      },
+      {
+        "token": "glycerol",
+        "sim": 0.5387804508209229
+      },
+      {
+        "token": "isoniazid",
+        "sim": 0.5387689471244812
+      },
+      {
+        "token": "misoprostol",
+        "sim": 0.5364301800727844
+      },
+      {
+        "token": "taxol",
+        "sim": 0.5363051891326904
+      },
+      {
+        "token": "warfarin",
+        "sim": 0.5329076647758484
+      },
+      {
+        "token": "lovastatin",
+        "sim": 0.5326002836227417
+      },
+      {
+        "token": "propranolol",
+        "sim": 0.5315672755241394
+      },
+      {
+        "token": "antihistamine",
+        "sim": 0.5299545526504517
+      },
+      {
+        "token": "protease",
+        "sim": 0.5298122763633728
+      },
+      {
+        "token": "injections",
+        "sim": 0.529395580291748
+      }
+    ],
+    "3": [
+      {
+        "token": "thrombolytic",
+        "sim": 0.6167515516281128
+      },
+      {
+        "token": "immunosuppression",
+        "sim": 0.5909138917922974
+      },
+      {
+        "token": "prophylaxis",
+        "sim": 0.5780937671661377
+      },
+      {
+        "token": "immunological",
+        "sim": 0.5706353187561035
+      },
+      {
+        "token": "pku",
+        "sim": 0.5652335286140442
+      },
+      {
+        "token": "octreotide",
+        "sim": 0.5598013997077942
+      },
+      {
+        "token": "ototoxicity",
+        "sim": 0.55832839012146
+      },
+      {
+        "token": "immunosuppressant",
+        "sim": 0.5565884709358215
+      },
+      {
+        "token": "mefloquine",
+        "sim": 0.5535265207290649
+      },
+      {
+        "token": "atn",
+        "sim": 0.5531324148178101
+      },
+      {
+        "token": "biliary",
+        "sim": 0.5518325567245483
+      },
+      {
+        "token": "haemodialysis",
+        "sim": 0.5513710379600525
+      },
+      {
+        "token": "hcmv",
+        "sim": 0.5497829914093018
+      },
+      {
+        "token": "rebleeding",
+        "sim": 0.5490068793296814
+      },
+      {
+        "token": "sensitization",
+        "sim": 0.5482598543167114
+      },
+      {
+        "token": "cyclosporine",
+        "sim": 0.5439028143882751
+      },
+      {
+        "token": "subacute",
+        "sim": 0.5438624024391174
+      },
+      {
+        "token": "aminoglycoside",
+        "sim": 0.542328953742981
+      },
+      {
+        "token": "iddm",
+        "sim": 0.5417672395706177
+      },
+      {
+        "token": "cyclosporin",
+        "sim": 0.5408609509468079
+      },
+      {
+        "token": "eclampsia",
+        "sim": 0.5406359434127808
+      },
+      {
+        "token": "contraindications",
+        "sim": 0.540399968624115
+      },
+      {
+        "token": "galactosemia",
+        "sim": 0.5361314415931702
+      },
+      {
+        "token": "ototoxic",
+        "sim": 0.532616376876831
+      },
+      {
+        "token": "cerebrovascular",
+        "sim": 0.5314391255378723
+      },
+      {
+        "token": "anaemia",
+        "sim": 0.5296564102172852
+      }
+    ],
+    "0": [
+      {
+        "token": "serologic",
+        "sim": 0.5961625576019287
+      },
+      {
+        "token": "preclinical",
+        "sim": 0.5754270553588867
+      },
+      {
+        "token": "adjuvant",
+        "sim": 0.5711241364479065
+      },
+      {
+        "token": "adjunctive",
+        "sim": 0.570798397064209
+      },
+      {
+        "token": "nonsurgical",
+        "sim": 0.5458930134773254
+      },
+      {
+        "token": "abmt",
+        "sim": 0.5443374514579773
+      },
+      {
+        "token": "anticoagulation",
+        "sim": 0.5390406847000122
+      }
+    ]
+  }
+}

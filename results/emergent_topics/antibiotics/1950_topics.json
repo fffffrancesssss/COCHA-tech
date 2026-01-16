@@ -1,0 +1,823 @@
+{
+  "decade": 1950,
+  "concept": "antibiotics",
+  "concept_hits": 4,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.08658351004123688,
+  "clusters": {
+    "5": [
+      {
+        "token": "penicillin",
+        "sim": 0.8933313488960266
+      },
+      {
+        "token": "streptomycin",
+        "sim": 0.8735417127609253
+      },
+      {
+        "token": "antibiotics",
+        "sim": 0.8572807908058167
+      },
+      {
+        "token": "antibiotic",
+        "sim": 0.8494685292243958
+      },
+      {
+        "token": "sulfa",
+        "sim": 0.8146229982376099
+      },
+      {
+        "token": "cortisone",
+        "sim": 0.7671010494232178
+      },
+      {
+        "token": "isoniazid",
+        "sim": 0.7503136992454529
+      },
+      {
+        "token": "metrazol",
+        "sim": 0.7336481213569641
+      },
+      {
+        "token": "sulfanilamide",
+        "sim": 0.7324458360671997
+      },
+      {
+        "token": "atabrine",
+        "sim": 0.7207575440406799
+      },
+      {
+        "token": "pentothal",
+        "sim": 0.7013764977455139
+      },
+      {
+        "token": "hormone",
+        "sim": 0.6879755258560181
+      },
+      {
+        "token": "insulin",
+        "sim": 0.6730920672416687
+      },
+      {
+        "token": "injections",
+        "sim": 0.6726983785629272
+      },
+      {
+        "token": "anesthetics",
+        "sim": 0.6522911190986633
+      },
+      {
+        "token": "plasma",
+        "sim": 0.6390383243560791
+      },
+      {
+        "token": "sedation",
+        "sim": 0.6389387845993042
+      },
+      {
+        "token": "vitamin",
+        "sim": 0.6333930492401123
+      },
+      {
+        "token": "hormones",
+        "sim": 0.6294986009597778
+      },
+      {
+        "token": "drugs",
+        "sim": 0.6291227340698242
+      },
+      {
+        "token": "quinine",
+        "sim": 0.6269887089729309
+      },
+      {
+        "token": "serum",
+        "sim": 0.6219997406005859
+      },
+      {
+        "token": "sedatives",
+        "sim": 0.6165504455566406
+      },
+      {
+        "token": "adrenalin",
+        "sim": 0.6148728728294373
+      },
+      {
+        "token": "barbiturates",
+        "sim": 0.6124237775802612
+      },
+      {
+        "token": "doses",
+        "sim": 0.6121381521224976
+      },
+      {
+        "token": "gastric",
+        "sim": 0.6090736389160156
+      },
+      {
+        "token": "poisons",
+        "sim": 0.6056746244430542
+      },
+      {
+        "token": "stimulants",
+        "sim": 0.588837742805481
+      },
+      {
+        "token": "digitalis",
+        "sim": 0.5883873105049133
+      },
+      {
+        "token": "salk",
+        "sim": 0.5858771800994873
+      },
+      {
+        "token": "dosage",
+        "sim": 0.5827155709266663
+      },
+      {
+        "token": "injection",
+        "sim": 0.5823744535446167
+      },
+      {
+        "token": "treatments",
+        "sim": 0.580841064453125
+      }
+    ],
+    "4": [
+      {
+        "token": "toxins",
+        "sim": 0.7713919878005981
+      },
+      {
+        "token": "pyogenes",
+        "sim": 0.7452138662338257
+      },
+      {
+        "token": "strep",
+        "sim": 0.732531726360321
+      },
+      {
+        "token": "toxin",
+        "sim": 0.7175511717796326
+      },
+      {
+        "token": "antitoxin",
+        "sim": 0.7122467756271362
+      },
+      {
+        "token": "toxic",
+        "sim": 0.7077717185020447
+      },
+      {
+        "token": "bacilli",
+        "sim": 0.6899992823600769
+      },
+      {
+        "token": "staph",
+        "sim": 0.6854894757270813
+      },
+      {
+        "token": "viruses",
+        "sim": 0.6714639663696289
+      },
+      {
+        "token": "estrogen",
+        "sim": 0.670021653175354
+      },
+      {
+        "token": "phagocytosis",
+        "sim": 0.6680619120597839
+      },
+      {
+        "token": "antibodies",
+        "sim": 0.6621909737586975
+      },
+      {
+        "token": "undersupplied",
+        "sim": 0.6598690748214722
+      },
+      {
+        "token": "bacteria",
+        "sim": 0.6480493545532227
+      },
+      {
+        "token": "chemotherapeutic",
+        "sim": 0.6466488838195801
+      },
+      {
+        "token": "ovaries",
+        "sim": 0.6460188031196594
+      },
+      {
+        "token": "antigens",
+        "sim": 0.6447060108184814
+      },
+      {
+        "token": "infective",
+        "sim": 0.6340470314025879
+      },
+      {
+        "token": "bacillus",
+        "sim": 0.632830023765564
+      },
+      {
+        "token": "bacterial",
+        "sim": 0.6312580108642578
+      },
+      {
+        "token": "enzyme",
+        "sim": 0.629829466342926
+      },
+      {
+        "token": "germs",
+        "sim": 0.627911388874054
+      },
+      {
+        "token": "clotting",
+        "sim": 0.619714081287384
+      },
+      {
+        "token": "virus",
+        "sim": 0.6172924041748047
+      },
+      {
+        "token": "antibody",
+        "sim": 0.6113616824150085
+      },
+      {
+        "token": "cancerous",
+        "sim": 0.6073572039604187
+      },
+      {
+        "token": "trophozoites",
+        "sim": 0.6016653776168823
+      },
+      {
+        "token": "sessile",
+        "sim": 0.5991793274879456
+      },
+      {
+        "token": "psychologic",
+        "sim": 0.5982187390327454
+      },
+      {
+        "token": "prophylactic",
+        "sim": 0.5976068377494812
+      },
+      {
+        "token": "amoebic",
+        "sim": 0.596735954284668
+      },
+      {
+        "token": "amcebiasis",
+        "sim": 0.5903284549713135
+      },
+      {
+        "token": "microbes",
+        "sim": 0.5890676975250244
+      },
+      {
+        "token": "psychogenic",
+        "sim": 0.5882720947265625
+      },
+      {
+        "token": "endocrine",
+        "sim": 0.5852193236351013
+      },
+      {
+        "token": "obesity",
+        "sim": 0.5850318670272827
+      },
+      {
+        "token": "organisms",
+        "sim": 0.5847873091697693
+      },
+      {
+        "token": "pancreatic",
+        "sim": 0.583299994468689
+      },
+      {
+        "token": "contractions",
+        "sim": 0.5826936364173889
+      },
+      {
+        "token": "microbe",
+        "sim": 0.582338809967041
+      },
+      {
+        "token": "gastrointestinal",
+        "sim": 0.5814062356948853
+      },
+      {
+        "token": "pituitary",
+        "sim": 0.5779269933700562
+      }
+    ],
+    "2": [
+      {
+        "token": "cholin",
+        "sim": 0.7270431518554688
+      },
+      {
+        "token": "niacin",
+        "sim": 0.7107018232345581
+      },
+      {
+        "token": "vitro",
+        "sim": 0.6856545209884644
+      },
+      {
+        "token": "globulin",
+        "sim": 0.6749220490455627
+      },
+      {
+        "token": "pantothenic",
+        "sim": 0.6650111675262451
+      },
+      {
+        "token": "bl",
+        "sim": 0.6609148979187012
+      },
+      {
+        "token": "isotopes",
+        "sim": 0.6573769450187683
+      },
+      {
+        "token": "ascorbic",
+        "sim": 0.6544808149337769
+      },
+      {
+        "token": "caries",
+        "sim": 0.6477705240249634
+      },
+      {
+        "token": "auxins",
+        "sim": 0.6455022096633911
+      },
+      {
+        "token": "agglutination",
+        "sim": 0.6441821455955505
+      },
+      {
+        "token": "insecticides",
+        "sim": 0.6406423449516296
+      },
+      {
+        "token": "antigen",
+        "sim": 0.6383776068687439
+      },
+      {
+        "token": "strontium",
+        "sim": 0.6334876418113708
+      },
+      {
+        "token": "titrations",
+        "sim": 0.6209026575088501
+      },
+      {
+        "token": "preservative",
+        "sim": 0.6161258220672607
+      },
+      {
+        "token": "xanthate",
+        "sim": 0.6151064038276672
+      },
+      {
+        "token": "antu",
+        "sim": 0.6135385632514954
+      },
+      {
+        "token": "resins",
+        "sim": 0.611140251159668
+      },
+      {
+        "token": "detectable",
+        "sim": 0.6105701923370361
+      },
+      {
+        "token": "hydrocellulose",
+        "sim": 0.6102782487869263
+      },
+      {
+        "token": "auxin",
+        "sim": 0.6081843376159668
+      },
+      {
+        "token": "cholesterol",
+        "sim": 0.604790449142456
+      },
+      {
+        "token": "carboxyl",
+        "sim": 0.6036275625228882
+      },
+      {
+        "token": "sulfhydryl",
+        "sim": 0.6010859608650208
+      },
+      {
+        "token": "insecticide",
+        "sim": 0.600710391998291
+      },
+      {
+        "token": "keratin",
+        "sim": 0.5993708372116089
+      },
+      {
+        "token": "photosynthesis",
+        "sim": 0.5947808027267456
+      },
+      {
+        "token": "lipid",
+        "sim": 0.5881800651550293
+      },
+      {
+        "token": "aerosol",
+        "sim": 0.5828424096107483
+      },
+      {
+        "token": "rh",
+        "sim": 0.5806940197944641
+      },
+      {
+        "token": "radiations",
+        "sim": 0.5802634954452515
+      }
+    ],
+    "1": [
+      {
+        "token": "tetanus",
+        "sim": 0.7162337899208069
+      },
+      {
+        "token": "gonorrhea",
+        "sim": 0.6966383457183838
+      },
+      {
+        "token": "immunization",
+        "sim": 0.6867152452468872
+      },
+      {
+        "token": "poliomyelitis",
+        "sim": 0.6849859952926636
+      },
+      {
+        "token": "allergies",
+        "sim": 0.6804174780845642
+      },
+      {
+        "token": "peptic",
+        "sim": 0.6793340444564819
+      },
+      {
+        "token": "infections",
+        "sim": 0.6774592399597168
+      },
+      {
+        "token": "tumors",
+        "sim": 0.6632640361785889
+      },
+      {
+        "token": "gangrene",
+        "sim": 0.6601581573486328
+      },
+      {
+        "token": "meningitis",
+        "sim": 0.659679114818573
+      },
+      {
+        "token": "leukemia",
+        "sim": 0.6554133296012878
+      },
+      {
+        "token": "duodenal",
+        "sim": 0.6551520824432373
+      },
+      {
+        "token": "anemia",
+        "sim": 0.6533825397491455
+      },
+      {
+        "token": "dermatitis",
+        "sim": 0.6490856409072876
+      },
+      {
+        "token": "diabetes",
+        "sim": 0.6231347322463989
+      },
+      {
+        "token": "jaundice",
+        "sim": 0.6214085817337036
+      },
+      {
+        "token": "allergy",
+        "sim": 0.6198612451553345
+      },
+      {
+        "token": "schizophrenics",
+        "sim": 0.6171705722808838
+      },
+      {
+        "token": "diarrhea",
+        "sim": 0.6155655980110168
+      },
+      {
+        "token": "infection",
+        "sim": 0.6072625517845154
+      },
+      {
+        "token": "polio",
+        "sim": 0.604008674621582
+      },
+      {
+        "token": "dystrophy",
+        "sim": 0.6011123657226562
+      },
+      {
+        "token": "sclerosis",
+        "sim": 0.5966910123825073
+      },
+      {
+        "token": "eczema",
+        "sim": 0.5966653227806091
+      },
+      {
+        "token": "syphilis",
+        "sim": 0.5951693654060364
+      },
+      {
+        "token": "hypertension",
+        "sim": 0.5947821140289307
+      },
+      {
+        "token": "tb",
+        "sim": 0.5932078957557678
+      },
+      {
+        "token": "colitis",
+        "sim": 0.5921413898468018
+      },
+      {
+        "token": "paralytic",
+        "sim": 0.5892364978790283
+      },
+      {
+        "token": "distemper",
+        "sim": 0.5880353450775146
+      },
+      {
+        "token": "pellagra",
+        "sim": 0.5878233909606934
+      },
+      {
+        "token": "typhus",
+        "sim": 0.5871351361274719
+      },
+      {
+        "token": "hydrophobia",
+        "sim": 0.5835824608802795
+      },
+      {
+        "token": "palsy",
+        "sim": 0.5806052088737488
+      }
+    ],
+    "0": [
+      {
+        "token": "fluorine",
+        "sim": 0.6805418133735657
+      },
+      {
+        "token": "solvents",
+        "sim": 0.6681312322616577
+      },
+      {
+        "token": "bromide",
+        "sim": 0.6569746732711792
+      },
+      {
+        "token": "formaldehyde",
+        "sim": 0.6524440050125122
+      },
+      {
+        "token": "benzoic",
+        "sim": 0.6508187055587769
+      },
+      {
+        "token": "hydrochloric",
+        "sim": 0.6356104612350464
+      },
+      {
+        "token": "ammonium",
+        "sim": 0.6329869627952576
+      },
+      {
+        "token": "chromic",
+        "sim": 0.6284760236740112
+      },
+      {
+        "token": "potassium",
+        "sim": 0.6267796754837036
+      },
+      {
+        "token": "nitrous",
+        "sim": 0.6255557537078857
+      },
+      {
+        "token": "nitrite",
+        "sim": 0.624309778213501
+      },
+      {
+        "token": "sulfuric",
+        "sim": 0.6205759644508362
+      },
+      {
+        "token": "stannous",
+        "sim": 0.618817150592804
+      },
+      {
+        "token": "acetone",
+        "sim": 0.6157493591308594
+      },
+      {
+        "token": "acetic",
+        "sim": 0.6151500344276428
+      },
+      {
+        "token": "arsenite",
+        "sim": 0.6122440099716187
+      },
+      {
+        "token": "carbonic",
+        "sim": 0.6114084720611572
+      },
+      {
+        "token": "boron",
+        "sim": 0.6075482368469238
+      },
+      {
+        "token": "acid",
+        "sim": 0.6072064638137817
+      },
+      {
+        "token": "alkaline",
+        "sim": 0.6060649752616882
+      },
+      {
+        "token": "adsorption",
+        "sim": 0.6044056415557861
+      },
+      {
+        "token": "cuprammonium",
+        "sim": 0.6042344570159912
+      },
+      {
+        "token": "anaerobic",
+        "sim": 0.6041789054870605
+      },
+      {
+        "token": "methyl",
+        "sim": 0.6022241115570068
+      },
+      {
+        "token": "iodine",
+        "sim": 0.6018337607383728
+      },
+      {
+        "token": "barium",
+        "sim": 0.6018027067184448
+      },
+      {
+        "token": "ferrocyanide",
+        "sim": 0.5998836755752563
+      },
+      {
+        "token": "oxalate",
+        "sim": 0.5979782938957214
+      },
+      {
+        "token": "hypochlorite",
+        "sim": 0.5934238433837891
+      },
+      {
+        "token": "sulfate",
+        "sim": 0.5926224589347839
+      },
+      {
+        "token": "reagent",
+        "sim": 0.5921763777732849
+      },
+      {
+        "token": "hydroxide",
+        "sim": 0.5916321873664856
+      },
+      {
+        "token": "thiosulfate",
+        "sim": 0.5899290442466736
+      },
+      {
+        "token": "sulfur",
+        "sim": 0.5898594856262207
+      },
+      {
+        "token": "diphenylamine",
+        "sim": 0.5897393226623535
+      },
+      {
+        "token": "ethyl",
+        "sim": 0.5890849828720093
+      },
+      {
+        "token": "ceric",
+        "sim": 0.5867134928703308
+      },
+      {
+        "token": "iodate",
+        "sim": 0.584017276763916
+      },
+      {
+        "token": "sodium",
+        "sim": 0.5835317373275757
+      },
+      {
+        "token": "lithium",
+        "sim": 0.5825321078300476
+      },
+      {
+        "token": "arsenious",
+        "sim": 0.5815197229385376
+      },
+      {
+        "token": "bismuth",
+        "sim": 0.580520749092102
+      },
+      {
+        "token": "fecal",
+        "sim": 0.5789486169815063
+      }
+    ],
+    "3": [
+      {
+        "token": "enzymes",
+        "sim": 0.6563757658004761
+      },
+      {
+        "token": "pyrethrum",
+        "sim": 0.6388921737670898
+      },
+      {
+        "token": "substances",
+        "sim": 0.6122589707374573
+      },
+      {
+        "token": "chlorophyll",
+        "sim": 0.6078483462333679
+      },
+      {
+        "token": "amino",
+        "sim": 0.6007338762283325
+      },
+      {
+        "token": "milligrams",
+        "sim": 0.5970083475112915
+      },
+      {
+        "token": "vitamins",
+        "sim": 0.5934056043624878
+      },
+      {
+        "token": "phosphates",
+        "sim": 0.5895161032676697
+      },
+      {
+        "token": "lignin",
+        "sim": 0.5887134075164795
+      },
+      {
+        "token": "sugars",
+        "sim": 0.5874341726303101
+      },
+      {
+        "token": "synthesized",
+        "sim": 0.5873363614082336
+      },
+      {
+        "token": "acids",
+        "sim": 0.5850979685783386
+      },
+      {
+        "token": "starches",
+        "sim": 0.5844204425811768
+      },
+      {
+        "token": "salts",
+        "sim": 0.5812277793884277
+      },
+      {
+        "token": "ferments",
+        "sim": 0.5779674053192139
+      }
+    ]
+  }
+}

@@ -1,0 +1,829 @@
+{
+  "decade": 1990,
+  "concept": "automation_control",
+  "concept_hits": 8,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 9,
+  "silhouette": 0.04006890207529068,
+  "clusters": {
+    "8": [
+      {
+        "token": "automation",
+        "sim": 0.7624754309654236
+      },
+      {
+        "token": "robotics",
+        "sim": 0.694171667098999
+      },
+      {
+        "token": "machinery",
+        "sim": 0.6526921987533569
+      },
+      {
+        "token": "electronics",
+        "sim": 0.6446378827095032
+      },
+      {
+        "token": "technology",
+        "sim": 0.6445094347000122
+      },
+      {
+        "token": "equipment",
+        "sim": 0.6281898021697998
+      },
+      {
+        "token": "hardware",
+        "sim": 0.6169705390930176
+      },
+      {
+        "token": "manufacturing",
+        "sim": 0.5693448781967163
+      },
+      {
+        "token": "avionics",
+        "sim": 0.5534189939498901
+      },
+      {
+        "token": "technologies",
+        "sim": 0.5530287623405457
+      },
+      {
+        "token": "telecommunications",
+        "sim": 0.5475659370422363
+      }
+    ],
+    "7": [
+      {
+        "token": "automated",
+        "sim": 0.7308740615844727
+      },
+      {
+        "token": "robots",
+        "sim": 0.6566681265830994
+      },
+      {
+        "token": "computerized",
+        "sim": 0.6421136856079102
+      },
+      {
+        "token": "electronic",
+        "sim": 0.6203736066818237
+      },
+      {
+        "token": "robot",
+        "sim": 0.615903377532959
+      },
+      {
+        "token": "robotic",
+        "sim": 0.5823690295219421
+      }
+    ],
+    "4": [
+      {
+        "token": "software",
+        "sim": 0.6937171816825867
+      },
+      {
+        "token": "computers",
+        "sim": 0.6564536690711975
+      },
+      {
+        "token": "machines",
+        "sim": 0.6534271240234375
+      },
+      {
+        "token": "minicomputers",
+        "sim": 0.6234687566757202
+      },
+      {
+        "token": "computer",
+        "sim": 0.6225713491439819
+      },
+      {
+        "token": "workstations",
+        "sim": 0.6158260703086853
+      },
+      {
+        "token": "supercomputers",
+        "sim": 0.5849753022193909
+      },
+      {
+        "token": "mainframe",
+        "sim": 0.5835593938827515
+      },
+      {
+        "token": "digital",
+        "sim": 0.5829142332077026
+      },
+      {
+        "token": "microprocessors",
+        "sim": 0.5819888114929199
+      },
+      {
+        "token": "microprocessor",
+        "sim": 0.574413537979126
+      },
+      {
+        "token": "workstation",
+        "sim": 0.5737479329109192
+      },
+      {
+        "token": "desktop",
+        "sim": 0.573212206363678
+      },
+      {
+        "token": "gadgetry",
+        "sim": 0.5699700713157654
+      },
+      {
+        "token": "peripherals",
+        "sim": 0.5669008493423462
+      },
+      {
+        "token": "multimedia",
+        "sim": 0.5624901056289673
+      },
+      {
+        "token": "copiers",
+        "sim": 0.5604404211044312
+      },
+      {
+        "token": "pcs",
+        "sim": 0.5581218600273132
+      }
+    ],
+    "5": [
+      {
+        "token": "scada",
+        "sim": 0.6825436949729919
+      },
+      {
+        "token": "prototyping",
+        "sim": 0.66020667552948
+      },
+      {
+        "token": "automating",
+        "sim": 0.6401249170303345
+      },
+      {
+        "token": "teraflops",
+        "sim": 0.6191410422325134
+      },
+      {
+        "token": "debugging",
+        "sim": 0.6068354845046997
+      },
+      {
+        "token": "intergraph",
+        "sim": 0.5948686599731445
+      },
+      {
+        "token": "dbms",
+        "sim": 0.5867246985435486
+      },
+      {
+        "token": "architectures",
+        "sim": 0.5856547951698303
+      },
+      {
+        "token": "catia",
+        "sim": 0.5770097970962524
+      },
+      {
+        "token": "automate",
+        "sim": 0.5713308453559875
+      },
+      {
+        "token": "cryptographic",
+        "sim": 0.5690508484840393
+      },
+      {
+        "token": "invoicing",
+        "sim": 0.5690413117408752
+      },
+      {
+        "token": "cim",
+        "sim": 0.5609163045883179
+      },
+      {
+        "token": "cfd",
+        "sim": 0.5600125789642334
+      },
+      {
+        "token": "paperless",
+        "sim": 0.5567331314086914
+      },
+      {
+        "token": "troubleshooting",
+        "sim": 0.556429386138916
+      },
+      {
+        "token": "tpas",
+        "sim": 0.556125283241272
+      },
+      {
+        "token": "applications",
+        "sim": 0.5556384325027466
+      },
+      {
+        "token": "systems",
+        "sim": 0.5512041449546814
+      },
+      {
+        "token": "superpave",
+        "sim": 0.5509235262870789
+      },
+      {
+        "token": "turnkey",
+        "sim": 0.5500820875167847
+      },
+      {
+        "token": "cad",
+        "sim": 0.5481190085411072
+      },
+      {
+        "token": "archiving",
+        "sim": 0.5473762154579163
+      },
+      {
+        "token": "pdm",
+        "sim": 0.5453018546104431
+      },
+      {
+        "token": "configuring",
+        "sim": 0.5452044606208801
+      }
+    ],
+    "3": [
+      {
+        "token": "multiaxis",
+        "sim": 0.6586604118347168
+      },
+      {
+        "token": "photocopiers",
+        "sim": 0.6466391086578369
+      },
+      {
+        "token": "oem",
+        "sim": 0.6358517408370972
+      },
+      {
+        "token": "routers",
+        "sim": 0.6246839761734009
+      },
+      {
+        "token": "antitheft",
+        "sim": 0.62306147813797
+      },
+      {
+        "token": "chemstation",
+        "sim": 0.6176438927650452
+      },
+      {
+        "token": "preloaded",
+        "sim": 0.6025343537330627
+      },
+      {
+        "token": "machining",
+        "sim": 0.5976654291152954
+      },
+      {
+        "token": "assembler",
+        "sim": 0.5912357568740845
+      },
+      {
+        "token": "teleconferencing",
+        "sim": 0.5895633101463318
+      },
+      {
+        "token": "infobahn",
+        "sim": 0.5883002281188965
+      },
+      {
+        "token": "superfast",
+        "sim": 0.5837206244468689
+      },
+      {
+        "token": "motherboards",
+        "sim": 0.5823662877082825
+      },
+      {
+        "token": "cybex",
+        "sim": 0.5807554721832275
+      },
+      {
+        "token": "reconditioning",
+        "sim": 0.5779517889022827
+      },
+      {
+        "token": "forklifts",
+        "sim": 0.5776718854904175
+      },
+      {
+        "token": "ricoh",
+        "sim": 0.5775407552719116
+      },
+      {
+        "token": "transtar",
+        "sim": 0.5764749646186829
+      },
+      {
+        "token": "switchers",
+        "sim": 0.573839008808136
+      },
+      {
+        "token": "nordictrack",
+        "sim": 0.5712083578109741
+      },
+      {
+        "token": "ips",
+        "sim": 0.567861795425415
+      },
+      {
+        "token": "cabling",
+        "sim": 0.5626363754272461
+      },
+      {
+        "token": "steppers",
+        "sim": 0.5622289180755615
+      },
+      {
+        "token": "diagnostics",
+        "sim": 0.5606992244720459
+      },
+      {
+        "token": "zf",
+        "sim": 0.5598241686820984
+      },
+      {
+        "token": "lathes",
+        "sim": 0.5580926537513733
+      },
+      {
+        "token": "servos",
+        "sim": 0.557052731513977
+      },
+      {
+        "token": "flowmeters",
+        "sim": 0.5525622367858887
+      },
+      {
+        "token": "benchtop",
+        "sim": 0.5511413812637329
+      },
+      {
+        "token": "nct",
+        "sim": 0.5504719614982605
+      },
+      {
+        "token": "installers",
+        "sim": 0.5484877824783325
+      },
+      {
+        "token": "electrolux",
+        "sim": 0.5466731786727905
+      },
+      {
+        "token": "locators",
+        "sim": 0.5457812547683716
+      }
+    ],
+    "6": [
+      {
+        "token": "electromechanical",
+        "sim": 0.6571939587593079
+      },
+      {
+        "token": "assemblers",
+        "sim": 0.6511988043785095
+      },
+      {
+        "token": "fixturing",
+        "sim": 0.6479501128196716
+      },
+      {
+        "token": "mems",
+        "sim": 0.6469378471374512
+      },
+      {
+        "token": "sequencers",
+        "sim": 0.6312490701675415
+      },
+      {
+        "token": "microchip",
+        "sim": 0.5992526412010193
+      },
+      {
+        "token": "isolinear",
+        "sim": 0.5967056751251221
+      },
+      {
+        "token": "microelectronic",
+        "sim": 0.5897836685180664
+      },
+      {
+        "token": "vrml",
+        "sim": 0.5739940404891968
+      },
+      {
+        "token": "digitization",
+        "sim": 0.5710533857345581
+      },
+      {
+        "token": "symyx",
+        "sim": 0.5690262317657471
+      },
+      {
+        "token": "imagers",
+        "sim": 0.5666765570640564
+      },
+      {
+        "token": "nanotechnology",
+        "sim": 0.5653923749923706
+      },
+      {
+        "token": "miniaturized",
+        "sim": 0.560354471206665
+      },
+      {
+        "token": "microchips",
+        "sim": 0.5600794553756714
+      },
+      {
+        "token": "rtm",
+        "sim": 0.5574114918708801
+      },
+      {
+        "token": "mechanical",
+        "sim": 0.5541194081306458
+      },
+      {
+        "token": "mosfet",
+        "sim": 0.5534951686859131
+      },
+      {
+        "token": "hightech",
+        "sim": 0.5503333210945129
+      },
+      {
+        "token": "abrasives",
+        "sim": 0.5493720769882202
+      },
+      {
+        "token": "interfacing",
+        "sim": 0.5468550324440002
+      }
+    ],
+    "2": [
+      {
+        "token": "firmware",
+        "sim": 0.6337616443634033
+      },
+      {
+        "token": "plcs",
+        "sim": 0.6322197914123535
+      },
+      {
+        "token": "ultrafast",
+        "sim": 0.6289605498313904
+      },
+      {
+        "token": "vax",
+        "sim": 0.6276112198829651
+      },
+      {
+        "token": "synopsys",
+        "sim": 0.6241719722747803
+      },
+      {
+        "token": "microcomputers",
+        "sim": 0.6236018538475037
+      },
+      {
+        "token": "autocad",
+        "sim": 0.6213932037353516
+      },
+      {
+        "token": "standalone",
+        "sim": 0.619042694568634
+      },
+      {
+        "token": "mvs",
+        "sim": 0.6147387623786926
+      },
+      {
+        "token": "videoconferencing",
+        "sim": 0.6083372235298157
+      },
+      {
+        "token": "millicode",
+        "sim": 0.5992646813392639
+      },
+      {
+        "token": "sql",
+        "sim": 0.5966237783432007
+      },
+      {
+        "token": "integrator",
+        "sim": 0.5958616733551025
+      },
+      {
+        "token": "microcode",
+        "sim": 0.5954267978668213
+      },
+      {
+        "token": "foxpro",
+        "sim": 0.5914572477340698
+      },
+      {
+        "token": "cpus",
+        "sim": 0.5892040729522705
+      },
+      {
+        "token": "microcomputer",
+        "sim": 0.5886269211769104
+      },
+      {
+        "token": "firewire",
+        "sim": 0.5880202651023865
+      },
+      {
+        "token": "activex",
+        "sim": 0.585652232170105
+      },
+      {
+        "token": "multifunction",
+        "sim": 0.5838821530342102
+      },
+      {
+        "token": "dasd",
+        "sim": 0.5817553997039795
+      },
+      {
+        "token": "multichip",
+        "sim": 0.5817350745201111
+      },
+      {
+        "token": "palmpilot",
+        "sim": 0.5807313919067383
+      },
+      {
+        "token": "serius",
+        "sim": 0.5804293155670166
+      },
+      {
+        "token": "psf",
+        "sim": 0.5774648189544678
+      },
+      {
+        "token": "cdma",
+        "sim": 0.5734149217605591
+      },
+      {
+        "token": "iges",
+        "sim": 0.5712716579437256
+      },
+      {
+        "token": "superscalar",
+        "sim": 0.5710420608520508
+      },
+      {
+        "token": "uploading",
+        "sim": 0.5704818964004517
+      },
+      {
+        "token": "doublespace",
+        "sim": 0.5696251392364502
+      },
+      {
+        "token": "kurzweil",
+        "sim": 0.5694807171821594
+      },
+      {
+        "token": "pipelining",
+        "sim": 0.5684641599655151
+      },
+      {
+        "token": "stac",
+        "sim": 0.5680997371673584
+      },
+      {
+        "token": "sgi",
+        "sim": 0.5647329688072205
+      },
+      {
+        "token": "einstimer",
+        "sim": 0.5632476806640625
+      },
+      {
+        "token": "debugger",
+        "sim": 0.5631399750709534
+      },
+      {
+        "token": "sysplex",
+        "sim": 0.562813401222229
+      },
+      {
+        "token": "multitasking",
+        "sim": 0.5621502995491028
+      },
+      {
+        "token": "skynet",
+        "sim": 0.5601099729537964
+      },
+      {
+        "token": "digitize",
+        "sim": 0.5587097406387329
+      },
+      {
+        "token": "pka",
+        "sim": 0.5557931065559387
+      },
+      {
+        "token": "photodeluxe",
+        "sim": 0.5546574592590332
+      },
+      {
+        "token": "coprocessor",
+        "sim": 0.5539690256118774
+      },
+      {
+        "token": "subroutine",
+        "sim": 0.5538361072540283
+      },
+      {
+        "token": "cdrom",
+        "sim": 0.5532101988792419
+      },
+      {
+        "token": "essl",
+        "sim": 0.5513119697570801
+      },
+      {
+        "token": "lssd",
+        "sim": 0.5505231022834778
+      },
+      {
+        "token": "kflex",
+        "sim": 0.5504539012908936
+      },
+      {
+        "token": "videodiscs",
+        "sim": 0.5500189661979675
+      },
+      {
+        "token": "powerpc",
+        "sim": 0.5495932698249817
+      },
+      {
+        "token": "wintel",
+        "sim": 0.5478338599205017
+      },
+      {
+        "token": "sparc",
+        "sim": 0.546716570854187
+      },
+      {
+        "token": "eniac",
+        "sim": 0.5454447269439697
+      },
+      {
+        "token": "subnotebook",
+        "sim": 0.5452753901481628
+      }
+    ],
+    "0": [
+      {
+        "token": "minicomputer",
+        "sim": 0.6331835985183716
+      },
+      {
+        "token": "pbx",
+        "sim": 0.6145651340484619
+      },
+      {
+        "token": "computerization",
+        "sim": 0.6074768900871277
+      },
+      {
+        "token": "telecommunication",
+        "sim": 0.5997405052185059
+      },
+      {
+        "token": "outsourced",
+        "sim": 0.5933693647384644
+      },
+      {
+        "token": "pwb",
+        "sim": 0.5848715901374817
+      },
+      {
+        "token": "reseller",
+        "sim": 0.5681012272834778
+      },
+      {
+        "token": "komatsu",
+        "sim": 0.5643467903137207
+      },
+      {
+        "token": "fujitsu",
+        "sim": 0.561628520488739
+      },
+      {
+        "token": "amdahl",
+        "sim": 0.5593652725219727
+      },
+      {
+        "token": "ntt",
+        "sim": 0.5551051497459412
+      },
+      {
+        "token": "globalstar",
+        "sim": 0.5517100095748901
+      },
+      {
+        "token": "lexcorp",
+        "sim": 0.5511091947555542
+      },
+      {
+        "token": "unisyn",
+        "sim": 0.5504056811332703
+      },
+      {
+        "token": "jabil",
+        "sim": 0.5459767580032349
+      }
+    ],
+    "1": [
+      {
+        "token": "sequencer",
+        "sim": 0.6223239898681641
+      },
+      {
+        "token": "machine",
+        "sim": 0.6053094863891602
+      },
+      {
+        "token": "photocopier",
+        "sim": 0.5982010364532471
+      },
+      {
+        "token": "cgc",
+        "sim": 0.5881401300430298
+      },
+      {
+        "token": "multipoint",
+        "sim": 0.5855910181999207
+      },
+      {
+        "token": "wirelessly",
+        "sim": 0.5799070000648499
+      },
+      {
+        "token": "nirtsat",
+        "sim": 0.5766419172286987
+      },
+      {
+        "token": "locater",
+        "sim": 0.5698354840278625
+      },
+      {
+        "token": "digitizer",
+        "sim": 0.5686156749725342
+      },
+      {
+        "token": "multitrack",
+        "sim": 0.5632786750793457
+      },
+      {
+        "token": "programmable",
+        "sim": 0.5551417469978333
+      },
+      {
+        "token": "touchpad",
+        "sim": 0.5546788573265076
+      },
+      {
+        "token": "multichannel",
+        "sim": 0.5527462363243103
+      },
+      {
+        "token": "printhead",
+        "sim": 0.5507038831710815
+      },
+      {
+        "token": "touchscreen",
+        "sim": 0.5483454465866089
+      },
+      {
+        "token": "switcher",
+        "sim": 0.5479291677474976
+      },
+      {
+        "token": "voltmeter",
+        "sim": 0.546518087387085
+      }
+    ]
+  }
+}

@@ -1,0 +1,827 @@
+{
+  "decade": 1960,
+  "concept": "stainless_steel",
+  "concept_hits": 3,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 8,
+  "silhouette": 0.09915553778409958,
+  "clusters": {
+    "7": [
+      {
+        "token": "chromium",
+        "sim": 0.8170454502105713
+      },
+      {
+        "token": "stainless",
+        "sim": 0.7888245582580566
+      },
+      {
+        "token": "silicon",
+        "sim": 0.6669927835464478
+      },
+      {
+        "token": "aluminum",
+        "sim": 0.6521286368370056
+      },
+      {
+        "token": "chrome",
+        "sim": 0.6489614248275757
+      },
+      {
+        "token": "metal",
+        "sim": 0.648456335067749
+      },
+      {
+        "token": "plating",
+        "sim": 0.6452435851097107
+      },
+      {
+        "token": "plated",
+        "sim": 0.6229058504104614
+      },
+      {
+        "token": "zinc",
+        "sim": 0.6062359809875488
+      },
+      {
+        "token": "ingot",
+        "sim": 0.6004902720451355
+      },
+      {
+        "token": "steel",
+        "sim": 0.5961059331893921
+      },
+      {
+        "token": "iron",
+        "sim": 0.5427986979484558
+      },
+      {
+        "token": "mica",
+        "sim": 0.5412082076072693
+      },
+      {
+        "token": "copper",
+        "sim": 0.5358508229255676
+      },
+      {
+        "token": "nickel",
+        "sim": 0.5275266170501709
+      },
+      {
+        "token": "quartz",
+        "sim": 0.5238226652145386
+      },
+      {
+        "token": "platinum",
+        "sim": 0.5215378999710083
+      },
+      {
+        "token": "asbestos",
+        "sim": 0.5125449895858765
+      },
+      {
+        "token": "foil",
+        "sim": 0.5021059513092041
+      },
+      {
+        "token": "rusting",
+        "sim": 0.4875754714012146
+      }
+    ],
+    "6": [
+      {
+        "token": "alloy",
+        "sim": 0.8123905062675476
+      },
+      {
+        "token": "alloys",
+        "sim": 0.7054542303085327
+      },
+      {
+        "token": "steels",
+        "sim": 0.6752075552940369
+      },
+      {
+        "token": "magnesium",
+        "sim": 0.6696087121963501
+      },
+      {
+        "token": "titanium",
+        "sim": 0.6644738912582397
+      },
+      {
+        "token": "nonferrous",
+        "sim": 0.6601725816726685
+      },
+      {
+        "token": "tungsten",
+        "sim": 0.6346330642700195
+      },
+      {
+        "token": "manganese",
+        "sim": 0.6107954382896423
+      },
+      {
+        "token": "aluminium",
+        "sim": 0.5970494747161865
+      },
+      {
+        "token": "cobalt",
+        "sim": 0.5781742930412292
+      },
+      {
+        "token": "metals",
+        "sim": 0.5739444494247437
+      },
+      {
+        "token": "bauxite",
+        "sim": 0.5689547657966614
+      },
+      {
+        "token": "beryllium",
+        "sim": 0.5623132586479187
+      },
+      {
+        "token": "plastics",
+        "sim": 0.5208553075790405
+      }
+    ],
+    "3": [
+      {
+        "token": "bismuth",
+        "sim": 0.6486350893974304
+      },
+      {
+        "token": "cadmium",
+        "sim": 0.648097574710846
+      },
+      {
+        "token": "antimony",
+        "sim": 0.6275075078010559
+      },
+      {
+        "token": "ferrite",
+        "sim": 0.621708333492279
+      },
+      {
+        "token": "graphite",
+        "sim": 0.6177947521209717
+      },
+      {
+        "token": "oxide",
+        "sim": 0.6080946922302246
+      },
+      {
+        "token": "sulfide",
+        "sim": 0.5955870151519775
+      },
+      {
+        "token": "boron",
+        "sim": 0.5840168595314026
+      },
+      {
+        "token": "ferrous",
+        "sim": 0.5832193493843079
+      },
+      {
+        "token": "chromate",
+        "sim": 0.5782096982002258
+      },
+      {
+        "token": "zirconium",
+        "sim": 0.5760692358016968
+      },
+      {
+        "token": "electrolytic",
+        "sim": 0.5749934911727905
+      },
+      {
+        "token": "coatings",
+        "sim": 0.5749305486679077
+      },
+      {
+        "token": "anhydrous",
+        "sim": 0.5743299126625061
+      },
+      {
+        "token": "ferrocyanide",
+        "sim": 0.5692573189735413
+      },
+      {
+        "token": "acetate",
+        "sim": 0.5642702579498291
+      },
+      {
+        "token": "pearlite",
+        "sim": 0.5584787726402283
+      },
+      {
+        "token": "benzene",
+        "sim": 0.5573601722717285
+      },
+      {
+        "token": "dammar",
+        "sim": 0.5534656047821045
+      },
+      {
+        "token": "titrating",
+        "sim": 0.5523377656936646
+      },
+      {
+        "token": "nitric",
+        "sim": 0.5500800609588623
+      },
+      {
+        "token": "sulphate",
+        "sim": 0.5486613512039185
+      },
+      {
+        "token": "thorium",
+        "sim": 0.5440664887428284
+      },
+      {
+        "token": "diphenylamine",
+        "sim": 0.543438196182251
+      },
+      {
+        "token": "waterproofing",
+        "sim": 0.5427412986755371
+      },
+      {
+        "token": "vitreous",
+        "sim": 0.5418224334716797
+      },
+      {
+        "token": "stannous",
+        "sim": 0.5411641001701355
+      },
+      {
+        "token": "sulphuric",
+        "sim": 0.5407000184059143
+      },
+      {
+        "token": "silex",
+        "sim": 0.539107084274292
+      },
+      {
+        "token": "ceric",
+        "sim": 0.53844153881073
+      },
+      {
+        "token": "chloride",
+        "sim": 0.5365151166915894
+      },
+      {
+        "token": "ferric",
+        "sim": 0.5354231595993042
+      },
+      {
+        "token": "oxides",
+        "sim": 0.5339021682739258
+      },
+      {
+        "token": "oxalate",
+        "sim": 0.5330809354782104
+      },
+      {
+        "token": "fluoride",
+        "sim": 0.532808244228363
+      },
+      {
+        "token": "iodate",
+        "sim": 0.5320702791213989
+      },
+      {
+        "token": "sulfur",
+        "sim": 0.5310062766075134
+      },
+      {
+        "token": "chromic",
+        "sim": 0.530040979385376
+      },
+      {
+        "token": "arsenious",
+        "sim": 0.5300144553184509
+      },
+      {
+        "token": "tannic",
+        "sim": 0.5298791527748108
+      },
+      {
+        "token": "bichromate",
+        "sim": 0.5283691883087158
+      },
+      {
+        "token": "acetone",
+        "sim": 0.5266432762145996
+      },
+      {
+        "token": "axby",
+        "sim": 0.5263680219650269
+      },
+      {
+        "token": "phosphoric",
+        "sim": 0.526118278503418
+      },
+      {
+        "token": "sulfate",
+        "sim": 0.5256347060203552
+      },
+      {
+        "token": "aniline",
+        "sim": 0.5237389802932739
+      },
+      {
+        "token": "permanganate",
+        "sim": 0.523646891117096
+      },
+      {
+        "token": "emulsion",
+        "sim": 0.5231252908706665
+      },
+      {
+        "token": "iodide",
+        "sim": 0.5225520133972168
+      },
+      {
+        "token": "methylene",
+        "sim": 0.5203756093978882
+      },
+      {
+        "token": "varnishes",
+        "sim": 0.519220232963562
+      },
+      {
+        "token": "silica",
+        "sim": 0.5191934704780579
+      },
+      {
+        "token": "sulfuric",
+        "sim": 0.5181537866592407
+      },
+      {
+        "token": "lubricating",
+        "sim": 0.5177363753318787
+      },
+      {
+        "token": "quenching",
+        "sim": 0.5170310139656067
+      },
+      {
+        "token": "naphtha",
+        "sim": 0.5167374610900879
+      },
+      {
+        "token": "isotope",
+        "sim": 0.514934778213501
+      },
+      {
+        "token": "lithium",
+        "sim": 0.5136120915412903
+      },
+      {
+        "token": "ammonium",
+        "sim": 0.5133134722709656
+      },
+      {
+        "token": "ethanol",
+        "sim": 0.5110162496566772
+      },
+      {
+        "token": "butadiene",
+        "sim": 0.5104112029075623
+      },
+      {
+        "token": "ethyl",
+        "sim": 0.509774923324585
+      },
+      {
+        "token": "hydroxide",
+        "sim": 0.5096958875656128
+      },
+      {
+        "token": "linkages",
+        "sim": 0.5091887712478638
+      },
+      {
+        "token": "thiocyanate",
+        "sim": 0.5085891485214233
+      },
+      {
+        "token": "creosote",
+        "sim": 0.506881594657898
+      },
+      {
+        "token": "adsorption",
+        "sim": 0.5060142874717712
+      },
+      {
+        "token": "polymer",
+        "sim": 0.5057932734489441
+      },
+      {
+        "token": "paraffin",
+        "sim": 0.505720853805542
+      },
+      {
+        "token": "xanthate",
+        "sim": 0.5053148865699768
+      },
+      {
+        "token": "selenium",
+        "sim": 0.5051707029342651
+      },
+      {
+        "token": "carbon",
+        "sim": 0.5042138695716858
+      },
+      {
+        "token": "benzine",
+        "sim": 0.5039120316505432
+      },
+      {
+        "token": "resins",
+        "sim": 0.503214418888092
+      },
+      {
+        "token": "potassium",
+        "sim": 0.502440869808197
+      },
+      {
+        "token": "arsenite",
+        "sim": 0.49986904859542847
+      },
+      {
+        "token": "silicious",
+        "sim": 0.49772733449935913
+      },
+      {
+        "token": "chemically",
+        "sim": 0.4969051778316498
+      },
+      {
+        "token": "phenolphthalein",
+        "sim": 0.49669528007507324
+      },
+      {
+        "token": "titrated",
+        "sim": 0.4966650605201721
+      },
+      {
+        "token": "nitrate",
+        "sim": 0.49653902649879456
+      },
+      {
+        "token": "crystallites",
+        "sim": 0.4955195486545563
+      },
+      {
+        "token": "crystals",
+        "sim": 0.4947981834411621
+      },
+      {
+        "token": "carbonate",
+        "sim": 0.49468666315078735
+      },
+      {
+        "token": "crystalline",
+        "sim": 0.49414700269699097
+      },
+      {
+        "token": "phosphates",
+        "sim": 0.49281489849090576
+      },
+      {
+        "token": "thiosulfate",
+        "sim": 0.492428183555603
+      },
+      {
+        "token": "borax",
+        "sim": 0.49204012751579285
+      },
+      {
+        "token": "hydrocellulose",
+        "sim": 0.4903229773044586
+      },
+      {
+        "token": "corrosion",
+        "sim": 0.4891902208328247
+      },
+      {
+        "token": "powders",
+        "sim": 0.4887540340423584
+      }
+    ],
+    "4": [
+      {
+        "token": "brazing",
+        "sim": 0.6262456178665161
+      },
+      {
+        "token": "ingots",
+        "sim": 0.6064468622207642
+      },
+      {
+        "token": "soldering",
+        "sim": 0.5787069201469421
+      },
+      {
+        "token": "castings",
+        "sim": 0.5674645900726318
+      },
+      {
+        "token": "chisels",
+        "sim": 0.5505214333534241
+      },
+      {
+        "token": "welds",
+        "sim": 0.5423079133033752
+      },
+      {
+        "token": "transistors",
+        "sim": 0.5394738912582397
+      },
+      {
+        "token": "reflectors",
+        "sim": 0.5339330434799194
+      },
+      {
+        "token": "tinplate",
+        "sim": 0.5334604978561401
+      },
+      {
+        "token": "fabricating",
+        "sim": 0.5130611062049866
+      },
+      {
+        "token": "grids",
+        "sim": 0.5117650032043457
+      },
+      {
+        "token": "separator",
+        "sim": 0.5108506679534912
+      },
+      {
+        "token": "lathes",
+        "sim": 0.5083445906639099
+      },
+      {
+        "token": "cylinder",
+        "sim": 0.5051490664482117
+      },
+      {
+        "token": "airframe",
+        "sim": 0.5041010975837708
+      },
+      {
+        "token": "propellant",
+        "sim": 0.5002850294113159
+      },
+      {
+        "token": "welders",
+        "sim": 0.49854576587677
+      },
+      {
+        "token": "forges",
+        "sim": 0.49165886640548706
+      },
+      {
+        "token": "molds",
+        "sim": 0.4893595278263092
+      },
+      {
+        "token": "foundries",
+        "sim": 0.48753413558006287
+      }
+    ],
+    "2": [
+      {
+        "token": "laminated",
+        "sim": 0.6250690221786499
+      },
+      {
+        "token": "tubing",
+        "sim": 0.615837037563324
+      },
+      {
+        "token": "hexagonal",
+        "sim": 0.5649950504302979
+      },
+      {
+        "token": "disks",
+        "sim": 0.5364866256713867
+      },
+      {
+        "token": "tubular",
+        "sim": 0.5201489925384521
+      },
+      {
+        "token": "cylindrical",
+        "sim": 0.5141438245773315
+      },
+      {
+        "token": "prisms",
+        "sim": 0.5109476447105408
+      },
+      {
+        "token": "roofing",
+        "sim": 0.5075791478157043
+      },
+      {
+        "token": "uprights",
+        "sim": 0.5019797086715698
+      },
+      {
+        "token": "swage",
+        "sim": 0.5010921955108643
+      },
+      {
+        "token": "andirons",
+        "sim": 0.5005813241004944
+      }
+    ],
+    "5": [
+      {
+        "token": "enamel",
+        "sim": 0.5829999446868896
+      },
+      {
+        "token": "enamelled",
+        "sim": 0.5807060599327087
+      },
+      {
+        "token": "enamels",
+        "sim": 0.5785373449325562
+      },
+      {
+        "token": "caskets",
+        "sim": 0.570177435874939
+      },
+      {
+        "token": "ceramic",
+        "sim": 0.5623275637626648
+      },
+      {
+        "token": "lacquer",
+        "sim": 0.5618500709533691
+      },
+      {
+        "token": "enameled",
+        "sim": 0.5437511801719666
+      },
+      {
+        "token": "vinyl",
+        "sim": 0.5425010919570923
+      },
+      {
+        "token": "centerpiece",
+        "sim": 0.5368114709854126
+      },
+      {
+        "token": "bronzes",
+        "sim": 0.5349115133285522
+      },
+      {
+        "token": "linings",
+        "sim": 0.5228939056396484
+      },
+      {
+        "token": "breastplate",
+        "sim": 0.510379433631897
+      },
+      {
+        "token": "porcelain",
+        "sim": 0.5098857879638672
+      },
+      {
+        "token": "paktong",
+        "sim": 0.5086303353309631
+      },
+      {
+        "token": "sheathed",
+        "sim": 0.5083115100860596
+      },
+      {
+        "token": "inlay",
+        "sim": 0.5008996725082397
+      },
+      {
+        "token": "pumice",
+        "sim": 0.5001906156539917
+      },
+      {
+        "token": "stippling",
+        "sim": 0.4983423352241516
+      },
+      {
+        "token": "sandal",
+        "sim": 0.4961135983467102
+      },
+      {
+        "token": "buckles",
+        "sim": 0.49236127734184265
+      },
+      {
+        "token": "silver",
+        "sim": 0.4921969473361969
+      },
+      {
+        "token": "amethyst",
+        "sim": 0.49135109782218933
+      },
+      {
+        "token": "paperweight",
+        "sim": 0.4900014102458954
+      },
+      {
+        "token": "inlaid",
+        "sim": 0.48944637179374695
+      },
+      {
+        "token": "earthenware",
+        "sim": 0.4891669750213623
+      },
+      {
+        "token": "saucepan",
+        "sim": 0.4881986081600189
+      },
+      {
+        "token": "powdered",
+        "sim": 0.4876815676689148
+      }
+    ],
+    "1": [
+      {
+        "token": "ductile",
+        "sim": 0.5807766914367676
+      },
+      {
+        "token": "magneto",
+        "sim": 0.5654317140579224
+      },
+      {
+        "token": "filament",
+        "sim": 0.5509615540504456
+      },
+      {
+        "token": "annealed",
+        "sim": 0.5459712147712708
+      },
+      {
+        "token": "rectifier",
+        "sim": 0.5338712334632874
+      },
+      {
+        "token": "resistor",
+        "sim": 0.5176287293434143
+      },
+      {
+        "token": "annealing",
+        "sim": 0.5135270953178406
+      },
+      {
+        "token": "utensil",
+        "sim": 0.5074929594993591
+      },
+      {
+        "token": "electrode",
+        "sim": 0.5035186409950256
+      },
+      {
+        "token": "corroded",
+        "sim": 0.4957652688026428
+      },
+      {
+        "token": "electrolyte",
+        "sim": 0.48847854137420654
+      },
+      {
+        "token": "parenchyma",
+        "sim": 0.4873850643634796
+      }
+    ],
+    "0": [
+      {
+        "token": "smelting",
+        "sim": 0.5310994982719421
+      },
+      {
+        "token": "crucible",
+        "sim": 0.5046641826629639
+      },
+      {
+        "token": "carbide",
+        "sim": 0.5026497840881348
+      },
+      {
+        "token": "gypsum",
+        "sim": 0.5011827945709229
+      },
+      {
+        "token": "reflector",
+        "sim": 0.4937840700149536
+      }
+    ]
+  }
+}

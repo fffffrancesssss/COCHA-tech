@@ -1,0 +1,827 @@
+{
+  "decade": 1910,
+  "concept": "vaccination",
+  "concept_hits": 3,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 8,
+  "silhouette": 0.06536734849214554,
+  "clusters": {
+    "3": [
+      {
+        "token": "inoculation",
+        "sim": 0.8872374296188354
+      },
+      {
+        "token": "vaccination",
+        "sim": 0.8745989203453064
+      },
+      {
+        "token": "vaccine",
+        "sim": 0.8741175532341003
+      },
+      {
+        "token": "rabies",
+        "sim": 0.8089148998260498
+      },
+      {
+        "token": "bacillus",
+        "sim": 0.7751089930534363
+      },
+      {
+        "token": "hydrophobia",
+        "sim": 0.7624740600585938
+      },
+      {
+        "token": "antitoxin",
+        "sim": 0.7488722801208496
+      },
+      {
+        "token": "virus",
+        "sim": 0.7335257530212402
+      },
+      {
+        "token": "microbe",
+        "sim": 0.7059902548789978
+      },
+      {
+        "token": "epidemics",
+        "sim": 0.6960233449935913
+      },
+      {
+        "token": "malarial",
+        "sim": 0.6915920972824097
+      },
+      {
+        "token": "cancer",
+        "sim": 0.6827988028526306
+      },
+      {
+        "token": "inoculated",
+        "sim": 0.6735662221908569
+      },
+      {
+        "token": "diagnosed",
+        "sim": 0.6593142747879028
+      },
+      {
+        "token": "infection",
+        "sim": 0.6435639262199402
+      },
+      {
+        "token": "poisoning",
+        "sim": 0.6415920257568359
+      },
+      {
+        "token": "pasteur",
+        "sim": 0.6384877562522888
+      },
+      {
+        "token": "preventive",
+        "sim": 0.6367278695106506
+      },
+      {
+        "token": "pox",
+        "sim": 0.6313088536262512
+      },
+      {
+        "token": "scurvy",
+        "sim": 0.6009438633918762
+      },
+      {
+        "token": "parasite",
+        "sim": 0.5968012809753418
+      },
+      {
+        "token": "disease",
+        "sim": 0.594318151473999
+      },
+      {
+        "token": "leprosy",
+        "sim": 0.5929533243179321
+      },
+      {
+        "token": "incurable",
+        "sim": 0.5913709998130798
+      },
+      {
+        "token": "virulent",
+        "sim": 0.5892105102539062
+      }
+    ],
+    "5": [
+      {
+        "token": "prophylactic",
+        "sim": 0.7717843651771545
+      },
+      {
+        "token": "venereal",
+        "sim": 0.7262599468231201
+      },
+      {
+        "token": "masturbation",
+        "sim": 0.7257823944091797
+      },
+      {
+        "token": "anesthetic",
+        "sim": 0.7123346924781799
+      },
+      {
+        "token": "curative",
+        "sim": 0.7011305093765259
+      },
+      {
+        "token": "communicable",
+        "sim": 0.6952690482139587
+      },
+      {
+        "token": "dietetic",
+        "sim": 0.6633580923080444
+      },
+      {
+        "token": "bacteriology",
+        "sim": 0.6563536524772644
+      },
+      {
+        "token": "degeneration",
+        "sim": 0.6527231931686401
+      },
+      {
+        "token": "mutilation",
+        "sim": 0.6436467170715332
+      },
+      {
+        "token": "derangement",
+        "sim": 0.6423310041427612
+      },
+      {
+        "token": "combating",
+        "sim": 0.639956533908844
+      },
+      {
+        "token": "polygamy",
+        "sim": 0.6388995051383972
+      },
+      {
+        "token": "predisposition",
+        "sim": 0.638435423374176
+      },
+      {
+        "token": "atrophy",
+        "sim": 0.6343456506729126
+      },
+      {
+        "token": "pauperism",
+        "sim": 0.6320993304252625
+      },
+      {
+        "token": "virulence",
+        "sim": 0.6271808743476868
+      },
+      {
+        "token": "homicides",
+        "sim": 0.62461256980896
+      },
+      {
+        "token": "alcoholism",
+        "sim": 0.6174320578575134
+      },
+      {
+        "token": "treatments",
+        "sim": 0.616707444190979
+      },
+      {
+        "token": "parries",
+        "sim": 0.613042950630188
+      },
+      {
+        "token": "infect",
+        "sim": 0.607482373714447
+      },
+      {
+        "token": "vertigo",
+        "sim": 0.6036274433135986
+      },
+      {
+        "token": "childbirth",
+        "sim": 0.6016927361488342
+      },
+      {
+        "token": "experimentation",
+        "sim": 0.600731611251831
+      },
+      {
+        "token": "eradicate",
+        "sim": 0.600635826587677
+      },
+      {
+        "token": "propagation",
+        "sim": 0.6000590324401855
+      },
+      {
+        "token": "fixation",
+        "sim": 0.598534882068634
+      },
+      {
+        "token": "therapeutics",
+        "sim": 0.5973694324493408
+      },
+      {
+        "token": "intemperance",
+        "sim": 0.5932550430297852
+      },
+      {
+        "token": "americanization",
+        "sim": 0.5931409597396851
+      },
+      {
+        "token": "anomalies",
+        "sim": 0.5910359025001526
+      },
+      {
+        "token": "obviated",
+        "sim": 0.5896214246749878
+      },
+      {
+        "token": "ailment",
+        "sim": 0.5888283252716064
+      }
+    ],
+    "7": [
+      {
+        "token": "serum",
+        "sim": 0.7551381587982178
+      },
+      {
+        "token": "pus",
+        "sim": 0.7188707590103149
+      },
+      {
+        "token": "injection",
+        "sim": 0.7082653641700745
+      },
+      {
+        "token": "constipation",
+        "sim": 0.7021417617797852
+      },
+      {
+        "token": "gastric",
+        "sim": 0.6956497430801392
+      },
+      {
+        "token": "toxic",
+        "sim": 0.69553142786026
+      },
+      {
+        "token": "septic",
+        "sim": 0.692955493927002
+      },
+      {
+        "token": "bacilli",
+        "sim": 0.6877588629722595
+      },
+      {
+        "token": "thyroid",
+        "sim": 0.6827594637870789
+      },
+      {
+        "token": "maladies",
+        "sim": 0.6665493845939636
+      },
+      {
+        "token": "appendicitis",
+        "sim": 0.6623950600624084
+      },
+      {
+        "token": "poisons",
+        "sim": 0.6615532636642456
+      },
+      {
+        "token": "intestinal",
+        "sim": 0.6563521027565002
+      },
+      {
+        "token": "fevers",
+        "sim": 0.655110239982605
+      },
+      {
+        "token": "microbes",
+        "sim": 0.6489841938018799
+      },
+      {
+        "token": "quinine",
+        "sim": 0.64103102684021
+      },
+      {
+        "token": "narcotic",
+        "sim": 0.6394222974777222
+      },
+      {
+        "token": "secretion",
+        "sim": 0.6369727849960327
+      },
+      {
+        "token": "cocaine",
+        "sim": 0.6355593204498291
+      },
+      {
+        "token": "morphine",
+        "sim": 0.6268309354782104
+      },
+      {
+        "token": "cures",
+        "sim": 0.6245996356010437
+      },
+      {
+        "token": "spavin",
+        "sim": 0.6121914386749268
+      },
+      {
+        "token": "germs",
+        "sim": 0.595016598701477
+      },
+      {
+        "token": "kidney",
+        "sim": 0.5931169986724854
+      },
+      {
+        "token": "stimulants",
+        "sim": 0.5918289422988892
+      }
+    ],
+    "2": [
+      {
+        "token": "bacterial",
+        "sim": 0.7427744269371033
+      },
+      {
+        "token": "adulteration",
+        "sim": 0.7415685653686523
+      },
+      {
+        "token": "albuminoids",
+        "sim": 0.7131664156913757
+      },
+      {
+        "token": "nutrients",
+        "sim": 0.6817650198936462
+      },
+      {
+        "token": "proteids",
+        "sim": 0.6731262803077698
+      },
+      {
+        "token": "rodent",
+        "sim": 0.672166109085083
+      },
+      {
+        "token": "ferments",
+        "sim": 0.665568470954895
+      },
+      {
+        "token": "digestibility",
+        "sim": 0.6530615091323853
+      },
+      {
+        "token": "carbohydrates",
+        "sim": 0.6408544182777405
+      },
+      {
+        "token": "digestible",
+        "sim": 0.640030562877655
+      },
+      {
+        "token": "spermatozoa",
+        "sim": 0.6379650831222534
+      },
+      {
+        "token": "parasitic",
+        "sim": 0.6373801231384277
+      },
+      {
+        "token": "rotations",
+        "sim": 0.6352945566177368
+      },
+      {
+        "token": "distillation",
+        "sim": 0.6344032883644104
+      },
+      {
+        "token": "cellulose",
+        "sim": 0.6298431158065796
+      },
+      {
+        "token": "domestication",
+        "sim": 0.6277198791503906
+      },
+      {
+        "token": "invertebrate",
+        "sim": 0.6263232231140137
+      },
+      {
+        "token": "sugars",
+        "sim": 0.6246777772903442
+      },
+      {
+        "token": "secretions",
+        "sim": 0.6202797889709473
+      },
+      {
+        "token": "derivatives",
+        "sim": 0.6197574138641357
+      },
+      {
+        "token": "nitrogenous",
+        "sim": 0.6153422594070435
+      },
+      {
+        "token": "proteins",
+        "sim": 0.6138139963150024
+      },
+      {
+        "token": "protein",
+        "sim": 0.6127162575721741
+      },
+      {
+        "token": "neutralize",
+        "sim": 0.6092783808708191
+      },
+      {
+        "token": "disking",
+        "sim": 0.6076077222824097
+      },
+      {
+        "token": "rodents",
+        "sim": 0.6072981357574463
+      },
+      {
+        "token": "colloids",
+        "sim": 0.606806218624115
+      },
+      {
+        "token": "fertilization",
+        "sim": 0.6035021543502808
+      },
+      {
+        "token": "adulterated",
+        "sim": 0.5970930457115173
+      },
+      {
+        "token": "denatured",
+        "sim": 0.5956403017044067
+      },
+      {
+        "token": "fertilizers",
+        "sim": 0.5942260026931763
+      },
+      {
+        "token": "nodules",
+        "sim": 0.5942210555076599
+      },
+      {
+        "token": "marsupials",
+        "sim": 0.5923556685447693
+      },
+      {
+        "token": "cellular",
+        "sim": 0.5916106700897217
+      },
+      {
+        "token": "cultures",
+        "sim": 0.5913082361221313
+      },
+      {
+        "token": "admixture",
+        "sim": 0.5904244780540466
+      },
+      {
+        "token": "fertilizing",
+        "sim": 0.58905428647995
+      }
+    ],
+    "4": [
+      {
+        "token": "fermentation",
+        "sim": 0.7153246402740479
+      },
+      {
+        "token": "oxidation",
+        "sim": 0.6923721432685852
+      },
+      {
+        "token": "nitrous",
+        "sim": 0.6615452766418457
+      },
+      {
+        "token": "arsenic",
+        "sim": 0.6561558842658997
+      },
+      {
+        "token": "nitrates",
+        "sim": 0.654084324836731
+      },
+      {
+        "token": "urine",
+        "sim": 0.6479229927062988
+      },
+      {
+        "token": "uranium",
+        "sim": 0.6464576721191406
+      },
+      {
+        "token": "nitric",
+        "sim": 0.6436107754707336
+      },
+      {
+        "token": "iodine",
+        "sim": 0.6431624293327332
+      },
+      {
+        "token": "impurities",
+        "sim": 0.6383545398712158
+      },
+      {
+        "token": "hydrochloric",
+        "sim": 0.6352103352546692
+      },
+      {
+        "token": "phosphoric",
+        "sim": 0.6349883675575256
+      },
+      {
+        "token": "valence",
+        "sim": 0.6336909532546997
+      },
+      {
+        "token": "ammonium",
+        "sim": 0.624181866645813
+      },
+      {
+        "token": "fluorine",
+        "sim": 0.6205942034721375
+      },
+      {
+        "token": "dioxide",
+        "sim": 0.6158120632171631
+      },
+      {
+        "token": "chemicals",
+        "sim": 0.6156034469604492
+      },
+      {
+        "token": "oxides",
+        "sim": 0.6142257452011108
+      },
+      {
+        "token": "sulphate",
+        "sim": 0.6080776453018188
+      },
+      {
+        "token": "decomposes",
+        "sim": 0.6073665022850037
+      },
+      {
+        "token": "aqueous",
+        "sim": 0.6069230437278748
+      },
+      {
+        "token": "seminal",
+        "sim": 0.6058809757232666
+      },
+      {
+        "token": "sulphuric",
+        "sim": 0.6023138761520386
+      },
+      {
+        "token": "gypsum",
+        "sim": 0.5986074209213257
+      },
+      {
+        "token": "liquefied",
+        "sim": 0.5982397794723511
+      },
+      {
+        "token": "hydroxide",
+        "sim": 0.5969719290733337
+      },
+      {
+        "token": "decomposed",
+        "sim": 0.5964282751083374
+      },
+      {
+        "token": "sulphurous",
+        "sim": 0.5952617526054382
+      },
+      {
+        "token": "hornblende",
+        "sim": 0.5946877002716064
+      },
+      {
+        "token": "fluids",
+        "sim": 0.5937473773956299
+      },
+      {
+        "token": "dilute",
+        "sim": 0.5933987498283386
+      },
+      {
+        "token": "acids",
+        "sim": 0.5928664803504944
+      },
+      {
+        "token": "chloride",
+        "sim": 0.5926973819732666
+      },
+      {
+        "token": "calcium",
+        "sim": 0.5921996831893921
+      },
+      {
+        "token": "bleaching",
+        "sim": 0.5916893482208252
+      }
+    ],
+    "6": [
+      {
+        "token": "semen",
+        "sim": 0.7070057392120361
+      },
+      {
+        "token": "anesthesia",
+        "sim": 0.6903200149536133
+      },
+      {
+        "token": "determinants",
+        "sim": 0.670264482498169
+      },
+      {
+        "token": "ataxy",
+        "sim": 0.666688084602356
+      },
+      {
+        "token": "stimulations",
+        "sim": 0.6659824252128601
+      },
+      {
+        "token": "dissociation",
+        "sim": 0.6632498502731323
+      },
+      {
+        "token": "radioactivity",
+        "sim": 0.6562445163726807
+      },
+      {
+        "token": "decomposition",
+        "sim": 0.6540951728820801
+      },
+      {
+        "token": "unilateral",
+        "sim": 0.6503603458404541
+      },
+      {
+        "token": "cerebellar",
+        "sim": 0.6503539681434631
+      },
+      {
+        "token": "lesions",
+        "sim": 0.6465567946434021
+      },
+      {
+        "token": "extirpation",
+        "sim": 0.645073413848877
+      },
+      {
+        "token": "emission",
+        "sim": 0.6449933648109436
+      },
+      {
+        "token": "propagated",
+        "sim": 0.6446359157562256
+      },
+      {
+        "token": "mutation",
+        "sim": 0.644025444984436
+      },
+      {
+        "token": "coloration",
+        "sim": 0.642925500869751
+      },
+      {
+        "token": "testes",
+        "sim": 0.6417554020881653
+      },
+      {
+        "token": "metabolism",
+        "sim": 0.6389502286911011
+      },
+      {
+        "token": "causation",
+        "sim": 0.6288465857505798
+      },
+      {
+        "token": "radioactive",
+        "sim": 0.6264631152153015
+      },
+      {
+        "token": "nebular",
+        "sim": 0.6183131337165833
+      },
+      {
+        "token": "hypnosis",
+        "sim": 0.6124273538589478
+      },
+      {
+        "token": "spiritistic",
+        "sim": 0.6112785339355469
+      },
+      {
+        "token": "germinal",
+        "sim": 0.6112685799598694
+      },
+      {
+        "token": "thermal",
+        "sim": 0.6103963255882263
+      },
+      {
+        "token": "platting",
+        "sim": 0.6097391843795776
+      },
+      {
+        "token": "variability",
+        "sim": 0.6053337454795837
+      },
+      {
+        "token": "phlogiston",
+        "sim": 0.5991411209106445
+      },
+      {
+        "token": "laplace",
+        "sim": 0.5966483950614929
+      },
+      {
+        "token": "deposition",
+        "sim": 0.5961765646934509
+      },
+      {
+        "token": "deformation",
+        "sim": 0.5945959091186523
+      },
+      {
+        "token": "transmutation",
+        "sim": 0.5923504829406738
+      }
+    ],
+    "1": [
+      {
+        "token": "typhus",
+        "sim": 0.6753948926925659
+      },
+      {
+        "token": "diphtheria",
+        "sim": 0.6580412983894348
+      },
+      {
+        "token": "malaria",
+        "sim": 0.6352458000183105
+      },
+      {
+        "token": "typhoid",
+        "sim": 0.6329188346862793
+      },
+      {
+        "token": "influenza",
+        "sim": 0.6160273551940918
+      },
+      {
+        "token": "smallpox",
+        "sim": 0.6151056289672852
+      },
+      {
+        "token": "diseases",
+        "sim": 0.596348226070404
+      }
+    ],
+    "0": [
+      {
+        "token": "schwann",
+        "sim": 0.6407976150512695
+      },
+      {
+        "token": "experimentally",
+        "sim": 0.6069464087486267
+      },
+      {
+        "token": "micro",
+        "sim": 0.5999033451080322
+      },
+      {
+        "token": "physiologists",
+        "sim": 0.5963039994239807
+      },
+      {
+        "token": "aetius",
+        "sim": 0.5939578413963318
+      }
+    ]
+  }
+}

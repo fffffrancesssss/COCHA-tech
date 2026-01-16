@@ -1,0 +1,823 @@
+{
+  "decade": 1990,
+  "concept": "radio",
+  "concept_hits": 5,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.08446217328310013,
+  "clusters": {
+    "4": [
+      {
+        "token": "transmitter",
+        "sim": 0.7987126111984253
+      },
+      {
+        "token": "wireless",
+        "sim": 0.7501343488693237
+      },
+      {
+        "token": "uhf",
+        "sim": 0.6504760980606079
+      },
+      {
+        "token": "satcom",
+        "sim": 0.6494989395141602
+      },
+      {
+        "token": "antenna",
+        "sim": 0.6453216075897217
+      },
+      {
+        "token": "vhf",
+        "sim": 0.6292107105255127
+      },
+      {
+        "token": "satellite",
+        "sim": 0.6274222135543823
+      },
+      {
+        "token": "transmitters",
+        "sim": 0.623063862323761
+      },
+      {
+        "token": "shortwave",
+        "sim": 0.6191216707229614
+      },
+      {
+        "token": "broadband",
+        "sim": 0.6122326850891113
+      },
+      {
+        "token": "cable",
+        "sim": 0.6105129718780518
+      },
+      {
+        "token": "inmarsat",
+        "sim": 0.5728092789649963
+      },
+      {
+        "token": "uplink",
+        "sim": 0.5727435350418091
+      },
+      {
+        "token": "transponders",
+        "sim": 0.5702142715454102
+      },
+      {
+        "token": "signal",
+        "sim": 0.5695470571517944
+      },
+      {
+        "token": "radiotelephone",
+        "sim": 0.5680323243141174
+      },
+      {
+        "token": "gps",
+        "sim": 0.5676091313362122
+      },
+      {
+        "token": "telemetry",
+        "sim": 0.5651453733444214
+      },
+      {
+        "token": "hookup",
+        "sim": 0.5592516660690308
+      },
+      {
+        "token": "communications",
+        "sim": 0.5575798749923706
+      },
+      {
+        "token": "downlink",
+        "sim": 0.5483312606811523
+      },
+      {
+        "token": "nextel",
+        "sim": 0.544572651386261
+      },
+      {
+        "token": "dtv",
+        "sim": 0.5402860641479492
+      },
+      {
+        "token": "repeater",
+        "sim": 0.5376876592636108
+      },
+      {
+        "token": "coaxial",
+        "sim": 0.5338257551193237
+      },
+      {
+        "token": "echostar",
+        "sim": 0.5298035740852356
+      },
+      {
+        "token": "hdtv",
+        "sim": 0.5261527895927429
+      },
+      {
+        "token": "telephony",
+        "sim": 0.525425136089325
+      },
+      {
+        "token": "worldnet",
+        "sim": 0.523285984992981
+      },
+      {
+        "token": "directv",
+        "sim": 0.5184651613235474
+      },
+      {
+        "token": "radar",
+        "sim": 0.5139340758323669
+      },
+      {
+        "token": "poldhu",
+        "sim": 0.5110496282577515
+      },
+      {
+        "token": "geosynchronous",
+        "sim": 0.5108533501625061
+      },
+      {
+        "token": "transmissions",
+        "sim": 0.5090329051017761
+      },
+      {
+        "token": "network",
+        "sim": 0.5089812278747559
+      },
+      {
+        "token": "televisi",
+        "sim": 0.5076513886451721
+      },
+      {
+        "token": "primestar",
+        "sim": 0.5067943930625916
+      },
+      {
+        "token": "signals",
+        "sim": 0.5064660310745239
+      },
+      {
+        "token": "dss",
+        "sim": 0.5054119825363159
+      },
+      {
+        "token": "sfx",
+        "sim": 0.5025878548622131
+      },
+      {
+        "token": "primeco",
+        "sim": 0.4974513053894043
+      },
+      {
+        "token": "satellites",
+        "sim": 0.4966028928756714
+      },
+      {
+        "token": "catv",
+        "sim": 0.49331340193748474
+      },
+      {
+        "token": "dbs",
+        "sim": 0.49173659086227417
+      },
+      {
+        "token": "winstar",
+        "sim": 0.48990681767463684
+      }
+    ],
+    "1": [
+      {
+        "token": "radio",
+        "sim": 0.7762530446052551
+      },
+      {
+        "token": "broadcast",
+        "sim": 0.6929442286491394
+      },
+      {
+        "token": "broadcasting",
+        "sim": 0.6012078523635864
+      },
+      {
+        "token": "wtop",
+        "sim": 0.5915153622627258
+      },
+      {
+        "token": "broadcasts",
+        "sim": 0.5897639393806458
+      },
+      {
+        "token": "television",
+        "sim": 0.5755603909492493
+      },
+      {
+        "token": "wmal",
+        "sim": 0.5710422396659851
+      },
+      {
+        "token": "fm",
+        "sim": 0.5657671093940735
+      },
+      {
+        "token": "tv",
+        "sim": 0.5635476112365723
+      },
+      {
+        "token": "kdka",
+        "sim": 0.5461906790733337
+      },
+      {
+        "token": "wnew",
+        "sim": 0.5457080602645874
+      },
+      {
+        "token": "wrfg",
+        "sim": 0.5428793430328369
+      },
+      {
+        "token": "kyw",
+        "sim": 0.5382850766181946
+      },
+      {
+        "token": "ostankino",
+        "sim": 0.5332149863243103
+      },
+      {
+        "token": "hts",
+        "sim": 0.5311901569366455
+      },
+      {
+        "token": "sportschannel",
+        "sim": 0.5292783975601196
+      },
+      {
+        "token": "kacl",
+        "sim": 0.5281344652175903
+      },
+      {
+        "token": "rebroadcast",
+        "sim": 0.5238236784934998
+      },
+      {
+        "token": "superstation",
+        "sim": 0.5221611857414246
+      },
+      {
+        "token": "wgst",
+        "sim": 0.5158188939094543
+      },
+      {
+        "token": "kgo",
+        "sim": 0.5138446688652039
+      },
+      {
+        "token": "wmca",
+        "sim": 0.5120934844017029
+      },
+      {
+        "token": "ktvu",
+        "sim": 0.5086408853530884
+      },
+      {
+        "token": "wabc",
+        "sim": 0.5079637765884399
+      },
+      {
+        "token": "stations",
+        "sim": 0.5054619312286377
+      },
+      {
+        "token": "bbc",
+        "sim": 0.4980236291885376
+      },
+      {
+        "token": "broadcasters",
+        "sim": 0.4952494502067566
+      },
+      {
+        "token": "wbai",
+        "sim": 0.4941737651824951
+      },
+      {
+        "token": "wamu",
+        "sim": 0.49253013730049133
+      },
+      {
+        "token": "broadcaster",
+        "sim": 0.4912642240524292
+      },
+      {
+        "token": "wpgc",
+        "sim": 0.49118709564208984
+      }
+    ],
+    "3": [
+      {
+        "token": "receiver",
+        "sim": 0.6802020072937012
+      },
+      {
+        "token": "handset",
+        "sim": 0.6217554211616516
+      },
+      {
+        "token": "radios",
+        "sim": 0.5997740030288696
+      },
+      {
+        "token": "speakerphone",
+        "sim": 0.5986632108688354
+      },
+      {
+        "token": "microphone",
+        "sim": 0.5957592725753784
+      },
+      {
+        "token": "earphone",
+        "sim": 0.5792301893234253
+      },
+      {
+        "token": "headset",
+        "sim": 0.5672872066497803
+      },
+      {
+        "token": "cellular",
+        "sim": 0.5649310946464539
+      },
+      {
+        "token": "telephone",
+        "sim": 0.5466824769973755
+      },
+      {
+        "token": "microcassette",
+        "sim": 0.545478343963623
+      },
+      {
+        "token": "recorder",
+        "sim": 0.5429109334945679
+      },
+      {
+        "token": "earpiece",
+        "sim": 0.5427948832511902
+      },
+      {
+        "token": "turtlecom",
+        "sim": 0.5410591959953308
+      },
+      {
+        "token": "dial",
+        "sim": 0.5398455858230591
+      },
+      {
+        "token": "phones",
+        "sim": 0.538600504398346
+      },
+      {
+        "token": "walkman",
+        "sim": 0.5360302329063416
+      },
+      {
+        "token": "headsets",
+        "sim": 0.5340808033943176
+      },
+      {
+        "token": "dialer",
+        "sim": 0.5337098836898804
+      },
+      {
+        "token": "headphones",
+        "sim": 0.532904326915741
+      },
+      {
+        "token": "dialtone",
+        "sim": 0.5312448740005493
+      },
+      {
+        "token": "cellphone",
+        "sim": 0.527359127998352
+      },
+      {
+        "token": "pager",
+        "sim": 0.5242095589637756
+      },
+      {
+        "token": "voicemail",
+        "sim": 0.5239689946174622
+      },
+      {
+        "token": "staticky",
+        "sim": 0.5198013186454773
+      },
+      {
+        "token": "combadge",
+        "sim": 0.5146608352661133
+      },
+      {
+        "token": "comlink",
+        "sim": 0.513458251953125
+      },
+      {
+        "token": "phone",
+        "sim": 0.5126596689224243
+      },
+      {
+        "token": "earphones",
+        "sim": 0.5121810436248779
+      },
+      {
+        "token": "cordless",
+        "sim": 0.5089033842086792
+      },
+      {
+        "token": "dictaphone",
+        "sim": 0.5081523656845093
+      },
+      {
+        "token": "talkie",
+        "sim": 0.5065979957580566
+      },
+      {
+        "token": "redial",
+        "sim": 0.5022922158241272
+      },
+      {
+        "token": "rewinds",
+        "sim": 0.501813530921936
+      },
+      {
+        "token": "walkie",
+        "sim": 0.4983004927635193
+      },
+      {
+        "token": "keypad",
+        "sim": 0.4975315034389496
+      },
+      {
+        "token": "telex",
+        "sim": 0.4940553605556488
+      }
+    ],
+    "2": [
+      {
+        "token": "multichannel",
+        "sim": 0.6315574645996094
+      },
+      {
+        "token": "amplifier",
+        "sim": 0.615626335144043
+      },
+      {
+        "token": "transceiver",
+        "sim": 0.6015740633010864
+      },
+      {
+        "token": "transponder",
+        "sim": 0.593479335308075
+      },
+      {
+        "token": "headphone",
+        "sim": 0.5863338112831116
+      },
+      {
+        "token": "multiplexed",
+        "sim": 0.5611125826835632
+      },
+      {
+        "token": "voiceprint",
+        "sim": 0.5606247782707214
+      },
+      {
+        "token": "epirb",
+        "sim": 0.556388258934021
+      },
+      {
+        "token": "multipoint",
+        "sim": 0.5548402070999146
+      },
+      {
+        "token": "dgps",
+        "sim": 0.5429804921150208
+      },
+      {
+        "token": "ntsc",
+        "sim": 0.5429610013961792
+      },
+      {
+        "token": "navcomp",
+        "sim": 0.5318136215209961
+      },
+      {
+        "token": "oscilloscope",
+        "sim": 0.530721127986908
+      },
+      {
+        "token": "ttl",
+        "sim": 0.5306711792945862
+      },
+      {
+        "token": "scanner",
+        "sim": 0.530285120010376
+      },
+      {
+        "token": "trinitron",
+        "sim": 0.5297900438308716
+      },
+      {
+        "token": "thermocouple",
+        "sim": 0.5255559682846069
+      },
+      {
+        "token": "pll",
+        "sim": 0.5217088460922241
+      },
+      {
+        "token": "amplifiers",
+        "sim": 0.5215655565261841
+      },
+      {
+        "token": "multiplexing",
+        "sim": 0.5207720994949341
+      },
+      {
+        "token": "nirtsat",
+        "sim": 0.5196788907051086
+      },
+      {
+        "token": "transducers",
+        "sim": 0.5171608924865723
+      },
+      {
+        "token": "voltmeter",
+        "sim": 0.5170273780822754
+      },
+      {
+        "token": "transducer",
+        "sim": 0.5146228075027466
+      },
+      {
+        "token": "magneton",
+        "sim": 0.5132699608802795
+      },
+      {
+        "token": "pulverizer",
+        "sim": 0.5127646327018738
+      },
+      {
+        "token": "scada",
+        "sim": 0.5122260451316833
+      },
+      {
+        "token": "ultrasonic",
+        "sim": 0.5107395648956299
+      },
+      {
+        "token": "cabling",
+        "sim": 0.506911039352417
+      },
+      {
+        "token": "interconnects",
+        "sim": 0.5059385299682617
+      },
+      {
+        "token": "photocell",
+        "sim": 0.5043817758560181
+      },
+      {
+        "token": "diode",
+        "sim": 0.5031288862228394
+      },
+      {
+        "token": "oscillator",
+        "sim": 0.5022788047790527
+      },
+      {
+        "token": "failsafe",
+        "sim": 0.5009720921516418
+      },
+      {
+        "token": "printhead",
+        "sim": 0.49949759244918823
+      },
+      {
+        "token": "locater",
+        "sim": 0.4990900456905365
+      },
+      {
+        "token": "garmin",
+        "sim": 0.49881798028945923
+      },
+      {
+        "token": "agc",
+        "sim": 0.49521058797836304
+      },
+      {
+        "token": "disconnects",
+        "sim": 0.4932906925678253
+      },
+      {
+        "token": "inverter",
+        "sim": 0.4931536614894867
+      },
+      {
+        "token": "sensor",
+        "sim": 0.4927881956100464
+      },
+      {
+        "token": "tunable",
+        "sim": 0.4917750954627991
+      },
+      {
+        "token": "sequencer",
+        "sim": 0.4899841845035553
+      }
+    ],
+    "0": [
+      {
+        "token": "remotes",
+        "sim": 0.5884984135627747
+      },
+      {
+        "token": "analog",
+        "sim": 0.5827049016952515
+      },
+      {
+        "token": "handsets",
+        "sim": 0.5819362998008728
+      },
+      {
+        "token": "wirelessly",
+        "sim": 0.5769016146659851
+      },
+      {
+        "token": "digital",
+        "sim": 0.5715842247009277
+      },
+      {
+        "token": "stereo",
+        "sim": 0.5593010187149048
+      },
+      {
+        "token": "tuner",
+        "sim": 0.5587611198425293
+      },
+      {
+        "token": "videophone",
+        "sim": 0.5542773604393005
+      },
+      {
+        "token": "subwoofer",
+        "sim": 0.5468804836273193
+      },
+      {
+        "token": "vcr",
+        "sim": 0.5445548295974731
+      },
+      {
+        "token": "handheld",
+        "sim": 0.5428310632705688
+      },
+      {
+        "token": "denon",
+        "sim": 0.5250004529953003
+      },
+      {
+        "token": "portable",
+        "sim": 0.5247942209243774
+      },
+      {
+        "token": "palmpilot",
+        "sim": 0.5241345763206482
+      },
+      {
+        "token": "messaging",
+        "sim": 0.5231191515922546
+      },
+      {
+        "token": "touchscreen",
+        "sim": 0.5208715796470642
+      },
+      {
+        "token": "cdma",
+        "sim": 0.5191460251808167
+      },
+      {
+        "token": "plcs",
+        "sim": 0.5181018114089966
+      },
+      {
+        "token": "tuners",
+        "sim": 0.5141363143920898
+      },
+      {
+        "token": "decoders",
+        "sim": 0.513717770576477
+      },
+      {
+        "token": "firewire",
+        "sim": 0.5101625323295593
+      },
+      {
+        "token": "encrypted",
+        "sim": 0.507314920425415
+      },
+      {
+        "token": "interfaced",
+        "sim": 0.505321204662323
+      },
+      {
+        "token": "videodiscs",
+        "sim": 0.503212034702301
+      },
+      {
+        "token": "modems",
+        "sim": 0.5027444362640381
+      },
+      {
+        "token": "tvs",
+        "sim": 0.5017156004905701
+      },
+      {
+        "token": "audio",
+        "sim": 0.5005465149879456
+      },
+      {
+        "token": "computer",
+        "sim": 0.49875736236572266
+      },
+      {
+        "token": "videoconferencing",
+        "sim": 0.4977021813392639
+      },
+      {
+        "token": "webtv",
+        "sim": 0.4976830780506134
+      },
+      {
+        "token": "pagers",
+        "sim": 0.49650245904922485
+      },
+      {
+        "token": "electronic",
+        "sim": 0.49646735191345215
+      },
+      {
+        "token": "decoder",
+        "sim": 0.49558061361312866
+      },
+      {
+        "token": "uploading",
+        "sim": 0.4949772357940674
+      },
+      {
+        "token": "realaudio",
+        "sim": 0.4940737187862396
+      }
+    ],
+    "5": [
+      {
+        "token": "ghz",
+        "sim": 0.586489200592041
+      },
+      {
+        "token": "receivers",
+        "sim": 0.5577201843261719
+      },
+      {
+        "token": "antennas",
+        "sim": 0.5527487397193909
+      },
+      {
+        "token": "transistor",
+        "sim": 0.5398731231689453
+      },
+      {
+        "token": "gigahertz",
+        "sim": 0.5398282408714294
+      },
+      {
+        "token": "microwave",
+        "sim": 0.5049505233764648
+      },
+      {
+        "token": "khz",
+        "sim": 0.499381959438324
+      },
+      {
+        "token": "megahertz",
+        "sim": 0.49931424856185913
+      },
+      {
+        "token": "frequencies",
+        "sim": 0.4897371530532837
+      },
+      {
+        "token": "bandwidth",
+        "sim": 0.4894554316997528
+      }
+    ]
+  }
+}

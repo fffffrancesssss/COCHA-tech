@@ -1,0 +1,825 @@
+{
+  "decade": 1930,
+  "concept": "stainless_steel",
+  "concept_hits": 3,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 7,
+  "silhouette": 0.06356220692396164,
+  "clusters": {
+    "1": [
+      {
+        "token": "chromium",
+        "sim": 0.87987220287323
+      },
+      {
+        "token": "stainless",
+        "sim": 0.8271673917770386
+      },
+      {
+        "token": "chrome",
+        "sim": 0.7172768115997314
+      },
+      {
+        "token": "vitreous",
+        "sim": 0.692479133605957
+      },
+      {
+        "token": "aluminum",
+        "sim": 0.6830165386199951
+      },
+      {
+        "token": "plating",
+        "sim": 0.67791348695755
+      },
+      {
+        "token": "tubing",
+        "sim": 0.6550875902175903
+      },
+      {
+        "token": "crucible",
+        "sim": 0.644604504108429
+      },
+      {
+        "token": "emulsion",
+        "sim": 0.6385116577148438
+      },
+      {
+        "token": "plated",
+        "sim": 0.6132724285125732
+      },
+      {
+        "token": "mica",
+        "sim": 0.6109495759010315
+      },
+      {
+        "token": "enamelled",
+        "sim": 0.5994246602058411
+      },
+      {
+        "token": "translucent",
+        "sim": 0.5948933362960815
+      },
+      {
+        "token": "enameled",
+        "sim": 0.593410313129425
+      },
+      {
+        "token": "metal",
+        "sim": 0.592681884765625
+      },
+      {
+        "token": "quartz",
+        "sim": 0.584638237953186
+      },
+      {
+        "token": "insulating",
+        "sim": 0.5790574550628662
+      },
+      {
+        "token": "hardwoods",
+        "sim": 0.5785228610038757
+      },
+      {
+        "token": "cobalt",
+        "sim": 0.5659036636352539
+      },
+      {
+        "token": "enamel",
+        "sim": 0.5642352104187012
+      },
+      {
+        "token": "stencil",
+        "sim": 0.5616509318351746
+      },
+      {
+        "token": "asbestos",
+        "sim": 0.5548542141914368
+      }
+    ],
+    "6": [
+      {
+        "token": "alloy",
+        "sim": 0.8605196475982666
+      },
+      {
+        "token": "alloys",
+        "sim": 0.7272647023200989
+      },
+      {
+        "token": "annealed",
+        "sim": 0.7166224122047424
+      },
+      {
+        "token": "ferrite",
+        "sim": 0.7112022638320923
+      },
+      {
+        "token": "axby",
+        "sim": 0.6936992406845093
+      },
+      {
+        "token": "ductile",
+        "sim": 0.6888264417648315
+      },
+      {
+        "token": "corrosion",
+        "sim": 0.6863123178482056
+      },
+      {
+        "token": "crystallites",
+        "sim": 0.6518154144287109
+      },
+      {
+        "token": "pearlite",
+        "sim": 0.6514336466789246
+      },
+      {
+        "token": "conductivity",
+        "sim": 0.6500666737556458
+      },
+      {
+        "token": "austenite",
+        "sim": 0.6356380581855774
+      },
+      {
+        "token": "ingot",
+        "sim": 0.6327943205833435
+      },
+      {
+        "token": "cusn",
+        "sim": 0.6292335987091064
+      },
+      {
+        "token": "annealing",
+        "sim": 0.6292046904563904
+      },
+      {
+        "token": "quenching",
+        "sim": 0.6280035376548767
+      },
+      {
+        "token": "ductility",
+        "sim": 0.6267697811126709
+      },
+      {
+        "token": "eutectic",
+        "sim": 0.6082815527915955
+      },
+      {
+        "token": "tensile",
+        "sim": 0.6065101623535156
+      },
+      {
+        "token": "coefficient",
+        "sim": 0.5978749990463257
+      },
+      {
+        "token": "crystals",
+        "sim": 0.5947816967964172
+      },
+      {
+        "token": "components",
+        "sim": 0.5890272855758667
+      },
+      {
+        "token": "elongation",
+        "sim": 0.5842821598052979
+      },
+      {
+        "token": "potentials",
+        "sim": 0.5833688974380493
+      },
+      {
+        "token": "solubility",
+        "sim": 0.5833379626274109
+      },
+      {
+        "token": "peritectic",
+        "sim": 0.5793075561523438
+      },
+      {
+        "token": "binary",
+        "sim": 0.5710607767105103
+      },
+      {
+        "token": "solidification",
+        "sim": 0.5676984786987305
+      },
+      {
+        "token": "dielectric",
+        "sim": 0.5648674964904785
+      },
+      {
+        "token": "recrystallization",
+        "sim": 0.5641235113143921
+      },
+      {
+        "token": "beilby",
+        "sim": 0.563888669013977
+      },
+      {
+        "token": "impedance",
+        "sim": 0.5626572370529175
+      }
+    ],
+    "4": [
+      {
+        "token": "cadmium",
+        "sim": 0.798704206943512
+      },
+      {
+        "token": "bismuth",
+        "sim": 0.7658402323722839
+      },
+      {
+        "token": "antimony",
+        "sim": 0.7367327213287354
+      },
+      {
+        "token": "reagent",
+        "sim": 0.7331680655479431
+      },
+      {
+        "token": "iodate",
+        "sim": 0.7261708378791809
+      },
+      {
+        "token": "ferrocyanide",
+        "sim": 0.7241466045379639
+      },
+      {
+        "token": "ceric",
+        "sim": 0.7229132652282715
+      },
+      {
+        "token": "sulfide",
+        "sim": 0.719989538192749
+      },
+      {
+        "token": "diphenylamine",
+        "sim": 0.7193223237991333
+      },
+      {
+        "token": "titrating",
+        "sim": 0.7189570665359497
+      },
+      {
+        "token": "magnesium",
+        "sim": 0.7178897261619568
+      },
+      {
+        "token": "catalyst",
+        "sim": 0.7171028256416321
+      },
+      {
+        "token": "chromic",
+        "sim": 0.7135132551193237
+      },
+      {
+        "token": "silicon",
+        "sim": 0.7118496894836426
+      },
+      {
+        "token": "ferrous",
+        "sim": 0.7092499136924744
+      },
+      {
+        "token": "oxalate",
+        "sim": 0.7013433575630188
+      },
+      {
+        "token": "electrolytic",
+        "sim": 0.7005126476287842
+      },
+      {
+        "token": "arsenious",
+        "sim": 0.696783721446991
+      },
+      {
+        "token": "arsenite",
+        "sim": 0.6882727742195129
+      },
+      {
+        "token": "adsorption",
+        "sim": 0.6868642568588257
+      },
+      {
+        "token": "stannous",
+        "sim": 0.6864483952522278
+      },
+      {
+        "token": "bichromate",
+        "sim": 0.6841908693313599
+      },
+      {
+        "token": "adsorbed",
+        "sim": 0.6832954287528992
+      },
+      {
+        "token": "thiocyanate",
+        "sim": 0.6800454258918762
+      },
+      {
+        "token": "ferric",
+        "sim": 0.6689500212669373
+      },
+      {
+        "token": "oxide",
+        "sim": 0.6688007116317749
+      },
+      {
+        "token": "chromate",
+        "sim": 0.6654366850852966
+      },
+      {
+        "token": "barium",
+        "sim": 0.6643950939178467
+      },
+      {
+        "token": "thiosulfate",
+        "sim": 0.6587531566619873
+      },
+      {
+        "token": "methyl",
+        "sim": 0.6585899591445923
+      },
+      {
+        "token": "peroxide",
+        "sim": 0.657964825630188
+      },
+      {
+        "token": "phenolphthalein",
+        "sim": 0.6567320823669434
+      },
+      {
+        "token": "titrated",
+        "sim": 0.6557642221450806
+      },
+      {
+        "token": "sulfate",
+        "sim": 0.6544042825698853
+      },
+      {
+        "token": "hc",
+        "sim": 0.6485650539398193
+      },
+      {
+        "token": "iodide",
+        "sim": 0.6477416753768921
+      },
+      {
+        "token": "volumetric",
+        "sim": 0.6477360129356384
+      },
+      {
+        "token": "potassium",
+        "sim": 0.6460698843002319
+      },
+      {
+        "token": "permanganate",
+        "sim": 0.6438272595405579
+      },
+      {
+        "token": "titrations",
+        "sim": 0.6418216228485107
+      },
+      {
+        "token": "sulfuric",
+        "sim": 0.6331649422645569
+      },
+      {
+        "token": "alkalis",
+        "sim": 0.6323009729385376
+      },
+      {
+        "token": "moles",
+        "sim": 0.6318542957305908
+      },
+      {
+        "token": "colloidal",
+        "sim": 0.6238549947738647
+      },
+      {
+        "token": "titrate",
+        "sim": 0.6236032843589783
+      },
+      {
+        "token": "oxidized",
+        "sim": 0.6159247756004333
+      },
+      {
+        "token": "sodium",
+        "sim": 0.6147786974906921
+      },
+      {
+        "token": "phosphates",
+        "sim": 0.6066399812698364
+      },
+      {
+        "token": "colloid",
+        "sim": 0.6021323204040527
+      },
+      {
+        "token": "humic",
+        "sim": 0.601962685585022
+      },
+      {
+        "token": "titration",
+        "sim": 0.5992454886436462
+      },
+      {
+        "token": "decompose",
+        "sim": 0.5985742211341858
+      },
+      {
+        "token": "colloids",
+        "sim": 0.597129225730896
+      },
+      {
+        "token": "indicator",
+        "sim": 0.5968484878540039
+      },
+      {
+        "token": "lignins",
+        "sim": 0.5967065095901489
+      },
+      {
+        "token": "alkaline",
+        "sim": 0.5881219506263733
+      },
+      {
+        "token": "soluble",
+        "sim": 0.5859590768814087
+      },
+      {
+        "token": "chloride",
+        "sim": 0.5812783241271973
+      },
+      {
+        "token": "lignin",
+        "sim": 0.5779311060905457
+      },
+      {
+        "token": "nitrate",
+        "sim": 0.5777372717857361
+      },
+      {
+        "token": "benzoic",
+        "sim": 0.5766377449035645
+      },
+      {
+        "token": "oxidizing",
+        "sim": 0.568203330039978
+      },
+      {
+        "token": "solutions",
+        "sim": 0.5626772046089172
+      },
+      {
+        "token": "impurities",
+        "sim": 0.5610382556915283
+      },
+      {
+        "token": "beaker",
+        "sim": 0.5595436096191406
+      },
+      {
+        "token": "bromide",
+        "sim": 0.5579374432563782
+      },
+      {
+        "token": "calcium",
+        "sim": 0.5577152371406555
+      }
+    ],
+    "5": [
+      {
+        "token": "tungsten",
+        "sim": 0.7558460235595703
+      },
+      {
+        "token": "steels",
+        "sim": 0.7305941581726074
+      },
+      {
+        "token": "titanium",
+        "sim": 0.7179632782936096
+      },
+      {
+        "token": "acetate",
+        "sim": 0.707603931427002
+      },
+      {
+        "token": "manganese",
+        "sim": 0.6530314683914185
+      },
+      {
+        "token": "castings",
+        "sim": 0.6305593848228455
+      },
+      {
+        "token": "soaps",
+        "sim": 0.6221168041229248
+      },
+      {
+        "token": "metals",
+        "sim": 0.6173524260520935
+      },
+      {
+        "token": "zinc",
+        "sim": 0.6149455308914185
+      },
+      {
+        "token": "lubricating",
+        "sim": 0.6117737293243408
+      },
+      {
+        "token": "waterproofing",
+        "sim": 0.6092973351478577
+      },
+      {
+        "token": "linseed",
+        "sim": 0.5942471027374268
+      },
+      {
+        "token": "plastics",
+        "sim": 0.5752871632575989
+      },
+      {
+        "token": "enamels",
+        "sim": 0.574816107749939
+      },
+      {
+        "token": "vulcanized",
+        "sim": 0.5656182765960693
+      },
+      {
+        "token": "iron",
+        "sim": 0.5633075833320618
+      },
+      {
+        "token": "paktong",
+        "sim": 0.5609827637672424
+      },
+      {
+        "token": "copper",
+        "sim": 0.5592862963676453
+      },
+      {
+        "token": "preservative",
+        "sim": 0.5587822198867798
+      },
+      {
+        "token": "ores",
+        "sim": 0.5583124756813049
+      }
+    ],
+    "0": [
+      {
+        "token": "selenium",
+        "sim": 0.678046703338623
+      },
+      {
+        "token": "luminaire",
+        "sim": 0.6517060399055481
+      },
+      {
+        "token": "rectifier",
+        "sim": 0.6429229974746704
+      },
+      {
+        "token": "reflectors",
+        "sim": 0.6417614221572876
+      },
+      {
+        "token": "filament",
+        "sim": 0.6412125825881958
+      },
+      {
+        "token": "polarized",
+        "sim": 0.6335904002189636
+      },
+      {
+        "token": "anode",
+        "sim": 0.6296569108963013
+      },
+      {
+        "token": "electrode",
+        "sim": 0.6246019005775452
+      },
+      {
+        "token": "reflector",
+        "sim": 0.6160830855369568
+      },
+      {
+        "token": "spectrograph",
+        "sim": 0.6124882698059082
+      },
+      {
+        "token": "gamma",
+        "sim": 0.6040842533111572
+      },
+      {
+        "token": "prismatic",
+        "sim": 0.6014330387115479
+      },
+      {
+        "token": "magneto",
+        "sim": 0.5927514433860779
+      },
+      {
+        "token": "lumens",
+        "sim": 0.5879155993461609
+      },
+      {
+        "token": "indicators",
+        "sim": 0.5830594301223755
+      },
+      {
+        "token": "streamlining",
+        "sim": 0.5829516649246216
+      },
+      {
+        "token": "insulation",
+        "sim": 0.5811824798583984
+      },
+      {
+        "token": "photosphere",
+        "sim": 0.5764684677124023
+      },
+      {
+        "token": "wavelength",
+        "sim": 0.5727105736732483
+      },
+      {
+        "token": "incandescent",
+        "sim": 0.5710094571113586
+      },
+      {
+        "token": "spectra",
+        "sim": 0.5672526955604553
+      },
+      {
+        "token": "luminaires",
+        "sim": 0.5658806562423706
+      },
+      {
+        "token": "magnetized",
+        "sim": 0.5612487196922302
+      },
+      {
+        "token": "subsecond",
+        "sim": 0.5592708587646484
+      },
+      {
+        "token": "turbine",
+        "sim": 0.5567972660064697
+      }
+    ],
+    "2": [
+      {
+        "token": "oxides",
+        "sim": 0.6774700880050659
+      },
+      {
+        "token": "aluminium",
+        "sim": 0.6748707890510559
+      },
+      {
+        "token": "silicious",
+        "sim": 0.6649978160858154
+      },
+      {
+        "token": "silica",
+        "sim": 0.6527632474899292
+      },
+      {
+        "token": "hydroxide",
+        "sim": 0.6195336580276489
+      },
+      {
+        "token": "nitric",
+        "sim": 0.6058179140090942
+      },
+      {
+        "token": "carbonate",
+        "sim": 0.6040633916854858
+      },
+      {
+        "token": "acetic",
+        "sim": 0.5969321727752686
+      },
+      {
+        "token": "chemically",
+        "sim": 0.5947115421295166
+      },
+      {
+        "token": "carbonic",
+        "sim": 0.5921895503997803
+      },
+      {
+        "token": "phosphoric",
+        "sim": 0.5908414125442505
+      },
+      {
+        "token": "sulphate",
+        "sim": 0.5891011953353882
+      },
+      {
+        "token": "hornblende",
+        "sim": 0.5767855644226074
+      },
+      {
+        "token": "cyanide",
+        "sim": 0.5766181349754333
+      },
+      {
+        "token": "fluorine",
+        "sim": 0.571317195892334
+      },
+      {
+        "token": "sulphuric",
+        "sim": 0.5706785321235657
+      },
+      {
+        "token": "ammonium",
+        "sim": 0.5654550790786743
+      },
+      {
+        "token": "nitrates",
+        "sim": 0.5604397058486938
+      },
+      {
+        "token": "feldspar",
+        "sim": 0.5563692450523376
+      },
+      {
+        "token": "benzine",
+        "sim": 0.555657684803009
+      }
+    ],
+    "3": [
+      {
+        "token": "hexagonal",
+        "sim": 0.6267054080963135
+      },
+      {
+        "token": "prisms",
+        "sim": 0.6112444996833801
+      },
+      {
+        "token": "cores",
+        "sim": 0.6107050180435181
+      },
+      {
+        "token": "matrix",
+        "sim": 0.5965280532836914
+      },
+      {
+        "token": "gamboge",
+        "sim": 0.5805078148841858
+      },
+      {
+        "token": "trigonal",
+        "sim": 0.5719665288925171
+      },
+      {
+        "token": "doublets",
+        "sim": 0.5705265998840332
+      },
+      {
+        "token": "sandstones",
+        "sim": 0.569402277469635
+      },
+      {
+        "token": "transversely",
+        "sim": 0.5665451884269714
+      },
+      {
+        "token": "filaments",
+        "sim": 0.5647554993629456
+      },
+      {
+        "token": "crystalline",
+        "sim": 0.5646514892578125
+      },
+      {
+        "token": "dado",
+        "sim": 0.5630826950073242
+      },
+      {
+        "token": "footings",
+        "sim": 0.5627738237380981
+      },
+      {
+        "token": "fillets",
+        "sim": 0.5626085996627808
+      },
+      {
+        "token": "textures",
+        "sim": 0.5583707094192505
+      }
+    ]
+  }
+}

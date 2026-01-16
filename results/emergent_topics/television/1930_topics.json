@@ -1,0 +1,827 @@
+{
+  "decade": 1930,
+  "concept": "television",
+  "concept_hits": 4,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 8,
+  "silhouette": 0.0683550015091896,
+  "clusters": {
+    "7": [
+      {
+        "token": "television",
+        "sim": 0.7826528549194336
+      },
+      {
+        "token": "broadcaster",
+        "sim": 0.6561779379844666
+      },
+      {
+        "token": "amplifiers",
+        "sim": 0.6081869602203369
+      },
+      {
+        "token": "telephony",
+        "sim": 0.5843618512153625
+      },
+      {
+        "token": "amplifier",
+        "sim": 0.5720416903495789
+      },
+      {
+        "token": "transmitters",
+        "sim": 0.5622142553329468
+      },
+      {
+        "token": "microphones",
+        "sim": 0.5601679682731628
+      },
+      {
+        "token": "wavelength",
+        "sim": 0.5441954135894775
+      },
+      {
+        "token": "relayed",
+        "sim": 0.5424556136131287
+      },
+      {
+        "token": "tuned",
+        "sim": 0.5369037389755249
+      },
+      {
+        "token": "announcer",
+        "sim": 0.5362330675125122
+      },
+      {
+        "token": "teletype",
+        "sim": 0.5359096527099609
+      },
+      {
+        "token": "loudspeaker",
+        "sim": 0.5326316356658936
+      },
+      {
+        "token": "wireless",
+        "sim": 0.527561366558075
+      },
+      {
+        "token": "synchronized",
+        "sim": 0.5193291306495667
+      },
+      {
+        "token": "tele",
+        "sim": 0.5167911648750305
+      },
+      {
+        "token": "transmitter",
+        "sim": 0.5091625452041626
+      },
+      {
+        "token": "amplification",
+        "sim": 0.5061105489730835
+      },
+      {
+        "token": "blared",
+        "sim": 0.5046460628509521
+      },
+      {
+        "token": "microphone",
+        "sim": 0.49980485439300537
+      },
+      {
+        "token": "loudspeakers",
+        "sim": 0.49468153715133667
+      },
+      {
+        "token": "dialing",
+        "sim": 0.493755042552948
+      },
+      {
+        "token": "transmitting",
+        "sim": 0.48980170488357544
+      },
+      {
+        "token": "telephonic",
+        "sim": 0.48069003224372864
+      },
+      {
+        "token": "amplifying",
+        "sim": 0.4750593900680542
+      },
+      {
+        "token": "phones",
+        "sim": 0.47034168243408203
+      },
+      {
+        "token": "prearranged",
+        "sim": 0.46558475494384766
+      },
+      {
+        "token": "directional",
+        "sim": 0.46400871872901917
+      },
+      {
+        "token": "telegraphy",
+        "sim": 0.4637052118778229
+      },
+      {
+        "token": "antenna",
+        "sim": 0.4616222083568573
+      },
+      {
+        "token": "wavemeter",
+        "sim": 0.4597618579864502
+      },
+      {
+        "token": "dials",
+        "sim": 0.45641401410102844
+      },
+      {
+        "token": "tuning",
+        "sim": 0.4543898105621338
+      },
+      {
+        "token": "transmission",
+        "sim": 0.45430877804756165
+      },
+      {
+        "token": "detector",
+        "sim": 0.4529213309288025
+      },
+      {
+        "token": "projector",
+        "sim": 0.45147019624710083
+      },
+      {
+        "token": "outfield",
+        "sim": 0.4506395161151886
+      },
+      {
+        "token": "alternator",
+        "sim": 0.44913381338119507
+      },
+      {
+        "token": "compasses",
+        "sim": 0.44543495774269104
+      },
+      {
+        "token": "telegraphic",
+        "sim": 0.44098901748657227
+      },
+      {
+        "token": "refrigerating",
+        "sim": 0.4394301772117615
+      },
+      {
+        "token": "amplified",
+        "sim": 0.4384995102882385
+      },
+      {
+        "token": "photoelectric",
+        "sim": 0.43431031703948975
+      },
+      {
+        "token": "synchronism",
+        "sim": 0.4320172071456909
+      }
+    ],
+    "5": [
+      {
+        "token": "broadcast",
+        "sim": 0.7689810395240784
+      },
+      {
+        "token": "radio",
+        "sim": 0.739778995513916
+      },
+      {
+        "token": "broadcasts",
+        "sim": 0.6728097200393677
+      },
+      {
+        "token": "broadcasting",
+        "sim": 0.6626365184783936
+      },
+      {
+        "token": "cbs",
+        "sim": 0.645264744758606
+      },
+      {
+        "token": "nbc",
+        "sim": 0.6064081788063049
+      },
+      {
+        "token": "networks",
+        "sim": 0.5995723009109497
+      },
+      {
+        "token": "wor",
+        "sim": 0.5419731140136719
+      },
+      {
+        "token": "broadcasters",
+        "sim": 0.5050413608551025
+      },
+      {
+        "token": "network",
+        "sim": 0.4955521821975708
+      },
+      {
+        "token": "stations",
+        "sim": 0.48628121614456177
+      },
+      {
+        "token": "listeners",
+        "sim": 0.47845494747161865
+      },
+      {
+        "token": "programs",
+        "sim": 0.46032199263572693
+      }
+    ],
+    "3": [
+      {
+        "token": "tv",
+        "sim": 0.7229011654853821
+      },
+      {
+        "token": "announcers",
+        "sim": 0.6627258062362671
+      },
+      {
+        "token": "newsreel",
+        "sim": 0.6393409967422485
+      },
+      {
+        "token": "vitaphone",
+        "sim": 0.6221511363983154
+      },
+      {
+        "token": "recordings",
+        "sim": 0.6109278202056885
+      },
+      {
+        "token": "transcription",
+        "sim": 0.6072275638580322
+      },
+      {
+        "token": "movietone",
+        "sim": 0.5936293601989746
+      },
+      {
+        "token": "newsreels",
+        "sim": 0.5748988389968872
+      },
+      {
+        "token": "technicolor",
+        "sim": 0.557145357131958
+      },
+      {
+        "token": "projectors",
+        "sim": 0.5330062508583069
+      },
+      {
+        "token": "talkies",
+        "sim": 0.5147704482078552
+      },
+      {
+        "token": "films",
+        "sim": 0.5042271018028259
+      },
+      {
+        "token": "studios",
+        "sim": 0.48788702487945557
+      },
+      {
+        "token": "nationwide",
+        "sim": 0.48548614978790283
+      },
+      {
+        "token": "talkie",
+        "sim": 0.4850166440010071
+      },
+      {
+        "token": "showings",
+        "sim": 0.4834591746330261
+      },
+      {
+        "token": "floodlights",
+        "sim": 0.4749554395675659
+      },
+      {
+        "token": "recording",
+        "sim": 0.473497211933136
+      },
+      {
+        "token": "fanfare",
+        "sim": 0.4691060483455658
+      },
+      {
+        "token": "film",
+        "sim": 0.46890491247177124
+      },
+      {
+        "token": "cantata",
+        "sim": 0.4606534540653229
+      },
+      {
+        "token": "pageants",
+        "sim": 0.4593532085418701
+      },
+      {
+        "token": "photographic",
+        "sim": 0.45368972420692444
+      },
+      {
+        "token": "radios",
+        "sim": 0.4512367844581604
+      },
+      {
+        "token": "photoplay",
+        "sim": 0.45075803995132446
+      },
+      {
+        "token": "cameras",
+        "sim": 0.45026057958602905
+      },
+      {
+        "token": "competitions",
+        "sim": 0.44987207651138306
+      },
+      {
+        "token": "cinema",
+        "sim": 0.4486440122127533
+      },
+      {
+        "token": "amateurs",
+        "sim": 0.447539359331131
+      },
+      {
+        "token": "forums",
+        "sim": 0.44581854343414307
+      },
+      {
+        "token": "scenarios",
+        "sim": 0.44476041197776794
+      },
+      {
+        "token": "acoustical",
+        "sim": 0.44255727529525757
+      },
+      {
+        "token": "phonograph",
+        "sim": 0.44134950637817383
+      },
+      {
+        "token": "orchestras",
+        "sim": 0.43727314472198486
+      },
+      {
+        "token": "organizational",
+        "sim": 0.43336597084999084
+      },
+      {
+        "token": "operatic",
+        "sim": 0.43156898021698
+      }
+    ],
+    "6": [
+      {
+        "token": "orpheum",
+        "sim": 0.5888227224349976
+      },
+      {
+        "token": "rca",
+        "sim": 0.5508472919464111
+      },
+      {
+        "token": "rko",
+        "sim": 0.5460094809532166
+      },
+      {
+        "token": "musicomedy",
+        "sim": 0.5053271651268005
+      },
+      {
+        "token": "metro",
+        "sim": 0.5024738311767578
+      },
+      {
+        "token": "albee",
+        "sim": 0.48802775144577026
+      },
+      {
+        "token": "shubert",
+        "sim": 0.4873278737068176
+      },
+      {
+        "token": "publix",
+        "sim": 0.4866023659706116
+      },
+      {
+        "token": "casazza",
+        "sim": 0.47889259457588196
+      },
+      {
+        "token": "roxy",
+        "sim": 0.4777246415615082
+      },
+      {
+        "token": "reo",
+        "sim": 0.47209247946739197
+      },
+      {
+        "token": "heifetz",
+        "sim": 0.4703011214733124
+      },
+      {
+        "token": "bowes",
+        "sim": 0.4641857147216797
+      },
+      {
+        "token": "cameraman",
+        "sim": 0.4637865126132965
+      },
+      {
+        "token": "demille",
+        "sim": 0.4619942605495453
+      },
+      {
+        "token": "irvin",
+        "sim": 0.4606627821922302
+      },
+      {
+        "token": "delkoff",
+        "sim": 0.4604862630367279
+      },
+      {
+        "token": "wynn",
+        "sim": 0.4541284143924713
+      },
+      {
+        "token": "goldwyn",
+        "sim": 0.45245152711868286
+      },
+      {
+        "token": "loew",
+        "sim": 0.44877687096595764
+      },
+      {
+        "token": "sennett",
+        "sim": 0.448647677898407
+      },
+      {
+        "token": "garrick",
+        "sim": 0.4475654363632202
+      },
+      {
+        "token": "tryouts",
+        "sim": 0.44594573974609375
+      },
+      {
+        "token": "rialto",
+        "sim": 0.44485676288604736
+      },
+      {
+        "token": "maephail",
+        "sim": 0.4430534839630127
+      },
+      {
+        "token": "booking",
+        "sim": 0.44258734583854675
+      },
+      {
+        "token": "preview",
+        "sim": 0.4424390196800232
+      },
+      {
+        "token": "lasky",
+        "sim": 0.43942123651504517
+      },
+      {
+        "token": "pettingill",
+        "sim": 0.4391052722930908
+      },
+      {
+        "token": "barnstorming",
+        "sim": 0.43733254075050354
+      },
+      {
+        "token": "mcclurg",
+        "sim": 0.4365066885948181
+      },
+      {
+        "token": "cupples",
+        "sim": 0.43630528450012207
+      },
+      {
+        "token": "ince",
+        "sim": 0.4334747791290283
+      },
+      {
+        "token": "broadhurst",
+        "sim": 0.4315418601036072
+      }
+    ],
+    "1": [
+      {
+        "token": "transoceanic",
+        "sim": 0.5512770414352417
+      },
+      {
+        "token": "relay",
+        "sim": 0.5053060054779053
+      },
+      {
+        "token": "relays",
+        "sim": 0.5037673711776733
+      },
+      {
+        "token": "transatlantic",
+        "sim": 0.5023714303970337
+      },
+      {
+        "token": "airline",
+        "sim": 0.5019673705101013
+      },
+      {
+        "token": "airway",
+        "sim": 0.48902928829193115
+      },
+      {
+        "token": "lufthansa",
+        "sim": 0.4876724183559418
+      },
+      {
+        "token": "airports",
+        "sim": 0.47227632999420166
+      },
+      {
+        "token": "installations",
+        "sim": 0.4653014838695526
+      },
+      {
+        "token": "sikorsky",
+        "sim": 0.4643092751502991
+      },
+      {
+        "token": "observatories",
+        "sim": 0.45802241563796997
+      },
+      {
+        "token": "biplanes",
+        "sim": 0.4567539393901825
+      },
+      {
+        "token": "tc",
+        "sim": 0.4510246515274048
+      },
+      {
+        "token": "airlines",
+        "sim": 0.4466094672679901
+      },
+      {
+        "token": "hrs",
+        "sim": 0.44094428420066833
+      },
+      {
+        "token": "seaplane",
+        "sim": 0.44081705808639526
+      },
+      {
+        "token": "offenhauser",
+        "sim": 0.4399952292442322
+      },
+      {
+        "token": "helsinki",
+        "sim": 0.43856343626976013
+      },
+      {
+        "token": "metres",
+        "sim": 0.43457114696502686
+      },
+      {
+        "token": "aeronautical",
+        "sim": 0.43413224816322327
+      },
+      {
+        "token": "lockheed",
+        "sim": 0.4339005947113037
+      },
+      {
+        "token": "reinsurance",
+        "sim": 0.4334908425807953
+      },
+      {
+        "token": "seaplanes",
+        "sim": 0.43274426460266113
+      }
+    ],
+    "2": [
+      {
+        "token": "rugby",
+        "sim": 0.5263619422912598
+      },
+      {
+        "token": "marconi",
+        "sim": 0.49186307191848755
+      },
+      {
+        "token": "superpower",
+        "sim": 0.4916025400161743
+      },
+      {
+        "token": "planetarium",
+        "sim": 0.4913463294506073
+      },
+      {
+        "token": "chanute",
+        "sim": 0.48931145668029785
+      },
+      {
+        "token": "schonberg",
+        "sim": 0.4850611388683319
+      },
+      {
+        "token": "bosch",
+        "sim": 0.46676644682884216
+      },
+      {
+        "token": "hertz",
+        "sim": 0.45270583033561707
+      },
+      {
+        "token": "franck",
+        "sim": 0.45131999254226685
+      },
+      {
+        "token": "westinghouse",
+        "sim": 0.4477328062057495
+      },
+      {
+        "token": "collaborators",
+        "sim": 0.4425678253173828
+      },
+      {
+        "token": "handbooks",
+        "sim": 0.442111611366272
+      },
+      {
+        "token": "frowde",
+        "sim": 0.435979962348938
+      },
+      {
+        "token": "apr",
+        "sim": 0.43528318405151367
+      },
+      {
+        "token": "scribners",
+        "sim": 0.431532621383667
+      },
+      {
+        "token": "lilienthal",
+        "sim": 0.43148988485336304
+      }
+    ],
+    "4": [
+      {
+        "token": "commentator",
+        "sim": 0.5015989542007446
+      },
+      {
+        "token": "syndicated",
+        "sim": 0.5000737905502319
+      },
+      {
+        "token": "transcribed",
+        "sim": 0.4901804029941559
+      },
+      {
+        "token": "tipster",
+        "sim": 0.4848492741584778
+      },
+      {
+        "token": "unconfirmed",
+        "sim": 0.48443228006362915
+      },
+      {
+        "token": "censored",
+        "sim": 0.4833084046840668
+      },
+      {
+        "token": "newsorgans",
+        "sim": 0.48005253076553345
+      },
+      {
+        "token": "winchell",
+        "sim": 0.47394463419914246
+      },
+      {
+        "token": "tabloids",
+        "sim": 0.4718090891838074
+      },
+      {
+        "token": "dramatized",
+        "sim": 0.4638996422290802
+      },
+      {
+        "token": "cameramen",
+        "sim": 0.45771998167037964
+      },
+      {
+        "token": "columnists",
+        "sim": 0.45628249645233154
+      },
+      {
+        "token": "bulletins",
+        "sim": 0.4556228220462799
+      },
+      {
+        "token": "announcements",
+        "sim": 0.4553524851799011
+      },
+      {
+        "token": "mimeographed",
+        "sim": 0.4552488327026367
+      },
+      {
+        "token": "news",
+        "sim": 0.45509985089302063
+      },
+      {
+        "token": "intelligencer",
+        "sim": 0.45070910453796387
+      },
+      {
+        "token": "press",
+        "sim": 0.45018261671066284
+      },
+      {
+        "token": "reprints",
+        "sim": 0.44638440012931824
+      },
+      {
+        "token": "subscriber",
+        "sim": 0.44304120540618896
+      },
+      {
+        "token": "newspapers",
+        "sim": 0.4423068165779114
+      },
+      {
+        "token": "copyrighted",
+        "sim": 0.44173577427864075
+      },
+      {
+        "token": "canceling",
+        "sim": 0.4408719837665558
+      },
+      {
+        "token": "captions",
+        "sim": 0.4395344853401184
+      },
+      {
+        "token": "purports",
+        "sim": 0.4371466636657715
+      },
+      {
+        "token": "intensification",
+        "sim": 0.4342799484729767
+      }
+    ],
+    "0": [
+      {
+        "token": "fawcett",
+        "sim": 0.48191338777542114
+      },
+      {
+        "token": "mcninch",
+        "sim": 0.46459951996803284
+      },
+      {
+        "token": "tulloch",
+        "sim": 0.4639061987400055
+      },
+      {
+        "token": "quiz",
+        "sim": 0.44295743107795715
+      },
+      {
+        "token": "amplify",
+        "sim": 0.43955767154693604
+      },
+      {
+        "token": "knudsen",
+        "sim": 0.43701621890068054
+      },
+      {
+        "token": "harbord",
+        "sim": 0.43464839458465576
+      },
+      {
+        "token": "krock",
+        "sim": 0.43405741453170776
+      }
+    ]
+  }
+}

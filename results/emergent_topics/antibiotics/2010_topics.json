@@ -1,0 +1,829 @@
+{
+  "decade": 2010,
+  "concept": "antibiotics",
+  "concept_hits": 9,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 9,
+  "silhouette": 0.07095743715763092,
+  "clusters": {
+    "5": [
+      {
+        "token": "tetracycline",
+        "sim": 0.8559664487838745
+      },
+      {
+        "token": "erythromycin",
+        "sim": 0.8480954170227051
+      },
+      {
+        "token": "streptomycin",
+        "sim": 0.8158599734306335
+      },
+      {
+        "token": "ciprofloxacin",
+        "sim": 0.7990002632141113
+      },
+      {
+        "token": "penicillin",
+        "sim": 0.7961956858634949
+      },
+      {
+        "token": "ampicillin",
+        "sim": 0.7925505042076111
+      },
+      {
+        "token": "trimethoprim",
+        "sim": 0.7893692255020142
+      },
+      {
+        "token": "macrolide",
+        "sim": 0.7716845273971558
+      },
+      {
+        "token": "neomycin",
+        "sim": 0.7618005871772766
+      },
+      {
+        "token": "chloramphenicol",
+        "sim": 0.7614602446556091
+      },
+      {
+        "token": "rifampicin",
+        "sim": 0.7613226175308228
+      },
+      {
+        "token": "enrofloxacin",
+        "sim": 0.7603718042373657
+      },
+      {
+        "token": "gentamicin",
+        "sim": 0.7586274147033691
+      },
+      {
+        "token": "ceftazidime",
+        "sim": 0.7525961399078369
+      },
+      {
+        "token": "kanamycin",
+        "sim": 0.747719943523407
+      },
+      {
+        "token": "cefotaxime",
+        "sim": 0.7299306392669678
+      },
+      {
+        "token": "chloroquine",
+        "sim": 0.722969651222229
+      },
+      {
+        "token": "zanamivir",
+        "sim": 0.7100017070770264
+      },
+      {
+        "token": "toxoid",
+        "sim": 0.7091268301010132
+      },
+      {
+        "token": "atabrine",
+        "sim": 0.6946463584899902
+      },
+      {
+        "token": "oseltamivir",
+        "sim": 0.6915924549102783
+      },
+      {
+        "token": "menveo",
+        "sim": 0.6484986543655396
+      }
+    ],
+    "3": [
+      {
+        "token": "amoxicillin",
+        "sim": 0.8356032967567444
+      },
+      {
+        "token": "clindamycin",
+        "sim": 0.813789963722229
+      },
+      {
+        "token": "vancomycin",
+        "sim": 0.7960206866264343
+      },
+      {
+        "token": "ceftriaxone",
+        "sim": 0.7953639626502991
+      },
+      {
+        "token": "fluconazole",
+        "sim": 0.7799718379974365
+      },
+      {
+        "token": "metronidazole",
+        "sim": 0.7762964367866516
+      },
+      {
+        "token": "cefuroxime",
+        "sim": 0.7754645347595215
+      },
+      {
+        "token": "rifampin",
+        "sim": 0.7723165154457092
+      },
+      {
+        "token": "cephalosporin",
+        "sim": 0.7667374610900879
+      },
+      {
+        "token": "isoniazid",
+        "sim": 0.7571955919265747
+      },
+      {
+        "token": "amphotericin",
+        "sim": 0.7520430088043213
+      },
+      {
+        "token": "doxycycline",
+        "sim": 0.7512174844741821
+      },
+      {
+        "token": "fluoroquinolones",
+        "sim": 0.7257618308067322
+      },
+      {
+        "token": "methotrexate",
+        "sim": 0.7222428321838379
+      },
+      {
+        "token": "corticosteroids",
+        "sim": 0.7161614894866943
+      },
+      {
+        "token": "antivirals",
+        "sim": 0.7010940909385681
+      },
+      {
+        "token": "mefloquine",
+        "sim": 0.6877474188804626
+      },
+      {
+        "token": "cipro",
+        "sim": 0.6864597797393799
+      },
+      {
+        "token": "parenteral",
+        "sim": 0.67789626121521
+      },
+      {
+        "token": "prednisone",
+        "sim": 0.667830228805542
+      },
+      {
+        "token": "acyclovir",
+        "sim": 0.6659292578697205
+      },
+      {
+        "token": "intravenous",
+        "sim": 0.6614824533462524
+      }
+    ],
+    "8": [
+      {
+        "token": "antibiotic",
+        "sim": 0.8320121765136719
+      },
+      {
+        "token": "antibiotics",
+        "sim": 0.824007511138916
+      },
+      {
+        "token": "antimicrobial",
+        "sim": 0.7587565779685974
+      },
+      {
+        "token": "antifungal",
+        "sim": 0.7462551593780518
+      },
+      {
+        "token": "antimicrobials",
+        "sim": 0.7415157556533813
+      },
+      {
+        "token": "ivermectin",
+        "sim": 0.7014152407646179
+      },
+      {
+        "token": "antimalarial",
+        "sim": 0.678724467754364
+      },
+      {
+        "token": "artemisinin",
+        "sim": 0.667969822883606
+      },
+      {
+        "token": "fungicides",
+        "sim": 0.6485538482666016
+      }
+    ],
+    "2": [
+      {
+        "token": "levofloxacin",
+        "sim": 0.7856158018112183
+      },
+      {
+        "token": "atovaquone",
+        "sim": 0.7739118337631226
+      },
+      {
+        "token": "azithromycin",
+        "sim": 0.7716816663742065
+      },
+      {
+        "token": "macrolides",
+        "sim": 0.7686402201652527
+      },
+      {
+        "token": "moxifloxacin",
+        "sim": 0.7593283653259277
+      },
+      {
+        "token": "ribavirin",
+        "sim": 0.7583850622177124
+      },
+      {
+        "token": "azathioprine",
+        "sim": 0.7485678791999817
+      },
+      {
+        "token": "clavulanic",
+        "sim": 0.7424420118331909
+      },
+      {
+        "token": "clavulanate",
+        "sim": 0.740637481212616
+      },
+      {
+        "token": "ofloxacin",
+        "sim": 0.7342331409454346
+      },
+      {
+        "token": "axetil",
+        "sim": 0.7341949939727783
+      },
+      {
+        "token": "hydroxychloroquine",
+        "sim": 0.7257958650588989
+      },
+      {
+        "token": "voriconazole",
+        "sim": 0.7241114377975464
+      },
+      {
+        "token": "cyclophosphamide",
+        "sim": 0.7235866189002991
+      },
+      {
+        "token": "fluoroquinolone",
+        "sim": 0.7222785353660583
+      },
+      {
+        "token": "liposomal",
+        "sim": 0.7218266725540161
+      },
+      {
+        "token": "sofosbuvir",
+        "sim": 0.7194533348083496
+      },
+      {
+        "token": "pyrazinamide",
+        "sim": 0.718923807144165
+      },
+      {
+        "token": "sorafenib",
+        "sim": 0.713866114616394
+      },
+      {
+        "token": "immunosuppressants",
+        "sim": 0.7046986818313599
+      },
+      {
+        "token": "amodiaquine",
+        "sim": 0.6923579573631287
+      },
+      {
+        "token": "zidovudine",
+        "sim": 0.6909928321838379
+      },
+      {
+        "token": "cisplatin",
+        "sim": 0.6903936862945557
+      },
+      {
+        "token": "intrathecal",
+        "sim": 0.6902859807014465
+      },
+      {
+        "token": "doxorubicin",
+        "sim": 0.6890764236450195
+      },
+      {
+        "token": "mycophenolate",
+        "sim": 0.6860424280166626
+      },
+      {
+        "token": "fumarate",
+        "sim": 0.6845583915710449
+      },
+      {
+        "token": "sunitinib",
+        "sim": 0.6827857494354248
+      },
+      {
+        "token": "melphalan",
+        "sim": 0.6790452003479004
+      },
+      {
+        "token": "atorvastatin",
+        "sim": 0.6762823462486267
+      },
+      {
+        "token": "mofetil",
+        "sim": 0.6757010221481323
+      },
+      {
+        "token": "tenofovir",
+        "sim": 0.6743068695068359
+      },
+      {
+        "token": "antidiabetic",
+        "sim": 0.6728014945983887
+      },
+      {
+        "token": "paclitaxel",
+        "sim": 0.6703834533691406
+      },
+      {
+        "token": "infliximab",
+        "sim": 0.6671778559684753
+      },
+      {
+        "token": "telaprevir",
+        "sim": 0.6663995385169983
+      },
+      {
+        "token": "mesylate",
+        "sim": 0.6661813259124756
+      },
+      {
+        "token": "artesunate",
+        "sim": 0.6650556921958923
+      },
+      {
+        "token": "colchicine",
+        "sim": 0.6649770140647888
+      },
+      {
+        "token": "deferoxamine",
+        "sim": 0.6643414497375488
+      },
+      {
+        "token": "lamivudine",
+        "sim": 0.6642680168151855
+      },
+      {
+        "token": "clopidogrel",
+        "sim": 0.6633196473121643
+      },
+      {
+        "token": "etanercept",
+        "sim": 0.6631025075912476
+      },
+      {
+        "token": "tocilizumab",
+        "sim": 0.6617577075958252
+      },
+      {
+        "token": "bicalutamide",
+        "sim": 0.6592304706573486
+      },
+      {
+        "token": "ritonavir",
+        "sim": 0.6576998829841614
+      },
+      {
+        "token": "rituximab",
+        "sim": 0.6570305228233337
+      },
+      {
+        "token": "thiazide",
+        "sim": 0.6567749381065369
+      },
+      {
+        "token": "tinidazole",
+        "sim": 0.6563008427619934
+      },
+      {
+        "token": "dmard",
+        "sim": 0.65525221824646
+      },
+      {
+        "token": "antirheumatic",
+        "sim": 0.654193639755249
+      },
+      {
+        "token": "docetaxel",
+        "sim": 0.6513688564300537
+      },
+      {
+        "token": "ezetimibe",
+        "sim": 0.6501159071922302
+      },
+      {
+        "token": "monotherapy",
+        "sim": 0.6499554514884949
+      },
+      {
+        "token": "dexamethasone",
+        "sim": 0.6476510167121887
+      }
+    ],
+    "1": [
+      {
+        "token": "lactam",
+        "sim": 0.7853467464447021
+      },
+      {
+        "token": "lactams",
+        "sim": 0.7656061053276062
+      },
+      {
+        "token": "sulfonamide",
+        "sim": 0.7405605316162109
+      },
+      {
+        "token": "cephalosporins",
+        "sim": 0.7388529777526855
+      },
+      {
+        "token": "colistin",
+        "sim": 0.7310913801193237
+      },
+      {
+        "token": "carbapenems",
+        "sim": 0.7052032351493835
+      },
+      {
+        "token": "multidrug",
+        "sim": 0.7042993307113647
+      },
+      {
+        "token": "clostridium",
+        "sim": 0.7022414207458496
+      },
+      {
+        "token": "carbapenem",
+        "sim": 0.6884779334068298
+      },
+      {
+        "token": "klebsiella",
+        "sim": 0.6644530296325684
+      },
+      {
+        "token": "fumigatus",
+        "sim": 0.6595922112464905
+      },
+      {
+        "token": "staphylococcal",
+        "sim": 0.6577749252319336
+      },
+      {
+        "token": "esbls",
+        "sim": 0.6534175276756287
+      },
+      {
+        "token": "meningococcus",
+        "sim": 0.6517714262008667
+      },
+      {
+        "token": "neuraminidase",
+        "sim": 0.6477288603782654
+      }
+    ],
+    "6": [
+      {
+        "token": "quinolone",
+        "sim": 0.740887463092804
+      },
+      {
+        "token": "quinolones",
+        "sim": 0.7139521241188049
+      },
+      {
+        "token": "aminoglycosides",
+        "sim": 0.7083739638328552
+      },
+      {
+        "token": "lovastatin",
+        "sim": 0.7047759294509888
+      },
+      {
+        "token": "aminoglycoside",
+        "sim": 0.7001044750213623
+      },
+      {
+        "token": "fluorouracil",
+        "sim": 0.6869678497314453
+      },
+      {
+        "token": "ototopical",
+        "sim": 0.6859935522079468
+      },
+      {
+        "token": "hydrochloride",
+        "sim": 0.6840106844902039
+      },
+      {
+        "token": "relenza",
+        "sim": 0.6828469038009644
+      },
+      {
+        "token": "sulfa",
+        "sim": 0.6798192262649536
+      },
+      {
+        "token": "chemotherapeutic",
+        "sim": 0.6759486198425293
+      },
+      {
+        "token": "mannitol",
+        "sim": 0.6758360266685486
+      },
+      {
+        "token": "coagulant",
+        "sim": 0.6739946007728577
+      },
+      {
+        "token": "immunosuppressant",
+        "sim": 0.6731494069099426
+      },
+      {
+        "token": "cyclosporine",
+        "sim": 0.6689118146896362
+      },
+      {
+        "token": "salicylates",
+        "sim": 0.6655974388122559
+      },
+      {
+        "token": "immunoglobulins",
+        "sim": 0.6646279096603394
+      },
+      {
+        "token": "imidazole",
+        "sim": 0.6628303527832031
+      },
+      {
+        "token": "triclosan",
+        "sim": 0.6605278253555298
+      },
+      {
+        "token": "antiinflammatory",
+        "sim": 0.6603666543960571
+      },
+      {
+        "token": "heparin",
+        "sim": 0.6592443585395813
+      },
+      {
+        "token": "minoxidil",
+        "sim": 0.6567087769508362
+      },
+      {
+        "token": "dopa",
+        "sim": 0.6535007357597351
+      },
+      {
+        "token": "calcitonin",
+        "sim": 0.6526041030883789
+      },
+      {
+        "token": "gluconate",
+        "sim": 0.6499538421630859
+      }
+    ],
+    "7": [
+      {
+        "token": "nonsteroidal",
+        "sim": 0.7249727249145508
+      },
+      {
+        "token": "diclofenac",
+        "sim": 0.7134857773780823
+      },
+      {
+        "token": "haloperidol",
+        "sim": 0.7035920023918152
+      },
+      {
+        "token": "levodopa",
+        "sim": 0.6965053081512451
+      },
+      {
+        "token": "phenytoin",
+        "sim": 0.694481611251831
+      },
+      {
+        "token": "meperidine",
+        "sim": 0.6931676268577576
+      },
+      {
+        "token": "diphenhydramine",
+        "sim": 0.6927757263183594
+      },
+      {
+        "token": "antiseizure",
+        "sim": 0.6879891753196716
+      },
+      {
+        "token": "remicade",
+        "sim": 0.6877622008323669
+      },
+      {
+        "token": "corticosteroid",
+        "sim": 0.6847559809684753
+      },
+      {
+        "token": "diazepam",
+        "sim": 0.6847041249275208
+      },
+      {
+        "token": "methylprednisolone",
+        "sim": 0.6837962865829468
+      },
+      {
+        "token": "gabapentin",
+        "sim": 0.6835402846336365
+      },
+      {
+        "token": "medetomidine",
+        "sim": 0.6789902448654175
+      },
+      {
+        "token": "antihistamine",
+        "sim": 0.6777273416519165
+      },
+      {
+        "token": "albuterol",
+        "sim": 0.6765461564064026
+      },
+      {
+        "token": "marinol",
+        "sim": 0.6738700866699219
+      },
+      {
+        "token": "nexium",
+        "sim": 0.6729210615158081
+      },
+      {
+        "token": "tramadol",
+        "sim": 0.6715219616889954
+      },
+      {
+        "token": "dilantin",
+        "sim": 0.6711077690124512
+      },
+      {
+        "token": "digoxin",
+        "sim": 0.6710238456726074
+      },
+      {
+        "token": "amiodarone",
+        "sim": 0.670120894908905
+      },
+      {
+        "token": "anticonvulsant",
+        "sim": 0.6696570515632629
+      },
+      {
+        "token": "anticonvulsants",
+        "sim": 0.6696489453315735
+      },
+      {
+        "token": "analgesics",
+        "sim": 0.6694505214691162
+      },
+      {
+        "token": "phenobarbital",
+        "sim": 0.668917179107666
+      },
+      {
+        "token": "baclofen",
+        "sim": 0.6682503819465637
+      },
+      {
+        "token": "lupron",
+        "sim": 0.6665019989013672
+      },
+      {
+        "token": "tricyclic",
+        "sim": 0.6660137176513672
+      },
+      {
+        "token": "carbamazepine",
+        "sim": 0.6630226373672485
+      },
+      {
+        "token": "xylazine",
+        "sim": 0.6613423228263855
+      },
+      {
+        "token": "imipramine",
+        "sim": 0.6594946980476379
+      },
+      {
+        "token": "theophylline",
+        "sim": 0.6594039797782898
+      },
+      {
+        "token": "antacids",
+        "sim": 0.655903697013855
+      },
+      {
+        "token": "omeprazole",
+        "sim": 0.6544663310050964
+      },
+      {
+        "token": "elavil",
+        "sim": 0.6543569564819336
+      },
+      {
+        "token": "naproxen",
+        "sim": 0.6533966064453125
+      },
+      {
+        "token": "paracetamol",
+        "sim": 0.6532832384109497
+      },
+      {
+        "token": "venlafaxine",
+        "sim": 0.6529296040534973
+      },
+      {
+        "token": "ppis",
+        "sim": 0.6486236453056335
+      },
+      {
+        "token": "abilify",
+        "sim": 0.6485282778739929
+      },
+      {
+        "token": "clonazepam",
+        "sim": 0.6483380198478699
+      }
+    ],
+    "0": [
+      {
+        "token": "chlorhexidine",
+        "sim": 0.7239383459091187
+      },
+      {
+        "token": "retinoid",
+        "sim": 0.6615806818008423
+      },
+      {
+        "token": "hydrocortisone",
+        "sim": 0.6505511999130249
+      },
+      {
+        "token": "bleomycin",
+        "sim": 0.648286759853363
+      }
+    ],
+    "4": [
+      {
+        "token": "levaquin",
+        "sim": 0.7200027704238892
+      },
+      {
+        "token": "humira",
+        "sim": 0.6760997772216797
+      },
+      {
+        "token": "avelox",
+        "sim": 0.6600096821784973
+      },
+      {
+        "token": "topiramate",
+        "sim": 0.6546271443367004
+      },
+      {
+        "token": "candidiasis",
+        "sim": 0.654057502746582
+      },
+      {
+        "token": "antiretrovirals",
+        "sim": 0.6481290459632874
+      }
+    ]
+  }
+}

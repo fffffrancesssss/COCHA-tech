@@ -3,6 +3,7 @@ from pathlib import Path
 import argparse
 import numpy as np
 import pandas as pd
+import yaml
 
 
 def infer_concerns(df: pd.DataFrame) -> list[str]:
@@ -11,51 +12,73 @@ def infer_concerns(df: pd.DataFrame) -> list[str]:
 
 
 def onset_time(
-    ts,                    # DataFrame: decade, A, concept_hits
-    tau: float,
-    min_hits: int,
-    window: int,
-    min_keep: int,
-    earliest_decade: int,  # 新增
-):
-    ts = ts.sort_values("decade").reset_index(drop=True)
+    ts: pd.DataFrame,
+    value_col: str,
+    min_hits_col: str = "concept_hits",
+    min_hits: int = 3,
+    tau: float = 0.05,
+    window: int = 3,
+    min_keep: int = 2,
+    earliest_decade: int | None = None,   # NEW
+    crossing: bool = True,                # NEW
+) -> float:
+    """
+    Find earliest decade t* such that:
+      - (optional) decade >= earliest_decade
+      - hits(t) >= min_hits
+      - crossing (if enabled): A(t-10) <= tau AND A(t) > tau
+      - persistence: within next `window` decades starting at t, at least `min_keep` satisfy A > tau (and hits>=min_hits)
+    Return decade (int) or np.nan
+    """
+    ts = ts.sort_values("decade").copy()
 
-    # A: 先跳过技术出现前的 decade
-    ts = ts[ts["decade"] >= earliest_decade].reset_index(drop=True)
-    if ts.empty:
-        return None
+    # A) earliest_valid_decade filter
+    if earliest_decade is not None:
+        ts = ts[ts["decade"] >= int(earliest_decade)].copy()
 
-    decades = ts["decade"].to_list()
+    if ts.empty or (value_col not in ts.columns):
+        return np.nan
 
-    for i in range(1, len(ts)):   # 注意从 1 开始，才能用到 t-10
-        t = ts.loc[i, "decade"]
-        prev = ts.loc[i-1, "decade"]
+    ts = ts.reset_index(drop=True)
 
-        # 只支持 decade 步长 10 的情况
-        if t - prev != 10:
+    decades = ts["decade"].to_numpy()
+    vals = ts[value_col].to_numpy(dtype=float)
+    hits = ts[min_hits_col].to_numpy(dtype=float)
+
+    n = len(ts)
+    start_i = 1 if crossing else 0  # crossing needs a previous decade
+
+    for i in range(start_i, n):
+        if hits[i] < min_hits:
+            continue
+        if not np.isfinite(vals[i]):
+            continue
+        if vals[i] <= tau:
             continue
 
-        if ts.loc[i, "concept_hits"] < min_hits:
-            continue
+        # B) crossing condition: A(t-10) <= tau AND A(t) > tau (require contiguous decades)
+        if crossing:
+            if decades[i] - decades[i - 1] != 10:
+                continue
+            prev = vals[i - 1]
+            if not np.isfinite(prev):
+                continue
+            if not (prev <= tau and vals[i] > tau):
+                continue
 
-        A_prev = ts.loc[i-1, "A"]
-        A_now  = ts.loc[i, "A"]
+        # persistence window/min_keep
+        j_end = min(n, i + window)
+        ok = 0
+        for j in range(i, j_end):
+            if hits[j] < min_hits:
+                continue
+            if np.isfinite(vals[j]) and vals[j] > tau:
+                ok += 1
 
-        # B: crossing 条件
-        if not (A_prev <= tau and A_now > tau):
-            continue
+        if ok >= min_keep:
+            return int(decades[i])
 
-        # window/min_keep：从 i 开始往后 window 个 decade，A>tau 且 hits>=min_hits 计数
-        end = min(len(ts), i + window)
-        keep = 0
-        for j in range(i, end):
-            if ts.loc[j, "concept_hits"] >= min_hits and ts.loc[j, "A"] > tau:
-                keep += 1
-
-        if keep >= min_keep:
-            return int(t)
-
-    return None
+    return np.nan
 
 
 def main():
@@ -76,6 +99,13 @@ def main():
     concerns = infer_concerns(df)
     techs = sorted(df["concept"].unique().tolist())
 
+    # load earliest_valid_decade from configs/run.yaml (optional)
+    earliest_map = {}
+    run_cfg_path = root / "configs" / "run.yaml"
+    if run_cfg_path.exists():
+        run_cfg = yaml.safe_load(run_cfg_path.read_text(encoding="utf-8")) or {}
+        earliest_map = ((run_cfg.get("concepts") or {}).get("earliest_valid_decade") or {})
+
     # onset matrix: rows=concern, cols=tech
     onset_records = []
     for c in concerns:
@@ -93,6 +123,8 @@ def main():
                     tau=args.tau,
                     window=args.window,
                     min_keep=args.min_keep,
+                    earliest_decade=int(earliest_map.get(t, 1900)),
+                    crossing=True,
                 )
             onset_records.append({"concern": c, "tech": t, "onset_decade": onset})
 
@@ -104,6 +136,33 @@ def main():
 
     onsets_path = out_dir / "onsets_wide.csv"
     onsets_wide.to_csv(onsets_path, index=False)
+
+
+    # ---- diagnostics ----
+    onset_only = onsets_wide.drop(columns=["concern"])
+    total_cells = onset_only.size
+    finite_cells = int(np.isfinite(onset_only.to_numpy(dtype=float)).sum())
+    print(f"[DIAG] onset cells finite: {finite_cells}/{total_cells} ({finite_cells/total_cells:.1%})")
+
+    per_tech = onset_only.apply(lambda s: int(np.isfinite(pd.to_numeric(s, errors='coerce')).sum()), axis=0)
+    print("[DIAG] finite onset per tech:")
+    print(per_tech.sort_values(ascending=False).to_string())
+
+    # how many edges would be possible if we had onsets?
+    # (rough check: any a<b pairs exist?)
+    vals = onset_only.to_numpy(dtype=float)
+    possible_pairs = 0
+    for i in range(vals.shape[1]):
+        for j in range(vals.shape[1]):
+            if i == j:
+                continue
+            a = vals[:, i]
+            b = vals[:, j]
+            mask = np.isfinite(a) & np.isfinite(b) & (a < b)
+            if mask.any():
+                possible_pairs += 1
+    print(f"[DIAG] tech-pairs with at least one concern satisfying a<b: {possible_pairs}")
+    # ---- end diagnostics ----
 
     # concern clustering by onset pattern (simple: k-means on normalized ranks)
     # Convert decades to ranks within each concern, NA -> large rank
@@ -183,12 +242,21 @@ def main():
             if score > 0:
                 edges.append({"from": t1, "to": t2, "score": score, "n_concerns": len(contrib)})
 
-    edges_df = pd.DataFrame(edges).sort_values("score", ascending=False)
+    edges_df = pd.DataFrame(edges)
+    if edges_df.empty:
+        # still write an empty file with expected columns
+        edges_df = pd.DataFrame(columns=["from", "to", "score", "n_concerns"])
+    else:
+        edges_df = edges_df.sort_values("score", ascending=False)
+
     edges_path = out_dir / "inheritance_edges.csv"
     edges_df.to_csv(edges_path, index=False)
 
     # Also output top-edge concern contributions for later deep dive
-    top = edges_df.head(args.top_edges)[["from", "to"]]
+    if edges_df.empty or len(edges_df) == 0:
+        top = pd.DataFrame(columns=["from", "to"])
+    else:
+        top = edges_df.head(args.top_edges)[["from", "to"]]
     contrib_rows = []
     for _, e in top.iterrows():
         t1, t2 = e["from"], e["to"]
@@ -203,7 +271,10 @@ def main():
                 w = float(np.exp(-dt / lambda_decades))
                 contrib_rows.append({"from": t1, "to": t2, "concern": c, "weight": w, "onset_from": int(a), "onset_to": int(b)})
 
-    contrib_df = pd.DataFrame(contrib_rows).sort_values(["from", "to", "weight"], ascending=[True, True, False])
+    if len(contrib_rows) == 0:
+        contrib_df = pd.DataFrame(columns=["from","to","concern","weight","onset_from","onset_to"])
+    else:
+        contrib_df = pd.DataFrame(contrib_rows).sort_values(["from", "to", "weight"], ascending=[True, True, False])
     contrib_path = out_dir / "top_edges_concern_contrib.csv"
     contrib_df.to_csv(contrib_path, index=False)
 

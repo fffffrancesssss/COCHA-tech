@@ -1,0 +1,823 @@
+{
+  "decade": 1980,
+  "concept": "automation_control",
+  "concept_hits": 8,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.0640101358294487,
+  "clusters": {
+    "1": [
+      {
+        "token": "software",
+        "sim": 0.720703125
+      },
+      {
+        "token": "automated",
+        "sim": 0.7079870700836182
+      },
+      {
+        "token": "unix",
+        "sim": 0.6831693053245544
+      },
+      {
+        "token": "computer",
+        "sim": 0.6736791133880615
+      },
+      {
+        "token": "microchips",
+        "sim": 0.6668453812599182
+      },
+      {
+        "token": "computers",
+        "sim": 0.6629148721694946
+      },
+      {
+        "token": "microprocessors",
+        "sim": 0.6482130289077759
+      },
+      {
+        "token": "circuitry",
+        "sim": 0.6350575685501099
+      },
+      {
+        "token": "equipment",
+        "sim": 0.6269389390945435
+      },
+      {
+        "token": "electronics",
+        "sim": 0.62502521276474
+      },
+      {
+        "token": "desktop",
+        "sim": 0.6107462644577026
+      },
+      {
+        "token": "robot",
+        "sim": 0.6070996522903442
+      },
+      {
+        "token": "fax",
+        "sim": 0.6068930625915527
+      },
+      {
+        "token": "electronic",
+        "sim": 0.6032981872558594
+      },
+      {
+        "token": "processing",
+        "sim": 0.6031029224395752
+      },
+      {
+        "token": "analog",
+        "sim": 0.5988340377807617
+      },
+      {
+        "token": "vcrs",
+        "sim": 0.5947207808494568
+      },
+      {
+        "token": "computerized",
+        "sim": 0.5945138931274414
+      },
+      {
+        "token": "paging",
+        "sim": 0.5921533107757568
+      },
+      {
+        "token": "onboard",
+        "sim": 0.5890569686889648
+      },
+      {
+        "token": "macintosh",
+        "sim": 0.5780513286590576
+      },
+      {
+        "token": "pc",
+        "sim": 0.5777992010116577
+      },
+      {
+        "token": "digital",
+        "sim": 0.5643556118011475
+      },
+      {
+        "token": "systems",
+        "sim": 0.5544214248657227
+      },
+      {
+        "token": "tvs",
+        "sim": 0.5469247698783875
+      },
+      {
+        "token": "synthesizers",
+        "sim": 0.5390411615371704
+      },
+      {
+        "token": "printouts",
+        "sim": 0.5373172760009766
+      },
+      {
+        "token": "graphics",
+        "sim": 0.5372684597969055
+      },
+      {
+        "token": "programmers",
+        "sim": 0.5327368378639221
+      },
+      {
+        "token": "sensor",
+        "sim": 0.5326817035675049
+      },
+      {
+        "token": "vcr",
+        "sim": 0.5322216749191284
+      },
+      {
+        "token": "keyboards",
+        "sim": 0.5270817279815674
+      },
+      {
+        "token": "audio",
+        "sim": 0.5263543128967285
+      },
+      {
+        "token": "processor",
+        "sim": 0.5227744579315186
+      },
+      {
+        "token": "lasers",
+        "sim": 0.520427942276001
+      },
+      {
+        "token": "communications",
+        "sim": 0.5185531973838806
+      },
+      {
+        "token": "videocassette",
+        "sim": 0.5167785286903381
+      },
+      {
+        "token": "calculator",
+        "sim": 0.5165607929229736
+      },
+      {
+        "token": "devices",
+        "sim": 0.5124142169952393
+      }
+    ],
+    "5": [
+      {
+        "token": "mainframe",
+        "sim": 0.7177900075912476
+      },
+      {
+        "token": "supercomputer",
+        "sim": 0.6770210862159729
+      },
+      {
+        "token": "compaq",
+        "sim": 0.648036539554596
+      },
+      {
+        "token": "hitachi",
+        "sim": 0.6319714784622192
+      },
+      {
+        "token": "amiga",
+        "sim": 0.6310625076293945
+      },
+      {
+        "token": "intel",
+        "sim": 0.6282804608345032
+      },
+      {
+        "token": "trw",
+        "sim": 0.6255427002906799
+      },
+      {
+        "token": "cray",
+        "sim": 0.6240136027336121
+      },
+      {
+        "token": "fujitsu",
+        "sim": 0.6237548589706421
+      },
+      {
+        "token": "pharmaceuticals",
+        "sim": 0.6219393610954285
+      },
+      {
+        "token": "matsushita",
+        "sim": 0.6104794144630432
+      },
+      {
+        "token": "semiconductor",
+        "sim": 0.6047830581665039
+      },
+      {
+        "token": "aerotech",
+        "sim": 0.6014240980148315
+      },
+      {
+        "token": "gte",
+        "sim": 0.5916229486465454
+      },
+      {
+        "token": "mattel",
+        "sim": 0.5877339839935303
+      },
+      {
+        "token": "microsoft",
+        "sim": 0.5866204500198364
+      },
+      {
+        "token": "buyouts",
+        "sim": 0.5853593945503235
+      },
+      {
+        "token": "kraftco",
+        "sim": 0.5823627710342407
+      },
+      {
+        "token": "atari",
+        "sim": 0.5809429883956909
+      },
+      {
+        "token": "mitsubishi",
+        "sim": 0.5720736384391785
+      },
+      {
+        "token": "litton",
+        "sim": 0.5549266338348389
+      },
+      {
+        "token": "hewlett",
+        "sim": 0.5508641600608826
+      },
+      {
+        "token": "toshiba",
+        "sim": 0.5494371652603149
+      },
+      {
+        "token": "nissan",
+        "sim": 0.5468322038650513
+      },
+      {
+        "token": "avco",
+        "sim": 0.5405035018920898
+      },
+      {
+        "token": "lyphomed",
+        "sim": 0.5392275452613831
+      },
+      {
+        "token": "subcompact",
+        "sim": 0.5385313034057617
+      },
+      {
+        "token": "packaging",
+        "sim": 0.5369420051574707
+      },
+      {
+        "token": "ibm",
+        "sim": 0.5348998308181763
+      },
+      {
+        "token": "nasdaq",
+        "sim": 0.5344279408454895
+      },
+      {
+        "token": "unisys",
+        "sim": 0.5253674983978271
+      },
+      {
+        "token": "ammirati",
+        "sim": 0.5222621560096741
+      },
+      {
+        "token": "sonntag",
+        "sim": 0.5201472043991089
+      },
+      {
+        "token": "automotive",
+        "sim": 0.5189931988716125
+      },
+      {
+        "token": "metromedia",
+        "sim": 0.5151205658912659
+      },
+      {
+        "token": "sony",
+        "sim": 0.5151191353797913
+      },
+      {
+        "token": "product",
+        "sim": 0.514992356300354
+      },
+      {
+        "token": "sarl",
+        "sim": 0.5148026347160339
+      },
+      {
+        "token": "honeywell",
+        "sim": 0.5141193866729736
+      }
+    ],
+    "0": [
+      {
+        "token": "automation",
+        "sim": 0.7027645111083984
+      },
+      {
+        "token": "technology",
+        "sim": 0.6059401035308838
+      },
+      {
+        "token": "gsusa",
+        "sim": 0.5363541841506958
+      },
+      {
+        "token": "technical",
+        "sim": 0.5324428677558899
+      },
+      {
+        "token": "engineering",
+        "sim": 0.5297812223434448
+      },
+      {
+        "token": "design",
+        "sim": 0.5297068357467651
+      },
+      {
+        "token": "contronics",
+        "sim": 0.5266698598861694
+      },
+      {
+        "token": "draftsmen",
+        "sim": 0.5201319456100464
+      }
+    ],
+    "4": [
+      {
+        "token": "robotics",
+        "sim": 0.7010630369186401
+      },
+      {
+        "token": "microcomputers",
+        "sim": 0.69391930103302
+      },
+      {
+        "token": "inductoheat",
+        "sim": 0.6894389986991882
+      },
+      {
+        "token": "microchip",
+        "sim": 0.688234806060791
+      },
+      {
+        "token": "microcomputer",
+        "sim": 0.674095869064331
+      },
+      {
+        "token": "videodisc",
+        "sim": 0.6578835248947144
+      },
+      {
+        "token": "metalworking",
+        "sim": 0.6449345350265503
+      },
+      {
+        "token": "interactive",
+        "sim": 0.6414192318916321
+      },
+      {
+        "token": "coding",
+        "sim": 0.6378449201583862
+      },
+      {
+        "token": "imaging",
+        "sim": 0.6280809044837952
+      },
+      {
+        "token": "database",
+        "sim": 0.6218358278274536
+      },
+      {
+        "token": "simplifying",
+        "sim": 0.6164227724075317
+      },
+      {
+        "token": "retrieval",
+        "sim": 0.6103956699371338
+      },
+      {
+        "token": "telemetry",
+        "sim": 0.6100938320159912
+      },
+      {
+        "token": "lampmaking",
+        "sim": 0.6098407506942749
+      },
+      {
+        "token": "siop",
+        "sim": 0.6043246388435364
+      },
+      {
+        "token": "simulations",
+        "sim": 0.6018929481506348
+      },
+      {
+        "token": "redesign",
+        "sim": 0.6012197732925415
+      },
+      {
+        "token": "interface",
+        "sim": 0.599652111530304
+      },
+      {
+        "token": "synchronization",
+        "sim": 0.59848952293396
+      },
+      {
+        "token": "modular",
+        "sim": 0.5866069793701172
+      },
+      {
+        "token": "accelerators",
+        "sim": 0.5865790247917175
+      },
+      {
+        "token": "motivational",
+        "sim": 0.5865554809570312
+      },
+      {
+        "token": "cloning",
+        "sim": 0.5832259654998779
+      },
+      {
+        "token": "catv",
+        "sim": 0.5788081884384155
+      },
+      {
+        "token": "networking",
+        "sim": 0.5722628235816956
+      },
+      {
+        "token": "recombinant",
+        "sim": 0.5705251693725586
+      },
+      {
+        "token": "instrumentation",
+        "sim": 0.5691938400268555
+      },
+      {
+        "token": "cpm",
+        "sim": 0.5674409866333008
+      },
+      {
+        "token": "countermeasures",
+        "sim": 0.5617113709449768
+      },
+      {
+        "token": "inputs",
+        "sim": 0.5575282573699951
+      },
+      {
+        "token": "tutorial",
+        "sim": 0.5511518716812134
+      },
+      {
+        "token": "varietal",
+        "sim": 0.5495935678482056
+      },
+      {
+        "token": "technologies",
+        "sim": 0.5487315058708191
+      },
+      {
+        "token": "courseware",
+        "sim": 0.5486510992050171
+      },
+      {
+        "token": "programed",
+        "sim": 0.5482692122459412
+      },
+      {
+        "token": "pretechnology",
+        "sim": 0.5450870990753174
+      },
+      {
+        "token": "standardization",
+        "sim": 0.5378739833831787
+      },
+      {
+        "token": "biomedical",
+        "sim": 0.5353893041610718
+      },
+      {
+        "token": "components",
+        "sim": 0.5352355241775513
+      },
+      {
+        "token": "robotic",
+        "sim": 0.5336691737174988
+      },
+      {
+        "token": "nonlinear",
+        "sim": 0.5304125547409058
+      },
+      {
+        "token": "miniaturization",
+        "sim": 0.5295124650001526
+      },
+      {
+        "token": "unproven",
+        "sim": 0.5277643203735352
+      },
+      {
+        "token": "mri",
+        "sim": 0.5266900658607483
+      },
+      {
+        "token": "interdisciplinary",
+        "sim": 0.5252138376235962
+      },
+      {
+        "token": "deforest",
+        "sim": 0.5226502418518066
+      },
+      {
+        "token": "technics",
+        "sim": 0.5177881717681885
+      },
+      {
+        "token": "rehabilitative",
+        "sim": 0.5149765014648438
+      }
+    ],
+    "2": [
+      {
+        "token": "supercomputers",
+        "sim": 0.6862750053405762
+      },
+      {
+        "token": "computerization",
+        "sim": 0.666751503944397
+      },
+      {
+        "token": "integrator",
+        "sim": 0.6221156716346741
+      },
+      {
+        "token": "semiconductors",
+        "sim": 0.5993085503578186
+      },
+      {
+        "token": "miti",
+        "sim": 0.5976850986480713
+      },
+      {
+        "token": "eft",
+        "sim": 0.5965078473091125
+      },
+      {
+        "token": "tq",
+        "sim": 0.5925682783126831
+      },
+      {
+        "token": "manufacturing",
+        "sim": 0.5875823497772217
+      },
+      {
+        "token": "revamping",
+        "sim": 0.5835235118865967
+      },
+      {
+        "token": "efficiencies",
+        "sim": 0.5784903764724731
+      },
+      {
+        "token": "subcontracting",
+        "sim": 0.5725559592247009
+      },
+      {
+        "token": "streamlining",
+        "sim": 0.5725504159927368
+      },
+      {
+        "token": "petrochemical",
+        "sim": 0.5661397576332092
+      },
+      {
+        "token": "antipollution",
+        "sim": 0.5630134344100952
+      },
+      {
+        "token": "biotechnology",
+        "sim": 0.5588866472244263
+      },
+      {
+        "token": "coproduction",
+        "sim": 0.5577733516693115
+      },
+      {
+        "token": "cfp",
+        "sim": 0.5576250553131104
+      },
+      {
+        "token": "payloads",
+        "sim": 0.5540668964385986
+      },
+      {
+        "token": "lwr",
+        "sim": 0.5534262657165527
+      },
+      {
+        "token": "geothermal",
+        "sim": 0.5522799491882324
+      },
+      {
+        "token": "telecommunications",
+        "sim": 0.5491204857826233
+      },
+      {
+        "token": "deregulated",
+        "sim": 0.5419499278068542
+      },
+      {
+        "token": "marketers",
+        "sim": 0.5419050455093384
+      },
+      {
+        "token": "streamline",
+        "sim": 0.5413732528686523
+      },
+      {
+        "token": "agribusiness",
+        "sim": 0.540422797203064
+      },
+      {
+        "token": "offsets",
+        "sim": 0.5340685248374939
+      },
+      {
+        "token": "jit",
+        "sim": 0.5340490341186523
+      },
+      {
+        "token": "integrators",
+        "sim": 0.5325556993484497
+      },
+      {
+        "token": "agro",
+        "sim": 0.5310192704200745
+      },
+      {
+        "token": "supermetals",
+        "sim": 0.5307577252388
+      },
+      {
+        "token": "lpg",
+        "sim": 0.5292267799377441
+      },
+      {
+        "token": "scams",
+        "sim": 0.5274104475975037
+      },
+      {
+        "token": "appraisers",
+        "sim": 0.5264331102371216
+      },
+      {
+        "token": "staffing",
+        "sim": 0.5255388021469116
+      },
+      {
+        "token": "overruns",
+        "sim": 0.5198755860328674
+      },
+      {
+        "token": "baikalsk",
+        "sim": 0.5195741653442383
+      },
+      {
+        "token": "subcontractors",
+        "sim": 0.5178767442703247
+      },
+      {
+        "token": "maximizing",
+        "sim": 0.5173148512840271
+      },
+      {
+        "token": "technologically",
+        "sim": 0.5168722867965698
+      },
+      {
+        "token": "plastics",
+        "sim": 0.5161176919937134
+      },
+      {
+        "token": "hauliers",
+        "sim": 0.5143314003944397
+      },
+      {
+        "token": "multinationals",
+        "sim": 0.5124537944793701
+      }
+    ],
+    "3": [
+      {
+        "token": "modules",
+        "sim": 0.6833377480506897
+      },
+      {
+        "token": "machine",
+        "sim": 0.6587556004524231
+      },
+      {
+        "token": "machining",
+        "sim": 0.6052146553993225
+      },
+      {
+        "token": "machinery",
+        "sim": 0.6018841862678528
+      },
+      {
+        "token": "machines",
+        "sim": 0.60112464427948
+      },
+      {
+        "token": "turbocharger",
+        "sim": 0.5954501032829285
+      },
+      {
+        "token": "transistors",
+        "sim": 0.5859162211418152
+      },
+      {
+        "token": "flywheel",
+        "sim": 0.5853703618049622
+      },
+      {
+        "token": "planeroid",
+        "sim": 0.569110631942749
+      },
+      {
+        "token": "tooling",
+        "sim": 0.5558845400810242
+      },
+      {
+        "token": "fabricating",
+        "sim": 0.5442953705787659
+      },
+      {
+        "token": "turbo",
+        "sim": 0.5428411960601807
+      },
+      {
+        "token": "airframe",
+        "sim": 0.5401344895362854
+      },
+      {
+        "token": "foundries",
+        "sim": 0.5400249361991882
+      },
+      {
+        "token": "planer",
+        "sim": 0.5390681624412537
+      },
+      {
+        "token": "lathes",
+        "sim": 0.5381078720092773
+      },
+      {
+        "token": "linotype",
+        "sim": 0.5341315269470215
+      },
+      {
+        "token": "robots",
+        "sim": 0.5323019027709961
+      },
+      {
+        "token": "atomics",
+        "sim": 0.5216732621192932
+      },
+      {
+        "token": "woodworking",
+        "sim": 0.5205265283584595
+      },
+      {
+        "token": "catalytic",
+        "sim": 0.5202987790107727
+      },
+      {
+        "token": "mimeograph",
+        "sim": 0.519011378288269
+      },
+      {
+        "token": "converters",
+        "sim": 0.5168470740318298
+      }
+    ]
+  }
+}

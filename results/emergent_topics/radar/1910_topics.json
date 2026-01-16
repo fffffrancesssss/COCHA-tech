@@ -1,0 +1,825 @@
+{
+  "decade": 1910,
+  "concept": "radar",
+  "concept_hits": 3,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 7,
+  "silhouette": 0.05782749131321907,
+  "clusters": {
+    "6": [
+      {
+        "token": "receiver",
+        "sim": 0.8223973512649536
+      },
+      {
+        "token": "receivers",
+        "sim": 0.5473349094390869
+      },
+      {
+        "token": "switchboard",
+        "sim": 0.5453310608863831
+      },
+      {
+        "token": "draftsman",
+        "sim": 0.5269418954849243
+      },
+      {
+        "token": "transmitting",
+        "sim": 0.4965508282184601
+      },
+      {
+        "token": "mayer",
+        "sim": 0.49593305587768555
+      },
+      {
+        "token": "ktch",
+        "sim": 0.4957728981971741
+      },
+      {
+        "token": "telephone",
+        "sim": 0.4955703616142273
+      },
+      {
+        "token": "phone",
+        "sim": 0.49541881680488586
+      },
+      {
+        "token": "telephonic",
+        "sim": 0.4889555275440216
+      },
+      {
+        "token": "circuits",
+        "sim": 0.48301219940185547
+      },
+      {
+        "token": "shearn",
+        "sim": 0.47907567024230957
+      },
+      {
+        "token": "schomburgk",
+        "sim": 0.4712119698524475
+      },
+      {
+        "token": "subscriber",
+        "sim": 0.46999993920326233
+      },
+      {
+        "token": "declination",
+        "sim": 0.4618697762489319
+      },
+      {
+        "token": "zeimer",
+        "sim": 0.45820969343185425
+      },
+      {
+        "token": "persch",
+        "sim": 0.45724064111709595
+      },
+      {
+        "token": "heinze",
+        "sim": 0.4570391774177551
+      }
+    ],
+    "4": [
+      {
+        "token": "transmitter",
+        "sim": 0.7977577447891235
+      },
+      {
+        "token": "antenna",
+        "sim": 0.691085696220398
+      },
+      {
+        "token": "generator",
+        "sim": 0.6694765090942383
+      },
+      {
+        "token": "magneto",
+        "sim": 0.6563751101493835
+      },
+      {
+        "token": "armature",
+        "sim": 0.6100282669067383
+      },
+      {
+        "token": "interrupter",
+        "sim": 0.6016342043876648
+      },
+      {
+        "token": "magnetized",
+        "sim": 0.5748605728149414
+      },
+      {
+        "token": "condenser",
+        "sim": 0.5721765160560608
+      },
+      {
+        "token": "electrode",
+        "sim": 0.5653569102287292
+      },
+      {
+        "token": "piston",
+        "sim": 0.5624158978462219
+      },
+      {
+        "token": "electrically",
+        "sim": 0.5565001368522644
+      },
+      {
+        "token": "electrodes",
+        "sim": 0.5497599840164185
+      },
+      {
+        "token": "dynamo",
+        "sim": 0.5380178093910217
+      },
+      {
+        "token": "bulb",
+        "sim": 0.5320219993591309
+      },
+      {
+        "token": "electro",
+        "sim": 0.5195391774177551
+      },
+      {
+        "token": "clockwork",
+        "sim": 0.5154804587364197
+      },
+      {
+        "token": "lever",
+        "sim": 0.513129472732544
+      },
+      {
+        "token": "cathode",
+        "sim": 0.5085592269897461
+      },
+      {
+        "token": "polarization",
+        "sim": 0.5058243274688721
+      },
+      {
+        "token": "platinum",
+        "sim": 0.505530595779419
+      },
+      {
+        "token": "vortex",
+        "sim": 0.5032472610473633
+      },
+      {
+        "token": "electromotive",
+        "sim": 0.4991344213485718
+      },
+      {
+        "token": "tube",
+        "sim": 0.49436694383621216
+      },
+      {
+        "token": "voltage",
+        "sim": 0.4873194396495819
+      },
+      {
+        "token": "electrified",
+        "sim": 0.48549455404281616
+      },
+      {
+        "token": "stabilizing",
+        "sim": 0.48302602767944336
+      },
+      {
+        "token": "appliance",
+        "sim": 0.4805416166782379
+      },
+      {
+        "token": "induction",
+        "sim": 0.47734498977661133
+      },
+      {
+        "token": "tangent",
+        "sim": 0.47487133741378784
+      },
+      {
+        "token": "concussion",
+        "sim": 0.47159865498542786
+      },
+      {
+        "token": "magnets",
+        "sim": 0.4714605212211609
+      },
+      {
+        "token": "electrons",
+        "sim": 0.4705934524536133
+      },
+      {
+        "token": "vibration",
+        "sim": 0.4694865047931671
+      },
+      {
+        "token": "parabola",
+        "sim": 0.4649985134601593
+      },
+      {
+        "token": "ascends",
+        "sim": 0.46453857421875
+      },
+      {
+        "token": "telephony",
+        "sim": 0.46433892846107483
+      },
+      {
+        "token": "magnet",
+        "sim": 0.4640805125236511
+      },
+      {
+        "token": "counterpoise",
+        "sim": 0.46234768629074097
+      },
+      {
+        "token": "phosphorescence",
+        "sim": 0.4618037939071655
+      },
+      {
+        "token": "ligature",
+        "sim": 0.4617188572883606
+      },
+      {
+        "token": "meter",
+        "sim": 0.4605606198310852
+      },
+      {
+        "token": "electron",
+        "sim": 0.4590795636177063
+      },
+      {
+        "token": "vibrations",
+        "sim": 0.4563617706298828
+      }
+    ],
+    "1": [
+      {
+        "token": "buzzer",
+        "sim": 0.5677628517150879
+      },
+      {
+        "token": "mouthpiece",
+        "sim": 0.543029248714447
+      },
+      {
+        "token": "portiere",
+        "sim": 0.533816933631897
+      },
+      {
+        "token": "trapdoor",
+        "sim": 0.5216090679168701
+      },
+      {
+        "token": "straightens",
+        "sim": 0.5164926648139954
+      },
+      {
+        "token": "doorknob",
+        "sim": 0.4950557351112366
+      },
+      {
+        "token": "keyboard",
+        "sim": 0.49170422554016113
+      },
+      {
+        "token": "rapping",
+        "sim": 0.4907524585723877
+      },
+      {
+        "token": "turnkey",
+        "sim": 0.4878896474838257
+      },
+      {
+        "token": "monocle",
+        "sim": 0.4841187000274658
+      },
+      {
+        "token": "shoves",
+        "sim": 0.48369652032852173
+      },
+      {
+        "token": "clansman",
+        "sim": 0.4810909926891327
+      },
+      {
+        "token": "salver",
+        "sim": 0.4772037863731384
+      },
+      {
+        "token": "mechanically",
+        "sim": 0.4745294451713562
+      },
+      {
+        "token": "disengaged",
+        "sim": 0.47267693281173706
+      },
+      {
+        "token": "tiptoes",
+        "sim": 0.47126245498657227
+      },
+      {
+        "token": "lorgnette",
+        "sim": 0.4712332785129547
+      },
+      {
+        "token": "offstage",
+        "sim": 0.47024425864219666
+      },
+      {
+        "token": "eyeglass",
+        "sim": 0.46893396973609924
+      },
+      {
+        "token": "unlocking",
+        "sim": 0.46764862537384033
+      },
+      {
+        "token": "warold",
+        "sim": 0.46542590856552124
+      },
+      {
+        "token": "showroom",
+        "sim": 0.4630212187767029
+      },
+      {
+        "token": "baton",
+        "sim": 0.4629403054714203
+      },
+      {
+        "token": "tilting",
+        "sim": 0.4622836112976074
+      },
+      {
+        "token": "foyle",
+        "sim": 0.4610966145992279
+      },
+      {
+        "token": "inkstand",
+        "sim": 0.4604199528694153
+      },
+      {
+        "token": "alertly",
+        "sim": 0.4602699875831604
+      },
+      {
+        "token": "claps",
+        "sim": 0.458529531955719
+      },
+      {
+        "token": "downstage",
+        "sim": 0.4583844542503357
+      }
+    ],
+    "3": [
+      {
+        "token": "plugs",
+        "sim": 0.552152156829834
+      },
+      {
+        "token": "coils",
+        "sim": 0.5453523993492126
+      },
+      {
+        "token": "disc",
+        "sim": 0.5183078050613403
+      },
+      {
+        "token": "rudders",
+        "sim": 0.5088223814964294
+      },
+      {
+        "token": "attachments",
+        "sim": 0.5004430413246155
+      },
+      {
+        "token": "clamp",
+        "sim": 0.4984186291694641
+      },
+      {
+        "token": "pulley",
+        "sim": 0.4958333969116211
+      },
+      {
+        "token": "bobbin",
+        "sim": 0.48974525928497314
+      },
+      {
+        "token": "loops",
+        "sim": 0.4888913035392761
+      },
+      {
+        "token": "levers",
+        "sim": 0.48778170347213745
+      },
+      {
+        "token": "funnel",
+        "sim": 0.4795946180820465
+      },
+      {
+        "token": "inwards",
+        "sim": 0.4785993695259094
+      },
+      {
+        "token": "stencil",
+        "sim": 0.47814473509788513
+      },
+      {
+        "token": "anther",
+        "sim": 0.47266143560409546
+      },
+      {
+        "token": "reels",
+        "sim": 0.4726184606552124
+      },
+      {
+        "token": "shank",
+        "sim": 0.471702516078949
+      },
+      {
+        "token": "bracket",
+        "sim": 0.469022661447525
+      },
+      {
+        "token": "extinguisher",
+        "sim": 0.4677343964576721
+      },
+      {
+        "token": "vertically",
+        "sim": 0.46658945083618164
+      },
+      {
+        "token": "rectangle",
+        "sim": 0.46594321727752686
+      },
+      {
+        "token": "horizontally",
+        "sim": 0.4635900855064392
+      },
+      {
+        "token": "rhythmically",
+        "sim": 0.46294522285461426
+      },
+      {
+        "token": "haft",
+        "sim": 0.4628641605377197
+      },
+      {
+        "token": "ignited",
+        "sim": 0.46276938915252686
+      },
+      {
+        "token": "lathe",
+        "sim": 0.46255260705947876
+      },
+      {
+        "token": "nectary",
+        "sim": 0.4611184895038605
+      },
+      {
+        "token": "percussion",
+        "sim": 0.45944952964782715
+      },
+      {
+        "token": "taper",
+        "sim": 0.4577975273132324
+      },
+      {
+        "token": "wires",
+        "sim": 0.4570786952972412
+      }
+    ],
+    "5": [
+      {
+        "token": "radiator",
+        "sim": 0.5407594442367554
+      },
+      {
+        "token": "winch",
+        "sim": 0.5368855595588684
+      },
+      {
+        "token": "gears",
+        "sim": 0.5178000926971436
+      },
+      {
+        "token": "scarabaeus",
+        "sim": 0.5132313370704651
+      },
+      {
+        "token": "socket",
+        "sim": 0.5129724740982056
+      },
+      {
+        "token": "clicked",
+        "sim": 0.5062459111213684
+      },
+      {
+        "token": "nozzle",
+        "sim": 0.5043551921844482
+      },
+      {
+        "token": "keyhole",
+        "sim": 0.5036250352859497
+      },
+      {
+        "token": "cog",
+        "sim": 0.5023293495178223
+      },
+      {
+        "token": "shuttle",
+        "sim": 0.4973808825016022
+      },
+      {
+        "token": "megaphone",
+        "sim": 0.49553316831588745
+      },
+      {
+        "token": "flashlight",
+        "sim": 0.48789697885513306
+      },
+      {
+        "token": "blower",
+        "sim": 0.4876682758331299
+      },
+      {
+        "token": "ventura",
+        "sim": 0.4844297766685486
+      },
+      {
+        "token": "hatchway",
+        "sim": 0.48384666442871094
+      },
+      {
+        "token": "tuning",
+        "sim": 0.4823198616504669
+      },
+      {
+        "token": "firearm",
+        "sim": 0.4817698895931244
+      },
+      {
+        "token": "periscope",
+        "sim": 0.481669545173645
+      },
+      {
+        "token": "intake",
+        "sim": 0.4789380431175232
+      },
+      {
+        "token": "shutter",
+        "sim": 0.477961003780365
+      },
+      {
+        "token": "switches",
+        "sim": 0.47761544585227966
+      },
+      {
+        "token": "casing",
+        "sim": 0.4722592234611511
+      },
+      {
+        "token": "skillet",
+        "sim": 0.47093504667282104
+      },
+      {
+        "token": "padlock",
+        "sim": 0.46766388416290283
+      },
+      {
+        "token": "vial",
+        "sim": 0.4673079252243042
+      },
+      {
+        "token": "screw",
+        "sim": 0.4653673470020294
+      },
+      {
+        "token": "rattles",
+        "sim": 0.46519845724105835
+      },
+      {
+        "token": "blanching",
+        "sim": 0.4642970561981201
+      },
+      {
+        "token": "coil",
+        "sim": 0.4640551805496216
+      },
+      {
+        "token": "unwound",
+        "sim": 0.46283668279647827
+      },
+      {
+        "token": "hoisting",
+        "sim": 0.46272850036621094
+      },
+      {
+        "token": "scabbard",
+        "sim": 0.46189916133880615
+      },
+      {
+        "token": "click",
+        "sim": 0.46177902817726135
+      },
+      {
+        "token": "slowing",
+        "sim": 0.46119949221611023
+      },
+      {
+        "token": "harmlessly",
+        "sim": 0.46109068393707275
+      },
+      {
+        "token": "axle",
+        "sim": 0.46039456129074097
+      },
+      {
+        "token": "lariat",
+        "sim": 0.45871150493621826
+      },
+      {
+        "token": "stopper",
+        "sim": 0.4578356146812439
+      },
+      {
+        "token": "pannikin",
+        "sim": 0.4577893018722534
+      }
+    ],
+    "2": [
+      {
+        "token": "diaphragm",
+        "sim": 0.5171540975570679
+      },
+      {
+        "token": "phonation",
+        "sim": 0.5157796144485474
+      },
+      {
+        "token": "medulla",
+        "sim": 0.5048063397407532
+      },
+      {
+        "token": "loudness",
+        "sim": 0.4852147698402405
+      },
+      {
+        "token": "valves",
+        "sim": 0.48338648676872253
+      },
+      {
+        "token": "glottis",
+        "sim": 0.4820404648780823
+      },
+      {
+        "token": "intestine",
+        "sim": 0.4814486503601074
+      },
+      {
+        "token": "urethra",
+        "sim": 0.4797106683254242
+      },
+      {
+        "token": "resonator",
+        "sim": 0.47305166721343994
+      },
+      {
+        "token": "radial",
+        "sim": 0.4702773690223694
+      },
+      {
+        "token": "duct",
+        "sim": 0.4692789614200592
+      },
+      {
+        "token": "cartilage",
+        "sim": 0.46495455503463745
+      },
+      {
+        "token": "tubular",
+        "sim": 0.46440625190734863
+      },
+      {
+        "token": "compression",
+        "sim": 0.46268364787101746
+      },
+      {
+        "token": "incision",
+        "sim": 0.46148863434791565
+      },
+      {
+        "token": "resonance",
+        "sim": 0.4608062505722046
+      },
+      {
+        "token": "semicircular",
+        "sim": 0.4581753611564636
+      }
+    ],
+    "0": [
+      {
+        "token": "hydro",
+        "sim": 0.5122755765914917
+      },
+      {
+        "token": "hydraulic",
+        "sim": 0.5007185339927673
+      },
+      {
+        "token": "releases",
+        "sim": 0.49796536564826965
+      },
+      {
+        "token": "decomposes",
+        "sim": 0.4972701668739319
+      },
+      {
+        "token": "ohms",
+        "sim": 0.48814481496810913
+      },
+      {
+        "token": "liquefied",
+        "sim": 0.48678529262542725
+      },
+      {
+        "token": "watt",
+        "sim": 0.4835366904735565
+      },
+      {
+        "token": "dynamos",
+        "sim": 0.48233264684677124
+      },
+      {
+        "token": "hydroxide",
+        "sim": 0.47965875267982483
+      },
+      {
+        "token": "condensing",
+        "sim": 0.4793541729450226
+      },
+      {
+        "token": "dioxide",
+        "sim": 0.47608712315559387
+      },
+      {
+        "token": "cc",
+        "sim": 0.47541460394859314
+      },
+      {
+        "token": "aqua",
+        "sim": 0.4751667380332947
+      },
+      {
+        "token": "benzine",
+        "sim": 0.472947359085083
+      },
+      {
+        "token": "hy",
+        "sim": 0.4729466438293457
+      },
+      {
+        "token": "langley",
+        "sim": 0.4702404737472534
+      },
+      {
+        "token": "explodes",
+        "sim": 0.46988797187805176
+      },
+      {
+        "token": "rotating",
+        "sim": 0.4690178334712982
+      },
+      {
+        "token": "magnesium",
+        "sim": 0.46703189611434937
+      },
+      {
+        "token": "oxides",
+        "sim": 0.46594637632369995
+      },
+      {
+        "token": "nebular",
+        "sim": 0.46362563967704773
+      },
+      {
+        "token": "nitrous",
+        "sim": 0.46359285712242126
+      },
+      {
+        "token": "retorts",
+        "sim": 0.46217480301856995
+      },
+      {
+        "token": "turbine",
+        "sim": 0.4599881172180176
+      },
+      {
+        "token": "oxidation",
+        "sim": 0.45852556824684143
+      }
+    ]
+  }
+}

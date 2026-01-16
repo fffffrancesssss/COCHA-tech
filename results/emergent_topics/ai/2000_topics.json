@@ -1,824 +1,824 @@
 {
   "decade": 2000,
   "concept": "ai",
-  "concept_hits": 12,
+  "concept_hits": 11,
   "sub_hits": null,
   "topn": 200,
   "k": 7,
-  "silhouette": 0.07303982973098755,
+  "silhouette": 0.07319846749305725,
   "clusters": {
-    "6": [
+    "3": [
       {
         "token": "algorithms",
-        "sim": 0.7454297542572021
-      },
-      {
-        "token": "computational",
-        "sim": 0.7311972975730896
-      },
-      {
-        "token": "algorithm",
-        "sim": 0.7178066372871399
-      },
-      {
-        "token": "computing",
-        "sim": 0.6800658702850342
+        "sim": 0.751962423324585
       },
       {
         "token": "boolean",
-        "sim": 0.6679984927177429
+        "sim": 0.6680831909179688
       },
       {
         "token": "computation",
-        "sim": 0.6605543494224548
-      },
-      {
-        "token": "probabilistic",
-        "sim": 0.6565964818000793
-      },
-      {
-        "token": "bayesian",
-        "sim": 0.6564064025878906
-      },
-      {
-        "token": "cryptography",
-        "sim": 0.6505864858627319
+        "sim": 0.6637071371078491
       },
       {
         "token": "mathematical",
-        "sim": 0.6407514810562134
+        "sim": 0.6534099578857422
       },
       {
         "token": "computations",
-        "sim": 0.6175640821456909
-      },
-      {
-        "token": "deductive",
-        "sim": 0.5992273092269897
-      },
-      {
-        "token": "parametric",
-        "sim": 0.584220290184021
-      },
-      {
-        "token": "algebraic",
-        "sim": 0.5838916897773743
+        "sim": 0.6178062558174133
       },
       {
         "token": "numerical",
-        "sim": 0.5803671479225159
+        "sim": 0.5970689654350281
+      },
+      {
+        "token": "deductive",
+        "sim": 0.5947186350822449
+      },
+      {
+        "token": "notational",
+        "sim": 0.5929104685783386
       },
       {
         "token": "theorems",
-        "sim": 0.5780104398727417
+        "sim": 0.5864650011062622
       },
       {
-        "token": "quantum",
-        "sim": 0.5765843391418457
+        "token": "deductively",
+        "sim": 0.5852345824241638
+      },
+      {
+        "token": "algebraic",
+        "sim": 0.581794261932373
       }
     ],
     "4": [
       {
-        "token": "bdpa",
-        "sim": 0.717056393623352
+        "token": "computational",
+        "sim": 0.7470072507858276
       },
       {
         "token": "nems",
-        "sim": 0.7014009356498718
+        "sim": 0.7021811008453369
       },
       {
         "token": "adiabatic",
-        "sim": 0.6983370780944824
+        "sim": 0.698997437953949
       },
       {
-        "token": "bdfp",
-        "sim": 0.6905444860458374
+        "token": "probabilistic",
+        "sim": 0.6647129058837891
       },
       {
-        "token": "multiprocessor",
-        "sim": 0.6884629726409912
-      },
-      {
-        "token": "optimization",
-        "sim": 0.6806978583335876
+        "token": "cryptography",
+        "sim": 0.6615317463874817
       },
       {
         "token": "dft",
-        "sim": 0.6504487991333008
+        "sim": 0.6536705493927002
       },
       {
         "token": "microelectromechanical",
-        "sim": 0.646750807762146
+        "sim": 0.6431600451469421
       },
       {
-        "token": "scalability",
-        "sim": 0.6457545161247253
-      },
-      {
-        "token": "sraf",
-        "sim": 0.6435604095458984
-      },
-      {
-        "token": "architectures",
-        "sim": 0.6425899267196655
-      },
-      {
-        "token": "algorithmic",
-        "sim": 0.6421772241592407
-      },
-      {
-        "token": "oniom",
-        "sim": 0.6296705007553101
+        "token": "palem",
+        "sim": 0.6272292137145996
       },
       {
         "token": "combinatorial",
-        "sim": 0.6225818395614624
-      },
-      {
-        "token": "microtechnology",
-        "sim": 0.6194415092468262
-      },
-      {
-        "token": "altpsm",
-        "sim": 0.6182831525802612
+        "sim": 0.6251914501190186
       },
       {
         "token": "dcomp",
-        "sim": 0.616898775100708
-      },
-      {
-        "token": "summarization",
-        "sim": 0.6139463186264038
-      },
-      {
-        "token": "wavelet",
-        "sim": 0.6100643873214722
+        "sim": 0.6159253120422363
       },
       {
         "token": "renormalization",
-        "sim": 0.6095244884490967
+        "sim": 0.613746166229248
       },
       {
         "token": "computationally",
-        "sim": 0.6089909076690674
-      },
-      {
-        "token": "multipoles",
-        "sim": 0.6084563732147217
+        "sim": 0.6119067072868347
       },
       {
         "token": "multibody",
-        "sim": 0.6079953908920288
+        "sim": 0.6084161996841431
       },
       {
-        "token": "metrology",
-        "sim": 0.6021414995193481
+        "token": "multipoles",
+        "sim": 0.6054352521896362
       },
       {
-        "token": "microarchitecture",
-        "sim": 0.6003226637840271
+        "token": "biomolecular",
+        "sim": 0.6046692132949829
       },
       {
         "token": "nanomechanical",
-        "sim": 0.5981640815734863
+        "sim": 0.6004564166069031
       },
       {
-        "token": "flowchart",
-        "sim": 0.5962218046188354
-      },
-      {
-        "token": "holography",
-        "sim": 0.595492959022522
-      },
-      {
-        "token": "dssp",
-        "sim": 0.5944266319274902
+        "token": "metrology",
+        "sim": 0.5997523069381714
       },
       {
         "token": "multiplexing",
-        "sim": 0.5919553637504578
+        "sim": 0.5937740206718445
       },
       {
-        "token": "notational",
-        "sim": 0.5891385078430176
+        "token": "holography",
+        "sim": 0.5923042297363281
       },
       {
-        "token": "clockless",
-        "sim": 0.5877022743225098
-      },
-      {
-        "token": "exocomps",
-        "sim": 0.5856466293334961
-      },
-      {
-        "token": "opc",
-        "sim": 0.585553765296936
-      },
-      {
-        "token": "manufacturability",
-        "sim": 0.5841113328933716
-      },
-      {
-        "token": "iterative",
-        "sim": 0.5838508605957031
-      },
-      {
-        "token": "abelian",
-        "sim": 0.583582878112793
+        "token": "nanoscience",
+        "sim": 0.5893223881721497
       },
       {
         "token": "simulation",
-        "sim": 0.5834044218063354
+        "sim": 0.5892153978347778
       },
       {
-        "token": "heuristics",
-        "sim": 0.5824024081230164
-      },
-      {
-        "token": "nontrivial",
-        "sim": 0.5822881460189819
-      },
-      {
-        "token": "electrodynamics",
-        "sim": 0.5798953175544739
-      },
-      {
-        "token": "topology",
-        "sim": 0.5796814560890198
-      },
-      {
-        "token": "qed",
-        "sim": 0.5794218182563782
-      },
-      {
-        "token": "epimysial",
-        "sim": 0.5793758034706116
-      },
-      {
-        "token": "crystallographic",
-        "sim": 0.5783209800720215
+        "token": "quantum",
+        "sim": 0.5870701670646667
       },
       {
         "token": "bootstrapping",
-        "sim": 0.5774300694465637
+        "sim": 0.5843114852905273
       },
       {
-        "token": "modularity",
-        "sim": 0.5747101306915283
+        "token": "statics",
+        "sim": 0.5829774141311646
       },
       {
-        "token": "superstring",
-        "sim": 0.5742215514183044
+        "token": "nontrivial",
+        "sim": 0.5823158621788025
       },
       {
         "token": "hydrodynamics",
-        "sim": 0.5741090178489685
+        "sim": 0.5816888809204102
+      },
+      {
+        "token": "qed",
+        "sim": 0.5806159973144531
+      },
+      {
+        "token": "sraps",
+        "sim": 0.580379843711853
+      },
+      {
+        "token": "abelian",
+        "sim": 0.5797393918037415
+      },
+      {
+        "token": "electrodynamics",
+        "sim": 0.5796700716018677
+      },
+      {
+        "token": "nanomaterials",
+        "sim": 0.5792768001556396
+      },
+      {
+        "token": "crystallographic",
+        "sim": 0.5787255167961121
+      },
+      {
+        "token": "spectrographic",
+        "sim": 0.5764819383621216
+      },
+      {
+        "token": "microscale",
+        "sim": 0.5743246078491211
+      },
+      {
+        "token": "ribosomal",
+        "sim": 0.5743016004562378
+      },
+      {
+        "token": "superstring",
+        "sim": 0.573685348033905
+      },
+      {
+        "token": "centroid",
+        "sim": 0.5731890797615051
+      },
+      {
+        "token": "bioelectric",
+        "sim": 0.572914183139801
+      },
+      {
+        "token": "timekeeping",
+        "sim": 0.5721731781959534
+      },
+      {
+        "token": "microarray",
+        "sim": 0.5718894004821777
+      }
+    ],
+    "6": [
+      {
+        "token": "algorithm",
+        "sim": 0.7299872636795044
+      },
+      {
+        "token": "bayesian",
+        "sim": 0.6597052812576294
+      },
+      {
+        "token": "hlm",
+        "sim": 0.6317092180252075
+      },
+      {
+        "token": "stata",
+        "sim": 0.6254374980926514
+      },
+      {
+        "token": "oniom",
+        "sim": 0.6224340200424194
+      },
+      {
+        "token": "bayes",
+        "sim": 0.6159017086029053
+      },
+      {
+        "token": "dpotrf",
+        "sim": 0.597627580165863
+      },
+      {
+        "token": "cholesky",
+        "sim": 0.5919395089149475
+      },
+      {
+        "token": "hydrogeologic",
+        "sim": 0.5908191204071045
+      },
+      {
+        "token": "muthn",
+        "sim": 0.5848785638809204
+      },
+      {
+        "token": "itsacorr",
+        "sim": 0.584742546081543
+      },
+      {
+        "token": "autoregressive",
+        "sim": 0.5826709270477295
+      },
+      {
+        "token": "parametric",
+        "sim": 0.5807437896728516
+      },
+      {
+        "token": "autocorrelation",
+        "sim": 0.5769944787025452
+      },
+      {
+        "token": "glm",
+        "sim": 0.5730259418487549
+      },
+      {
+        "token": "factorization",
+        "sim": 0.5722841620445251
       }
     ],
     "2": [
       {
-        "token": "reconfigurable",
-        "sim": 0.7009583711624146
+        "token": "bdpa",
+        "sim": 0.7233842015266418
       },
       {
-        "token": "sql",
-        "sim": 0.686793327331543
+        "token": "bdfp",
+        "sim": 0.6949398517608643
       },
       {
-        "token": "labview",
-        "sim": 0.6559137105941772
+        "token": "multiprocessor",
+        "sim": 0.687167227268219
       },
       {
-        "token": "fraank",
-        "sim": 0.6534258127212524
+        "token": "optimization",
+        "sim": 0.6762098073959351
       },
       {
-        "token": "automates",
-        "sim": 0.6478316783905029
+        "token": "intensional",
+        "sim": 0.6556833982467651
       },
       {
-        "token": "nvivo",
-        "sim": 0.6448448300361633
+        "token": "algorithmic",
+        "sim": 0.651336669921875
       },
       {
-        "token": "xslt",
-        "sim": 0.640896201133728
+        "token": "sraf",
+        "sim": 0.647243857383728
+      },
+      {
+        "token": "architectures",
+        "sim": 0.6450169086456299
+      },
+      {
+        "token": "scalability",
+        "sim": 0.6433232426643372
       },
       {
         "token": "subagent",
-        "sim": 0.6399930715560913
+        "sim": 0.640373945236206
       },
       {
-        "token": "hyperspectral",
-        "sim": 0.637885570526123
+        "token": "microtechnology",
+        "sim": 0.6314145922660828
       },
       {
-        "token": "planetlab",
-        "sim": 0.634598433971405
+        "token": "summarization",
+        "sim": 0.6240546703338623
       },
       {
-        "token": "virtualization",
-        "sim": 0.6312196850776672
+        "token": "wavelet",
+        "sim": 0.6208693385124207
       },
       {
-        "token": "middleware",
-        "sim": 0.6311756372451782
+        "token": "altpsm",
+        "sim": 0.6156235933303833
       },
       {
-        "token": "frogpad",
-        "sim": 0.6278392672538757
+        "token": "dssp",
+        "sim": 0.6028247475624084
       },
       {
-        "token": "software",
-        "sim": 0.6259163618087769
+        "token": "flowchart",
+        "sim": 0.6010939478874207
       },
       {
-        "token": "qnx",
-        "sim": 0.6222221851348877
+        "token": "microarchitecture",
+        "sim": 0.5990227460861206
       },
       {
-        "token": "cryptographic",
-        "sim": 0.6195384860038757
+        "token": "modularity",
+        "sim": 0.5905046463012695
       },
       {
-        "token": "triz",
-        "sim": 0.6188573837280273
+        "token": "manufacturability",
+        "sim": 0.5901113748550415
       },
       {
-        "token": "workflow",
-        "sim": 0.6072043776512146
+        "token": "opc",
+        "sim": 0.5900779962539673
       },
       {
-        "token": "pgp",
-        "sim": 0.6049453616142273
+        "token": "clockless",
+        "sim": 0.5894453525543213
       },
       {
-        "token": "brightmail",
-        "sim": 0.60462886095047
-      },
-      {
-        "token": "myschooldayonline",
-        "sim": 0.6020520925521851
-      },
-      {
-        "token": "javascript",
-        "sim": 0.6004272699356079
-      },
-      {
-        "token": "mozy",
-        "sim": 0.5998156666755676
-      },
-      {
-        "token": "vmware",
-        "sim": 0.59718918800354
-      },
-      {
-        "token": "matlab",
-        "sim": 0.595915675163269
-      },
-      {
-        "token": "verichip",
-        "sim": 0.592093825340271
-      },
-      {
-        "token": "lightroom",
-        "sim": 0.5907363891601562
-      },
-      {
-        "token": "stereolithography",
-        "sim": 0.5902436971664429
-      },
-      {
-        "token": "emulator",
-        "sim": 0.5886136293411255
-      },
-      {
-        "token": "turnitin",
-        "sim": 0.588036298751831
-      },
-      {
-        "token": "abaqus",
-        "sim": 0.5877948999404907
-      },
-      {
-        "token": "decryption",
-        "sim": 0.5875933170318604
-      },
-      {
-        "token": "codec",
-        "sim": 0.5864606499671936
-      },
-      {
-        "token": "transcoder",
-        "sim": 0.586148738861084
-      },
-      {
-        "token": "avchd",
-        "sim": 0.5846924781799316
+        "token": "topology",
+        "sim": 0.5885228514671326
       },
       {
         "token": "erps",
-        "sim": 0.5838651061058044
+        "sim": 0.5870701670646667
       },
       {
-        "token": "omniture",
-        "sim": 0.5822767019271851
-      },
-      {
-        "token": "wep",
-        "sim": 0.5784478187561035
-      },
-      {
-        "token": "nirtsat",
-        "sim": 0.5755226612091064
-      },
-      {
-        "token": "salesforce",
-        "sim": 0.5754823684692383
-      },
-      {
-        "token": "eltis",
-        "sim": 0.5754357576370239
-      },
-      {
-        "token": "encrypting",
-        "sim": 0.5741459727287292
-      },
-      {
-        "token": "rootkit",
-        "sim": 0.5717506408691406
-      }
-    ],
-    "3": [
-      {
-        "token": "dbms",
-        "sim": 0.6930269598960876
-      },
-      {
-        "token": "einstimer",
-        "sim": 0.6551628708839417
-      },
-      {
-        "token": "multithreaded",
-        "sim": 0.6499037146568298
-      },
-      {
-        "token": "pka",
-        "sim": 0.648822546005249
-      },
-      {
-        "token": "microcode",
-        "sim": 0.6425362825393677
-      },
-      {
-        "token": "cisc",
-        "sim": 0.6352246403694153
-      },
-      {
-        "token": "preprocessor",
-        "sim": 0.6295437216758728
-      },
-      {
-        "token": "memoryless",
-        "sim": 0.6276004314422607
-      },
-      {
-        "token": "vhdl",
-        "sim": 0.6211434006690979
-      },
-      {
-        "token": "graphing",
-        "sim": 0.6211043000221252
-      },
-      {
-        "token": "ibmlz",
-        "sim": 0.6177595257759094
-      },
-      {
-        "token": "fortran",
-        "sim": 0.6172868013381958
-      },
-      {
-        "token": "lossless",
-        "sim": 0.617053747177124
-      },
-      {
-        "token": "subroutine",
-        "sim": 0.6124557852745056
-      },
-      {
-        "token": "millicode",
-        "sim": 0.6119387745857239
-      },
-      {
-        "token": "dpotrf",
-        "sim": 0.6095390319824219
-      },
-      {
-        "token": "hexadecimal",
-        "sim": 0.6055566072463989
-      },
-      {
-        "token": "sysplex",
-        "sim": 0.6028962731361389
-      },
-      {
-        "token": "tangora",
-        "sim": 0.6013630628585815
-      },
-      {
-        "token": "cholesky",
-        "sim": 0.5981811881065369
-      },
-      {
-        "token": "synopsys",
-        "sim": 0.595362663269043
-      },
-      {
-        "token": "coprocessor",
-        "sim": 0.5949459075927734
-      },
-      {
-        "token": "cobol",
-        "sim": 0.5941504836082458
-      },
-      {
-        "token": "pipelining",
-        "sim": 0.5924345850944519
-      },
-      {
-        "token": "debugger",
-        "sim": 0.5894445776939392
-      },
-      {
-        "token": "superscalar",
-        "sim": 0.5863778591156006
-      },
-      {
-        "token": "essl",
-        "sim": 0.5862127542495728
-      },
-      {
-        "token": "risc",
-        "sim": 0.5812985897064209
-      },
-      {
-        "token": "plcs",
-        "sim": 0.5793851613998413
+        "token": "iterative",
+        "sim": 0.5869941711425781
       },
       {
         "token": "fixturing",
-        "sim": 0.5787147283554077
+        "sim": 0.5822552442550659
       },
       {
-        "token": "factorization",
-        "sim": 0.5783690214157104
+        "token": "epimysial",
+        "sim": 0.5816593766212463
       },
       {
-        "token": "multiaxis",
-        "sim": 0.5776762962341309
-      },
-      {
-        "token": "hypercard",
-        "sim": 0.5745996832847595
-      },
-      {
-        "token": "sequencers",
-        "sim": 0.5735268592834473
-      },
-      {
-        "token": "lapack",
-        "sim": 0.5710204839706421
+        "token": "dissipative",
+        "sim": 0.5719281435012817
       }
     ],
     "5": [
       {
-        "token": "intensional",
-        "sim": 0.6575689911842346
+        "token": "reconfigurable",
+        "sim": 0.7037071585655212
       },
       {
-        "token": "grundrechnung",
-        "sim": 0.6328225135803223
+        "token": "computing",
+        "sim": 0.6884608268737793
       },
       {
-        "token": "palem",
-        "sim": 0.6283060312271118
+        "token": "fraank",
+        "sim": 0.6590004563331604
       },
       {
-        "token": "anthropometry",
-        "sim": 0.622855544090271
+        "token": "automates",
+        "sim": 0.6524510383605957
       },
       {
-        "token": "bayes",
-        "sim": 0.6206592321395874
+        "token": "labview",
+        "sim": 0.6459318995475769
       },
       {
-        "token": "geospatial",
-        "sim": 0.620357871055603
+        "token": "nvivo",
+        "sim": 0.6432921886444092
       },
       {
-        "token": "analogizing",
-        "sim": 0.6146717071533203
+        "token": "hyperspectral",
+        "sim": 0.6397613286972046
       },
       {
-        "token": "barcoding",
-        "sim": 0.613557755947113
+        "token": "xslt",
+        "sim": 0.6397215127944946
       },
       {
-        "token": "cryptology",
-        "sim": 0.6131293177604675
+        "token": "virtualization",
+        "sim": 0.6370902061462402
       },
       {
-        "token": "heuristic",
-        "sim": 0.6091400384902954
+        "token": "frogpad",
+        "sim": 0.6335938572883606
       },
       {
-        "token": "memetic",
-        "sim": 0.6037036180496216
+        "token": "middleware",
+        "sim": 0.6331681609153748
       },
       {
-        "token": "bioinformatics",
-        "sim": 0.6022311449050903
+        "token": "planetlab",
+        "sim": 0.6327993869781494
       },
       {
-        "token": "proteome",
-        "sim": 0.5997021198272705
+        "token": "software",
+        "sim": 0.630089282989502
       },
       {
-        "token": "biomolecular",
-        "sim": 0.5995502471923828
+        "token": "qnx",
+        "sim": 0.6172378063201904
       },
       {
-        "token": "methodology",
-        "sim": 0.5963071584701538
+        "token": "workflow",
+        "sim": 0.6115665435791016
       },
       {
-        "token": "mmwh",
-        "sim": 0.5942365527153015
+        "token": "triz",
+        "sim": 0.6103432774543762
       },
       {
-        "token": "smm",
-        "sim": 0.5919631123542786
+        "token": "brightmail",
+        "sim": 0.6026086807250977
       },
       {
-        "token": "idiographic",
-        "sim": 0.5881220698356628
+        "token": "myschooldayonline",
+        "sim": 0.5992535352706909
       },
       {
-        "token": "nanoscience",
-        "sim": 0.5854573249816895
+        "token": "javascript",
+        "sim": 0.599230945110321
       },
       {
-        "token": "nanomaterials",
-        "sim": 0.584587812423706
+        "token": "pgp",
+        "sim": 0.5985385179519653
       },
       {
-        "token": "deductively",
-        "sim": 0.584252119064331
+        "token": "vmware",
+        "sim": 0.5982984900474548
       },
       {
-        "token": "fslp",
-        "sim": 0.5834866762161255
+        "token": "stereolithography",
+        "sim": 0.5962372422218323
       },
       {
-        "token": "operationalization",
-        "sim": 0.5817712545394897
+        "token": "mozy",
+        "sim": 0.5958311557769775
+      },
+      {
+        "token": "poweredge",
+        "sim": 0.5925413370132446
+      },
+      {
+        "token": "verichip",
+        "sim": 0.5872641801834106
+      },
+      {
+        "token": "omniture",
+        "sim": 0.5855036973953247
+      },
+      {
+        "token": "matlab",
+        "sim": 0.5852646827697754
+      },
+      {
+        "token": "emulator",
+        "sim": 0.585016131401062
       },
       {
         "token": "nanomix",
-        "sim": 0.5815107226371765
+        "sim": 0.5849754214286804
       },
       {
-        "token": "statics",
-        "sim": 0.5811205506324768
+        "token": "lightroom",
+        "sim": 0.5848323106765747
       },
       {
-        "token": "dti",
-        "sim": 0.579973578453064
+        "token": "codec",
+        "sim": 0.5848039388656616
       },
       {
-        "token": "multiscale",
-        "sim": 0.5778284668922424
+        "token": "avchd",
+        "sim": 0.5845979452133179
       },
       {
-        "token": "ccam",
-        "sim": 0.5766009092330933
+        "token": "turnitin",
+        "sim": 0.5836279392242432
       },
       {
-        "token": "wholetheme",
-        "sim": 0.5729608535766602
+        "token": "computer",
+        "sim": 0.5833134055137634
       },
       {
-        "token": "progymnastia",
-        "sim": 0.5721445679664612
+        "token": "wep",
+        "sim": 0.5827045440673828
       },
       {
-        "token": "germline",
-        "sim": 0.5708994269371033
-      }
-    ],
-    "1": [
-      {
-        "token": "hlm",
-        "sim": 0.6321635246276855
+        "token": "abaqus",
+        "sim": 0.5791125893592834
       },
       {
-        "token": "stata",
-        "sim": 0.6293658018112183
+        "token": "salesforce",
+        "sim": 0.5774038434028625
       },
       {
-        "token": "rtop",
-        "sim": 0.6259099245071411
-      },
-      {
-        "token": "itsacorr",
-        "sim": 0.602121889591217
-      },
-      {
-        "token": "bidimensional",
-        "sim": 0.5992916822433472
-      },
-      {
-        "token": "codebook",
-        "sim": 0.5934083461761475
-      },
-      {
-        "token": "rrna",
-        "sim": 0.593104898929596
-      },
-      {
-        "token": "muthn",
-        "sim": 0.591241717338562
-      },
-      {
-        "token": "autoregressive",
-        "sim": 0.5863043665885925
-      },
-      {
-        "token": "hydrogeologic",
-        "sim": 0.5836528539657593
-      },
-      {
-        "token": "summated",
-        "sim": 0.5790876150131226
+        "token": "eltis",
+        "sim": 0.5745124816894531
       },
       {
         "token": "braillenote",
-        "sim": 0.5783262252807617
+        "sim": 0.5739530324935913
       },
       {
-        "token": "sraps",
-        "sim": 0.5776511430740356
-      },
-      {
-        "token": "lisrel",
-        "sim": 0.5759122371673584
-      },
-      {
-        "token": "glm",
-        "sim": 0.5755194425582886
-      },
-      {
-        "token": "spectrographic",
-        "sim": 0.5747712254524231
-      },
-      {
-        "token": "autocorrelation",
-        "sim": 0.5741749405860901
-      },
-      {
-        "token": "dpf",
-        "sim": 0.5728386640548706
-      },
-      {
-        "token": "ribosomal",
-        "sim": 0.572558581829071
-      },
-      {
-        "token": "bioelectric",
-        "sim": 0.5721697211265564
-      },
-      {
-        "token": "microsatellite",
-        "sim": 0.5713641047477722
-      },
-      {
-        "token": "cloze",
-        "sim": 0.5712649822235107
+        "token": "encrypting",
+        "sim": 0.573280930519104
       }
     ],
     "0": [
       {
-        "token": "poweredge",
-        "sim": 0.6046181917190552
+        "token": "dbms",
+        "sim": 0.6880312561988831
+      },
+      {
+        "token": "sql",
+        "sim": 0.6790308952331543
+      },
+      {
+        "token": "einstimer",
+        "sim": 0.6518452763557434
+      },
+      {
+        "token": "multithreaded",
+        "sim": 0.6449654698371887
+      },
+      {
+        "token": "microcode",
+        "sim": 0.6390467882156372
+      },
+      {
+        "token": "pka",
+        "sim": 0.6366113424301147
+      },
+      {
+        "token": "preprocessor",
+        "sim": 0.6308148503303528
+      },
+      {
+        "token": "cisc",
+        "sim": 0.6283738613128662
+      },
+      {
+        "token": "memoryless",
+        "sim": 0.627548336982727
+      },
+      {
+        "token": "cryptographic",
+        "sim": 0.6237345933914185
+      },
+      {
+        "token": "graphing",
+        "sim": 0.6207711100578308
+      },
+      {
+        "token": "subroutine",
+        "sim": 0.6166152358055115
+      },
+      {
+        "token": "vhdl",
+        "sim": 0.6160742044448853
+      },
+      {
+        "token": "lossless",
+        "sim": 0.6159993410110474
+      },
+      {
+        "token": "ibmlz",
+        "sim": 0.6144911646842957
+      },
+      {
+        "token": "millicode",
+        "sim": 0.6122855544090271
+      },
+      {
+        "token": "fortran",
+        "sim": 0.610002875328064
+      },
+      {
+        "token": "hexadecimal",
+        "sim": 0.6082347631454468
+      },
+      {
+        "token": "sysplex",
+        "sim": 0.5964520573616028
+      },
+      {
+        "token": "decryption",
+        "sim": 0.5954325795173645
+      },
+      {
+        "token": "pipelining",
+        "sim": 0.5925136208534241
+      },
+      {
+        "token": "coprocessor",
+        "sim": 0.5908008217811584
+      },
+      {
+        "token": "superscalar",
+        "sim": 0.5895982980728149
+      },
+      {
+        "token": "cobol",
+        "sim": 0.588334321975708
+      },
+      {
+        "token": "tangora",
+        "sim": 0.5881246328353882
+      },
+      {
+        "token": "exocomps",
+        "sim": 0.5877293348312378
+      },
+      {
+        "token": "synopsys",
+        "sim": 0.587246298789978
       },
       {
         "token": "teraflops",
-        "sim": 0.5811055302619934
+        "sim": 0.5850463509559631
       },
       {
-        "token": "computer",
-        "sim": 0.5787099599838257
+        "token": "essl",
+        "sim": 0.5844518542289734
+      },
+      {
+        "token": "debugger",
+        "sim": 0.5822962522506714
+      },
+      {
+        "token": "risc",
+        "sim": 0.5810788869857788
+      },
+      {
+        "token": "sequencers",
+        "sim": 0.580108106136322
+      },
+      {
+        "token": "multiaxis",
+        "sim": 0.5763983726501465
+      },
+      {
+        "token": "sequencer",
+        "sim": 0.5761120319366455
+      },
+      {
+        "token": "lssd",
+        "sim": 0.5733193159103394
+      },
+      {
+        "token": "nirtsat",
+        "sim": 0.5725127458572388
+      },
+      {
+        "token": "hardac",
+        "sim": 0.5721951723098755
+      },
+      {
+        "token": "plcs",
+        "sim": 0.5718995928764343
+      }
+    ],
+    "1": [
+      {
+        "token": "anthropometry",
+        "sim": 0.6263998746871948
+      },
+      {
+        "token": "heuristic",
+        "sim": 0.6212198734283447
+      },
+      {
+        "token": "geospatial",
+        "sim": 0.6202503442764282
+      },
+      {
+        "token": "analogizing",
+        "sim": 0.6192065477371216
+      },
+      {
+        "token": "rtop",
+        "sim": 0.6149393916130066
+      },
+      {
+        "token": "grundrechnung",
+        "sim": 0.6143609285354614
+      },
+      {
+        "token": "cryptology",
+        "sim": 0.6132803559303284
+      },
+      {
+        "token": "bioinformatics",
+        "sim": 0.6119020581245422
+      },
+      {
+        "token": "barcoding",
+        "sim": 0.6101368069648743
+      },
+      {
+        "token": "proteome",
+        "sim": 0.600544810295105
+      },
+      {
+        "token": "rrna",
+        "sim": 0.5999742746353149
+      },
+      {
+        "token": "memetic",
+        "sim": 0.5989465713500977
+      },
+      {
+        "token": "methodology",
+        "sim": 0.5986505746841431
+      },
+      {
+        "token": "mmwh",
+        "sim": 0.5972371697425842
+      },
+      {
+        "token": "idiographic",
+        "sim": 0.5960383415222168
+      },
+      {
+        "token": "bidimensional",
+        "sim": 0.5953280925750732
+      },
+      {
+        "token": "smm",
+        "sim": 0.5886732339859009
+      },
+      {
+        "token": "codebook",
+        "sim": 0.5884708166122437
+      },
+      {
+        "token": "multiscale",
+        "sim": 0.586273193359375
+      },
+      {
+        "token": "heuristics",
+        "sim": 0.5834077596664429
+      },
+      {
+        "token": "fslp",
+        "sim": 0.5806844830513
+      },
+      {
+        "token": "operationalization",
+        "sim": 0.5795729160308838
+      },
+      {
+        "token": "ccam",
+        "sim": 0.5789811015129089
+      },
+      {
+        "token": "summated",
+        "sim": 0.5749202966690063
+      },
+      {
+        "token": "microsatellite",
+        "sim": 0.5747743844985962
+      },
+      {
+        "token": "dct",
+        "sim": 0.5736266374588013
+      },
+      {
+        "token": "germline",
+        "sim": 0.5720375180244446
+      },
+      {
+        "token": "progymnastia",
+        "sim": 0.5708319544792175
       }
     ]
   }

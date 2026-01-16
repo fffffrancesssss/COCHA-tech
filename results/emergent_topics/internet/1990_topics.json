@@ -1,0 +1,823 @@
+{
+  "decade": 1990,
+  "concept": "internet",
+  "concept_hits": 8,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.07092837244272232,
+  "clusters": {
+    "4": [
+      {
+        "token": "web",
+        "sim": 0.8383191823959351
+      },
+      {
+        "token": "website",
+        "sim": 0.7995105981826782
+      },
+      {
+        "token": "webpage",
+        "sim": 0.7565982341766357
+      },
+      {
+        "token": "faq",
+        "sim": 0.728269100189209
+      },
+      {
+        "token": "foxnews",
+        "sim": 0.724973201751709
+      },
+      {
+        "token": "denverpost",
+        "sim": 0.7225034236907959
+      },
+      {
+        "token": "fileworld",
+        "sim": 0.7066220641136169
+      },
+      {
+        "token": "cbsnews",
+        "sim": 0.7013975381851196
+      },
+      {
+        "token": "sciencefriday",
+        "sim": 0.7003535628318787
+      },
+      {
+        "token": "listservs",
+        "sim": 0.6969108581542969
+      },
+      {
+        "token": "bitnet",
+        "sim": 0.6885015964508057
+      },
+      {
+        "token": "sasslink",
+        "sim": 0.688258171081543
+      },
+      {
+        "token": "com",
+        "sim": 0.6879186034202576
+      },
+      {
+        "token": "abcnews",
+        "sim": 0.6822988986968994
+      },
+      {
+        "token": "keyword",
+        "sim": 0.6791078448295593
+      },
+      {
+        "token": "listserv",
+        "sim": 0.6768978834152222
+      },
+      {
+        "token": "htm",
+        "sim": 0.672098696231842
+      },
+      {
+        "token": "homepage",
+        "sim": 0.6708462238311768
+      },
+      {
+        "token": "geocities",
+        "sim": 0.6700040698051453
+      },
+      {
+        "token": "ftp",
+        "sim": 0.6653600335121155
+      },
+      {
+        "token": "sportszone",
+        "sim": 0.6551150679588318
+      },
+      {
+        "token": "newsgroups",
+        "sim": 0.6498358845710754
+      },
+      {
+        "token": "blog",
+        "sim": 0.6397669315338135
+      },
+      {
+        "token": "pcworld",
+        "sim": 0.63875412940979
+      },
+      {
+        "token": "lnternet",
+        "sim": 0.6374101638793945
+      },
+      {
+        "token": "algor",
+        "sim": 0.6339338421821594
+      },
+      {
+        "token": "worldnet",
+        "sim": 0.6306039094924927
+      },
+      {
+        "token": "infonet",
+        "sim": 0.630413830280304
+      },
+      {
+        "token": "usenet",
+        "sim": 0.6263401508331299
+      },
+      {
+        "token": "html",
+        "sim": 0.6260268092155457
+      },
+      {
+        "token": "http",
+        "sim": 0.6248706579208374
+      },
+      {
+        "token": "webmaster",
+        "sim": 0.6222279071807861
+      },
+      {
+        "token": "www",
+        "sim": 0.609290599822998
+      },
+      {
+        "token": "newsgroup",
+        "sim": 0.6049702167510986
+      },
+      {
+        "token": "site",
+        "sim": 0.6014919877052307
+      },
+      {
+        "token": "familypc",
+        "sim": 0.5741206407546997
+      },
+      {
+        "token": "url",
+        "sim": 0.5727145671844482
+      },
+      {
+        "token": "screentalk",
+        "sim": 0.5711052417755127
+      },
+      {
+        "token": "metaverse",
+        "sim": 0.5533441305160522
+      },
+      {
+        "token": "edu",
+        "sim": 0.5463871955871582
+      },
+      {
+        "token": "google",
+        "sim": 0.5422106981277466
+      },
+      {
+        "token": "nexis",
+        "sim": 0.5400776267051697
+      },
+      {
+        "token": "bettee",
+        "sim": 0.5390466451644897
+      },
+      {
+        "token": "apd",
+        "sim": 0.5352081060409546
+      },
+      {
+        "token": "nytimes",
+        "sim": 0.5329710841178894
+      },
+      {
+        "token": "org",
+        "sim": 0.5318702459335327
+      },
+      {
+        "token": "dolans",
+        "sim": 0.5311936140060425
+      },
+      {
+        "token": "seniornet",
+        "sim": 0.5285626649856567
+      }
+    ],
+    "1": [
+      {
+        "token": "internet",
+        "sim": 0.8332038521766663
+      },
+      {
+        "token": "browser",
+        "sim": 0.7726051211357117
+      },
+      {
+        "token": "telnet",
+        "sim": 0.7072086930274963
+      },
+      {
+        "token": "urls",
+        "sim": 0.6739058494567871
+      },
+      {
+        "token": "intranet",
+        "sim": 0.6594595313072205
+      },
+      {
+        "token": "cyberspace",
+        "sim": 0.6510573625564575
+      },
+      {
+        "token": "intranets",
+        "sim": 0.6264325976371765
+      },
+      {
+        "token": "messaging",
+        "sim": 0.6247168183326721
+      },
+      {
+        "token": "download",
+        "sim": 0.6206148266792297
+      },
+      {
+        "token": "browsers",
+        "sim": 0.611818790435791
+      },
+      {
+        "token": "software",
+        "sim": 0.610023021697998
+      },
+      {
+        "token": "offline",
+        "sim": 0.6035304069519043
+      },
+      {
+        "token": "downloads",
+        "sim": 0.5915376543998718
+      },
+      {
+        "token": "database",
+        "sim": 0.5908523797988892
+      },
+      {
+        "token": "pc",
+        "sim": 0.5856446027755737
+      },
+      {
+        "token": "uploaded",
+        "sim": 0.5836213231086731
+      },
+      {
+        "token": "videoconference",
+        "sim": 0.580917477607727
+      },
+      {
+        "token": "websites",
+        "sim": 0.5805007219314575
+      },
+      {
+        "token": "wirelessly",
+        "sim": 0.5800058841705322
+      },
+      {
+        "token": "server",
+        "sim": 0.576988935470581
+      },
+      {
+        "token": "computer",
+        "sim": 0.5747858881950378
+      },
+      {
+        "token": "desktop",
+        "sim": 0.5707463622093201
+      },
+      {
+        "token": "upload",
+        "sim": 0.5628973245620728
+      },
+      {
+        "token": "databases",
+        "sim": 0.5615335702896118
+      },
+      {
+        "token": "downloading",
+        "sim": 0.5603740215301514
+      },
+      {
+        "token": "videoconferencing",
+        "sim": 0.5594754219055176
+      },
+      {
+        "token": "downloaded",
+        "sim": 0.5575098991394043
+      },
+      {
+        "token": "hypertext",
+        "sim": 0.5554087162017822
+      },
+      {
+        "token": "networked",
+        "sim": 0.5509123802185059
+      },
+      {
+        "token": "bookmarks",
+        "sim": 0.5476930141448975
+      },
+      {
+        "token": "electronic",
+        "sim": 0.5400303602218628
+      },
+      {
+        "token": "conferencing",
+        "sim": 0.5364266633987427
+      },
+      {
+        "token": "bbss",
+        "sim": 0.5354569554328918
+      },
+      {
+        "token": "annotate",
+        "sim": 0.5335906147956848
+      },
+      {
+        "token": "plcs",
+        "sim": 0.533193826675415
+      },
+      {
+        "token": "pcs",
+        "sim": 0.5328283309936523
+      },
+      {
+        "token": "encrypt",
+        "sim": 0.5316587090492249
+      }
+    ],
+    "2": [
+      {
+        "token": "online",
+        "sim": 0.8081704378128052
+      },
+      {
+        "token": "aol",
+        "sim": 0.6939736604690552
+      },
+      {
+        "token": "cdnow",
+        "sim": 0.6890908479690552
+      },
+      {
+        "token": "msn",
+        "sim": 0.6799917221069336
+      },
+      {
+        "token": "altavista",
+        "sim": 0.6728122234344482
+      },
+      {
+        "token": "earthlink",
+        "sim": 0.6587411165237427
+      },
+      {
+        "token": "expedia",
+        "sim": 0.6551365852355957
+      },
+      {
+        "token": "yahoo",
+        "sim": 0.6494873762130737
+      },
+      {
+        "token": "priceline",
+        "sim": 0.6414049863815308
+      },
+      {
+        "token": "marketwatch",
+        "sim": 0.6410211324691772
+      },
+      {
+        "token": "travelocity",
+        "sim": 0.6369588375091553
+      },
+      {
+        "token": "rewardsplus",
+        "sim": 0.6252322196960449
+      },
+      {
+        "token": "lycos",
+        "sim": 0.6242789626121521
+      },
+      {
+        "token": "netscape",
+        "sim": 0.6190735697746277
+      },
+      {
+        "token": "ameritrade",
+        "sim": 0.6007559895515442
+      },
+      {
+        "token": "isp",
+        "sim": 0.6000477075576782
+      },
+      {
+        "token": "dljdirect",
+        "sim": 0.5993483066558838
+      },
+      {
+        "token": "suretrade",
+        "sim": 0.5982925295829773
+      },
+      {
+        "token": "valueamerica",
+        "sim": 0.595453679561615
+      },
+      {
+        "token": "compuserve",
+        "sim": 0.5950038433074951
+      },
+      {
+        "token": "thestreet",
+        "sim": 0.5926501750946045
+      },
+      {
+        "token": "pointcast",
+        "sim": 0.5872673988342285
+      },
+      {
+        "token": "ebay",
+        "sim": 0.58504718542099
+      },
+      {
+        "token": "instinet",
+        "sim": 0.5827785730361938
+      },
+      {
+        "token": "netcom",
+        "sim": 0.5808668732643127
+      },
+      {
+        "token": "cmgi",
+        "sim": 0.5681846737861633
+      },
+      {
+        "token": "microsoft",
+        "sim": 0.5679361820220947
+      },
+      {
+        "token": "infoseek",
+        "sim": 0.5634242296218872
+      },
+      {
+        "token": "sybase",
+        "sim": 0.5494123101234436
+      },
+      {
+        "token": "onesource",
+        "sim": 0.5488210916519165
+      },
+      {
+        "token": "checkfree",
+        "sim": 0.5483537316322327
+      },
+      {
+        "token": "peapod",
+        "sim": 0.5462822914123535
+      },
+      {
+        "token": "primeco",
+        "sim": 0.5444599390029907
+      },
+      {
+        "token": "ecns",
+        "sim": 0.5440344214439392
+      },
+      {
+        "token": "isdn",
+        "sim": 0.5425722002983093
+      },
+      {
+        "token": "datek",
+        "sim": 0.5394077301025391
+      },
+      {
+        "token": "uunet",
+        "sim": 0.5393542647361755
+      },
+      {
+        "token": "telco",
+        "sim": 0.5375301837921143
+      },
+      {
+        "token": "resellers",
+        "sim": 0.5350369215011597
+      },
+      {
+        "token": "cnet",
+        "sim": 0.5308706164360046
+      },
+      {
+        "token": "optimark",
+        "sim": 0.5297836661338806
+      }
+    ],
+    "0": [
+      {
+        "token": "email",
+        "sim": 0.6396292448043823
+      },
+      {
+        "token": "voicemail",
+        "sim": 0.5971944332122803
+      },
+      {
+        "token": "citylife",
+        "sim": 0.5879001617431641
+      },
+      {
+        "token": "northfulton",
+        "sim": 0.5845234394073486
+      },
+      {
+        "token": "csps",
+        "sim": 0.5829181671142578
+      },
+      {
+        "token": "mail",
+        "sim": 0.5689817070960999
+      },
+      {
+        "token": "totn",
+        "sim": 0.5689734220504761
+      },
+      {
+        "token": "tamu",
+        "sim": 0.5678747892379761
+      },
+      {
+        "token": "oped",
+        "sim": 0.5544260740280151
+      },
+      {
+        "token": "sfgate",
+        "sim": 0.5527846217155457
+      },
+      {
+        "token": "suntimes",
+        "sim": 0.5419968366622925
+      },
+      {
+        "token": "emails",
+        "sim": 0.5304659605026245
+      },
+      {
+        "token": "ajc",
+        "sim": 0.5283222198486328
+      }
+    ],
+    "3": [
+      {
+        "token": "uploading",
+        "sim": 0.6374516487121582
+      },
+      {
+        "token": "searchable",
+        "sim": 0.6311043500900269
+      },
+      {
+        "token": "ncsa",
+        "sim": 0.6289833784103394
+      },
+      {
+        "token": "freeware",
+        "sim": 0.6128458976745605
+      },
+      {
+        "token": "realaudio",
+        "sim": 0.6009974479675293
+      },
+      {
+        "token": "tcp",
+        "sim": 0.5968575477600098
+      },
+      {
+        "token": "activex",
+        "sim": 0.588110089302063
+      },
+      {
+        "token": "foxpro",
+        "sim": 0.5843941569328308
+      },
+      {
+        "token": "compu",
+        "sim": 0.5815309882164001
+      },
+      {
+        "token": "frontpage",
+        "sim": 0.5805090665817261
+      },
+      {
+        "token": "taxcut",
+        "sim": 0.5761151909828186
+      },
+      {
+        "token": "westlaw",
+        "sim": 0.5746365189552307
+      },
+      {
+        "token": "applets",
+        "sim": 0.5745721459388733
+      },
+      {
+        "token": "shareware",
+        "sim": 0.5736757516860962
+      },
+      {
+        "token": "ssl",
+        "sim": 0.5716084241867065
+      },
+      {
+        "token": "webtv",
+        "sim": 0.5628398656845093
+      },
+      {
+        "token": "sql",
+        "sim": 0.5625147819519043
+      },
+      {
+        "token": "touchtone",
+        "sim": 0.5620521306991577
+      },
+      {
+        "token": "pbx",
+        "sim": 0.5616967082023621
+      },
+      {
+        "token": "turbotax",
+        "sim": 0.5596961975097656
+      },
+      {
+        "token": "netware",
+        "sim": 0.5549695491790771
+      },
+      {
+        "token": "workgroup",
+        "sim": 0.5544174313545227
+      },
+      {
+        "token": "mvs",
+        "sim": 0.5542644262313843
+      },
+      {
+        "token": "lexis",
+        "sim": 0.5539180040359497
+      },
+      {
+        "token": "psion",
+        "sim": 0.5497521162033081
+      },
+      {
+        "token": "symantec",
+        "sim": 0.5492159128189087
+      },
+      {
+        "token": "arpanet",
+        "sim": 0.5488431453704834
+      },
+      {
+        "token": "encarta",
+        "sim": 0.5477496981620789
+      },
+      {
+        "token": "hypercard",
+        "sim": 0.545868992805481
+      },
+      {
+        "token": "vax",
+        "sim": 0.5457288026809692
+      },
+      {
+        "token": "toolkit",
+        "sim": 0.5442043542861938
+      },
+      {
+        "token": "pagemaker",
+        "sim": 0.5434293150901794
+      },
+      {
+        "token": "serius",
+        "sim": 0.5416512489318848
+      },
+      {
+        "token": "diskette",
+        "sim": 0.5414136648178101
+      },
+      {
+        "token": "nws",
+        "sim": 0.5410627126693726
+      },
+      {
+        "token": "uninstall",
+        "sim": 0.5410028696060181
+      },
+      {
+        "token": "medline",
+        "sim": 0.5407746434211731
+      },
+      {
+        "token": "procomm",
+        "sim": 0.5406454205513
+      },
+      {
+        "token": "puter",
+        "sim": 0.539633572101593
+      },
+      {
+        "token": "roboticizer",
+        "sim": 0.5392007827758789
+      },
+      {
+        "token": "skynet",
+        "sim": 0.5350363850593567
+      },
+      {
+        "token": "corel",
+        "sim": 0.5343391299247742
+      },
+      {
+        "token": "inmarsat",
+        "sim": 0.5342221856117249
+      },
+      {
+        "token": "dbase",
+        "sim": 0.5335139632225037
+      },
+      {
+        "token": "virusscan",
+        "sim": 0.5326226949691772
+      },
+      {
+        "token": "filename",
+        "sim": 0.5300963521003723
+      },
+      {
+        "token": "crb",
+        "sim": 0.5277430415153503
+      },
+      {
+        "token": "firmware",
+        "sim": 0.5274083614349365
+      },
+      {
+        "token": "handspring",
+        "sim": 0.5271429419517517
+      },
+      {
+        "token": "workgroups",
+        "sim": 0.5268927812576294
+      },
+      {
+        "token": "scada",
+        "sim": 0.5265243053436279
+      }
+    ],
+    "5": [
+      {
+        "token": "downloadable",
+        "sim": 0.6011837720870972
+      },
+      {
+        "token": "infobahn",
+        "sim": 0.5898876190185547
+      },
+      {
+        "token": "hypermedia",
+        "sim": 0.5819857716560364
+      },
+      {
+        "token": "xband",
+        "sim": 0.5748986601829529
+      },
+      {
+        "token": "edutainment",
+        "sim": 0.5710207223892212
+      },
+      {
+        "token": "groupware",
+        "sim": 0.5542478561401367
+      },
+      {
+        "token": "multiplayer",
+        "sim": 0.5494336485862732
+      },
+      {
+        "token": "multimedia",
+        "sim": 0.538850724697113
+      },
+      {
+        "token": "roms",
+        "sim": 0.5326384902000427
+      },
+      {
+        "token": "powerpoint",
+        "sim": 0.5323607921600342
+      }
+    ]
+  }
+}

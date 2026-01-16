@@ -1,0 +1,823 @@
+{
+  "decade": 2010,
+  "concept": "radar",
+  "concept_hits": 5,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.06667210906744003,
+  "clusters": {
+    "4": [
+      {
+        "token": "transmitter",
+        "sim": 0.8141376972198486
+      },
+      {
+        "token": "antenna",
+        "sim": 0.7950148582458496
+      },
+      {
+        "token": "receiver",
+        "sim": 0.6549014449119568
+      },
+      {
+        "token": "antennas",
+        "sim": 0.6435456275939941
+      },
+      {
+        "token": "transponder",
+        "sim": 0.6318943500518799
+      },
+      {
+        "token": "transceiver",
+        "sim": 0.6305199861526489
+      },
+      {
+        "token": "repeater",
+        "sim": 0.6172868609428406
+      },
+      {
+        "token": "receivers",
+        "sim": 0.5905123353004456
+      },
+      {
+        "token": "transmitters",
+        "sim": 0.5871782898902893
+      },
+      {
+        "token": "downlink",
+        "sim": 0.5567611455917358
+      },
+      {
+        "token": "radios",
+        "sim": 0.5416921377182007
+      },
+      {
+        "token": "uplink",
+        "sim": 0.5408061742782593
+      },
+      {
+        "token": "gps",
+        "sim": 0.5404719710350037
+      },
+      {
+        "token": "transistor",
+        "sim": 0.5365959405899048
+      },
+      {
+        "token": "signal",
+        "sim": 0.535092830657959
+      },
+      {
+        "token": "uhf",
+        "sim": 0.5334666967391968
+      },
+      {
+        "token": "detonator",
+        "sim": 0.5273339748382568
+      },
+      {
+        "token": "jammer",
+        "sim": 0.5261574387550354
+      },
+      {
+        "token": "coaxial",
+        "sim": 0.525942862033844
+      },
+      {
+        "token": "jammers",
+        "sim": 0.511683464050293
+      },
+      {
+        "token": "radio",
+        "sim": 0.5114933848381042
+      },
+      {
+        "token": "etb",
+        "sim": 0.5092825293540955
+      },
+      {
+        "token": "mhz",
+        "sim": 0.5085188150405884
+      },
+      {
+        "token": "repeaters",
+        "sim": 0.508237361907959
+      },
+      {
+        "token": "comms",
+        "sim": 0.5052964091300964
+      },
+      {
+        "token": "transponders",
+        "sim": 0.5042648911476135
+      },
+      {
+        "token": "transceivers",
+        "sim": 0.49609702825546265
+      },
+      {
+        "token": "megahertz",
+        "sim": 0.4923257827758789
+      },
+      {
+        "token": "transmissions",
+        "sim": 0.48529303073883057
+      },
+      {
+        "token": "signals",
+        "sim": 0.4840630292892456
+      },
+      {
+        "token": "pager",
+        "sim": 0.48348790407180786
+      }
+    ],
+    "5": [
+      {
+        "token": "microwave",
+        "sim": 0.704460084438324
+      },
+      {
+        "token": "photodiode",
+        "sim": 0.6452485918998718
+      },
+      {
+        "token": "sensor",
+        "sim": 0.5935730934143066
+      },
+      {
+        "token": "kilohertz",
+        "sim": 0.5932427644729614
+      },
+      {
+        "token": "thz",
+        "sim": 0.5631016492843628
+      },
+      {
+        "token": "microwaves",
+        "sim": 0.5625959038734436
+      },
+      {
+        "token": "electromagnetic",
+        "sim": 0.5567189455032349
+      },
+      {
+        "token": "photocell",
+        "sim": 0.5555751919746399
+      },
+      {
+        "token": "omnidirectional",
+        "sim": 0.5419315099716187
+      },
+      {
+        "token": "transducer",
+        "sim": 0.5410940051078796
+      },
+      {
+        "token": "gyroscope",
+        "sim": 0.5395092964172363
+      },
+      {
+        "token": "femto",
+        "sim": 0.5368638038635254
+      },
+      {
+        "token": "beam",
+        "sim": 0.5303545594215393
+      },
+      {
+        "token": "maser",
+        "sim": 0.5283344984054565
+      },
+      {
+        "token": "gigahertz",
+        "sim": 0.5282286405563354
+      },
+      {
+        "token": "steerable",
+        "sim": 0.5269500613212585
+      },
+      {
+        "token": "millimetre",
+        "sim": 0.5263866186141968
+      },
+      {
+        "token": "plasmonic",
+        "sim": 0.5262850522994995
+      },
+      {
+        "token": "electromagnet",
+        "sim": 0.5255823135375977
+      },
+      {
+        "token": "voltage",
+        "sim": 0.5253377556800842
+      },
+      {
+        "token": "modulator",
+        "sim": 0.5233327150344849
+      },
+      {
+        "token": "transducers",
+        "sim": 0.521665632724762
+      },
+      {
+        "token": "detector",
+        "sim": 0.5186963081359863
+      },
+      {
+        "token": "antennae",
+        "sim": 0.5170812010765076
+      },
+      {
+        "token": "analyser",
+        "sim": 0.5167371034622192
+      },
+      {
+        "token": "oam",
+        "sim": 0.5151541233062744
+      },
+      {
+        "token": "pulses",
+        "sim": 0.5096439123153687
+      },
+      {
+        "token": "diode",
+        "sim": 0.5095210075378418
+      },
+      {
+        "token": "diodes",
+        "sim": 0.5075934529304504
+      },
+      {
+        "token": "bandwidths",
+        "sim": 0.5075335502624512
+      },
+      {
+        "token": "gyroscopes",
+        "sim": 0.5061943531036377
+      },
+      {
+        "token": "vorticity",
+        "sim": 0.50572669506073
+      },
+      {
+        "token": "thermoelectric",
+        "sim": 0.5023012757301331
+      },
+      {
+        "token": "magnetron",
+        "sim": 0.49735915660858154
+      },
+      {
+        "token": "clsm",
+        "sim": 0.4949873387813568
+      },
+      {
+        "token": "circularly",
+        "sim": 0.49489572644233704
+      },
+      {
+        "token": "extruder",
+        "sim": 0.4930150806903839
+      },
+      {
+        "token": "oscilloscope",
+        "sim": 0.4929346442222595
+      },
+      {
+        "token": "piezoelectric",
+        "sim": 0.492059588432312
+      },
+      {
+        "token": "electrodes",
+        "sim": 0.4895009398460388
+      },
+      {
+        "token": "photomultiplier",
+        "sim": 0.48859721422195435
+      },
+      {
+        "token": "oiii",
+        "sim": 0.48846277594566345
+      },
+      {
+        "token": "ultrasonic",
+        "sim": 0.4883590340614319
+      },
+      {
+        "token": "optic",
+        "sim": 0.4883210062980652
+      },
+      {
+        "token": "hauksbee",
+        "sim": 0.48806628584861755
+      },
+      {
+        "token": "solenoid",
+        "sim": 0.4872986078262329
+      },
+      {
+        "token": "photodetector",
+        "sim": 0.4847760796546936
+      },
+      {
+        "token": "wavelength",
+        "sim": 0.48449426889419556
+      },
+      {
+        "token": "photoelectric",
+        "sim": 0.4839003086090088
+      },
+      {
+        "token": "collimator",
+        "sim": 0.4824785888195038
+      },
+      {
+        "token": "laser",
+        "sim": 0.482083797454834
+      },
+      {
+        "token": "solenoids",
+        "sim": 0.4814513325691223
+      },
+      {
+        "token": "superconducting",
+        "sim": 0.47986337542533875
+      },
+      {
+        "token": "optical",
+        "sim": 0.47979041934013367
+      },
+      {
+        "token": "nanomechanical",
+        "sim": 0.4797481596469879
+      },
+      {
+        "token": "capacitors",
+        "sim": 0.4793335199356079
+      }
+    ],
+    "0": [
+      {
+        "token": "radar",
+        "sim": 0.6291623115539551
+      },
+      {
+        "token": "aesa",
+        "sim": 0.6183393001556396
+      },
+      {
+        "token": "satellite",
+        "sim": 0.599547266960144
+      },
+      {
+        "token": "infrared",
+        "sim": 0.595302939414978
+      },
+      {
+        "token": "sensors",
+        "sim": 0.5687409043312073
+      },
+      {
+        "token": "trackman",
+        "sim": 0.5599658489227295
+      },
+      {
+        "token": "shortwave",
+        "sim": 0.5592275261878967
+      },
+      {
+        "token": "magnetometer",
+        "sim": 0.5567765235900879
+      },
+      {
+        "token": "coprolite",
+        "sim": 0.5527941584587097
+      },
+      {
+        "token": "radars",
+        "sim": 0.5505369901657104
+      },
+      {
+        "token": "magnetometers",
+        "sim": 0.5446944832801819
+      },
+      {
+        "token": "submillimeter",
+        "sim": 0.5429218411445618
+      },
+      {
+        "token": "satellites",
+        "sim": 0.5400991439819336
+      },
+      {
+        "token": "sonar",
+        "sim": 0.539433479309082
+      },
+      {
+        "token": "icesat",
+        "sim": 0.5321810841560364
+      },
+      {
+        "token": "seismometers",
+        "sim": 0.5304335355758667
+      },
+      {
+        "token": "telescope",
+        "sim": 0.5288373827934265
+      },
+      {
+        "token": "telemetry",
+        "sim": 0.5265703201293945
+      },
+      {
+        "token": "spaceborne",
+        "sim": 0.5263612270355225
+      },
+      {
+        "token": "hydrophone",
+        "sim": 0.523953914642334
+      },
+      {
+        "token": "chemcam",
+        "sim": 0.5223944187164307
+      },
+      {
+        "token": "telescopes",
+        "sim": 0.5217207670211792
+      },
+      {
+        "token": "quadrotor",
+        "sim": 0.5217171907424927
+      },
+      {
+        "token": "calorimeter",
+        "sim": 0.5204303860664368
+      },
+      {
+        "token": "seismometer",
+        "sim": 0.5193334817886353
+      },
+      {
+        "token": "tunnelling",
+        "sim": 0.5104971528053284
+      },
+      {
+        "token": "aerostat",
+        "sim": 0.5089687705039978
+      },
+      {
+        "token": "infrasound",
+        "sim": 0.4996674656867981
+      },
+      {
+        "token": "hyperspectral",
+        "sim": 0.49402928352355957
+      },
+      {
+        "token": "cherenkov",
+        "sim": 0.49048998951911926
+      },
+      {
+        "token": "kascade",
+        "sim": 0.4904051423072815
+      },
+      {
+        "token": "altimetry",
+        "sim": 0.4900713562965393
+      },
+      {
+        "token": "malp",
+        "sim": 0.4881724715232849
+      },
+      {
+        "token": "cloudsat",
+        "sim": 0.48445746302604675
+      },
+      {
+        "token": "radiometer",
+        "sim": 0.4824497103691101
+      },
+      {
+        "token": "geosynchronous",
+        "sim": 0.4821751117706299
+      },
+      {
+        "token": "longwave",
+        "sim": 0.48190149664878845
+      },
+      {
+        "token": "mesosphere",
+        "sim": 0.48105722665786743
+      },
+      {
+        "token": "interferometer",
+        "sim": 0.47929126024246216
+      }
+    ],
+    "3": [
+      {
+        "token": "bluetooth",
+        "sim": 0.6017599701881409
+      },
+      {
+        "token": "satelite",
+        "sim": 0.5636119842529297
+      },
+      {
+        "token": "smartmetert",
+        "sim": 0.5630122423171997
+      },
+      {
+        "token": "reciever",
+        "sim": 0.5589056611061096
+      },
+      {
+        "token": "wireless",
+        "sim": 0.5544555187225342
+      },
+      {
+        "token": "unicast",
+        "sim": 0.5492497682571411
+      },
+      {
+        "token": "ultrawideband",
+        "sim": 0.5472246408462524
+      },
+      {
+        "token": "wlan",
+        "sim": 0.545166552066803
+      },
+      {
+        "token": "glonass",
+        "sim": 0.5447282791137695
+      },
+      {
+        "token": "adsl",
+        "sim": 0.5429232120513916
+      },
+      {
+        "token": "exploder",
+        "sim": 0.5335369110107422
+      },
+      {
+        "token": "ghz",
+        "sim": 0.5317975282669067
+      },
+      {
+        "token": "backhaul",
+        "sim": 0.5313487648963928
+      },
+      {
+        "token": "wifi",
+        "sim": 0.5270400643348694
+      },
+      {
+        "token": "dongle",
+        "sim": 0.5268087387084961
+      },
+      {
+        "token": "gprs",
+        "sim": 0.5266851782798767
+      },
+      {
+        "token": "powermat",
+        "sim": 0.5257468223571777
+      },
+      {
+        "token": "retransmit",
+        "sim": 0.5242571830749512
+      },
+      {
+        "token": "microusb",
+        "sim": 0.5168192982673645
+      },
+      {
+        "token": "router",
+        "sim": 0.514849841594696
+      },
+      {
+        "token": "hsdpa",
+        "sim": 0.511122465133667
+      },
+      {
+        "token": "pdaf",
+        "sim": 0.5105008482933044
+      },
+      {
+        "token": "ihome",
+        "sim": 0.508767306804657
+      },
+      {
+        "token": "retransmitted",
+        "sim": 0.5083296298980713
+      },
+      {
+        "token": "phono",
+        "sim": 0.5050053596496582
+      },
+      {
+        "token": "wideband",
+        "sim": 0.504299521446228
+      },
+      {
+        "token": "avr",
+        "sim": 0.504202663898468
+      },
+      {
+        "token": "mifi",
+        "sim": 0.502886176109314
+      },
+      {
+        "token": "mhl",
+        "sim": 0.5024101138114929
+      },
+      {
+        "token": "satnav",
+        "sim": 0.5021182894706726
+      },
+      {
+        "token": "smartmeterst",
+        "sim": 0.4946991503238678
+      },
+      {
+        "token": "device",
+        "sim": 0.49203401803970337
+      },
+      {
+        "token": "mbms",
+        "sim": 0.4909341037273407
+      },
+      {
+        "token": "esata",
+        "sim": 0.4907612204551697
+      },
+      {
+        "token": "drobo",
+        "sim": 0.48944664001464844
+      },
+      {
+        "token": "plb",
+        "sim": 0.4889633059501648
+      },
+      {
+        "token": "umts",
+        "sim": 0.48663678765296936
+      },
+      {
+        "token": "wemo",
+        "sim": 0.4854026436805725
+      },
+      {
+        "token": "wirelessly",
+        "sim": 0.4853127598762512
+      },
+      {
+        "token": "adapter",
+        "sim": 0.4837420582771301
+      },
+      {
+        "token": "baseband",
+        "sim": 0.4828437566757202
+      },
+      {
+        "token": "controller",
+        "sim": 0.48108553886413574
+      },
+      {
+        "token": "tricaster",
+        "sim": 0.4808894991874695
+      },
+      {
+        "token": "handset",
+        "sim": 0.4799785315990448
+      }
+    ],
+    "2": [
+      {
+        "token": "preamp",
+        "sim": 0.5963950157165527
+      },
+      {
+        "token": "multimeter",
+        "sim": 0.5605666637420654
+      },
+      {
+        "token": "stereo",
+        "sim": 0.5545137524604797
+      },
+      {
+        "token": "amplifier",
+        "sim": 0.5544552803039551
+      },
+      {
+        "token": "earpiece",
+        "sim": 0.5384988188743591
+      },
+      {
+        "token": "projector",
+        "sim": 0.5297419428825378
+      },
+      {
+        "token": "microphones",
+        "sim": 0.5208355188369751
+      },
+      {
+        "token": "heater",
+        "sim": 0.5130887627601624
+      },
+      {
+        "token": "handheld",
+        "sim": 0.5128879547119141
+      },
+      {
+        "token": "earphone",
+        "sim": 0.4999445676803589
+      },
+      {
+        "token": "condenser",
+        "sim": 0.4971734583377838
+      },
+      {
+        "token": "microphone",
+        "sim": 0.49556899070739746
+      },
+      {
+        "token": "amplifiers",
+        "sim": 0.49459972977638245
+      },
+      {
+        "token": "lavaliere",
+        "sim": 0.49455738067626953
+      },
+      {
+        "token": "charger",
+        "sim": 0.4926029145717621
+      },
+      {
+        "token": "nanofab",
+        "sim": 0.4925501346588135
+      },
+      {
+        "token": "headset",
+        "sim": 0.49207377433776855
+      },
+      {
+        "token": "earplug",
+        "sim": 0.48517417907714844
+      },
+      {
+        "token": "leds",
+        "sim": 0.48131459951400757
+      }
+    ],
+    "1": [
+      {
+        "token": "vhf",
+        "sim": 0.551198422908783
+      },
+      {
+        "token": "epirb",
+        "sim": 0.5251666903495789
+      },
+      {
+        "token": "microcontroller",
+        "sim": 0.5168916583061218
+      },
+      {
+        "token": "ttl",
+        "sim": 0.5078953504562378
+      },
+      {
+        "token": "dgps",
+        "sim": 0.5001829862594604
+      },
+      {
+        "token": "subwoofer",
+        "sim": 0.4966171383857727
+      },
+      {
+        "token": "fishfinder",
+        "sim": 0.4870298504829407
+      },
+      {
+        "token": "atsc",
+        "sim": 0.4868536591529846
+      },
+      {
+        "token": "chartplotter",
+        "sim": 0.48415687680244446
+      },
+      {
+        "token": "rangefinder",
+        "sim": 0.4824722409248352
+      },
+      {
+        "token": "capacitive",
+        "sim": 0.47954025864601135
+      }
+    ]
+  }
+}

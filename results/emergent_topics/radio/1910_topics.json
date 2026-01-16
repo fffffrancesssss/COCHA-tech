@@ -1,0 +1,823 @@
+{
+  "decade": 1910,
+  "concept": "radio",
+  "concept_hits": 5,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.10113599896430969,
+  "clusters": {
+    "4": [
+      {
+        "token": "wireless",
+        "sim": 0.7691228985786438
+      },
+      {
+        "token": "transmitter",
+        "sim": 0.6655400991439819
+      },
+      {
+        "token": "generator",
+        "sim": 0.6236568093299866
+      },
+      {
+        "token": "magneto",
+        "sim": 0.6029569506645203
+      },
+      {
+        "token": "winch",
+        "sim": 0.5820407867431641
+      },
+      {
+        "token": "transmitting",
+        "sim": 0.57534259557724
+      },
+      {
+        "token": "telegraphy",
+        "sim": 0.5663611888885498
+      },
+      {
+        "token": "switchboard",
+        "sim": 0.5660269260406494
+      },
+      {
+        "token": "telephony",
+        "sim": 0.5603354573249817
+      },
+      {
+        "token": "signaling",
+        "sim": 0.5599054098129272
+      },
+      {
+        "token": "antenna",
+        "sim": 0.5592811703681946
+      },
+      {
+        "token": "electrically",
+        "sim": 0.5512359738349915
+      },
+      {
+        "token": "dynamo",
+        "sim": 0.5430814027786255
+      },
+      {
+        "token": "operator",
+        "sim": 0.5344688892364502
+      },
+      {
+        "token": "interrupter",
+        "sim": 0.5263333320617676
+      },
+      {
+        "token": "telegraph",
+        "sim": 0.5255990028381348
+      },
+      {
+        "token": "cable",
+        "sim": 0.523243248462677
+      },
+      {
+        "token": "electro",
+        "sim": 0.5165908932685852
+      },
+      {
+        "token": "wires",
+        "sim": 0.5148574709892273
+      },
+      {
+        "token": "condenser",
+        "sim": 0.5105398893356323
+      },
+      {
+        "token": "transmission",
+        "sim": 0.506365954875946
+      },
+      {
+        "token": "clockwork",
+        "sim": 0.504217267036438
+      },
+      {
+        "token": "draftsman",
+        "sim": 0.5037504434585571
+      },
+      {
+        "token": "subscriber",
+        "sim": 0.49067702889442444
+      },
+      {
+        "token": "radiator",
+        "sim": 0.4802241027355194
+      },
+      {
+        "token": "magnetized",
+        "sim": 0.4789678156375885
+      },
+      {
+        "token": "armature",
+        "sim": 0.47485244274139404
+      },
+      {
+        "token": "meter",
+        "sim": 0.4741341471672058
+      },
+      {
+        "token": "benzine",
+        "sim": 0.47411075234413147
+      },
+      {
+        "token": "filter",
+        "sim": 0.4724460244178772
+      },
+      {
+        "token": "communicates",
+        "sim": 0.4709666967391968
+      },
+      {
+        "token": "piston",
+        "sim": 0.4698738157749176
+      },
+      {
+        "token": "induction",
+        "sim": 0.466264933347702
+      },
+      {
+        "token": "lever",
+        "sim": 0.4657955765724182
+      },
+      {
+        "token": "spectroscope",
+        "sim": 0.46562331914901733
+      },
+      {
+        "token": "electrification",
+        "sim": 0.46523624658584595
+      },
+      {
+        "token": "electrodes",
+        "sim": 0.46254587173461914
+      },
+      {
+        "token": "electrical",
+        "sim": 0.46190497279167175
+      },
+      {
+        "token": "appliance",
+        "sim": 0.4614781141281128
+      },
+      {
+        "token": "concussion",
+        "sim": 0.4610947370529175
+      },
+      {
+        "token": "wire",
+        "sim": 0.46058204770088196
+      }
+    ],
+    "0": [
+      {
+        "token": "radio",
+        "sim": 0.7043406963348389
+      },
+      {
+        "token": "broadcast",
+        "sim": 0.568611741065979
+      },
+      {
+        "token": "marconi",
+        "sim": 0.5629387497901917
+      },
+      {
+        "token": "langley",
+        "sim": 0.5360032320022583
+      },
+      {
+        "token": "cipher",
+        "sim": 0.5319335460662842
+      },
+      {
+        "token": "patented",
+        "sim": 0.5271165370941162
+      },
+      {
+        "token": "edison",
+        "sim": 0.51298588514328
+      },
+      {
+        "token": "watt",
+        "sim": 0.5040751099586487
+      },
+      {
+        "token": "prospectus",
+        "sim": 0.5037078857421875
+      },
+      {
+        "token": "chanute",
+        "sim": 0.49212753772735596
+      },
+      {
+        "token": "messages",
+        "sim": 0.48068878054618835
+      },
+      {
+        "token": "meteorological",
+        "sim": 0.46956974267959595
+      },
+      {
+        "token": "crookes",
+        "sim": 0.4685329794883728
+      },
+      {
+        "token": "literati",
+        "sim": 0.4608812630176544
+      },
+      {
+        "token": "bose",
+        "sim": 0.46068093180656433
+      },
+      {
+        "token": "corona",
+        "sim": 0.4602808356285095
+      }
+    ],
+    "5": [
+      {
+        "token": "receiver",
+        "sim": 0.6600228548049927
+      },
+      {
+        "token": "telephone",
+        "sim": 0.6038599014282227
+      },
+      {
+        "token": "ventura",
+        "sim": 0.5445465445518494
+      },
+      {
+        "token": "phonograph",
+        "sim": 0.5300698280334473
+      },
+      {
+        "token": "megaphone",
+        "sim": 0.5100672245025635
+      },
+      {
+        "token": "buzzer",
+        "sim": 0.5038502216339111
+      },
+      {
+        "token": "warold",
+        "sim": 0.5032040476799011
+      },
+      {
+        "token": "telegraphing",
+        "sim": 0.49491363763809204
+      },
+      {
+        "token": "clicked",
+        "sim": 0.4945562481880188
+      },
+      {
+        "token": "craglevin",
+        "sim": 0.4937799572944641
+      },
+      {
+        "token": "highpoint",
+        "sim": 0.4910489022731781
+      },
+      {
+        "token": "hatchway",
+        "sim": 0.48744115233421326
+      },
+      {
+        "token": "georgic",
+        "sim": 0.48587873578071594
+      },
+      {
+        "token": "phone",
+        "sim": 0.48546087741851807
+      },
+      {
+        "token": "leckhard",
+        "sim": 0.4833645224571228
+      },
+      {
+        "token": "cephalonia",
+        "sim": 0.48273447155952454
+      },
+      {
+        "token": "scarabaeus",
+        "sim": 0.4812914729118347
+      },
+      {
+        "token": "jamesville",
+        "sim": 0.47847822308540344
+      },
+      {
+        "token": "brissac",
+        "sim": 0.4736670255661011
+      },
+      {
+        "token": "victrola",
+        "sim": 0.47345611453056335
+      },
+      {
+        "token": "appelby",
+        "sim": 0.4721994698047638
+      },
+      {
+        "token": "jangle",
+        "sim": 0.47137731313705444
+      },
+      {
+        "token": "reenforcements",
+        "sim": 0.4708642065525055
+      },
+      {
+        "token": "clanged",
+        "sim": 0.47017866373062134
+      },
+      {
+        "token": "baton",
+        "sim": 0.4687305688858032
+      },
+      {
+        "token": "acclamation",
+        "sim": 0.467635840177536
+      },
+      {
+        "token": "couriers",
+        "sim": 0.46676403284072876
+      },
+      {
+        "token": "shaffer",
+        "sim": 0.4663093686103821
+      },
+      {
+        "token": "delkoff",
+        "sim": 0.4641938805580139
+      },
+      {
+        "token": "marwood",
+        "sim": 0.46340519189834595
+      },
+      {
+        "token": "clarion",
+        "sim": 0.4604804217815399
+      },
+      {
+        "token": "pettingill",
+        "sim": 0.4599318504333496
+      }
+    ],
+    "2": [
+      {
+        "token": "telegraphic",
+        "sim": 0.6261144280433655
+      },
+      {
+        "token": "telephonic",
+        "sim": 0.5987604260444641
+      },
+      {
+        "token": "receivers",
+        "sim": 0.5656126737594604
+      },
+      {
+        "token": "hydro",
+        "sim": 0.5420486927032471
+      },
+      {
+        "token": "telegraphs",
+        "sim": 0.538633406162262
+      },
+      {
+        "token": "airplane",
+        "sim": 0.5245646238327026
+      },
+      {
+        "token": "circuits",
+        "sim": 0.5220898985862732
+      },
+      {
+        "token": "hydraulic",
+        "sim": 0.5197527408599854
+      },
+      {
+        "token": "dynamos",
+        "sim": 0.5176808834075928
+      },
+      {
+        "token": "relay",
+        "sim": 0.5158706903457642
+      },
+      {
+        "token": "prearranged",
+        "sim": 0.5125465393066406
+      },
+      {
+        "token": "surveyors",
+        "sim": 0.4995383024215698
+      },
+      {
+        "token": "telephones",
+        "sim": 0.49913710355758667
+      },
+      {
+        "token": "stabilizing",
+        "sim": 0.49783942103385925
+      },
+      {
+        "token": "turbine",
+        "sim": 0.49704810976982117
+      },
+      {
+        "token": "carmania",
+        "sim": 0.4940509796142578
+      },
+      {
+        "token": "rudders",
+        "sim": 0.4905236065387726
+      },
+      {
+        "token": "wigwag",
+        "sim": 0.48867207765579224
+      },
+      {
+        "token": "plugs",
+        "sim": 0.4874933063983917
+      },
+      {
+        "token": "wrights",
+        "sim": 0.48717767000198364
+      },
+      {
+        "token": "cc",
+        "sim": 0.48674553632736206
+      },
+      {
+        "token": "cables",
+        "sim": 0.48548126220703125
+      },
+      {
+        "token": "steamboats",
+        "sim": 0.48388606309890747
+      },
+      {
+        "token": "smelting",
+        "sim": 0.4834668040275574
+      },
+      {
+        "token": "forwarding",
+        "sim": 0.4834504723548889
+      },
+      {
+        "token": "filings",
+        "sim": 0.4797940254211426
+      },
+      {
+        "token": "airships",
+        "sim": 0.47935599088668823
+      },
+      {
+        "token": "interurban",
+        "sim": 0.4790418744087219
+      },
+      {
+        "token": "mains",
+        "sim": 0.4764079451560974
+      },
+      {
+        "token": "curtiss",
+        "sim": 0.47307607531547546
+      },
+      {
+        "token": "handlers",
+        "sim": 0.47169825434684753
+      },
+      {
+        "token": "launches",
+        "sim": 0.4712289273738861
+      },
+      {
+        "token": "firearm",
+        "sim": 0.4688122272491455
+      },
+      {
+        "token": "switches",
+        "sim": 0.4683264493942261
+      },
+      {
+        "token": "torpedoes",
+        "sim": 0.46642816066741943
+      },
+      {
+        "token": "outgoing",
+        "sim": 0.46606236696243286
+      },
+      {
+        "token": "oceanic",
+        "sim": 0.465536892414093
+      },
+      {
+        "token": "assessors",
+        "sim": 0.46501049399375916
+      },
+      {
+        "token": "airplanes",
+        "sim": 0.4648767113685608
+      },
+      {
+        "token": "powered",
+        "sim": 0.46404117345809937
+      },
+      {
+        "token": "aeroplanes",
+        "sim": 0.4634583294391632
+      },
+      {
+        "token": "gears",
+        "sim": 0.46236032247543335
+      },
+      {
+        "token": "leaflet",
+        "sim": 0.46193599700927734
+      },
+      {
+        "token": "outfield",
+        "sim": 0.45990410447120667
+      }
+    ],
+    "3": [
+      {
+        "token": "mccafferty",
+        "sim": 0.5665380358695984
+      },
+      {
+        "token": "accountants",
+        "sim": 0.545293927192688
+      },
+      {
+        "token": "persch",
+        "sim": 0.5326725244522095
+      },
+      {
+        "token": "swearengen",
+        "sim": 0.5319937467575073
+      },
+      {
+        "token": "erwin",
+        "sim": 0.5305472612380981
+      },
+      {
+        "token": "mcconville",
+        "sim": 0.525913655757904
+      },
+      {
+        "token": "advices",
+        "sim": 0.5234798192977905
+      },
+      {
+        "token": "shearn",
+        "sim": 0.5225878953933716
+      },
+      {
+        "token": "zeimer",
+        "sim": 0.5163993239402771
+      },
+      {
+        "token": "unsigned",
+        "sim": 0.5125043392181396
+      },
+      {
+        "token": "fessenden",
+        "sim": 0.5107195377349854
+      },
+      {
+        "token": "rives",
+        "sim": 0.5104137659072876
+      },
+      {
+        "token": "naylor",
+        "sim": 0.5094463229179382
+      },
+      {
+        "token": "telegraphers",
+        "sim": 0.5080342888832092
+      },
+      {
+        "token": "pressmen",
+        "sim": 0.5065832138061523
+      },
+      {
+        "token": "llewellyn",
+        "sim": 0.5062178373336792
+      },
+      {
+        "token": "robbins",
+        "sim": 0.5030487179756165
+      },
+      {
+        "token": "recorder",
+        "sim": 0.5006158351898193
+      },
+      {
+        "token": "jevons",
+        "sim": 0.49818769097328186
+      },
+      {
+        "token": "littleton",
+        "sim": 0.49745094776153564
+      },
+      {
+        "token": "conkling",
+        "sim": 0.4973713457584381
+      },
+      {
+        "token": "maison",
+        "sim": 0.4968997836112976
+      },
+      {
+        "token": "wickes",
+        "sim": 0.4964999556541443
+      },
+      {
+        "token": "orr",
+        "sim": 0.49437153339385986
+      },
+      {
+        "token": "receivership",
+        "sim": 0.49422669410705566
+      },
+      {
+        "token": "babcock",
+        "sim": 0.4932410717010498
+      },
+      {
+        "token": "donnelly",
+        "sim": 0.49242153763771057
+      },
+      {
+        "token": "cochran",
+        "sim": 0.49194809794425964
+      },
+      {
+        "token": "heinze",
+        "sim": 0.48864972591400146
+      },
+      {
+        "token": "lorenz",
+        "sim": 0.48837563395500183
+      },
+      {
+        "token": "guggenheim",
+        "sim": 0.48781710863113403
+      },
+      {
+        "token": "tulloch",
+        "sim": 0.4868783950805664
+      },
+      {
+        "token": "comptroller",
+        "sim": 0.48591262102127075
+      },
+      {
+        "token": "blackstone",
+        "sim": 0.48566097021102905
+      },
+      {
+        "token": "cabled",
+        "sim": 0.48506593704223633
+      },
+      {
+        "token": "bernstein",
+        "sim": 0.48503077030181885
+      },
+      {
+        "token": "peavey",
+        "sim": 0.48426178097724915
+      },
+      {
+        "token": "gutierrez",
+        "sim": 0.4838554859161377
+      },
+      {
+        "token": "supt",
+        "sim": 0.4832499623298645
+      },
+      {
+        "token": "elsberg",
+        "sim": 0.48081541061401367
+      },
+      {
+        "token": "schomburgk",
+        "sim": 0.4804854393005371
+      },
+      {
+        "token": "goodrich",
+        "sim": 0.4795222580432892
+      },
+      {
+        "token": "mayer",
+        "sim": 0.4791870713233948
+      },
+      {
+        "token": "conried",
+        "sim": 0.47859063744544983
+      },
+      {
+        "token": "cablegram",
+        "sim": 0.47406435012817383
+      },
+      {
+        "token": "wanamaker",
+        "sim": 0.4739609658718109
+      },
+      {
+        "token": "pollee",
+        "sim": 0.4737292528152466
+      },
+      {
+        "token": "sutherland",
+        "sim": 0.47277891635894775
+      },
+      {
+        "token": "bergman",
+        "sim": 0.4698115885257721
+      },
+      {
+        "token": "akers",
+        "sim": 0.4655827283859253
+      },
+      {
+        "token": "declination",
+        "sim": 0.4652901291847229
+      },
+      {
+        "token": "wolff",
+        "sim": 0.46479687094688416
+      },
+      {
+        "token": "redfield",
+        "sim": 0.46467354893684387
+      },
+      {
+        "token": "lacombe",
+        "sim": 0.4639529585838318
+      },
+      {
+        "token": "melville",
+        "sim": 0.46336686611175537
+      },
+      {
+        "token": "reeves",
+        "sim": 0.4632350504398346
+      },
+      {
+        "token": "borland",
+        "sim": 0.4628041982650757
+      },
+      {
+        "token": "respondent",
+        "sim": 0.4627950191497803
+      },
+      {
+        "token": "philbin",
+        "sim": 0.4607209861278534
+      },
+      {
+        "token": "intendant",
+        "sim": 0.460051566362381
+      },
+      {
+        "token": "villard",
+        "sim": 0.4598809480667114
+      },
+      {
+        "token": "hennessy",
+        "sim": 0.45982617139816284
+      }
+    ],
+    "1": [
+      {
+        "token": "retorts",
+        "sim": 0.48244979977607727
+      },
+      {
+        "token": "exploding",
+        "sim": 0.4779418706893921
+      },
+      {
+        "token": "signalling",
+        "sim": 0.47704005241394043
+      },
+      {
+        "token": "flashlight",
+        "sim": 0.47335177659988403
+      },
+      {
+        "token": "extinguishing",
+        "sim": 0.46600306034088135
+      }
+    ]
+  }
+}

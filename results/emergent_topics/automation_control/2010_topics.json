@@ -1,0 +1,823 @@
+{
+  "decade": 2010,
+  "concept": "automation_control",
+  "concept_hits": 8,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.07365818321704865,
+  "clusters": {
+    "2": [
+      {
+        "token": "automation",
+        "sim": 0.7793673872947693
+      },
+      {
+        "token": "computerization",
+        "sim": 0.6499325037002563
+      },
+      {
+        "token": "ugvs",
+        "sim": 0.5958402752876282
+      },
+      {
+        "token": "automate",
+        "sim": 0.5954442620277405
+      },
+      {
+        "token": "spotmini",
+        "sim": 0.5667327642440796
+      },
+      {
+        "token": "opower",
+        "sim": 0.5665507912635803
+      },
+      {
+        "token": "renesas",
+        "sim": 0.5663610100746155
+      },
+      {
+        "token": "firstbuild",
+        "sim": 0.5621339082717896
+      },
+      {
+        "token": "sportvu",
+        "sim": 0.5619178414344788
+      },
+      {
+        "token": "ioe",
+        "sim": 0.5573986768722534
+      },
+      {
+        "token": "isru",
+        "sim": 0.5551634430885315
+      },
+      {
+        "token": "nology",
+        "sim": 0.5530284643173218
+      },
+      {
+        "token": "automating",
+        "sim": 0.5528528094291687
+      },
+      {
+        "token": "avionics",
+        "sim": 0.5506061911582947
+      },
+      {
+        "token": "ultracapacitors",
+        "sim": 0.5502868890762329
+      },
+      {
+        "token": "microgrids",
+        "sim": 0.550146222114563
+      },
+      {
+        "token": "esolar",
+        "sim": 0.5501353740692139
+      },
+      {
+        "token": "technolgy",
+        "sim": 0.5486648082733154
+      },
+      {
+        "token": "digitalization",
+        "sim": 0.5485038757324219
+      },
+      {
+        "token": "stratolaunch",
+        "sim": 0.5474059581756592
+      },
+      {
+        "token": "containerization",
+        "sim": 0.5446801781654358
+      },
+      {
+        "token": "nlb",
+        "sim": 0.54288250207901
+      },
+      {
+        "token": "rotorcraft",
+        "sim": 0.5408346652984619
+      },
+      {
+        "token": "automaking",
+        "sim": 0.5398269891738892
+      },
+      {
+        "token": "bpo",
+        "sim": 0.5379679799079895
+      },
+      {
+        "token": "turbocharge",
+        "sim": 0.5369482040405273
+      },
+      {
+        "token": "neuromarketing",
+        "sim": 0.5359292030334473
+      },
+      {
+        "token": "manufacturing",
+        "sim": 0.5338592529296875
+      },
+      {
+        "token": "robotization",
+        "sim": 0.533514142036438
+      },
+      {
+        "token": "astrobotic",
+        "sim": 0.5333579778671265
+      },
+      {
+        "token": "refuelling",
+        "sim": 0.5322760939598083
+      },
+      {
+        "token": "datacenters",
+        "sim": 0.5303505659103394
+      },
+      {
+        "token": "skunkworks",
+        "sim": 0.5268310308456421
+      },
+      {
+        "token": "microgrid",
+        "sim": 0.5255410671234131
+      },
+      {
+        "token": "tbms",
+        "sim": 0.5251122117042542
+      },
+      {
+        "token": "automatable",
+        "sim": 0.5218845009803772
+      },
+      {
+        "token": "driverless",
+        "sim": 0.5218451619148254
+      },
+      {
+        "token": "nevs",
+        "sim": 0.521727979183197
+      },
+      {
+        "token": "telematics",
+        "sim": 0.5198752284049988
+      },
+      {
+        "token": "outsourcers",
+        "sim": 0.5177887678146362
+      }
+    ],
+    "4": [
+      {
+        "token": "automated",
+        "sim": 0.7038180828094482
+      },
+      {
+        "token": "robotics",
+        "sim": 0.6833095550537109
+      },
+      {
+        "token": "machines",
+        "sim": 0.6717544794082642
+      },
+      {
+        "token": "machinery",
+        "sim": 0.6531935334205627
+      },
+      {
+        "token": "technology",
+        "sim": 0.6491097211837769
+      },
+      {
+        "token": "computers",
+        "sim": 0.6251869797706604
+      },
+      {
+        "token": "machine",
+        "sim": 0.6200897097587585
+      },
+      {
+        "token": "chatbots",
+        "sim": 0.6186742186546326
+      },
+      {
+        "token": "hardware",
+        "sim": 0.6122430562973022
+      },
+      {
+        "token": "computing",
+        "sim": 0.6104602813720703
+      },
+      {
+        "token": "computerized",
+        "sim": 0.5910388827323914
+      },
+      {
+        "token": "technologies",
+        "sim": 0.58841872215271
+      },
+      {
+        "token": "computer",
+        "sim": 0.5855056047439575
+      },
+      {
+        "token": "algorithms",
+        "sim": 0.5788098573684692
+      },
+      {
+        "token": "exarchel",
+        "sim": 0.5751103758811951
+      },
+      {
+        "token": "electronics",
+        "sim": 0.5717412233352661
+      },
+      {
+        "token": "systems",
+        "sim": 0.5715398192405701
+      },
+      {
+        "token": "equipment",
+        "sim": 0.5692182779312134
+      },
+      {
+        "token": "technological",
+        "sim": 0.5631557703018188
+      },
+      {
+        "token": "sensors",
+        "sim": 0.5400168895721436
+      },
+      {
+        "token": "electronic",
+        "sim": 0.5369560122489929
+      },
+      {
+        "token": "architectures",
+        "sim": 0.5315536856651306
+      },
+      {
+        "token": "devices",
+        "sim": 0.5288116335868835
+      },
+      {
+        "token": "interfaces",
+        "sim": 0.5273360013961792
+      },
+      {
+        "token": "networked",
+        "sim": 0.5260997414588928
+      },
+      {
+        "token": "computation",
+        "sim": 0.5236100554466248
+      },
+      {
+        "token": "microchips",
+        "sim": 0.5193607807159424
+      },
+      {
+        "token": "supercomputers",
+        "sim": 0.5164136290550232
+      }
+    ],
+    "1": [
+      {
+        "token": "software",
+        "sim": 0.7004709839820862
+      },
+      {
+        "token": "virtualisation",
+        "sim": 0.6031748056411743
+      },
+      {
+        "token": "tensorflow",
+        "sim": 0.602199912071228
+      },
+      {
+        "token": "multicore",
+        "sim": 0.5831528902053833
+      },
+      {
+        "token": "nextstep",
+        "sim": 0.5808852910995483
+      },
+      {
+        "token": "middleware",
+        "sim": 0.5781290531158447
+      },
+      {
+        "token": "gamesalad",
+        "sim": 0.5686706900596619
+      },
+      {
+        "token": "nicira",
+        "sim": 0.5669930577278137
+      },
+      {
+        "token": "softwares",
+        "sim": 0.5588549375534058
+      },
+      {
+        "token": "greenplum",
+        "sim": 0.5582746267318726
+      },
+      {
+        "token": "lifelogging",
+        "sim": 0.5582584738731384
+      },
+      {
+        "token": "powerpivot",
+        "sim": 0.5565693974494934
+      },
+      {
+        "token": "hbase",
+        "sim": 0.5551109313964844
+      },
+      {
+        "token": "airprint",
+        "sim": 0.5535160899162292
+      },
+      {
+        "token": "airdroid",
+        "sim": 0.5491633415222168
+      },
+      {
+        "token": "automates",
+        "sim": 0.5489525198936462
+      },
+      {
+        "token": "deduplication",
+        "sim": 0.5480230450630188
+      },
+      {
+        "token": "rakshasa",
+        "sim": 0.547247588634491
+      },
+      {
+        "token": "marketo",
+        "sim": 0.5451943874359131
+      },
+      {
+        "token": "etl",
+        "sim": 0.5444741249084473
+      },
+      {
+        "token": "tabulator",
+        "sim": 0.5435824394226074
+      },
+      {
+        "token": "windoze",
+        "sim": 0.5417212247848511
+      },
+      {
+        "token": "oltp",
+        "sim": 0.541471004486084
+      },
+      {
+        "token": "emeasures",
+        "sim": 0.5391955375671387
+      },
+      {
+        "token": "bootup",
+        "sim": 0.5381242632865906
+      },
+      {
+        "token": "wifox",
+        "sim": 0.5353386998176575
+      },
+      {
+        "token": "avr",
+        "sim": 0.534884512424469
+      },
+      {
+        "token": "genedata",
+        "sim": 0.533806562423706
+      },
+      {
+        "token": "veeam",
+        "sim": 0.5323381423950195
+      },
+      {
+        "token": "toolset",
+        "sim": 0.5315470695495605
+      },
+      {
+        "token": "sccm",
+        "sim": 0.5312544107437134
+      },
+      {
+        "token": "niques",
+        "sim": 0.5288035869598389
+      },
+      {
+        "token": "harmonyos",
+        "sim": 0.5287809371948242
+      },
+      {
+        "token": "nagios",
+        "sim": 0.5268334150314331
+      },
+      {
+        "token": "openmp",
+        "sim": 0.526772677898407
+      },
+      {
+        "token": "gigapan",
+        "sim": 0.5250563025474548
+      },
+      {
+        "token": "teradata",
+        "sim": 0.5248680114746094
+      },
+      {
+        "token": "toolchain",
+        "sim": 0.5248517990112305
+      },
+      {
+        "token": "ftk",
+        "sim": 0.5246986150741577
+      },
+      {
+        "token": "eprom",
+        "sim": 0.5246425867080688
+      },
+      {
+        "token": "nosql",
+        "sim": 0.5241600871086121
+      },
+      {
+        "token": "geofencing",
+        "sim": 0.5239262580871582
+      },
+      {
+        "token": "daq",
+        "sim": 0.5234254598617554
+      },
+      {
+        "token": "pluggable",
+        "sim": 0.5220552086830139
+      },
+      {
+        "token": "retargeting",
+        "sim": 0.5220481157302856
+      },
+      {
+        "token": "navteq",
+        "sim": 0.521598756313324
+      },
+      {
+        "token": "schlage",
+        "sim": 0.5212228298187256
+      },
+      {
+        "token": "executables",
+        "sim": 0.5201246738433838
+      },
+      {
+        "token": "telephony",
+        "sim": 0.5185490250587463
+      },
+      {
+        "token": "homekit",
+        "sim": 0.5180492997169495
+      },
+      {
+        "token": "coldfusion",
+        "sim": 0.5176018476486206
+      },
+      {
+        "token": "virtualize",
+        "sim": 0.5174019932746887
+      },
+      {
+        "token": "dvcs",
+        "sim": 0.5172230005264282
+      },
+      {
+        "token": "mapreduce",
+        "sim": 0.5172146558761597
+      },
+      {
+        "token": "brainshark",
+        "sim": 0.5169826745986938
+      },
+      {
+        "token": "gpgpu",
+        "sim": 0.5159000754356384
+      }
+    ],
+    "0": [
+      {
+        "token": "robots",
+        "sim": 0.6543370485305786
+      },
+      {
+        "token": "robot",
+        "sim": 0.6461992263793945
+      },
+      {
+        "token": "robotic",
+        "sim": 0.6030524969100952
+      },
+      {
+        "token": "assemblers",
+        "sim": 0.5854775905609131
+      },
+      {
+        "token": "mechanical",
+        "sim": 0.5718286037445068
+      },
+      {
+        "token": "homebuilt",
+        "sim": 0.5399780869483948
+      },
+      {
+        "token": "quadrotor",
+        "sim": 0.5309243202209473
+      },
+      {
+        "token": "animatronics",
+        "sim": 0.525861382484436
+      },
+      {
+        "token": "mechanized",
+        "sim": 0.525103747844696
+      },
+      {
+        "token": "nanofab",
+        "sim": 0.5205963253974915
+      },
+      {
+        "token": "mountable",
+        "sim": 0.5180269479751587
+      }
+    ],
+    "5": [
+      {
+        "token": "photolithography",
+        "sim": 0.6027637720108032
+      },
+      {
+        "token": "photogrammetric",
+        "sim": 0.5911980271339417
+      },
+      {
+        "token": "mechatronics",
+        "sim": 0.5908817052841187
+      },
+      {
+        "token": "digitalized",
+        "sim": 0.5889353156089783
+      },
+      {
+        "token": "microfluidics",
+        "sim": 0.5847192406654358
+      },
+      {
+        "token": "spintronics",
+        "sim": 0.581241250038147
+      },
+      {
+        "token": "microelectromechanical",
+        "sim": 0.5775976181030273
+      },
+      {
+        "token": "bioprinter",
+        "sim": 0.5716086030006409
+      },
+      {
+        "token": "prototyping",
+        "sim": 0.5710253715515137
+      },
+      {
+        "token": "superintelligent",
+        "sim": 0.5595840215682983
+      },
+      {
+        "token": "multiphysics",
+        "sim": 0.557311475276947
+      },
+      {
+        "token": "photogrammetry",
+        "sim": 0.5552515387535095
+      },
+      {
+        "token": "superintelligence",
+        "sim": 0.5550216436386108
+      },
+      {
+        "token": "bioprinting",
+        "sim": 0.5535155534744263
+      },
+      {
+        "token": "multiagent",
+        "sim": 0.550965428352356
+      },
+      {
+        "token": "computational",
+        "sim": 0.5495712161064148
+      },
+      {
+        "token": "nanosystems",
+        "sim": 0.5477582812309265
+      },
+      {
+        "token": "microfluidic",
+        "sim": 0.5446561574935913
+      },
+      {
+        "token": "nanotechnology",
+        "sim": 0.542273223400116
+      },
+      {
+        "token": "biotechnological",
+        "sim": 0.5388734936714172
+      },
+      {
+        "token": "prototyped",
+        "sim": 0.5382986068725586
+      },
+      {
+        "token": "parallelization",
+        "sim": 0.5374639630317688
+      },
+      {
+        "token": "cyberinfrastructure",
+        "sim": 0.5366906523704529
+      },
+      {
+        "token": "bcis",
+        "sim": 0.5366036891937256
+      },
+      {
+        "token": "machineries",
+        "sim": 0.5362019538879395
+      },
+      {
+        "token": "transcriptomics",
+        "sim": 0.5328789949417114
+      },
+      {
+        "token": "biom",
+        "sim": 0.5325906276702881
+      },
+      {
+        "token": "nanonetworks",
+        "sim": 0.5324851274490356
+      },
+      {
+        "token": "reprap",
+        "sim": 0.532384991645813
+      },
+      {
+        "token": "neurotechnology",
+        "sim": 0.5319147109985352
+      },
+      {
+        "token": "metagenomics",
+        "sim": 0.5318242311477661
+      },
+      {
+        "token": "fluidic",
+        "sim": 0.5316412448883057
+      },
+      {
+        "token": "engineering",
+        "sim": 0.5255705118179321
+      },
+      {
+        "token": "microelectronic",
+        "sim": 0.5230371356010437
+      },
+      {
+        "token": "micromachines",
+        "sim": 0.5230207443237305
+      },
+      {
+        "token": "biomimetic",
+        "sim": 0.5193556547164917
+      }
+    ],
+    "3": [
+      {
+        "token": "mindstorms",
+        "sim": 0.5948541164398193
+      },
+      {
+        "token": "programmable",
+        "sim": 0.593919575214386
+      },
+      {
+        "token": "microcontrollers",
+        "sim": 0.593733549118042
+      },
+      {
+        "token": "electromechanical",
+        "sim": 0.5856055021286011
+      },
+      {
+        "token": "alphago",
+        "sim": 0.5826045274734497
+      },
+      {
+        "token": "reconfigurable",
+        "sim": 0.5739207863807678
+      },
+      {
+        "token": "makey",
+        "sim": 0.5647979378700256
+      },
+      {
+        "token": "fpga",
+        "sim": 0.559581458568573
+      },
+      {
+        "token": "sequencers",
+        "sim": 0.557623028755188
+      },
+      {
+        "token": "machining",
+        "sim": 0.5481719970703125
+      },
+      {
+        "token": "eniac",
+        "sim": 0.5437812805175781
+      },
+      {
+        "token": "labview",
+        "sim": 0.5425325036048889
+      },
+      {
+        "token": "minicomputer",
+        "sim": 0.5393998622894287
+      },
+      {
+        "token": "cnc",
+        "sim": 0.539021909236908
+      },
+      {
+        "token": "microprocessor",
+        "sim": 0.5390067100524902
+      },
+      {
+        "token": "multiprocessor",
+        "sim": 0.5381097793579102
+      },
+      {
+        "token": "microprocessors",
+        "sim": 0.5381008982658386
+      },
+      {
+        "token": "microcomputer",
+        "sim": 0.5330650210380554
+      },
+      {
+        "token": "telepresence",
+        "sim": 0.532752275466919
+      },
+      {
+        "token": "ruggedized",
+        "sim": 0.5304375290870667
+      },
+      {
+        "token": "antitheft",
+        "sim": 0.5283744931221008
+      },
+      {
+        "token": "hollerith",
+        "sim": 0.5281509160995483
+      },
+      {
+        "token": "freescale",
+        "sim": 0.5269972681999207
+      },
+      {
+        "token": "windowing",
+        "sim": 0.5257805585861206
+      },
+      {
+        "token": "ibm",
+        "sim": 0.5254032611846924
+      },
+      {
+        "token": "sphero",
+        "sim": 0.5253293514251709
+      },
+      {
+        "token": "univac",
+        "sim": 0.5232036709785461
+      },
+      {
+        "token": "arduino",
+        "sim": 0.5199484825134277
+      },
+      {
+        "token": "selectric",
+        "sim": 0.5162365436553955
+      }
+    ]
+  }
+}

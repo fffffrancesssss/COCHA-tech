@@ -1,0 +1,827 @@
+{
+  "decade": 1980,
+  "concept": "insulin",
+  "concept_hits": 4,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 8,
+  "silhouette": 0.08479316532611847,
+  "clusters": {
+    "7": [
+      {
+        "token": "insulin",
+        "sim": 0.8291141390800476
+      },
+      {
+        "token": "digitalis",
+        "sim": 0.6852555871009827
+      },
+      {
+        "token": "steroids",
+        "sim": 0.6607880592346191
+      },
+      {
+        "token": "barbiturates",
+        "sim": 0.6548972129821777
+      },
+      {
+        "token": "medications",
+        "sim": 0.638158917427063
+      },
+      {
+        "token": "medication",
+        "sim": 0.6259432435035706
+      },
+      {
+        "token": "amphetamines",
+        "sim": 0.6237200498580933
+      },
+      {
+        "token": "antibiotics",
+        "sim": 0.6152105927467346
+      },
+      {
+        "token": "transfusions",
+        "sim": 0.6129506826400757
+      },
+      {
+        "token": "placebo",
+        "sim": 0.6129412651062012
+      },
+      {
+        "token": "penicillin",
+        "sim": 0.6046719551086426
+      },
+      {
+        "token": "dosage",
+        "sim": 0.6032567024230957
+      },
+      {
+        "token": "painkillers",
+        "sim": 0.6020290851593018
+      },
+      {
+        "token": "injections",
+        "sim": 0.5973237156867981
+      }
+    ],
+    "4": [
+      {
+        "token": "diabetes",
+        "sim": 0.789726197719574
+      },
+      {
+        "token": "hypertension",
+        "sim": 0.7056486010551453
+      },
+      {
+        "token": "peptic",
+        "sim": 0.6912716627120972
+      },
+      {
+        "token": "duodenal",
+        "sim": 0.6821579337120056
+      },
+      {
+        "token": "angina",
+        "sim": 0.6618044972419739
+      },
+      {
+        "token": "cardiovascular",
+        "sim": 0.6605294942855835
+      },
+      {
+        "token": "gastrointestinal",
+        "sim": 0.6537139415740967
+      },
+      {
+        "token": "jaundice",
+        "sim": 0.6240835189819336
+      },
+      {
+        "token": "gonorrhea",
+        "sim": 0.6203896403312683
+      },
+      {
+        "token": "anemia",
+        "sim": 0.612929105758667
+      },
+      {
+        "token": "bronchitis",
+        "sim": 0.6095985174179077
+      },
+      {
+        "token": "ulcers",
+        "sim": 0.6090049147605896
+      },
+      {
+        "token": "respiratory",
+        "sim": 0.6024789214134216
+      },
+      {
+        "token": "intestinal",
+        "sim": 0.6010878086090088
+      },
+      {
+        "token": "coronary",
+        "sim": 0.5987520217895508
+      }
+    ],
+    "3": [
+      {
+        "token": "mellitus",
+        "sim": 0.7755045294761658
+      },
+      {
+        "token": "diabetic",
+        "sim": 0.7415322661399841
+      },
+      {
+        "token": "edema",
+        "sim": 0.695903480052948
+      },
+      {
+        "token": "urinary",
+        "sim": 0.6925301551818848
+      },
+      {
+        "token": "endocarditis",
+        "sim": 0.6853728294372559
+      },
+      {
+        "token": "renal",
+        "sim": 0.6843194365501404
+      },
+      {
+        "token": "diabetics",
+        "sim": 0.6827714443206787
+      },
+      {
+        "token": "glomerulonephritis",
+        "sim": 0.6816154718399048
+      },
+      {
+        "token": "rheumatoid",
+        "sim": 0.6804866194725037
+      },
+      {
+        "token": "pyelonephritis",
+        "sim": 0.6773543357849121
+      },
+      {
+        "token": "cirrhosis",
+        "sim": 0.6580901145935059
+      },
+      {
+        "token": "vaginal",
+        "sim": 0.6579537987709045
+      },
+      {
+        "token": "stenosis",
+        "sim": 0.6573812365531921
+      },
+      {
+        "token": "periodontal",
+        "sim": 0.6553118228912354
+      },
+      {
+        "token": "infective",
+        "sim": 0.653031587600708
+      },
+      {
+        "token": "atrial",
+        "sim": 0.6512268781661987
+      },
+      {
+        "token": "gallbladder",
+        "sim": 0.6483030319213867
+      },
+      {
+        "token": "lupus",
+        "sim": 0.6471058130264282
+      },
+      {
+        "token": "uterine",
+        "sim": 0.6455140113830566
+      },
+      {
+        "token": "pid",
+        "sim": 0.6408003568649292
+      },
+      {
+        "token": "goiter",
+        "sim": 0.6396040320396423
+      },
+      {
+        "token": "hodgkin",
+        "sim": 0.637437105178833
+      },
+      {
+        "token": "implants",
+        "sim": 0.6349093914031982
+      },
+      {
+        "token": "hemorrhoids",
+        "sim": 0.6259196996688843
+      },
+      {
+        "token": "infarction",
+        "sim": 0.6258379817008972
+      },
+      {
+        "token": "silicosis",
+        "sim": 0.6256271004676819
+      },
+      {
+        "token": "melanoma",
+        "sim": 0.61468505859375
+      },
+      {
+        "token": "dehydration",
+        "sim": 0.6143991947174072
+      },
+      {
+        "token": "pericarditis",
+        "sim": 0.6128519177436829
+      },
+      {
+        "token": "infarct",
+        "sim": 0.6118124723434448
+      },
+      {
+        "token": "polyps",
+        "sim": 0.6111990213394165
+      },
+      {
+        "token": "platelets",
+        "sim": 0.6100587248802185
+      },
+      {
+        "token": "hernia",
+        "sim": 0.6081854104995728
+      },
+      {
+        "token": "cervical",
+        "sim": 0.6078375577926636
+      },
+      {
+        "token": "rlf",
+        "sim": 0.6043114066123962
+      },
+      {
+        "token": "prostate",
+        "sim": 0.6035616397857666
+      },
+      {
+        "token": "somatic",
+        "sim": 0.603376030921936
+      },
+      {
+        "token": "hd",
+        "sim": 0.600346565246582
+      },
+      {
+        "token": "scarring",
+        "sim": 0.6001638174057007
+      },
+      {
+        "token": "sputum",
+        "sim": 0.5997269153594971
+      },
+      {
+        "token": "lesion",
+        "sim": 0.5984106659889221
+      },
+      {
+        "token": "rectal",
+        "sim": 0.5979790687561035
+      }
+    ],
+    "6": [
+      {
+        "token": "glucose",
+        "sim": 0.7730462551116943
+      },
+      {
+        "token": "fructose",
+        "sim": 0.7213157415390015
+      },
+      {
+        "token": "lactic",
+        "sim": 0.7005925178527832
+      },
+      {
+        "token": "cholin",
+        "sim": 0.6998835802078247
+      },
+      {
+        "token": "collagen",
+        "sim": 0.6954753994941711
+      },
+      {
+        "token": "maltose",
+        "sim": 0.6906201243400574
+      },
+      {
+        "token": "amylase",
+        "sim": 0.6840260624885559
+      },
+      {
+        "token": "nitrites",
+        "sim": 0.6678845882415771
+      },
+      {
+        "token": "fluoride",
+        "sim": 0.665074348449707
+      },
+      {
+        "token": "folic",
+        "sim": 0.6529138088226318
+      },
+      {
+        "token": "lecithin",
+        "sim": 0.6506475210189819
+      },
+      {
+        "token": "nucleic",
+        "sim": 0.648089587688446
+      },
+      {
+        "token": "niacin",
+        "sim": 0.6429244875907898
+      },
+      {
+        "token": "ascorbic",
+        "sim": 0.6424921751022339
+      },
+      {
+        "token": "strontium",
+        "sim": 0.6398197412490845
+      },
+      {
+        "token": "chromic",
+        "sim": 0.6371722221374512
+      },
+      {
+        "token": "lipid",
+        "sim": 0.6347144842147827
+      },
+      {
+        "token": "sarcoplasmic",
+        "sim": 0.6326608657836914
+      },
+      {
+        "token": "potassium",
+        "sim": 0.629958987236023
+      },
+      {
+        "token": "benzoic",
+        "sim": 0.6293411254882812
+      },
+      {
+        "token": "pantothenic",
+        "sim": 0.6277338862419128
+      },
+      {
+        "token": "riboflavin",
+        "sim": 0.6271432042121887
+      },
+      {
+        "token": "unsaturated",
+        "sim": 0.6258879899978638
+      },
+      {
+        "token": "magnesium",
+        "sim": 0.6236867308616638
+      },
+      {
+        "token": "proteins",
+        "sim": 0.6201843023300171
+      },
+      {
+        "token": "ethanolysis",
+        "sim": 0.6193143129348755
+      },
+      {
+        "token": "enzymes",
+        "sim": 0.6189323663711548
+      },
+      {
+        "token": "nitrite",
+        "sim": 0.6183699369430542
+      },
+      {
+        "token": "lipids",
+        "sim": 0.617573618888855
+      },
+      {
+        "token": "sulfite",
+        "sim": 0.6173453330993652
+      },
+      {
+        "token": "enzyme",
+        "sim": 0.6139109134674072
+      },
+      {
+        "token": "carbonic",
+        "sim": 0.6136606335639954
+      },
+      {
+        "token": "arsenite",
+        "sim": 0.6115331649780273
+      },
+      {
+        "token": "sulfate",
+        "sim": 0.6109759211540222
+      },
+      {
+        "token": "carotene",
+        "sim": 0.6098884344100952
+      },
+      {
+        "token": "acetic",
+        "sim": 0.6080312132835388
+      },
+      {
+        "token": "phenylpropane",
+        "sim": 0.607898473739624
+      },
+      {
+        "token": "vitamin",
+        "sim": 0.6056650876998901
+      },
+      {
+        "token": "lysine",
+        "sim": 0.6053744554519653
+      },
+      {
+        "token": "nitrobenzene",
+        "sim": 0.6044572591781616
+      },
+      {
+        "token": "sulfonation",
+        "sim": 0.6042460799217224
+      },
+      {
+        "token": "carbohydrate",
+        "sim": 0.6021298170089722
+      },
+      {
+        "token": "sulphate",
+        "sim": 0.6018040180206299
+      },
+      {
+        "token": "undersupplied",
+        "sim": 0.6000328660011292
+      },
+      {
+        "token": "cuprammonium",
+        "sim": 0.597500205039978
+      },
+      {
+        "token": "stannous",
+        "sim": 0.5973289608955383
+      }
+    ],
+    "1": [
+      {
+        "token": "gastric",
+        "sim": 0.7095547914505005
+      },
+      {
+        "token": "pancreatic",
+        "sim": 0.6904348134994507
+      },
+      {
+        "token": "estrogen",
+        "sim": 0.6636207699775696
+      },
+      {
+        "token": "pancreas",
+        "sim": 0.6567817330360413
+      },
+      {
+        "token": "hepatic",
+        "sim": 0.6560387015342712
+      },
+      {
+        "token": "adrenal",
+        "sim": 0.6465226411819458
+      },
+      {
+        "token": "hormone",
+        "sim": 0.6419589519500732
+      },
+      {
+        "token": "thyroid",
+        "sim": 0.6411055326461792
+      },
+      {
+        "token": "circulatory",
+        "sim": 0.6238373517990112
+      },
+      {
+        "token": "ovaries",
+        "sim": 0.6234491467475891
+      },
+      {
+        "token": "lymph",
+        "sim": 0.6175262928009033
+      },
+      {
+        "token": "venous",
+        "sim": 0.61474609375
+      },
+      {
+        "token": "liver",
+        "sim": 0.6123910546302795
+      },
+      {
+        "token": "endocrine",
+        "sim": 0.6085253953933716
+      },
+      {
+        "token": "cervix",
+        "sim": 0.6079979538917542
+      },
+      {
+        "token": "inflammation",
+        "sim": 0.6076090335845947
+      },
+      {
+        "token": "pituitary",
+        "sim": 0.606097400188446
+      },
+      {
+        "token": "placenta",
+        "sim": 0.604297399520874
+      },
+      {
+        "token": "sphincter",
+        "sim": 0.5995165109634399
+      },
+      {
+        "token": "glandular",
+        "sim": 0.5993300676345825
+      }
+    ],
+    "2": [
+      {
+        "token": "uric",
+        "sim": 0.7019070982933044
+      },
+      {
+        "token": "serum",
+        "sim": 0.697955846786499
+      },
+      {
+        "token": "gallstones",
+        "sim": 0.6955927014350891
+      },
+      {
+        "token": "excretion",
+        "sim": 0.6867579221725464
+      },
+      {
+        "token": "interferon",
+        "sim": 0.679050862789154
+      },
+      {
+        "token": "serotonin",
+        "sim": 0.668968141078949
+      },
+      {
+        "token": "dosages",
+        "sim": 0.661004364490509
+      },
+      {
+        "token": "clotting",
+        "sim": 0.6544754505157471
+      },
+      {
+        "token": "cholesterol",
+        "sim": 0.6526215076446533
+      },
+      {
+        "token": "myofibrillar",
+        "sim": 0.6522518992424011
+      },
+      {
+        "token": "arginine",
+        "sim": 0.6500991582870483
+      },
+      {
+        "token": "ase",
+        "sim": 0.6452447175979614
+      },
+      {
+        "token": "hemoglobin",
+        "sim": 0.6429678201675415
+      },
+      {
+        "token": "toxicity",
+        "sim": 0.635645866394043
+      },
+      {
+        "token": "rumen",
+        "sim": 0.6309906244277954
+      },
+      {
+        "token": "intramuscular",
+        "sim": 0.6301553845405579
+      },
+      {
+        "token": "metabolism",
+        "sim": 0.6261764764785767
+      },
+      {
+        "token": "progesterone",
+        "sim": 0.6260131001472473
+      },
+      {
+        "token": "glycolysis",
+        "sim": 0.6232849955558777
+      },
+      {
+        "token": "alveolar",
+        "sim": 0.6204186677932739
+      },
+      {
+        "token": "hormonal",
+        "sim": 0.6179165840148926
+      },
+      {
+        "token": "myoglobin",
+        "sim": 0.6151700019836426
+      },
+      {
+        "token": "metabolic",
+        "sim": 0.6146687269210815
+      },
+      {
+        "token": "carcinogen",
+        "sim": 0.6142956018447876
+      },
+      {
+        "token": "caloric",
+        "sim": 0.6045573949813843
+      },
+      {
+        "token": "hdl",
+        "sim": 0.600999116897583
+      },
+      {
+        "token": "biochemical",
+        "sim": 0.6001815795898438
+      },
+      {
+        "token": "physiologic",
+        "sim": 0.5986413955688477
+      }
+    ],
+    "0": [
+      {
+        "token": "steroid",
+        "sim": 0.6872678995132446
+      },
+      {
+        "token": "cortisone",
+        "sim": 0.6794396638870239
+      },
+      {
+        "token": "streptomycin",
+        "sim": 0.6756662130355835
+      },
+      {
+        "token": "globulin",
+        "sim": 0.671694278717041
+      },
+      {
+        "token": "metrazol",
+        "sim": 0.6637035608291626
+      },
+      {
+        "token": "isoniazid",
+        "sim": 0.6604301333427429
+      },
+      {
+        "token": "antitoxin",
+        "sim": 0.6376925706863403
+      },
+      {
+        "token": "toxin",
+        "sim": 0.6323273181915283
+      },
+      {
+        "token": "pentothal",
+        "sim": 0.6294957399368286
+      },
+      {
+        "token": "antibiotic",
+        "sim": 0.6142792105674744
+      },
+      {
+        "token": "sulfanilamide",
+        "sim": 0.6082294583320618
+      },
+      {
+        "token": "sulfa",
+        "sim": 0.6042070984840393
+      },
+      {
+        "token": "atabrine",
+        "sim": 0.5983995199203491
+      }
+    ],
+    "5": [
+      {
+        "token": "enterococci",
+        "sim": 0.6695653200149536
+      },
+      {
+        "token": "ingestion",
+        "sim": 0.6599319577217102
+      },
+      {
+        "token": "poliovirus",
+        "sim": 0.6551641225814819
+      },
+      {
+        "token": "streptococci",
+        "sim": 0.6444224119186401
+      },
+      {
+        "token": "clostridium",
+        "sim": 0.6439666748046875
+      },
+      {
+        "token": "viral",
+        "sim": 0.6417511105537415
+      },
+      {
+        "token": "caries",
+        "sim": 0.6404588222503662
+      },
+      {
+        "token": "pyogenes",
+        "sim": 0.6383860111236572
+      },
+      {
+        "token": "foodborne",
+        "sim": 0.6357837915420532
+      },
+      {
+        "token": "strep",
+        "sim": 0.6292715668678284
+      },
+      {
+        "token": "aureus",
+        "sim": 0.6261717081069946
+      },
+      {
+        "token": "perfringens",
+        "sim": 0.6260032057762146
+      },
+      {
+        "token": "bacterium",
+        "sim": 0.6209448575973511
+      },
+      {
+        "token": "poliomyelitis",
+        "sim": 0.620886504650116
+      },
+      {
+        "token": "botulism",
+        "sim": 0.6185964941978455
+      },
+      {
+        "token": "staphylococci",
+        "sim": 0.6119517087936401
+      },
+      {
+        "token": "staphylococcus",
+        "sim": 0.6110669374465942
+      },
+      {
+        "token": "pathogens",
+        "sim": 0.6098603010177612
+      },
+      {
+        "token": "bacterial",
+        "sim": 0.6016009449958801
+      },
+      {
+        "token": "carcinogenic",
+        "sim": 0.5982089042663574
+      },
+      {
+        "token": "hiv",
+        "sim": 0.5976393222808838
+      },
+      {
+        "token": "carcinogens",
+        "sim": 0.5964400768280029
+      }
+    ]
+  }
+}

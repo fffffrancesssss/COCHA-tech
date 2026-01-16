@@ -1,0 +1,823 @@
+{
+  "decade": 1980,
+  "concept": "television",
+  "concept_hits": 6,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.05562557280063629,
+  "clusters": {
+    "4": [
+      {
+        "token": "television",
+        "sim": 0.8416031002998352
+      },
+      {
+        "token": "tv",
+        "sim": 0.8274186849594116
+      },
+      {
+        "token": "broadcast",
+        "sim": 0.786937415599823
+      },
+      {
+        "token": "telecast",
+        "sim": 0.747326135635376
+      },
+      {
+        "token": "wgbh",
+        "sim": 0.6964206099510193
+      },
+      {
+        "token": "nightline",
+        "sim": 0.6771942973136902
+      },
+      {
+        "token": "telecasts",
+        "sim": 0.673515260219574
+      },
+      {
+        "token": "cnn",
+        "sim": 0.6435770988464355
+      },
+      {
+        "token": "newscast",
+        "sim": 0.6425958275794983
+      },
+      {
+        "token": "pbs",
+        "sim": 0.6386191248893738
+      },
+      {
+        "token": "abc",
+        "sim": 0.6196038722991943
+      },
+      {
+        "token": "nbc",
+        "sim": 0.6146891117095947
+      },
+      {
+        "token": "televised",
+        "sim": 0.6052961349487305
+      },
+      {
+        "token": "newscasts",
+        "sim": 0.597412109375
+      },
+      {
+        "token": "cbs",
+        "sim": 0.5962826013565063
+      },
+      {
+        "token": "documentaries",
+        "sim": 0.5851619243621826
+      },
+      {
+        "token": "syndicated",
+        "sim": 0.5811887979507446
+      },
+      {
+        "token": "aired",
+        "sim": 0.5768318772315979
+      },
+      {
+        "token": "updates",
+        "sim": 0.5596835613250732
+      },
+      {
+        "token": "videotaped",
+        "sim": 0.5595645308494568
+      },
+      {
+        "token": "moonlighting",
+        "sim": 0.5485318899154663
+      },
+      {
+        "token": "hotline",
+        "sim": 0.5471563339233398
+      },
+      {
+        "token": "hosting",
+        "sim": 0.54503333568573
+      },
+      {
+        "token": "replayed",
+        "sim": 0.5407134294509888
+      },
+      {
+        "token": "chicagoland",
+        "sim": 0.5376360416412354
+      },
+      {
+        "token": "entertainment",
+        "sim": 0.5281220078468323
+      },
+      {
+        "token": "viewers",
+        "sim": 0.5252922177314758
+      },
+      {
+        "token": "enquirer",
+        "sim": 0.5223701596260071
+      },
+      {
+        "token": "news",
+        "sim": 0.5197827219963074
+      },
+      {
+        "token": "previews",
+        "sim": 0.5150246620178223
+      },
+      {
+        "token": "frontline",
+        "sim": 0.5101605653762817
+      },
+      {
+        "token": "ibc",
+        "sim": 0.5067045092582703
+      },
+      {
+        "token": "media",
+        "sim": 0.504275918006897
+      },
+      {
+        "token": "saturday",
+        "sim": 0.4913262724876404
+      },
+      {
+        "token": "taping",
+        "sim": 0.4876708984375
+      },
+      {
+        "token": "tues",
+        "sim": 0.47848057746887207
+      },
+      {
+        "token": "scripted",
+        "sim": 0.47467318177223206
+      },
+      {
+        "token": "coverage",
+        "sim": 0.47145405411720276
+      },
+      {
+        "token": "nightly",
+        "sim": 0.4697062373161316
+      },
+      {
+        "token": "taped",
+        "sim": 0.469140887260437
+      },
+      {
+        "token": "publicizing",
+        "sim": 0.4684162735939026
+      },
+      {
+        "token": "audiences",
+        "sim": 0.4636218845844269
+      },
+      {
+        "token": "hardball",
+        "sim": 0.4631529450416565
+      },
+      {
+        "token": "quadrennial",
+        "sim": 0.462899774312973
+      },
+      {
+        "token": "weekly",
+        "sim": 0.46002209186553955
+      },
+      {
+        "token": "preseason",
+        "sim": 0.4596169888973236
+      },
+      {
+        "token": "show",
+        "sim": 0.45838576555252075
+      },
+      {
+        "token": "hosted",
+        "sim": 0.45780742168426514
+      }
+    ],
+    "3": [
+      {
+        "token": "showtime",
+        "sim": 0.7119901776313782
+      },
+      {
+        "token": "hbo",
+        "sim": 0.7112396955490112
+      },
+      {
+        "token": "metromedia",
+        "sim": 0.6281095743179321
+      },
+      {
+        "token": "syndication",
+        "sim": 0.5878417491912842
+      },
+      {
+        "token": "ua",
+        "sim": 0.5579361915588379
+      },
+      {
+        "token": "toshiba",
+        "sim": 0.5363798141479492
+      },
+      {
+        "token": "sony",
+        "sim": 0.534647524356842
+      },
+      {
+        "token": "afrs",
+        "sim": 0.5210780501365662
+      },
+      {
+        "token": "crosley",
+        "sim": 0.5207047462463379
+      },
+      {
+        "token": "lorimar",
+        "sim": 0.5066652297973633
+      },
+      {
+        "token": "philco",
+        "sim": 0.5040868520736694
+      },
+      {
+        "token": "mca",
+        "sim": 0.503406286239624
+      },
+      {
+        "token": "programmer",
+        "sim": 0.4999796152114868
+      },
+      {
+        "token": "multimedia",
+        "sim": 0.49477797746658325
+      },
+      {
+        "token": "atari",
+        "sim": 0.49347448348999023
+      },
+      {
+        "token": "rko",
+        "sim": 0.4892209470272064
+      },
+      {
+        "token": "hitachi",
+        "sim": 0.4866446852684021
+      },
+      {
+        "token": "advertising",
+        "sim": 0.4792094826698303
+      },
+      {
+        "token": "affiliate",
+        "sim": 0.47003456950187683
+      },
+      {
+        "token": "maephail",
+        "sim": 0.4695652425289154
+      },
+      {
+        "token": "ubs",
+        "sim": 0.46562162041664124
+      },
+      {
+        "token": "studio",
+        "sim": 0.46390682458877563
+      },
+      {
+        "token": "mgm",
+        "sim": 0.46126869320869446
+      },
+      {
+        "token": "stadiums",
+        "sim": 0.4607948064804077
+      },
+      {
+        "token": "mega",
+        "sim": 0.4590443968772888
+      }
+    ],
+    "5": [
+      {
+        "token": "radio",
+        "sim": 0.6613720059394836
+      },
+      {
+        "token": "broadcaster",
+        "sim": 0.6477863788604736
+      },
+      {
+        "token": "programing",
+        "sim": 0.6117051839828491
+      },
+      {
+        "token": "shortwave",
+        "sim": 0.6103640794754028
+      },
+      {
+        "token": "wnyc",
+        "sim": 0.60323166847229
+      },
+      {
+        "token": "hookup",
+        "sim": 0.5958439707756042
+      },
+      {
+        "token": "broadcasts",
+        "sim": 0.5875760316848755
+      },
+      {
+        "token": "vhf",
+        "sim": 0.581581711769104
+      },
+      {
+        "token": "network",
+        "sim": 0.575495183467865
+      },
+      {
+        "token": "fm",
+        "sim": 0.5745614767074585
+      },
+      {
+        "token": "programming",
+        "sim": 0.5729932188987732
+      },
+      {
+        "token": "wmca",
+        "sim": 0.5723669528961182
+      },
+      {
+        "token": "cable",
+        "sim": 0.5470160245895386
+      },
+      {
+        "token": "broadcasting",
+        "sim": 0.5406177043914795
+      },
+      {
+        "token": "wlw",
+        "sim": 0.5312147736549377
+      },
+      {
+        "token": "uhf",
+        "sim": 0.5237314105033875
+      },
+      {
+        "token": "itv",
+        "sim": 0.5226709842681885
+      },
+      {
+        "token": "radiocast",
+        "sim": 0.5216648578643799
+      },
+      {
+        "token": "catv",
+        "sim": 0.5213130712509155
+      },
+      {
+        "token": "networks",
+        "sim": 0.519686222076416
+      },
+      {
+        "token": "bbc",
+        "sim": 0.5082392692565918
+      },
+      {
+        "token": "affiliates",
+        "sim": 0.495349258184433
+      },
+      {
+        "token": "announcers",
+        "sim": 0.4913657009601593
+      },
+      {
+        "token": "licensees",
+        "sim": 0.4903714060783386
+      },
+      {
+        "token": "airwaves",
+        "sim": 0.48995187878608704
+      },
+      {
+        "token": "broadcasters",
+        "sim": 0.4890950918197632
+      },
+      {
+        "token": "licensee",
+        "sim": 0.4844498336315155
+      },
+      {
+        "token": "transmissions",
+        "sim": 0.48140743374824524
+      },
+      {
+        "token": "transmitter",
+        "sim": 0.47987574338912964
+      },
+      {
+        "token": "informational",
+        "sim": 0.47968998551368713
+      },
+      {
+        "token": "kfkb",
+        "sim": 0.47954052686691284
+      },
+      {
+        "token": "wor",
+        "sim": 0.4788214862346649
+      },
+      {
+        "token": "stations",
+        "sim": 0.4744598865509033
+      },
+      {
+        "token": "repairmen",
+        "sim": 0.4720552861690521
+      },
+      {
+        "token": "receivers",
+        "sim": 0.4655768871307373
+      },
+      {
+        "token": "programmes",
+        "sim": 0.4643752872943878
+      },
+      {
+        "token": "channel",
+        "sim": 0.4631108343601227
+      },
+      {
+        "token": "advertiser",
+        "sim": 0.45842307806015015
+      }
+    ],
+    "2": [
+      {
+        "token": "sitcoms",
+        "sim": 0.6594324111938477
+      },
+      {
+        "token": "mtv",
+        "sim": 0.6381787657737732
+      },
+      {
+        "token": "sitcom",
+        "sim": 0.6375083923339844
+      },
+      {
+        "token": "reruns",
+        "sim": 0.6319699883460999
+      },
+      {
+        "token": "miniseries",
+        "sim": 0.6035242080688477
+      },
+      {
+        "token": "rerun",
+        "sim": 0.5956132411956787
+      },
+      {
+        "token": "serials",
+        "sim": 0.5781376957893372
+      },
+      {
+        "token": "premieres",
+        "sim": 0.5573939085006714
+      },
+      {
+        "token": "kojak",
+        "sim": 0.556668758392334
+      },
+      {
+        "token": "commercials",
+        "sim": 0.5533049702644348
+      },
+      {
+        "token": "telly",
+        "sim": 0.5349079370498657
+      },
+      {
+        "token": "replays",
+        "sim": 0.5299266576766968
+      },
+      {
+        "token": "documentary",
+        "sim": 0.5225551128387451
+      },
+      {
+        "token": "movie",
+        "sim": 0.5196098685264587
+      },
+      {
+        "token": "soundtrack",
+        "sim": 0.5119483470916748
+      },
+      {
+        "token": "newsreels",
+        "sim": 0.5112163424491882
+      },
+      {
+        "token": "oscars",
+        "sim": 0.5098361372947693
+      },
+      {
+        "token": "film",
+        "sim": 0.5092117190361023
+      },
+      {
+        "token": "shogun",
+        "sim": 0.5048569440841675
+      },
+      {
+        "token": "replay",
+        "sim": 0.4960040748119354
+      },
+      {
+        "token": "rsc",
+        "sim": 0.4959701597690582
+      },
+      {
+        "token": "delacorte",
+        "sim": 0.4910189211368561
+      },
+      {
+        "token": "videos",
+        "sim": 0.4880700707435608
+      },
+      {
+        "token": "movietone",
+        "sim": 0.48765829205513
+      },
+      {
+        "token": "spoof",
+        "sim": 0.48732519149780273
+      },
+      {
+        "token": "extravaganza",
+        "sim": 0.4837067723274231
+      },
+      {
+        "token": "movies",
+        "sim": 0.48281431198120117
+      },
+      {
+        "token": "skits",
+        "sim": 0.4811268746852875
+      },
+      {
+        "token": "blockbuster",
+        "sim": 0.4800165295600891
+      },
+      {
+        "token": "splashy",
+        "sim": 0.4788358509540558
+      },
+      {
+        "token": "filmed",
+        "sim": 0.47870394587516785
+      },
+      {
+        "token": "spectaculars",
+        "sim": 0.4770042896270752
+      },
+      {
+        "token": "cinerama",
+        "sim": 0.4731076955795288
+      },
+      {
+        "token": "auditions",
+        "sim": 0.4718891680240631
+      },
+      {
+        "token": "lux",
+        "sim": 0.4694390296936035
+      },
+      {
+        "token": "boheme",
+        "sim": 0.46761852502822876
+      },
+      {
+        "token": "lps",
+        "sim": 0.4652853012084961
+      },
+      {
+        "token": "showcase",
+        "sim": 0.4619491994380951
+      },
+      {
+        "token": "filmmaking",
+        "sim": 0.45791542530059814
+      },
+      {
+        "token": "cyndi",
+        "sim": 0.45775750279426575
+      }
+    ],
+    "1": [
+      {
+        "token": "anchorman",
+        "sim": 0.6422402858734131
+      },
+      {
+        "token": "koppel",
+        "sim": 0.5891901254653931
+      },
+      {
+        "token": "paar",
+        "sim": 0.5774821639060974
+      },
+      {
+        "token": "cavett",
+        "sim": 0.5576419830322266
+      },
+      {
+        "token": "garroway",
+        "sim": 0.5519986152648926
+      },
+      {
+        "token": "newsman",
+        "sim": 0.537211537361145
+      },
+      {
+        "token": "newscaster",
+        "sim": 0.5245279669761658
+      },
+      {
+        "token": "nielsen",
+        "sim": 0.5196807384490967
+      },
+      {
+        "token": "cronkite",
+        "sim": 0.5187532901763916
+      },
+      {
+        "token": "previn",
+        "sim": 0.5150571465492249
+      },
+      {
+        "token": "commentator",
+        "sim": 0.5136541724205017
+      },
+      {
+        "token": "kaltenborn",
+        "sim": 0.5063538551330566
+      },
+      {
+        "token": "posner",
+        "sim": 0.5047868490219116
+      },
+      {
+        "token": "reasoner",
+        "sim": 0.49339914321899414
+      },
+      {
+        "token": "letterman",
+        "sim": 0.4913536310195923
+      },
+      {
+        "token": "announcer",
+        "sim": 0.49114781618118286
+      },
+      {
+        "token": "mandrell",
+        "sim": 0.4901113510131836
+      },
+      {
+        "token": "sevareid",
+        "sim": 0.487591952085495
+      },
+      {
+        "token": "murrow",
+        "sim": 0.48204028606414795
+      },
+      {
+        "token": "khumalo",
+        "sim": 0.47661641240119934
+      },
+      {
+        "token": "huntley",
+        "sim": 0.47640377283096313
+      },
+      {
+        "token": "interviewer",
+        "sim": 0.4742110073566437
+      },
+      {
+        "token": "joni",
+        "sim": 0.47409066557884216
+      },
+      {
+        "token": "spiegel",
+        "sim": 0.4701317846775055
+      },
+      {
+        "token": "mongery",
+        "sim": 0.4697793424129486
+      },
+      {
+        "token": "swaggart",
+        "sim": 0.4677012860774994
+      },
+      {
+        "token": "cosby",
+        "sim": 0.46718236804008484
+      },
+      {
+        "token": "susskind",
+        "sim": 0.46674424409866333
+      },
+      {
+        "token": "brinkley",
+        "sim": 0.4649718403816223
+      },
+      {
+        "token": "ditka",
+        "sim": 0.46493855118751526
+      },
+      {
+        "token": "donahue",
+        "sim": 0.4581795930862427
+      }
+    ],
+    "0": [
+      {
+        "token": "videocassette",
+        "sim": 0.6225558519363403
+      },
+      {
+        "token": "video",
+        "sim": 0.6038568019866943
+      },
+      {
+        "token": "videotape",
+        "sim": 0.5431206226348877
+      },
+      {
+        "token": "tvs",
+        "sim": 0.536542534828186
+      },
+      {
+        "token": "videotapes",
+        "sim": 0.535747230052948
+      },
+      {
+        "token": "vcrs",
+        "sim": 0.5220102071762085
+      },
+      {
+        "token": "vcr",
+        "sim": 0.5212879776954651
+      },
+      {
+        "token": "cassettes",
+        "sim": 0.5209846496582031
+      },
+      {
+        "token": "playback",
+        "sim": 0.5180078744888306
+      },
+      {
+        "token": "analog",
+        "sim": 0.4865608215332031
+      },
+      {
+        "token": "precon",
+        "sim": 0.4810366630554199
+      },
+      {
+        "token": "synthesizers",
+        "sim": 0.47395631670951843
+      },
+      {
+        "token": "interactive",
+        "sim": 0.47376060485839844
+      },
+      {
+        "token": "fax",
+        "sim": 0.4737459421157837
+      },
+      {
+        "token": "cassette",
+        "sim": 0.46785423159599304
+      },
+      {
+        "token": "viewing",
+        "sim": 0.4671969711780548
+      },
+      {
+        "token": "programmers",
+        "sim": 0.46244674921035767
+      },
+      {
+        "token": "audio",
+        "sim": 0.45933058857917786
+      }
+    ]
+  }
+}

@@ -1,0 +1,827 @@
+{
+  "decade": 2010,
+  "concept": "insulin",
+  "concept_hits": 5,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 8,
+  "silhouette": 0.08195263892412186,
+  "clusters": {
+    "5": [
+      {
+        "token": "insulin",
+        "sim": 0.8558184504508972
+      },
+      {
+        "token": "glucose",
+        "sim": 0.8339326977729797
+      },
+      {
+        "token": "cholesterol",
+        "sim": 0.7036822438240051
+      },
+      {
+        "token": "triglycerides",
+        "sim": 0.6922128796577454
+      },
+      {
+        "token": "triglyceride",
+        "sim": 0.6800475120544434
+      },
+      {
+        "token": "leptin",
+        "sim": 0.6567544341087341
+      },
+      {
+        "token": "liver",
+        "sim": 0.631873607635498
+      },
+      {
+        "token": "metabolic",
+        "sim": 0.6231431365013123
+      },
+      {
+        "token": "lipid",
+        "sim": 0.6183013916015625
+      },
+      {
+        "token": "lactose",
+        "sim": 0.6178929805755615
+      },
+      {
+        "token": "postprandial",
+        "sim": 0.613065242767334
+      },
+      {
+        "token": "ldl",
+        "sim": 0.6046608686447144
+      },
+      {
+        "token": "metabolism",
+        "sim": 0.6031689047813416
+      },
+      {
+        "token": "pancreas",
+        "sim": 0.6017202138900757
+      },
+      {
+        "token": "hemoglobin",
+        "sim": 0.6013442277908325
+      },
+      {
+        "token": "carbohydrate",
+        "sim": 0.5975215435028076
+      },
+      {
+        "token": "cortisol",
+        "sim": 0.5973310470581055
+      },
+      {
+        "token": "lipids",
+        "sim": 0.5943580865859985
+      },
+      {
+        "token": "creatinine",
+        "sim": 0.5842708945274353
+      },
+      {
+        "token": "carbohydrates",
+        "sim": 0.5828324556350708
+      }
+    ],
+    "6": [
+      {
+        "token": "diabetes",
+        "sim": 0.8292738199234009
+      },
+      {
+        "token": "diabetic",
+        "sim": 0.8234752416610718
+      },
+      {
+        "token": "hypoglycemia",
+        "sim": 0.7876030206680298
+      },
+      {
+        "token": "hypertension",
+        "sim": 0.7566661834716797
+      },
+      {
+        "token": "diabetics",
+        "sim": 0.7274936437606812
+      },
+      {
+        "token": "mellitus",
+        "sim": 0.7058858871459961
+      },
+      {
+        "token": "prediabetes",
+        "sim": 0.6963657140731812
+      },
+      {
+        "token": "obesity",
+        "sim": 0.6238003969192505
+      },
+      {
+        "token": "adiposity",
+        "sim": 0.6051005721092224
+      },
+      {
+        "token": "glycemic",
+        "sim": 0.602853000164032
+      },
+      {
+        "token": "tdm",
+        "sim": 0.5996780395507812
+      },
+      {
+        "token": "obese",
+        "sim": 0.5955576300621033
+      }
+    ],
+    "1": [
+      {
+        "token": "hyperglycemia",
+        "sim": 0.7591918706893921
+      },
+      {
+        "token": "hyperinsulinemia",
+        "sim": 0.701556921005249
+      },
+      {
+        "token": "steatosis",
+        "sim": 0.6559025049209595
+      },
+      {
+        "token": "albuminuria",
+        "sim": 0.6546372175216675
+      },
+      {
+        "token": "hyponatremia",
+        "sim": 0.6470860242843628
+      },
+      {
+        "token": "enteropathy",
+        "sim": 0.6402598023414612
+      },
+      {
+        "token": "glycated",
+        "sim": 0.6372310519218445
+      },
+      {
+        "token": "adiponectin",
+        "sim": 0.6309322118759155
+      },
+      {
+        "token": "hepatic",
+        "sim": 0.6295615434646606
+      },
+      {
+        "token": "acth",
+        "sim": 0.6281107068061829
+      },
+      {
+        "token": "reabsorption",
+        "sim": 0.6266288757324219
+      },
+      {
+        "token": "glucocorticoid",
+        "sim": 0.6180881261825562
+      },
+      {
+        "token": "ngal",
+        "sim": 0.6138397455215454
+      },
+      {
+        "token": "glucocorticoids",
+        "sim": 0.6115379333496094
+      },
+      {
+        "token": "transketolase",
+        "sim": 0.6108415126800537
+      },
+      {
+        "token": "atherogenic",
+        "sim": 0.609561562538147
+      },
+      {
+        "token": "inflamation",
+        "sim": 0.6069509983062744
+      },
+      {
+        "token": "klotho",
+        "sim": 0.6053150296211243
+      },
+      {
+        "token": "myopathy",
+        "sim": 0.6041591167449951
+      },
+      {
+        "token": "amylin",
+        "sim": 0.6036683917045593
+      },
+      {
+        "token": "denervation",
+        "sim": 0.601387619972229
+      },
+      {
+        "token": "pyy",
+        "sim": 0.601327657699585
+      },
+      {
+        "token": "coagulopathy",
+        "sim": 0.60089111328125
+      },
+      {
+        "token": "hydroxyvitamin",
+        "sim": 0.5994001030921936
+      },
+      {
+        "token": "dka",
+        "sim": 0.5989667773246765
+      },
+      {
+        "token": "transaminase",
+        "sim": 0.597926676273346
+      },
+      {
+        "token": "exocrine",
+        "sim": 0.5978344082832336
+      },
+      {
+        "token": "antithrombin",
+        "sim": 0.5967158079147339
+      },
+      {
+        "token": "igfbp",
+        "sim": 0.5957114100456238
+      },
+      {
+        "token": "hemolysis",
+        "sim": 0.5952454805374146
+      },
+      {
+        "token": "tnfalpha",
+        "sim": 0.5940357446670532
+      },
+      {
+        "token": "dysbiosis",
+        "sim": 0.5939440131187439
+      },
+      {
+        "token": "catabolism",
+        "sim": 0.5933988690376282
+      },
+      {
+        "token": "erythropoietin",
+        "sim": 0.5930938720703125
+      },
+      {
+        "token": "eosinophil",
+        "sim": 0.5925379395484924
+      },
+      {
+        "token": "plgf",
+        "sim": 0.5923166275024414
+      },
+      {
+        "token": "antitrypsin",
+        "sim": 0.5903670787811279
+      },
+      {
+        "token": "gelatinase",
+        "sim": 0.5890976786613464
+      },
+      {
+        "token": "antiphospholipid",
+        "sim": 0.5878402590751648
+      },
+      {
+        "token": "gonadotropins",
+        "sim": 0.5876345634460449
+      },
+      {
+        "token": "adipokine",
+        "sim": 0.586441159248352
+      },
+      {
+        "token": "autoabs",
+        "sim": 0.5844316482543945
+      },
+      {
+        "token": "hypoperfusion",
+        "sim": 0.5840445756912231
+      },
+      {
+        "token": "extravasation",
+        "sim": 0.5834187865257263
+      }
+    ],
+    "2": [
+      {
+        "token": "hyperlipidemia",
+        "sim": 0.7261083126068115
+      },
+      {
+        "token": "dyslipidemia",
+        "sim": 0.6973469853401184
+      },
+      {
+        "token": "ketoacidosis",
+        "sim": 0.6879249811172485
+      },
+      {
+        "token": "hypoglycaemia",
+        "sim": 0.6778962016105652
+      },
+      {
+        "token": "hyperglycaemia",
+        "sim": 0.6775838136672974
+      },
+      {
+        "token": "hypertensive",
+        "sim": 0.6700584292411804
+      },
+      {
+        "token": "malabsorption",
+        "sim": 0.6695126891136169
+      },
+      {
+        "token": "macrovascular",
+        "sim": 0.641621470451355
+      },
+      {
+        "token": "renal",
+        "sim": 0.6349036693572998
+      },
+      {
+        "token": "cardiovascular",
+        "sim": 0.6306470036506653
+      },
+      {
+        "token": "prediabetic",
+        "sim": 0.6221592426300049
+      },
+      {
+        "token": "hypos",
+        "sim": 0.6216817498207092
+      },
+      {
+        "token": "hyperthyroidism",
+        "sim": 0.6216463446617126
+      },
+      {
+        "token": "nephropathy",
+        "sim": 0.6215484738349915
+      },
+      {
+        "token": "cardiometabolic",
+        "sim": 0.6153001189231873
+      },
+      {
+        "token": "decompensated",
+        "sim": 0.6149561405181885
+      },
+      {
+        "token": "sepsis",
+        "sim": 0.6135343313217163
+      },
+      {
+        "token": "hypotension",
+        "sim": 0.6093457937240601
+      },
+      {
+        "token": "clotting",
+        "sim": 0.6090999245643616
+      },
+      {
+        "token": "cardiomyopathy",
+        "sim": 0.6061815619468689
+      },
+      {
+        "token": "hypercalcemia",
+        "sim": 0.6023630499839783
+      },
+      {
+        "token": "cirrhosis",
+        "sim": 0.598998486995697
+      },
+      {
+        "token": "hematologic",
+        "sim": 0.5988234281539917
+      },
+      {
+        "token": "vasospasm",
+        "sim": 0.5986415147781372
+      },
+      {
+        "token": "nephritis",
+        "sim": 0.5985561013221741
+      },
+      {
+        "token": "lqts",
+        "sim": 0.5985554456710815
+      },
+      {
+        "token": "hypogonadism",
+        "sim": 0.5977670550346375
+      },
+      {
+        "token": "hypercholesterolemia",
+        "sim": 0.5976209044456482
+      },
+      {
+        "token": "exacerbations",
+        "sim": 0.5957230925559998
+      },
+      {
+        "token": "myelofibrosis",
+        "sim": 0.5951886177062988
+      },
+      {
+        "token": "nafld",
+        "sim": 0.5949631929397583
+      },
+      {
+        "token": "proteinuria",
+        "sim": 0.5942349433898926
+      },
+      {
+        "token": "ckd",
+        "sim": 0.591057538986206
+      },
+      {
+        "token": "copd",
+        "sim": 0.5900580883026123
+      },
+      {
+        "token": "eclampsia",
+        "sim": 0.5899173021316528
+      },
+      {
+        "token": "congestive",
+        "sim": 0.5896682143211365
+      },
+      {
+        "token": "atherosclerosis",
+        "sim": 0.5880606770515442
+      },
+      {
+        "token": "korsakoff",
+        "sim": 0.5878580212593079
+      },
+      {
+        "token": "polypharmacy",
+        "sim": 0.5872965455055237
+      },
+      {
+        "token": "periodontitis",
+        "sim": 0.5855613350868225
+      },
+      {
+        "token": "preeclampsia",
+        "sim": 0.5855219960212708
+      },
+      {
+        "token": "normotensive",
+        "sim": 0.5845080018043518
+      },
+      {
+        "token": "cardiac",
+        "sim": 0.5827423334121704
+      }
+    ],
+    "3": [
+      {
+        "token": "hbalc",
+        "sim": 0.6729954481124878
+      },
+      {
+        "token": "prandial",
+        "sim": 0.648944616317749
+      },
+      {
+        "token": "liraglutide",
+        "sim": 0.6465422511100769
+      },
+      {
+        "token": "ketogenic",
+        "sim": 0.6414463520050049
+      },
+      {
+        "token": "valsartan",
+        "sim": 0.6410346031188965
+      },
+      {
+        "token": "hbac",
+        "sim": 0.6318316459655762
+      },
+      {
+        "token": "lckd",
+        "sim": 0.6311991214752197
+      },
+      {
+        "token": "enoxaparin",
+        "sim": 0.622696042060852
+      },
+      {
+        "token": "gummosa",
+        "sim": 0.6225705742835999
+      },
+      {
+        "token": "empagliflozin",
+        "sim": 0.6172711849212646
+      },
+      {
+        "token": "glargine",
+        "sim": 0.6170874834060669
+      },
+      {
+        "token": "salmeterol",
+        "sim": 0.6116696000099182
+      },
+      {
+        "token": "aclidinium",
+        "sim": 0.6045501232147217
+      },
+      {
+        "token": "glycaemic",
+        "sim": 0.5993320941925049
+      },
+      {
+        "token": "acetylcysteine",
+        "sim": 0.597199559211731
+      },
+      {
+        "token": "lgid",
+        "sim": 0.5883828997612
+      },
+      {
+        "token": "ivabradine",
+        "sim": 0.5873170495033264
+      },
+      {
+        "token": "degludec",
+        "sim": 0.5868880748748779
+      },
+      {
+        "token": "omapatrilat",
+        "sim": 0.5852268934249878
+      },
+      {
+        "token": "fpg",
+        "sim": 0.5822947025299072
+      }
+    ],
+    "7": [
+      {
+        "token": "metformin",
+        "sim": 0.670721709728241
+      },
+      {
+        "token": "levodopa",
+        "sim": 0.6440175771713257
+      },
+      {
+        "token": "hypoglycemic",
+        "sim": 0.6387397646903992
+      },
+      {
+        "token": "ezetimibe",
+        "sim": 0.6365991234779358
+      },
+      {
+        "token": "statin",
+        "sim": 0.6349489688873291
+      },
+      {
+        "token": "levothyroxine",
+        "sim": 0.6285408139228821
+      },
+      {
+        "token": "victoza",
+        "sim": 0.62541663646698
+      },
+      {
+        "token": "thiazide",
+        "sim": 0.6191283464431763
+      },
+      {
+        "token": "topiramate",
+        "sim": 0.6160006523132324
+      },
+      {
+        "token": "lorcaserin",
+        "sim": 0.6122196912765503
+      },
+      {
+        "token": "fibrates",
+        "sim": 0.6103940606117249
+      },
+      {
+        "token": "clonazepam",
+        "sim": 0.6090354919433594
+      },
+      {
+        "token": "anticholinergics",
+        "sim": 0.6052581667900085
+      },
+      {
+        "token": "anticonvulsants",
+        "sim": 0.6043891906738281
+      },
+      {
+        "token": "medication",
+        "sim": 0.6018279790878296
+      },
+      {
+        "token": "phenytoin",
+        "sim": 0.5991247892379761
+      },
+      {
+        "token": "baclofen",
+        "sim": 0.5984693765640259
+      },
+      {
+        "token": "ppis",
+        "sim": 0.5978296995162964
+      },
+      {
+        "token": "simvastatin",
+        "sim": 0.5977847576141357
+      },
+      {
+        "token": "varenicline",
+        "sim": 0.5975114107131958
+      },
+      {
+        "token": "omeprazole",
+        "sim": 0.5973148345947266
+      },
+      {
+        "token": "hypoglycaemic",
+        "sim": 0.5965538024902344
+      },
+      {
+        "token": "statins",
+        "sim": 0.5936716794967651
+      },
+      {
+        "token": "insulins",
+        "sim": 0.5907388925552368
+      },
+      {
+        "token": "incretin",
+        "sim": 0.5905047655105591
+      },
+      {
+        "token": "spironolactone",
+        "sim": 0.590313196182251
+      },
+      {
+        "token": "amiodarone",
+        "sim": 0.5900729894638062
+      },
+      {
+        "token": "belviq",
+        "sim": 0.589923083782196
+      },
+      {
+        "token": "diclofenac",
+        "sim": 0.5888161063194275
+      },
+      {
+        "token": "sertraline",
+        "sim": 0.58542799949646
+      },
+      {
+        "token": "canagliflozin",
+        "sim": 0.5846495628356934
+      },
+      {
+        "token": "sirolimus",
+        "sim": 0.5836774706840515
+      },
+      {
+        "token": "atovaquone",
+        "sim": 0.5833154320716858
+      }
+    ],
+    "4": [
+      {
+        "token": "hypothyroidism",
+        "sim": 0.6452544927597046
+      },
+      {
+        "token": "thyroid",
+        "sim": 0.6443830132484436
+      },
+      {
+        "token": "arthritis",
+        "sim": 0.6317216753959656
+      },
+      {
+        "token": "osteoporosis",
+        "sim": 0.6212245225906372
+      },
+      {
+        "token": "anemia",
+        "sim": 0.6202287673950195
+      },
+      {
+        "token": "rheumatoid",
+        "sim": 0.616997241973877
+      },
+      {
+        "token": "inflammation",
+        "sim": 0.6138521432876587
+      },
+      {
+        "token": "disease",
+        "sim": 0.6034957766532898
+      },
+      {
+        "token": "colitis",
+        "sim": 0.603310227394104
+      },
+      {
+        "token": "chronic",
+        "sim": 0.6023040413856506
+      },
+      {
+        "token": "autoimmune",
+        "sim": 0.6015278100967407
+      },
+      {
+        "token": "asthma",
+        "sim": 0.5989759564399719
+      },
+      {
+        "token": "neuropathy",
+        "sim": 0.5978145003318787
+      },
+      {
+        "token": "celiac",
+        "sim": 0.5919330716133118
+      },
+      {
+        "token": "pancreatic",
+        "sim": 0.5912134647369385
+      },
+      {
+        "token": "gout",
+        "sim": 0.584600031375885
+      },
+      {
+        "token": "diverticulitis",
+        "sim": 0.5825543403625488
+      }
+    ],
+    "0": [
+      {
+        "token": "thiamine",
+        "sim": 0.627569317817688
+      },
+      {
+        "token": "homocysteine",
+        "sim": 0.6236374974250793
+      },
+      {
+        "token": "uric",
+        "sim": 0.5982859134674072
+      },
+      {
+        "token": "gsh",
+        "sim": 0.5924366116523743
+      },
+      {
+        "token": "gssg",
+        "sim": 0.5921774506568909
+      },
+      {
+        "token": "glutathione",
+        "sim": 0.591799259185791
+      },
+      {
+        "token": "lactate",
+        "sim": 0.5915935039520264
+      },
+      {
+        "token": "pufa",
+        "sim": 0.5895988941192627
+      },
+      {
+        "token": "catecholamines",
+        "sim": 0.5863466858863831
+      },
+      {
+        "token": "thyroxine",
+        "sim": 0.5851058959960938
+      },
+      {
+        "token": "histamine",
+        "sim": 0.5830014944076538
+      }
+    ]
+  }
+}

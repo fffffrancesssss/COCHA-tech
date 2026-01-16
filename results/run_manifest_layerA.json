@@ -26,13 +26,40 @@
       "nuclear",
       "gmo",
       "phone_social",
-      "ai"
+      "ai",
+      "television",
+      "internet",
+      "online_shopping",
+      "antibiotics",
+      "vaccination",
+      "insulin",
+      "stainless_steel",
+      "radar",
+      "radio",
+      "automation_control"
     ],
     "also_run_subconcepts": [
       "smartphone",
-      "social_media",
-      "automation_control"
-    ]
+      "social_media"
+    ],
+    "earliest_valid_decade": {
+      "nuclear": 1940,
+      "gmo": 1970,
+      "ai": 1950,
+      "automation_control": 1940,
+      "smartphone": 1990,
+      "social_media": 2000,
+      "phone_social": 2000,
+      "television": 1920,
+      "internet": 1970,
+      "online_shopping": 1990,
+      "antibiotics": 1930,
+      "insulin": 1920,
+      "stainless_steel": 1910,
+      "radar": 1930,
+      "radio": 1900,
+      "vaccination": 1800
+    }
   },
   "axes": {
     "sentiment_version": "base",
@@ -40,5 +67,5 @@
     "min_hits_per_axis": 5,
     "min_hits_per_concept": 3
   },
-  "n_rows": 84
+  "n_rows": 192
 }

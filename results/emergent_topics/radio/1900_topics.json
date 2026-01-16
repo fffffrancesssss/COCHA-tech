@@ -1,0 +1,823 @@
+{
+  "decade": 1900,
+  "concept": "radio",
+  "concept_hits": 5,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.09468326717615128,
+  "clusters": {
+    "4": [
+      {
+        "token": "transmitter",
+        "sim": 0.8170683979988098
+      },
+      {
+        "token": "magneto",
+        "sim": 0.8159310817718506
+      },
+      {
+        "token": "generator",
+        "sim": 0.7781331539154053
+      },
+      {
+        "token": "interrupter",
+        "sim": 0.7495675683021545
+      },
+      {
+        "token": "electro",
+        "sim": 0.7443392276763916
+      },
+      {
+        "token": "antenna",
+        "sim": 0.7416037321090698
+      },
+      {
+        "token": "receiver",
+        "sim": 0.728707492351532
+      },
+      {
+        "token": "clockwork",
+        "sim": 0.7234187126159668
+      },
+      {
+        "token": "switchboard",
+        "sim": 0.7111353278160095
+      },
+      {
+        "token": "condenser",
+        "sim": 0.7088299989700317
+      },
+      {
+        "token": "armature",
+        "sim": 0.6997308135032654
+      },
+      {
+        "token": "circuits",
+        "sim": 0.694674015045166
+      },
+      {
+        "token": "electrode",
+        "sim": 0.6886385083198547
+      },
+      {
+        "token": "electrodes",
+        "sim": 0.6822300553321838
+      },
+      {
+        "token": "magnetized",
+        "sim": 0.6812145709991455
+      },
+      {
+        "token": "cathode",
+        "sim": 0.6735613942146301
+      },
+      {
+        "token": "diaphragm",
+        "sim": 0.6708090901374817
+      },
+      {
+        "token": "disc",
+        "sim": 0.668199896812439
+      },
+      {
+        "token": "magnets",
+        "sim": 0.6618260145187378
+      },
+      {
+        "token": "electromotive",
+        "sim": 0.6581979990005493
+      },
+      {
+        "token": "subscriber",
+        "sim": 0.6500294208526611
+      },
+      {
+        "token": "voltage",
+        "sim": 0.6491963863372803
+      },
+      {
+        "token": "coils",
+        "sim": 0.6458356380462646
+      },
+      {
+        "token": "contacts",
+        "sim": 0.6457827687263489
+      },
+      {
+        "token": "magnet",
+        "sim": 0.6455507278442383
+      },
+      {
+        "token": "inserting",
+        "sim": 0.6397250294685364
+      },
+      {
+        "token": "inserts",
+        "sim": 0.6384807825088501
+      },
+      {
+        "token": "mercury",
+        "sim": 0.6235404014587402
+      },
+      {
+        "token": "induction",
+        "sim": 0.6233426332473755
+      },
+      {
+        "token": "prism",
+        "sim": 0.6215453147888184
+      },
+      {
+        "token": "platinum",
+        "sim": 0.6201064586639404
+      },
+      {
+        "token": "displacement",
+        "sim": 0.6197991371154785
+      },
+      {
+        "token": "lens",
+        "sim": 0.6181130409240723
+      },
+      {
+        "token": "electrified",
+        "sim": 0.6176745891571045
+      },
+      {
+        "token": "coil",
+        "sim": 0.6123629808425903
+      },
+      {
+        "token": "instantaneously",
+        "sim": 0.6102253794670105
+      },
+      {
+        "token": "rotating",
+        "sim": 0.6048591136932373
+      },
+      {
+        "token": "tuning",
+        "sim": 0.6038938760757446
+      },
+      {
+        "token": "telescopic",
+        "sim": 0.6019555330276489
+      },
+      {
+        "token": "reversing",
+        "sim": 0.6002211570739746
+      },
+      {
+        "token": "ohms",
+        "sim": 0.5987846851348877
+      },
+      {
+        "token": "shank",
+        "sim": 0.5987761616706848
+      },
+      {
+        "token": "piston",
+        "sim": 0.598418116569519
+      }
+    ],
+    "2": [
+      {
+        "token": "wireless",
+        "sim": 0.7592869997024536
+      },
+      {
+        "token": "telephonic",
+        "sim": 0.7423925399780273
+      },
+      {
+        "token": "transmitting",
+        "sim": 0.7359127402305603
+      },
+      {
+        "token": "telegraphy",
+        "sim": 0.6939687728881836
+      },
+      {
+        "token": "telephony",
+        "sim": 0.686244010925293
+      },
+      {
+        "token": "telegraphic",
+        "sim": 0.6713598370552063
+      },
+      {
+        "token": "signaling",
+        "sim": 0.6707382202148438
+      },
+      {
+        "token": "socalled",
+        "sim": 0.6637004613876343
+      },
+      {
+        "token": "transmission",
+        "sim": 0.6558760404586792
+      },
+      {
+        "token": "marconi",
+        "sim": 0.6478097438812256
+      },
+      {
+        "token": "registering",
+        "sim": 0.6411245465278625
+      },
+      {
+        "token": "appliance",
+        "sim": 0.6373265981674194
+      },
+      {
+        "token": "receivers",
+        "sim": 0.6337350010871887
+      },
+      {
+        "token": "patented",
+        "sim": 0.6296688318252563
+      },
+      {
+        "token": "obviated",
+        "sim": 0.6285984516143799
+      },
+      {
+        "token": "automatic",
+        "sim": 0.6184934377670288
+      },
+      {
+        "token": "eliminating",
+        "sim": 0.6174321174621582
+      },
+      {
+        "token": "users",
+        "sim": 0.6132634878158569
+      },
+      {
+        "token": "superintendence",
+        "sim": 0.6107829809188843
+      },
+      {
+        "token": "accountants",
+        "sim": 0.6093712449073792
+      },
+      {
+        "token": "receivership",
+        "sim": 0.6086073517799377
+      },
+      {
+        "token": "telephones",
+        "sim": 0.6064497232437134
+      },
+      {
+        "token": "attachments",
+        "sim": 0.6046268343925476
+      },
+      {
+        "token": "operates",
+        "sim": 0.6034525036811829
+      },
+      {
+        "token": "terminals",
+        "sim": 0.602749764919281
+      },
+      {
+        "token": "telegraphs",
+        "sim": 0.6018224358558655
+      },
+      {
+        "token": "meter",
+        "sim": 0.5965561270713806
+      }
+    ],
+    "1": [
+      {
+        "token": "turbine",
+        "sim": 0.7455908060073853
+      },
+      {
+        "token": "dynamo",
+        "sim": 0.7256617546081543
+      },
+      {
+        "token": "motors",
+        "sim": 0.7051255702972412
+      },
+      {
+        "token": "dynamos",
+        "sim": 0.7007772326469421
+      },
+      {
+        "token": "hydraulic",
+        "sim": 0.6724416017532349
+      },
+      {
+        "token": "aeroplanes",
+        "sim": 0.671256422996521
+      },
+      {
+        "token": "generating",
+        "sim": 0.663057804107666
+      },
+      {
+        "token": "centrifugal",
+        "sim": 0.6516399383544922
+      },
+      {
+        "token": "electrical",
+        "sim": 0.6512122750282288
+      },
+      {
+        "token": "discharges",
+        "sim": 0.6475183963775635
+      },
+      {
+        "token": "torpedoes",
+        "sim": 0.6325557231903076
+      },
+      {
+        "token": "benzine",
+        "sim": 0.6311235427856445
+      },
+      {
+        "token": "apparatus",
+        "sim": 0.6281687617301941
+      },
+      {
+        "token": "aeroplane",
+        "sim": 0.6274770498275757
+      },
+      {
+        "token": "electrically",
+        "sim": 0.6246620416641235
+      },
+      {
+        "token": "valves",
+        "sim": 0.6204196214675903
+      },
+      {
+        "token": "cables",
+        "sim": 0.6192248463630676
+      },
+      {
+        "token": "suction",
+        "sim": 0.6174731850624084
+      },
+      {
+        "token": "radiator",
+        "sim": 0.6115889549255371
+      },
+      {
+        "token": "flue",
+        "sim": 0.5973662734031677
+      },
+      {
+        "token": "vacuum",
+        "sim": 0.5971517562866211
+      }
+    ],
+    "0": [
+      {
+        "token": "faraday",
+        "sim": 0.6938786506652832
+      },
+      {
+        "token": "watt",
+        "sim": 0.6913145780563354
+      },
+      {
+        "token": "meteorological",
+        "sim": 0.6466549634933472
+      },
+      {
+        "token": "declination",
+        "sim": 0.6462013721466064
+      },
+      {
+        "token": "specifications",
+        "sim": 0.6194148063659668
+      },
+      {
+        "token": "improperly",
+        "sim": 0.6188414692878723
+      },
+      {
+        "token": "machinist",
+        "sim": 0.6164138317108154
+      },
+      {
+        "token": "phonograph",
+        "sim": 0.6099607944488525
+      },
+      {
+        "token": "handbooks",
+        "sim": 0.6094459891319275
+      },
+      {
+        "token": "helmholtz",
+        "sim": 0.6061242818832397
+      },
+      {
+        "token": "draftsman",
+        "sim": 0.6060781478881836
+      },
+      {
+        "token": "fessenden",
+        "sim": 0.6040188670158386
+      },
+      {
+        "token": "photography",
+        "sim": 0.6020954847335815
+      },
+      {
+        "token": "clinical",
+        "sim": 0.5987624526023865
+      },
+      {
+        "token": "manoeuvre",
+        "sim": 0.5968106985092163
+      }
+    ],
+    "5": [
+      {
+        "token": "chemically",
+        "sim": 0.6829701662063599
+      },
+      {
+        "token": "dioxide",
+        "sim": 0.6799284219741821
+      },
+      {
+        "token": "filament",
+        "sim": 0.6760398149490356
+      },
+      {
+        "token": "liquefied",
+        "sim": 0.6670225262641907
+      },
+      {
+        "token": "decomposed",
+        "sim": 0.6620430946350098
+      },
+      {
+        "token": "combustion",
+        "sim": 0.6605726480484009
+      },
+      {
+        "token": "granules",
+        "sim": 0.6592023372650146
+      },
+      {
+        "token": "bleaching",
+        "sim": 0.6590282917022705
+      },
+      {
+        "token": "hy",
+        "sim": 0.6577861309051514
+      },
+      {
+        "token": "carbonic",
+        "sim": 0.6532069444656372
+      },
+      {
+        "token": "manganese",
+        "sim": 0.6507232189178467
+      },
+      {
+        "token": "hydrochloric",
+        "sim": 0.6481838822364807
+      },
+      {
+        "token": "condensing",
+        "sim": 0.6475563049316406
+      },
+      {
+        "token": "nitrous",
+        "sim": 0.6453872919082642
+      },
+      {
+        "token": "uranium",
+        "sim": 0.6423295736312866
+      },
+      {
+        "token": "chemicals",
+        "sim": 0.6418439745903015
+      },
+      {
+        "token": "duct",
+        "sim": 0.639979898929596
+      },
+      {
+        "token": "helium",
+        "sim": 0.6387033462524414
+      },
+      {
+        "token": "urine",
+        "sim": 0.6360178589820862
+      },
+      {
+        "token": "semen",
+        "sim": 0.633135199546814
+      },
+      {
+        "token": "nitric",
+        "sim": 0.6319427490234375
+      },
+      {
+        "token": "magnesium",
+        "sim": 0.6315429210662842
+      },
+      {
+        "token": "carbon",
+        "sim": 0.6304726600646973
+      },
+      {
+        "token": "oxides",
+        "sim": 0.6287705898284912
+      },
+      {
+        "token": "decomposition",
+        "sim": 0.6269478797912598
+      },
+      {
+        "token": "nitrates",
+        "sim": 0.6257829070091248
+      },
+      {
+        "token": "aqueous",
+        "sim": 0.6242797374725342
+      },
+      {
+        "token": "valence",
+        "sim": 0.6241036653518677
+      },
+      {
+        "token": "arsenic",
+        "sim": 0.6237125992774963
+      },
+      {
+        "token": "gaseous",
+        "sim": 0.6221295595169067
+      },
+      {
+        "token": "ammonia",
+        "sim": 0.6200381517410278
+      },
+      {
+        "token": "sulphuric",
+        "sim": 0.6162059903144836
+      },
+      {
+        "token": "proteids",
+        "sim": 0.6132397651672363
+      },
+      {
+        "token": "aqua",
+        "sim": 0.6120760440826416
+      },
+      {
+        "token": "calcium",
+        "sim": 0.6110056638717651
+      },
+      {
+        "token": "fluids",
+        "sim": 0.6109870672225952
+      },
+      {
+        "token": "sulphurous",
+        "sim": 0.6094390153884888
+      },
+      {
+        "token": "hydroxide",
+        "sim": 0.6064330339431763
+      },
+      {
+        "token": "zinc",
+        "sim": 0.6063584089279175
+      },
+      {
+        "token": "sugars",
+        "sim": 0.6048778295516968
+      },
+      {
+        "token": "potassium",
+        "sim": 0.6021753549575806
+      },
+      {
+        "token": "oxide",
+        "sim": 0.6014404296875
+      },
+      {
+        "token": "seminal",
+        "sim": 0.600784957408905
+      },
+      {
+        "token": "ions",
+        "sim": 0.6004958152770996
+      },
+      {
+        "token": "chlorine",
+        "sim": 0.5998585820198059
+      },
+      {
+        "token": "ducts",
+        "sim": 0.5991527438163757
+      },
+      {
+        "token": "diluted",
+        "sim": 0.5990705490112305
+      },
+      {
+        "token": "emanation",
+        "sim": 0.5984355807304382
+      }
+    ],
+    "3": [
+      {
+        "token": "thermal",
+        "sim": 0.6826331615447998
+      },
+      {
+        "token": "radio",
+        "sim": 0.6816686391830444
+      },
+      {
+        "token": "dissociation",
+        "sim": 0.6761802434921265
+      },
+      {
+        "token": "spectroscope",
+        "sim": 0.6658703088760376
+      },
+      {
+        "token": "complementary",
+        "sim": 0.6646144390106201
+      },
+      {
+        "token": "stellar",
+        "sim": 0.6591380834579468
+      },
+      {
+        "token": "decreases",
+        "sim": 0.6572098731994629
+      },
+      {
+        "token": "generated",
+        "sim": 0.6568688154220581
+      },
+      {
+        "token": "rearrangement",
+        "sim": 0.6543838381767273
+      },
+      {
+        "token": "electrons",
+        "sim": 0.6408934593200684
+      },
+      {
+        "token": "conceptual",
+        "sim": 0.6308145523071289
+      },
+      {
+        "token": "oxidation",
+        "sim": 0.6276021003723145
+      },
+      {
+        "token": "nebular",
+        "sim": 0.6272345185279846
+      },
+      {
+        "token": "multiple",
+        "sim": 0.6260048747062683
+      },
+      {
+        "token": "cohesion",
+        "sim": 0.6208750009536743
+      },
+      {
+        "token": "experimentally",
+        "sim": 0.6200116872787476
+      },
+      {
+        "token": "platting",
+        "sim": 0.6198415160179138
+      },
+      {
+        "token": "inductive",
+        "sim": 0.618652880191803
+      },
+      {
+        "token": "nuclear",
+        "sim": 0.6178864240646362
+      },
+      {
+        "token": "equations",
+        "sim": 0.6178237795829773
+      },
+      {
+        "token": "molecular",
+        "sim": 0.616919755935669
+      },
+      {
+        "token": "equation",
+        "sim": 0.6160591840744019
+      },
+      {
+        "token": "variant",
+        "sim": 0.6158985495567322
+      },
+      {
+        "token": "interaction",
+        "sim": 0.615576982498169
+      },
+      {
+        "token": "determinations",
+        "sim": 0.6113591194152832
+      },
+      {
+        "token": "virulence",
+        "sim": 0.6087273955345154
+      },
+      {
+        "token": "castings",
+        "sim": 0.6086038947105408
+      },
+      {
+        "token": "phlogiston",
+        "sim": 0.6085735559463501
+      },
+      {
+        "token": "oscillations",
+        "sim": 0.6070895195007324
+      },
+      {
+        "token": "electron",
+        "sim": 0.606979250907898
+      },
+      {
+        "token": "propagated",
+        "sim": 0.6060152053833008
+      },
+      {
+        "token": "spectra",
+        "sim": 0.6059036254882812
+      },
+      {
+        "token": "marginal",
+        "sim": 0.604099690914154
+      },
+      {
+        "token": "counterpoise",
+        "sim": 0.6039443016052246
+      },
+      {
+        "token": "dislocation",
+        "sim": 0.6034090518951416
+      },
+      {
+        "token": "molding",
+        "sim": 0.6030460596084595
+      },
+      {
+        "token": "stimulations",
+        "sim": 0.6024137139320374
+      },
+      {
+        "token": "atomic",
+        "sim": 0.6005586385726929
+      },
+      {
+        "token": "generate",
+        "sim": 0.6004635691642761
+      },
+      {
+        "token": "respiratory",
+        "sim": 0.6001563668251038
+      },
+      {
+        "token": "refraction",
+        "sim": 0.5975323915481567
+      },
+      {
+        "token": "radioactive",
+        "sim": 0.5972024202346802
+      },
+      {
+        "token": "testes",
+        "sim": 0.5967424511909485
+      },
+      {
+        "token": "alignment",
+        "sim": 0.5965973138809204
+      },
+      {
+        "token": "transmit",
+        "sim": 0.5958089828491211
+      },
+      {
+        "token": "computation",
+        "sim": 0.595644474029541
+      }
+    ]
+  }
+}

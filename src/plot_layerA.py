@@ -35,17 +35,34 @@ def plot_metric(
     out_path: Path,
     min_hits: int = 3,
 ):
-    plt.figure()
-    for c in concepts:
+    # 20个离散色（不重复），若 concepts > 20 也不会报错，只是会接近
+    cmap = plt.cm.get_cmap("tab20", len(concepts))
+
+    plt.figure(figsize=(10, 6))
+    for i, c in enumerate(concepts):
         tmp = filter_for_plot(df, c, min_hits=min_hits)
-        plt.plot(tmp["decade"], tmp[ycol], marker="o", label=c)
+        if tmp.empty or ycol not in tmp.columns:
+            continue
+        plt.plot(
+            tmp["decade"],
+            tmp[ycol],
+            marker="o",
+            label=c,
+            color=cmap(i),
+            linewidth=2,
+            markersize=5,
+        )
 
     plt.axhline(0, linewidth=1)
     plt.xlabel("Decade")
     plt.ylabel(ycol.replace("_", " "))
     plt.title(title)
-    plt.legend()
+
+    # legend 放到图外，避免遮挡线条
+    plt.legend(bbox_to_anchor=(1.02, 1), loc="upper left", borderaxespad=0)
+
     out_path.parent.mkdir(parents=True, exist_ok=True)
+    plt.tight_layout()
     plt.savefig(out_path, dpi=200, bbox_inches="tight")
     plt.close()
 
@@ -58,7 +75,7 @@ def main():
 
     df = load_df(csv_path)
 
-    concepts = ["nuclear", "gmo", "phone_social", "ai"]
+    concepts = ['nuclear', 'gmo', 'phone_social', 'ai', 'television', 'internet', 'online_shopping', 'antibiotics', 'vaccination', 'insulin', 'stainless_steel', 'radar', 'radio', 'automation_control']
 
     # 1) sentiment
     plot_metric(

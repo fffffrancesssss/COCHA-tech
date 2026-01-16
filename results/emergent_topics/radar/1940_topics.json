@@ -1,0 +1,825 @@
+{
+  "decade": 1940,
+  "concept": "radar",
+  "concept_hits": 4,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 7,
+  "silhouette": 0.07017591595649719,
+  "clusters": {
+    "0": [
+      {
+        "token": "transmitter",
+        "sim": 0.7955631017684937
+      },
+      {
+        "token": "receiver",
+        "sim": 0.7284842729568481
+      },
+      {
+        "token": "teletype",
+        "sim": 0.622786283493042
+      },
+      {
+        "token": "dials",
+        "sim": 0.6023941040039062
+      },
+      {
+        "token": "loudspeaker",
+        "sim": 0.5760608911514282
+      },
+      {
+        "token": "radio",
+        "sim": 0.5717419385910034
+      },
+      {
+        "token": "phones",
+        "sim": 0.5628191232681274
+      },
+      {
+        "token": "tele",
+        "sim": 0.5422897338867188
+      },
+      {
+        "token": "television",
+        "sim": 0.5385961532592773
+      },
+      {
+        "token": "dialing",
+        "sim": 0.5375804901123047
+      },
+      {
+        "token": "microphone",
+        "sim": 0.5257850885391235
+      },
+      {
+        "token": "operator",
+        "sim": 0.5074295401573181
+      },
+      {
+        "token": "dial",
+        "sim": 0.505405604839325
+      },
+      {
+        "token": "microphones",
+        "sim": 0.5047006011009216
+      },
+      {
+        "token": "receivers",
+        "sim": 0.503106951713562
+      },
+      {
+        "token": "switchboard",
+        "sim": 0.5016921758651733
+      },
+      {
+        "token": "telephone",
+        "sim": 0.49991318583488464
+      },
+      {
+        "token": "tuning",
+        "sim": 0.4979872703552246
+      },
+      {
+        "token": "phone",
+        "sim": 0.4918072819709778
+      },
+      {
+        "token": "dialed",
+        "sim": 0.4826548993587494
+      },
+      {
+        "token": "tuned",
+        "sim": 0.4795244336128235
+      },
+      {
+        "token": "wnyc",
+        "sim": 0.4701833426952362
+      },
+      {
+        "token": "rca",
+        "sim": 0.46573808789253235
+      },
+      {
+        "token": "wires",
+        "sim": 0.46573424339294434
+      }
+    ],
+    "4": [
+      {
+        "token": "antenna",
+        "sim": 0.7423480153083801
+      },
+      {
+        "token": "amplifier",
+        "sim": 0.6352882981300354
+      },
+      {
+        "token": "ailerons",
+        "sim": 0.5903956294059753
+      },
+      {
+        "token": "grid",
+        "sim": 0.5533531904220581
+      },
+      {
+        "token": "ignition",
+        "sim": 0.5311982035636902
+      },
+      {
+        "token": "diaphragm",
+        "sim": 0.5281398296356201
+      },
+      {
+        "token": "turbine",
+        "sim": 0.5260322690010071
+      },
+      {
+        "token": "refrigerating",
+        "sim": 0.5218645930290222
+      },
+      {
+        "token": "plugs",
+        "sim": 0.518692672252655
+      },
+      {
+        "token": "filters",
+        "sim": 0.5174062252044678
+      },
+      {
+        "token": "rudders",
+        "sim": 0.5061934590339661
+      },
+      {
+        "token": "turbines",
+        "sim": 0.5020825862884521
+      },
+      {
+        "token": "tubing",
+        "sim": 0.49417662620544434
+      },
+      {
+        "token": "electrically",
+        "sim": 0.49344292283058167
+      },
+      {
+        "token": "gauges",
+        "sim": 0.49249401688575745
+      },
+      {
+        "token": "cyclotron",
+        "sim": 0.488322913646698
+      },
+      {
+        "token": "piston",
+        "sim": 0.48634815216064453
+      },
+      {
+        "token": "tube",
+        "sim": 0.4862927496433258
+      },
+      {
+        "token": "wiring",
+        "sim": 0.48550671339035034
+      },
+      {
+        "token": "nitro",
+        "sim": 0.4819246530532837
+      },
+      {
+        "token": "suction",
+        "sim": 0.48112472891807556
+      },
+      {
+        "token": "magnets",
+        "sim": 0.4746900796890259
+      },
+      {
+        "token": "tubes",
+        "sim": 0.47436270117759705
+      },
+      {
+        "token": "electronic",
+        "sim": 0.4723537862300873
+      },
+      {
+        "token": "rifling",
+        "sim": 0.47164714336395264
+      },
+      {
+        "token": "blower",
+        "sim": 0.4713410437107086
+      },
+      {
+        "token": "carburetor",
+        "sim": 0.46835798025131226
+      },
+      {
+        "token": "synchronized",
+        "sim": 0.46780726313591003
+      },
+      {
+        "token": "electro",
+        "sim": 0.4661344587802887
+      },
+      {
+        "token": "fuse",
+        "sim": 0.4654676020145416
+      },
+      {
+        "token": "vibrations",
+        "sim": 0.46384507417678833
+      },
+      {
+        "token": "auricle",
+        "sim": 0.4635067582130432
+      },
+      {
+        "token": "separator",
+        "sim": 0.458048552274704
+      },
+      {
+        "token": "ventilating",
+        "sim": 0.45763441920280457
+      }
+    ],
+    "6": [
+      {
+        "token": "radar",
+        "sim": 0.6865361928939819
+      },
+      {
+        "token": "amplifiers",
+        "sim": 0.6674376130104065
+      },
+      {
+        "token": "radiotelephone",
+        "sim": 0.6308280229568481
+      },
+      {
+        "token": "transmitters",
+        "sim": 0.604353129863739
+      },
+      {
+        "token": "fm",
+        "sim": 0.5874903798103333
+      },
+      {
+        "token": "telephony",
+        "sim": 0.585987389087677
+      },
+      {
+        "token": "directional",
+        "sim": 0.5764262676239014
+      },
+      {
+        "token": "shortwave",
+        "sim": 0.5432113409042358
+      },
+      {
+        "token": "projectors",
+        "sim": 0.5374923944473267
+      },
+      {
+        "token": "modulation",
+        "sim": 0.5274296998977661
+      },
+      {
+        "token": "airway",
+        "sim": 0.5108956694602966
+      },
+      {
+        "token": "relay",
+        "sim": 0.5090319514274597
+      },
+      {
+        "token": "circuits",
+        "sim": 0.5054986476898193
+      },
+      {
+        "token": "philco",
+        "sim": 0.5042036771774292
+      },
+      {
+        "token": "switchboards",
+        "sim": 0.5003477931022644
+      },
+      {
+        "token": "signaling",
+        "sim": 0.4933622181415558
+      },
+      {
+        "token": "detector",
+        "sim": 0.4909321665763855
+      },
+      {
+        "token": "audion",
+        "sim": 0.4831567406654358
+      },
+      {
+        "token": "telephonic",
+        "sim": 0.47661885619163513
+      },
+      {
+        "token": "transmissions",
+        "sim": 0.47543400526046753
+      },
+      {
+        "token": "transoceanic",
+        "sim": 0.4752997159957886
+      },
+      {
+        "token": "frequencies",
+        "sim": 0.4722196161746979
+      },
+      {
+        "token": "transcriptions",
+        "sim": 0.4698985517024994
+      },
+      {
+        "token": "finders",
+        "sim": 0.46126049757003784
+      },
+      {
+        "token": "relays",
+        "sim": 0.457530677318573
+      }
+    ],
+    "1": [
+      {
+        "token": "magneto",
+        "sim": 0.6316533088684082
+      },
+      {
+        "token": "anode",
+        "sim": 0.5809654593467712
+      },
+      {
+        "token": "interrupter",
+        "sim": 0.5701125860214233
+      },
+      {
+        "token": "rectifier",
+        "sim": 0.5649077892303467
+      },
+      {
+        "token": "transformer",
+        "sim": 0.5568304061889648
+      },
+      {
+        "token": "polyphase",
+        "sim": 0.5531908273696899
+      },
+      {
+        "token": "volt",
+        "sim": 0.5525091290473938
+      },
+      {
+        "token": "generators",
+        "sim": 0.5477221012115479
+      },
+      {
+        "token": "rotor",
+        "sim": 0.542568564414978
+      },
+      {
+        "token": "generator",
+        "sim": 0.5410093069076538
+      },
+      {
+        "token": "wavemeter",
+        "sim": 0.537427544593811
+      },
+      {
+        "token": "voltages",
+        "sim": 0.5334103107452393
+      },
+      {
+        "token": "alternator",
+        "sim": 0.5311912894248962
+      },
+      {
+        "token": "converter",
+        "sim": 0.5271635055541992
+      },
+      {
+        "token": "synchronous",
+        "sim": 0.5265086889266968
+      },
+      {
+        "token": "synchronism",
+        "sim": 0.5254554748535156
+      },
+      {
+        "token": "electrodes",
+        "sim": 0.5247846841812134
+      },
+      {
+        "token": "rheostat",
+        "sim": 0.5245153903961182
+      },
+      {
+        "token": "alternators",
+        "sim": 0.5197993516921997
+      },
+      {
+        "token": "transformers",
+        "sim": 0.5180139541625977
+      },
+      {
+        "token": "exciter",
+        "sim": 0.5162962079048157
+      },
+      {
+        "token": "exciters",
+        "sim": 0.515258252620697
+      },
+      {
+        "token": "commutator",
+        "sim": 0.5126739144325256
+      },
+      {
+        "token": "amperes",
+        "sim": 0.5086236000061035
+      },
+      {
+        "token": "condenser",
+        "sim": 0.5051525235176086
+      },
+      {
+        "token": "amplification",
+        "sim": 0.4945698082447052
+      },
+      {
+        "token": "voltage",
+        "sim": 0.4943106174468994
+      },
+      {
+        "token": "subsecond",
+        "sim": 0.494038850069046
+      },
+      {
+        "token": "stator",
+        "sim": 0.4926576018333435
+      },
+      {
+        "token": "deflection",
+        "sim": 0.48958611488342285
+      },
+      {
+        "token": "regulator",
+        "sim": 0.4809129238128662
+      },
+      {
+        "token": "electrode",
+        "sim": 0.4754023551940918
+      },
+      {
+        "token": "indicators",
+        "sim": 0.4679463505744934
+      },
+      {
+        "token": "armature",
+        "sim": 0.464588463306427
+      },
+      {
+        "token": "kw",
+        "sim": 0.46155059337615967
+      },
+      {
+        "token": "decrement",
+        "sim": 0.46123743057250977
+      },
+      {
+        "token": "lumen",
+        "sim": 0.456391841173172
+      }
+    ],
+    "5": [
+      {
+        "token": "earphones",
+        "sim": 0.6258971691131592
+      },
+      {
+        "token": "menore",
+        "sim": 0.6074526309967041
+      },
+      {
+        "token": "dictaphone",
+        "sim": 0.5669646263122559
+      },
+      {
+        "token": "tripod",
+        "sim": 0.5380251407623291
+      },
+      {
+        "token": "speedometer",
+        "sim": 0.5286070108413696
+      },
+      {
+        "token": "ventilator",
+        "sim": 0.51435387134552
+      },
+      {
+        "token": "nozzle",
+        "sim": 0.5129437446594238
+      },
+      {
+        "token": "headlight",
+        "sim": 0.510854184627533
+      },
+      {
+        "token": "pulleys",
+        "sim": 0.5094887614250183
+      },
+      {
+        "token": "stethoscope",
+        "sim": 0.5046025514602661
+      },
+      {
+        "token": "windlass",
+        "sim": 0.5044384598731995
+      },
+      {
+        "token": "dictograph",
+        "sim": 0.49693673849105835
+      },
+      {
+        "token": "portable",
+        "sim": 0.4928460121154785
+      },
+      {
+        "token": "scoops",
+        "sim": 0.48618778586387634
+      },
+      {
+        "token": "gadget",
+        "sim": 0.48545870184898376
+      },
+      {
+        "token": "clacking",
+        "sim": 0.4819636046886444
+      },
+      {
+        "token": "nippers",
+        "sim": 0.47552746534347534
+      },
+      {
+        "token": "dashboard",
+        "sim": 0.47268104553222656
+      },
+      {
+        "token": "signalling",
+        "sim": 0.46530696749687195
+      },
+      {
+        "token": "manhole",
+        "sim": 0.4647062122821808
+      },
+      {
+        "token": "pulley",
+        "sim": 0.4630899131298065
+      },
+      {
+        "token": "victrola",
+        "sim": 0.46283790469169617
+      },
+      {
+        "token": "socket",
+        "sim": 0.4623616933822632
+      },
+      {
+        "token": "shutter",
+        "sim": 0.46184027194976807
+      },
+      {
+        "token": "stencil",
+        "sim": 0.4605869948863983
+      },
+      {
+        "token": "scalpel",
+        "sim": 0.4599238634109497
+      },
+      {
+        "token": "whirred",
+        "sim": 0.4598539173603058
+      },
+      {
+        "token": "typewriter",
+        "sim": 0.4593288004398346
+      },
+      {
+        "token": "reticule",
+        "sim": 0.4566469192504883
+      },
+      {
+        "token": "buzzer",
+        "sim": 0.4564424753189087
+      }
+    ],
+    "2": [
+      {
+        "token": "projector",
+        "sim": 0.5571162700653076
+      },
+      {
+        "token": "finder",
+        "sim": 0.5503293871879578
+      },
+      {
+        "token": "helicopter",
+        "sim": 0.5421847105026245
+      },
+      {
+        "token": "disintegrator",
+        "sim": 0.52440345287323
+      },
+      {
+        "token": "periscope",
+        "sim": 0.5200919508934021
+      },
+      {
+        "token": "altimeter",
+        "sim": 0.5192641019821167
+      },
+      {
+        "token": "swooper",
+        "sim": 0.5098578929901123
+      },
+      {
+        "token": "turret",
+        "sim": 0.5068060755729675
+      },
+      {
+        "token": "catapult",
+        "sim": 0.5052812099456787
+      },
+      {
+        "token": "bombardier",
+        "sim": 0.5035442113876343
+      },
+      {
+        "token": "submachine",
+        "sim": 0.5002778768539429
+      },
+      {
+        "token": "interceptor",
+        "sim": 0.4990771412849426
+      },
+      {
+        "token": "dirigibles",
+        "sim": 0.498807430267334
+      },
+      {
+        "token": "bb",
+        "sim": 0.492834210395813
+      },
+      {
+        "token": "firearm",
+        "sim": 0.4918120801448822
+      },
+      {
+        "token": "offenhauser",
+        "sim": 0.4896793067455292
+      },
+      {
+        "token": "craglevin",
+        "sim": 0.4846566617488861
+      },
+      {
+        "token": "harpoon",
+        "sim": 0.4839192032814026
+      },
+      {
+        "token": "takeoff",
+        "sim": 0.4741135835647583
+      },
+      {
+        "token": "searchlights",
+        "sim": 0.47182559967041016
+      },
+      {
+        "token": "robot",
+        "sim": 0.4707911014556885
+      },
+      {
+        "token": "gasolene",
+        "sim": 0.4702795743942261
+      },
+      {
+        "token": "batteries",
+        "sim": 0.46735072135925293
+      },
+      {
+        "token": "searchlight",
+        "sim": 0.46334773302078247
+      },
+      {
+        "token": "millimeter",
+        "sim": 0.46006307005882263
+      },
+      {
+        "token": "copilot",
+        "sim": 0.45685774087905884
+      },
+      {
+        "token": "projectile",
+        "sim": 0.45588618516921997
+      },
+      {
+        "token": "cp",
+        "sim": 0.45540159940719604
+      }
+    ],
+    "3": [
+      {
+        "token": "photometer",
+        "sim": 0.5505124926567078
+      },
+      {
+        "token": "cathode",
+        "sim": 0.5297021865844727
+      },
+      {
+        "token": "photoelectric",
+        "sim": 0.5284579992294312
+      },
+      {
+        "token": "wavelength",
+        "sim": 0.5255610346794128
+      },
+      {
+        "token": "luminaire",
+        "sim": 0.5147172808647156
+      },
+      {
+        "token": "bulb",
+        "sim": 0.5029549598693848
+      },
+      {
+        "token": "lens",
+        "sim": 0.5028113126754761
+      },
+      {
+        "token": "ionosphere",
+        "sim": 0.5026217103004456
+      },
+      {
+        "token": "spectrograph",
+        "sim": 0.4846663177013397
+      },
+      {
+        "token": "beam",
+        "sim": 0.48263922333717346
+      },
+      {
+        "token": "polymer",
+        "sim": 0.4778730869293213
+      },
+      {
+        "token": "spectroscope",
+        "sim": 0.47633886337280273
+      },
+      {
+        "token": "filament",
+        "sim": 0.4755555987358093
+      },
+      {
+        "token": "fluorescent",
+        "sim": 0.4709028899669647
+      },
+      {
+        "token": "prism",
+        "sim": 0.4678642153739929
+      },
+      {
+        "token": "reflector",
+        "sim": 0.46719789505004883
+      },
+      {
+        "token": "lobe",
+        "sim": 0.4658372700214386
+      },
+      {
+        "token": "invisibility",
+        "sim": 0.4649156332015991
+      },
+      {
+        "token": "orifice",
+        "sim": 0.46080857515335083
+      },
+      {
+        "token": "striate",
+        "sim": 0.45704591274261475
+      },
+      {
+        "token": "angstroms",
+        "sim": 0.4562956988811493
+      },
+      {
+        "token": "asteroid",
+        "sim": 0.456287145614624
+      }
+    ]
+  }
+}

@@ -1,0 +1,827 @@
+{
+  "decade": 2010,
+  "concept": "online_shopping",
+  "concept_hits": 3,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 8,
+  "silhouette": 0.0688835084438324,
+  "clusters": {
+    "6": [
+      {
+        "token": "paypal",
+        "sim": 0.8055442571640015
+      },
+      {
+        "token": "instacart",
+        "sim": 0.6354675889015198
+      },
+      {
+        "token": "venmo",
+        "sim": 0.616861879825592
+      },
+      {
+        "token": "expedia",
+        "sim": 0.6150265336036682
+      },
+      {
+        "token": "levelup",
+        "sim": 0.6041725873947144
+      },
+      {
+        "token": "beepi",
+        "sim": 0.5961579084396362
+      },
+      {
+        "token": "livingsocial",
+        "sim": 0.5916308164596558
+      },
+      {
+        "token": "alipay",
+        "sim": 0.5916004776954651
+      },
+      {
+        "token": "priceline",
+        "sim": 0.5871761441230774
+      },
+      {
+        "token": "taskrabbit",
+        "sim": 0.572075366973877
+      },
+      {
+        "token": "homeaway",
+        "sim": 0.5720498561859131
+      },
+      {
+        "token": "grubhub",
+        "sim": 0.5599438548088074
+      },
+      {
+        "token": "doordash",
+        "sim": 0.5552119016647339
+      },
+      {
+        "token": "postmates",
+        "sim": 0.5537070631980896
+      },
+      {
+        "token": "orbitz",
+        "sim": 0.5513175129890442
+      },
+      {
+        "token": "mastercard",
+        "sim": 0.5442091822624207
+      },
+      {
+        "token": "airbnb",
+        "sim": 0.540083646774292
+      },
+      {
+        "token": "debit",
+        "sim": 0.5320473909378052
+      },
+      {
+        "token": "paypass",
+        "sim": 0.5310771465301514
+      },
+      {
+        "token": "reseller",
+        "sim": 0.5285234451293945
+      }
+    ],
+    "7": [
+      {
+        "token": "amazon",
+        "sim": 0.7923507690429688
+      },
+      {
+        "token": "smashwords",
+        "sim": 0.6288170218467712
+      },
+      {
+        "token": "ebay",
+        "sim": 0.6269097328186035
+      },
+      {
+        "token": "amzn",
+        "sim": 0.625129759311676
+      },
+      {
+        "token": "spotify",
+        "sim": 0.6158806085586548
+      },
+      {
+        "token": "ebook",
+        "sim": 0.5738309621810913
+      },
+      {
+        "token": "kobo",
+        "sim": 0.5701051354408264
+      },
+      {
+        "token": "netflix",
+        "sim": 0.546197235584259
+      },
+      {
+        "token": "etsy",
+        "sim": 0.5450558066368103
+      },
+      {
+        "token": "hulu",
+        "sim": 0.5449652075767517
+      }
+    ],
+    "4": [
+      {
+        "token": "ecommerce",
+        "sim": 0.7921749353408813
+      },
+      {
+        "token": "salesforce",
+        "sim": 0.624705970287323
+      },
+      {
+        "token": "deligram",
+        "sim": 0.6199231743812561
+      },
+      {
+        "token": "lazada",
+        "sim": 0.607718288898468
+      },
+      {
+        "token": "branchout",
+        "sim": 0.600628137588501
+      },
+      {
+        "token": "flipkart",
+        "sim": 0.5950624346733093
+      },
+      {
+        "token": "admob",
+        "sim": 0.5915786623954773
+      },
+      {
+        "token": "taobao",
+        "sim": 0.5895715951919556
+      },
+      {
+        "token": "sparefoot",
+        "sim": 0.5831875801086426
+      },
+      {
+        "token": "webtrends",
+        "sim": 0.5829594135284424
+      },
+      {
+        "token": "gaikai",
+        "sim": 0.5828031301498413
+      },
+      {
+        "token": "hipmunk",
+        "sim": 0.5822011232376099
+      },
+      {
+        "token": "omnichannel",
+        "sim": 0.5799486637115479
+      },
+      {
+        "token": "rackspace",
+        "sim": 0.5742365121841431
+      },
+      {
+        "token": "zoosk",
+        "sim": 0.5721948146820068
+      },
+      {
+        "token": "bytedance",
+        "sim": 0.5717610716819763
+      },
+      {
+        "token": "marketo",
+        "sim": 0.5703179836273193
+      },
+      {
+        "token": "shopkick",
+        "sim": 0.5680661797523499
+      },
+      {
+        "token": "fundrise",
+        "sim": 0.5674200654029846
+      },
+      {
+        "token": "farfetch",
+        "sim": 0.5641474723815918
+      },
+      {
+        "token": "navteq",
+        "sim": 0.5621665716171265
+      },
+      {
+        "token": "pinduoduo",
+        "sim": 0.5613024830818176
+      },
+      {
+        "token": "saas",
+        "sim": 0.5608078241348267
+      },
+      {
+        "token": "secondmarket",
+        "sim": 0.5600733757019043
+      },
+      {
+        "token": "twilio",
+        "sim": 0.5599068403244019
+      },
+      {
+        "token": "googl",
+        "sim": 0.5575529932975769
+      },
+      {
+        "token": "gogobot",
+        "sim": 0.5565335750579834
+      },
+      {
+        "token": "microsoft",
+        "sim": 0.5508347749710083
+      },
+      {
+        "token": "mobile",
+        "sim": 0.5492758750915527
+      },
+      {
+        "token": "goog",
+        "sim": 0.5428525805473328
+      },
+      {
+        "token": "doubleclick",
+        "sim": 0.5425894856452942
+      },
+      {
+        "token": "angellist",
+        "sim": 0.5373797416687012
+      },
+      {
+        "token": "iaas",
+        "sim": 0.536510169506073
+      },
+      {
+        "token": "netease",
+        "sim": 0.5324732065200806
+      },
+      {
+        "token": "tiktok",
+        "sim": 0.5315265655517578
+      },
+      {
+        "token": "resy",
+        "sim": 0.5313034057617188
+      },
+      {
+        "token": "tencent",
+        "sim": 0.5306205749511719
+      }
+    ],
+    "1": [
+      {
+        "token": "clickbank",
+        "sim": 0.6476120948791504
+      },
+      {
+        "token": "ebates",
+        "sim": 0.6296378374099731
+      },
+      {
+        "token": "nextworth",
+        "sim": 0.6053978800773621
+      },
+      {
+        "token": "zazzle",
+        "sim": 0.604981541633606
+      },
+      {
+        "token": "vistaprint",
+        "sim": 0.5964081883430481
+      },
+      {
+        "token": "snapfish",
+        "sim": 0.5877892971038818
+      },
+      {
+        "token": "songkick",
+        "sim": 0.5849003791809082
+      },
+      {
+        "token": "coursesmart",
+        "sim": 0.5839852690696716
+      },
+      {
+        "token": "shutterfly",
+        "sim": 0.5819025039672852
+      },
+      {
+        "token": "zendesk",
+        "sim": 0.5801082253456116
+      },
+      {
+        "token": "abine",
+        "sim": 0.5781797170639038
+      },
+      {
+        "token": "eventbrite",
+        "sim": 0.5741233825683594
+      },
+      {
+        "token": "kissmetrics",
+        "sim": 0.573575496673584
+      },
+      {
+        "token": "youku",
+        "sim": 0.5687766075134277
+      },
+      {
+        "token": "chartbeat",
+        "sim": 0.563449501991272
+      },
+      {
+        "token": "microsite",
+        "sim": 0.5630518198013306
+      },
+      {
+        "token": "abebooks",
+        "sim": 0.5612170696258545
+      },
+      {
+        "token": "airfarewatchdog",
+        "sim": 0.5570774078369141
+      },
+      {
+        "token": "fundable",
+        "sim": 0.555452823638916
+      },
+      {
+        "token": "elance",
+        "sim": 0.5554463863372803
+      },
+      {
+        "token": "automattic",
+        "sim": 0.5552282333374023
+      },
+      {
+        "token": "startpage",
+        "sim": 0.5548969507217407
+      },
+      {
+        "token": "shapeways",
+        "sim": 0.5542237758636475
+      },
+      {
+        "token": "skyscanner",
+        "sim": 0.5523579120635986
+      },
+      {
+        "token": "zocdoc",
+        "sim": 0.5519809126853943
+      },
+      {
+        "token": "lifelock",
+        "sim": 0.5490446090698242
+      },
+      {
+        "token": "autotrader",
+        "sim": 0.5473126769065857
+      },
+      {
+        "token": "retailmenot",
+        "sim": 0.5464791059494019
+      },
+      {
+        "token": "yandex",
+        "sim": 0.5461175441741943
+      },
+      {
+        "token": "online",
+        "sim": 0.5453827381134033
+      },
+      {
+        "token": "zite",
+        "sim": 0.544879138469696
+      },
+      {
+        "token": "citysearch",
+        "sim": 0.5447084903717041
+      },
+      {
+        "token": "barnesandnoble",
+        "sim": 0.5430141687393188
+      },
+      {
+        "token": "odesk",
+        "sim": 0.5410899519920349
+      },
+      {
+        "token": "indiebound",
+        "sim": 0.5402397513389587
+      },
+      {
+        "token": "youcaring",
+        "sim": 0.5395524501800537
+      },
+      {
+        "token": "scribd",
+        "sim": 0.5383227467536926
+      },
+      {
+        "token": "duckduckgo",
+        "sim": 0.5382418036460876
+      },
+      {
+        "token": "weebly",
+        "sim": 0.538225531578064
+      },
+      {
+        "token": "fooducate",
+        "sim": 0.5339153409004211
+      },
+      {
+        "token": "getglue",
+        "sim": 0.5327466130256653
+      },
+      {
+        "token": "sitepoint",
+        "sim": 0.5325661897659302
+      },
+      {
+        "token": "duolingo",
+        "sim": 0.5299826264381409
+      },
+      {
+        "token": "bestparking",
+        "sim": 0.5295839309692383
+      }
+    ],
+    "3": [
+      {
+        "token": "newegg",
+        "sim": 0.6365829110145569
+      },
+      {
+        "token": "appstore",
+        "sim": 0.616576075553894
+      },
+      {
+        "token": "itunes",
+        "sim": 0.5955228805541992
+      },
+      {
+        "token": "ibookstore",
+        "sim": 0.5748078227043152
+      },
+      {
+        "token": "rdio",
+        "sim": 0.5699402689933777
+      },
+      {
+        "token": "waterstones",
+        "sim": 0.5572781562805176
+      },
+      {
+        "token": "zinio",
+        "sim": 0.553412675857544
+      },
+      {
+        "token": "fictionwise",
+        "sim": 0.5489047169685364
+      },
+      {
+        "token": "ibooks",
+        "sim": 0.5468175411224365
+      },
+      {
+        "token": "preorder",
+        "sim": 0.5460305213928223
+      },
+      {
+        "token": "tailer",
+        "sim": 0.5412971377372742
+      },
+      {
+        "token": "comixology",
+        "sim": 0.5402122139930725
+      },
+      {
+        "token": "vudu",
+        "sim": 0.5326396226882935
+      },
+      {
+        "token": "whispersync",
+        "sim": 0.5317796468734741
+      },
+      {
+        "token": "bestbuy",
+        "sim": 0.5288211703300476
+      }
+    ],
+    "0": [
+      {
+        "token": "dropbox",
+        "sim": 0.6320923566818237
+      },
+      {
+        "token": "dwolla",
+        "sim": 0.628929615020752
+      },
+      {
+        "token": "viber",
+        "sim": 0.608573317527771
+      },
+      {
+        "token": "flipboard",
+        "sim": 0.6022725701332092
+      },
+      {
+        "token": "wepay",
+        "sim": 0.596755862236023
+      },
+      {
+        "token": "mailchimp",
+        "sim": 0.5957196354866028
+      },
+      {
+        "token": "edocr",
+        "sim": 0.591748833656311
+      },
+      {
+        "token": "hostgator",
+        "sim": 0.5874053239822388
+      },
+      {
+        "token": "bluehost",
+        "sim": 0.5855745673179626
+      },
+      {
+        "token": "fiverr",
+        "sim": 0.5855357050895691
+      },
+      {
+        "token": "gowalla",
+        "sim": 0.5841920375823975
+      },
+      {
+        "token": "webmail",
+        "sim": 0.5831931829452515
+      },
+      {
+        "token": "flattr",
+        "sim": 0.5696473121643066
+      },
+      {
+        "token": "icloud",
+        "sim": 0.5663011074066162
+      },
+      {
+        "token": "opendns",
+        "sim": 0.5602489709854126
+      },
+      {
+        "token": "freshbooks",
+        "sim": 0.5584771633148193
+      },
+      {
+        "token": "micropayments",
+        "sim": 0.557929277420044
+      },
+      {
+        "token": "mobileme",
+        "sim": 0.5568422675132751
+      },
+      {
+        "token": "heroku",
+        "sim": 0.5535280108451843
+      },
+      {
+        "token": "openid",
+        "sim": 0.5535200834274292
+      },
+      {
+        "token": "netvibes",
+        "sim": 0.5531079769134521
+      },
+      {
+        "token": "wufoo",
+        "sim": 0.5522235631942749
+      },
+      {
+        "token": "onedrive",
+        "sim": 0.5517465472221375
+      },
+      {
+        "token": "bugmenot",
+        "sim": 0.5502374172210693
+      },
+      {
+        "token": "squarespace",
+        "sim": 0.5498665571212769
+      },
+      {
+        "token": "aweber",
+        "sim": 0.5491933822631836
+      },
+      {
+        "token": "linkedln",
+        "sim": 0.5473164319992065
+      },
+      {
+        "token": "feedblitz",
+        "sim": 0.5468576550483704
+      },
+      {
+        "token": "whispercast",
+        "sim": 0.544309675693512
+      },
+      {
+        "token": "sugarsync",
+        "sim": 0.5407602190971375
+      },
+      {
+        "token": "trello",
+        "sim": 0.540424108505249
+      },
+      {
+        "token": "lastpass",
+        "sim": 0.5400248169898987
+      },
+      {
+        "token": "magento",
+        "sim": 0.5381603837013245
+      },
+      {
+        "token": "remarketing",
+        "sim": 0.5329146981239319
+      },
+      {
+        "token": "webhosting",
+        "sim": 0.5325772762298584
+      },
+      {
+        "token": "passbook",
+        "sim": 0.5319210886955261
+      },
+      {
+        "token": "wishlists",
+        "sim": 0.5318224430084229
+      },
+      {
+        "token": "rapidshare",
+        "sim": 0.5312210321426392
+      },
+      {
+        "token": "typekit",
+        "sim": 0.5299032926559448
+      },
+      {
+        "token": "addthis",
+        "sim": 0.5284087657928467
+      }
+    ],
+    "2": [
+      {
+        "token": "groupon",
+        "sim": 0.6253247261047363
+      },
+      {
+        "token": "retailer",
+        "sim": 0.5987645387649536
+      },
+      {
+        "token": "carvana",
+        "sim": 0.5804416537284851
+      },
+      {
+        "token": "alibaba",
+        "sim": 0.5793308019638062
+      },
+      {
+        "token": "zappos",
+        "sim": 0.5738988518714905
+      },
+      {
+        "token": "retailers",
+        "sim": 0.5737217664718628
+      },
+      {
+        "token": "overstock",
+        "sim": 0.5734343528747559
+      },
+      {
+        "token": "wmt",
+        "sim": 0.5647788643836975
+      },
+      {
+        "token": "cafepress",
+        "sim": 0.5637868642807007
+      },
+      {
+        "token": "freshdirect",
+        "sim": 0.5489457249641418
+      },
+      {
+        "token": "vitacost",
+        "sim": 0.548143744468689
+      },
+      {
+        "token": "tailers",
+        "sim": 0.5464581251144409
+      },
+      {
+        "token": "asda",
+        "sim": 0.5445441007614136
+      },
+      {
+        "token": "walmart",
+        "sim": 0.5437130331993103
+      },
+      {
+        "token": "homeadvisor",
+        "sim": 0.5406849384307861
+      },
+      {
+        "token": "menards",
+        "sim": 0.536769449710846
+      },
+      {
+        "token": "tesco",
+        "sim": 0.5353752970695496
+      },
+      {
+        "token": "brandless",
+        "sim": 0.5317713618278503
+      },
+      {
+        "token": "carphone",
+        "sim": 0.5314772129058838
+      }
+    ],
+    "5": [
+      {
+        "token": "google",
+        "sim": 0.6200566291809082
+      },
+      {
+        "token": "shopify",
+        "sim": 0.6065890192985535
+      },
+      {
+        "token": "adwords",
+        "sim": 0.6004660129547119
+      },
+      {
+        "token": "linkedin",
+        "sim": 0.5735854506492615
+      },
+      {
+        "token": "adsense",
+        "sim": 0.5718356370925903
+      },
+      {
+        "token": "facebook",
+        "sim": 0.57108473777771
+      },
+      {
+        "token": "godaddy",
+        "sim": 0.560378909111023
+      },
+      {
+        "token": "hubspot",
+        "sim": 0.5582764744758606
+      },
+      {
+        "token": "indiegogo",
+        "sim": 0.5542937517166138
+      },
+      {
+        "token": "whatsapp",
+        "sim": 0.5444300174713135
+      },
+      {
+        "token": "yahoo",
+        "sim": 0.5392090082168579
+      },
+      {
+        "token": "pinterest",
+        "sim": 0.5325090885162354
+      },
+      {
+        "token": "hootsuite",
+        "sim": 0.5319087505340576
+      },
+      {
+        "token": "stumbleupon",
+        "sim": 0.5303367376327515
+      },
+      {
+        "token": "kickstarter",
+        "sim": 0.5285148620605469
+      }
+    ]
+  }
+}

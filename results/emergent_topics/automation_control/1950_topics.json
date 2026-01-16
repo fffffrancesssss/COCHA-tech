@@ -1,0 +1,823 @@
+{
+  "decade": 1950,
+  "concept": "automation_control",
+  "concept_hits": 4,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.04925822094082832,
+  "clusters": {
+    "5": [
+      {
+        "token": "machine",
+        "sim": 0.7678729891777039
+      },
+      {
+        "token": "robot",
+        "sim": 0.6642777919769287
+      },
+      {
+        "token": "calculator",
+        "sim": 0.5997494459152222
+      },
+      {
+        "token": "electronic",
+        "sim": 0.5928307771682739
+      },
+      {
+        "token": "ibm",
+        "sim": 0.5899941325187683
+      },
+      {
+        "token": "computers",
+        "sim": 0.5787209272384644
+      },
+      {
+        "token": "computer",
+        "sim": 0.549584150314331
+      },
+      {
+        "token": "transistor",
+        "sim": 0.5356442928314209
+      },
+      {
+        "token": "apparatus",
+        "sim": 0.5332651734352112
+      },
+      {
+        "token": "calculators",
+        "sim": 0.5128750801086426
+      },
+      {
+        "token": "mechanical",
+        "sim": 0.5119211077690125
+      },
+      {
+        "token": "automatic",
+        "sim": 0.5105142593383789
+      },
+      {
+        "token": "gadget",
+        "sim": 0.501768171787262
+      },
+      {
+        "token": "precon",
+        "sim": 0.4943692088127136
+      },
+      {
+        "token": "microscopes",
+        "sim": 0.4934893250465393
+      },
+      {
+        "token": "devices",
+        "sim": 0.49091488122940063
+      },
+      {
+        "token": "device",
+        "sim": 0.48958921432495117
+      },
+      {
+        "token": "mahon",
+        "sim": 0.486427366733551
+      },
+      {
+        "token": "gadgets",
+        "sim": 0.4859749376773834
+      },
+      {
+        "token": "sonar",
+        "sim": 0.48522844910621643
+      },
+      {
+        "token": "robots",
+        "sim": 0.47793933749198914
+      },
+      {
+        "token": "menore",
+        "sim": 0.47540685534477234
+      },
+      {
+        "token": "cyclotron",
+        "sim": 0.4737529754638672
+      },
+      {
+        "token": "communicator",
+        "sim": 0.47265467047691345
+      },
+      {
+        "token": "zor",
+        "sim": 0.4725528955459595
+      },
+      {
+        "token": "amplifier",
+        "sim": 0.4723683297634125
+      },
+      {
+        "token": "detectors",
+        "sim": 0.4631574749946594
+      },
+      {
+        "token": "electrical",
+        "sim": 0.46117109060287476
+      },
+      {
+        "token": "gimmicks",
+        "sim": 0.45558738708496094
+      },
+      {
+        "token": "firearm",
+        "sim": 0.4426720142364502
+      },
+      {
+        "token": "saboteur",
+        "sim": 0.44097331166267395
+      },
+      {
+        "token": "monitors",
+        "sim": 0.4349154233932495
+      },
+      {
+        "token": "instruments",
+        "sim": 0.4343603849411011
+      },
+      {
+        "token": "lomb",
+        "sim": 0.4331563115119934
+      },
+      {
+        "token": "chessboard",
+        "sim": 0.4312521815299988
+      },
+      {
+        "token": "amplifiers",
+        "sim": 0.42506781220436096
+      },
+      {
+        "token": "teletype",
+        "sim": 0.4247592091560364
+      },
+      {
+        "token": "gimmick",
+        "sim": 0.4237416982650757
+      },
+      {
+        "token": "venex",
+        "sim": 0.42316973209381104
+      }
+    ],
+    "4": [
+      {
+        "token": "machinery",
+        "sim": 0.7357082962989807
+      },
+      {
+        "token": "machines",
+        "sim": 0.6380228400230408
+      },
+      {
+        "token": "lathes",
+        "sim": 0.5941108465194702
+      },
+      {
+        "token": "equipment",
+        "sim": 0.561978280544281
+      },
+      {
+        "token": "tools",
+        "sim": 0.5461212396621704
+      },
+      {
+        "token": "machining",
+        "sim": 0.5345323085784912
+      },
+      {
+        "token": "tooling",
+        "sim": 0.5291106700897217
+      },
+      {
+        "token": "woodworking",
+        "sim": 0.5230598449707031
+      },
+      {
+        "token": "tool",
+        "sim": 0.5185136198997498
+      },
+      {
+        "token": "conveyors",
+        "sim": 0.5158748030662537
+      },
+      {
+        "token": "generators",
+        "sim": 0.5075960159301758
+      },
+      {
+        "token": "vending",
+        "sim": 0.5073121786117554
+      },
+      {
+        "token": "welders",
+        "sim": 0.49873045086860657
+      },
+      {
+        "token": "planeroid",
+        "sim": 0.4917066991329193
+      },
+      {
+        "token": "contrivances",
+        "sim": 0.4914616346359253
+      },
+      {
+        "token": "linotype",
+        "sim": 0.48856496810913086
+      },
+      {
+        "token": "gears",
+        "sim": 0.4841105341911316
+      },
+      {
+        "token": "castings",
+        "sim": 0.482923686504364
+      },
+      {
+        "token": "jigs",
+        "sim": 0.4799974858760834
+      },
+      {
+        "token": "soldering",
+        "sim": 0.47702932357788086
+      },
+      {
+        "token": "laminated",
+        "sim": 0.4757886230945587
+      },
+      {
+        "token": "chassis",
+        "sim": 0.471265971660614
+      },
+      {
+        "token": "conveyor",
+        "sim": 0.4625047445297241
+      },
+      {
+        "token": "surfacing",
+        "sim": 0.4615257978439331
+      },
+      {
+        "token": "kenmore",
+        "sim": 0.45970869064331055
+      },
+      {
+        "token": "tractor",
+        "sim": 0.4585548937320709
+      },
+      {
+        "token": "processing",
+        "sim": 0.4584372341632843
+      },
+      {
+        "token": "refrigerators",
+        "sim": 0.45633333921432495
+      },
+      {
+        "token": "washers",
+        "sim": 0.4534456431865692
+      },
+      {
+        "token": "metal",
+        "sim": 0.4533560872077942
+      },
+      {
+        "token": "washer",
+        "sim": 0.4528644382953644
+      },
+      {
+        "token": "dishwasher",
+        "sim": 0.4522986114025116
+      },
+      {
+        "token": "prefabricated",
+        "sim": 0.45207202434539795
+      },
+      {
+        "token": "packaging",
+        "sim": 0.4519359767436981
+      },
+      {
+        "token": "appliance",
+        "sim": 0.4503178596496582
+      },
+      {
+        "token": "foundries",
+        "sim": 0.450198233127594
+      },
+      {
+        "token": "cogs",
+        "sim": 0.4495429992675781
+      },
+      {
+        "token": "fixtures",
+        "sim": 0.44848892092704773
+      },
+      {
+        "token": "levers",
+        "sim": 0.4479755163192749
+      },
+      {
+        "token": "lathe",
+        "sim": 0.4461303949356079
+      },
+      {
+        "token": "welding",
+        "sim": 0.44490817189216614
+      },
+      {
+        "token": "plows",
+        "sim": 0.44238585233688354
+      },
+      {
+        "token": "workbench",
+        "sim": 0.441173255443573
+      },
+      {
+        "token": "nonunion",
+        "sim": 0.4406399726867676
+      },
+      {
+        "token": "dishwashing",
+        "sim": 0.43903279304504395
+      },
+      {
+        "token": "tractors",
+        "sim": 0.43855687975883484
+      },
+      {
+        "token": "separator",
+        "sim": 0.4373635947704315
+      },
+      {
+        "token": "softwood",
+        "sim": 0.43639957904815674
+      },
+      {
+        "token": "dryer",
+        "sim": 0.4334583282470703
+      },
+      {
+        "token": "carburetor",
+        "sim": 0.4331175684928894
+      },
+      {
+        "token": "nippers",
+        "sim": 0.4313412308692932
+      },
+      {
+        "token": "tidying",
+        "sim": 0.42801767587661743
+      },
+      {
+        "token": "gear",
+        "sim": 0.4277515411376953
+      },
+      {
+        "token": "installing",
+        "sim": 0.4274178743362427
+      },
+      {
+        "token": "wheelbarrows",
+        "sim": 0.4271671175956726
+      },
+      {
+        "token": "duplicating",
+        "sim": 0.42617738246917725
+      },
+      {
+        "token": "burners",
+        "sim": 0.4257865846157074
+      },
+      {
+        "token": "pulleys",
+        "sim": 0.42518728971481323
+      },
+      {
+        "token": "loaders",
+        "sim": 0.4234663248062134
+      }
+    ],
+    "0": [
+      {
+        "token": "automation",
+        "sim": 0.6223118901252747
+      },
+      {
+        "token": "lampmaking",
+        "sim": 0.5643255710601807
+      },
+      {
+        "token": "technics",
+        "sim": 0.5150190591812134
+      },
+      {
+        "token": "automatism",
+        "sim": 0.512401282787323
+      },
+      {
+        "token": "expansions",
+        "sim": 0.4626857042312622
+      },
+      {
+        "token": "mechanization",
+        "sim": 0.4616868793964386
+      },
+      {
+        "token": "processes",
+        "sim": 0.4554670453071594
+      },
+      {
+        "token": "prototypes",
+        "sim": 0.45260074734687805
+      },
+      {
+        "token": "scheduling",
+        "sim": 0.4510166049003601
+      },
+      {
+        "token": "decentralization",
+        "sim": 0.4464331269264221
+      },
+      {
+        "token": "technology",
+        "sim": 0.43915820121765137
+      },
+      {
+        "token": "wmc",
+        "sim": 0.438455194234848
+      },
+      {
+        "token": "recruitment",
+        "sim": 0.43599390983581543
+      },
+      {
+        "token": "techniques",
+        "sim": 0.4335173964500427
+      },
+      {
+        "token": "inventions",
+        "sim": 0.43034619092941284
+      },
+      {
+        "token": "regimentation",
+        "sim": 0.4295167028903961
+      },
+      {
+        "token": "modernizing",
+        "sim": 0.42438727617263794
+      }
+    ],
+    "2": [
+      {
+        "token": "televisor",
+        "sim": 0.5592828989028931
+      },
+      {
+        "token": "turbines",
+        "sim": 0.501267671585083
+      },
+      {
+        "token": "overdrive",
+        "sim": 0.4831516742706299
+      },
+      {
+        "token": "accumulators",
+        "sim": 0.47670048475265503
+      },
+      {
+        "token": "gyros",
+        "sim": 0.4766208827495575
+      },
+      {
+        "token": "vanes",
+        "sim": 0.46714210510253906
+      },
+      {
+        "token": "blaster",
+        "sim": 0.45681971311569214
+      },
+      {
+        "token": "dynamos",
+        "sim": 0.45081228017807007
+      },
+      {
+        "token": "turbine",
+        "sim": 0.44953659176826477
+      },
+      {
+        "token": "bazooka",
+        "sim": 0.447856605052948
+      },
+      {
+        "token": "tritu",
+        "sim": 0.4466664791107178
+      },
+      {
+        "token": "braking",
+        "sim": 0.4464290142059326
+      },
+      {
+        "token": "pushpots",
+        "sim": 0.44615113735198975
+      },
+      {
+        "token": "pushpot",
+        "sim": 0.4461352527141571
+      },
+      {
+        "token": "diesels",
+        "sim": 0.4440796971321106
+      },
+      {
+        "token": "compressor",
+        "sim": 0.44377601146698
+      },
+      {
+        "token": "ailerons",
+        "sim": 0.4436829686164856
+      },
+      {
+        "token": "watchbird",
+        "sim": 0.4412897825241089
+      },
+      {
+        "token": "hyperspace",
+        "sim": 0.4408799409866333
+      },
+      {
+        "token": "hp",
+        "sim": 0.4400697350502014
+      },
+      {
+        "token": "smokestack",
+        "sim": 0.4366685152053833
+      },
+      {
+        "token": "engines",
+        "sim": 0.4335789084434509
+      },
+      {
+        "token": "projectile",
+        "sim": 0.4330214858055115
+      },
+      {
+        "token": "scooter",
+        "sim": 0.42724502086639404
+      },
+      {
+        "token": "interplanetarian",
+        "sim": 0.424304336309433
+      }
+    ],
+    "3": [
+      {
+        "token": "atomics",
+        "sim": 0.5207721590995789
+      },
+      {
+        "token": "obsolescent",
+        "sim": 0.5028233528137207
+      },
+      {
+        "token": "fabricating",
+        "sim": 0.4933648109436035
+      },
+      {
+        "token": "aerosol",
+        "sim": 0.48839500546455383
+      },
+      {
+        "token": "propulsion",
+        "sim": 0.48531562089920044
+      },
+      {
+        "token": "subcontracting",
+        "sim": 0.4774516224861145
+      },
+      {
+        "token": "streamlining",
+        "sim": 0.4771367609500885
+      },
+      {
+        "token": "nonferrous",
+        "sim": 0.4690757691860199
+      },
+      {
+        "token": "warhead",
+        "sim": 0.4652523994445801
+      },
+      {
+        "token": "insecticides",
+        "sim": 0.4565770924091339
+      },
+      {
+        "token": "siemens",
+        "sim": 0.4506123661994934
+      },
+      {
+        "token": "fueled",
+        "sim": 0.4504353404045105
+      },
+      {
+        "token": "zeiss",
+        "sim": 0.447648823261261
+      },
+      {
+        "token": "antitank",
+        "sim": 0.4450610876083374
+      },
+      {
+        "token": "fertilizers",
+        "sim": 0.4446239471435547
+      },
+      {
+        "token": "stockpiling",
+        "sim": 0.438711553812027
+      },
+      {
+        "token": "fabrication",
+        "sim": 0.4384053945541382
+      },
+      {
+        "token": "primers",
+        "sim": 0.43719786405563354
+      },
+      {
+        "token": "stulls",
+        "sim": 0.43719232082366943
+      },
+      {
+        "token": "reactors",
+        "sim": 0.4352726638317108
+      },
+      {
+        "token": "uneconomic",
+        "sim": 0.43035581707954407
+      },
+      {
+        "token": "warheads",
+        "sim": 0.4295915961265564
+      },
+      {
+        "token": "aircraft",
+        "sim": 0.42950311303138733
+      },
+      {
+        "token": "electronics",
+        "sim": 0.4291194975376129
+      },
+      {
+        "token": "modernize",
+        "sim": 0.4273354411125183
+      },
+      {
+        "token": "antiaircraft",
+        "sim": 0.42697182297706604
+      },
+      {
+        "token": "equipments",
+        "sim": 0.42679691314697266
+      },
+      {
+        "token": "irreplaceable",
+        "sim": 0.4258789122104645
+      },
+      {
+        "token": "stockpiles",
+        "sim": 0.4252336025238037
+      },
+      {
+        "token": "stockpile",
+        "sim": 0.42500466108322144
+      },
+      {
+        "token": "tinplate",
+        "sim": 0.42449989914894104
+      },
+      {
+        "token": "turbo",
+        "sim": 0.4242452383041382
+      },
+      {
+        "token": "synthetics",
+        "sim": 0.42282623052597046
+      }
+    ],
+    "1": [
+      {
+        "token": "transmissions",
+        "sim": 0.506519079208374
+      },
+      {
+        "token": "mechanism",
+        "sim": 0.49665990471839905
+      },
+      {
+        "token": "mechanisms",
+        "sim": 0.49532994627952576
+      },
+      {
+        "token": "activate",
+        "sim": 0.4845839738845825
+      },
+      {
+        "token": "brazing",
+        "sim": 0.478503555059433
+      },
+      {
+        "token": "thyratron",
+        "sim": 0.47604021430015564
+      },
+      {
+        "token": "utilizes",
+        "sim": 0.4741750955581665
+      },
+      {
+        "token": "entropy",
+        "sim": 0.4710940420627594
+      },
+      {
+        "token": "vhf",
+        "sim": 0.47065025568008423
+      },
+      {
+        "token": "refrigerating",
+        "sim": 0.46485692262649536
+      },
+      {
+        "token": "grids",
+        "sim": 0.45802775025367737
+      },
+      {
+        "token": "welds",
+        "sim": 0.4545596241950989
+      },
+      {
+        "token": "converter",
+        "sim": 0.4501383304595947
+      },
+      {
+        "token": "oscillator",
+        "sim": 0.44907909631729126
+      },
+      {
+        "token": "electronically",
+        "sim": 0.4485505223274231
+      },
+      {
+        "token": "translates",
+        "sim": 0.4433116614818573
+      },
+      {
+        "token": "communicators",
+        "sim": 0.44282352924346924
+      },
+      {
+        "token": "magneto",
+        "sim": 0.4372345209121704
+      },
+      {
+        "token": "amplification",
+        "sim": 0.4364686608314514
+      },
+      {
+        "token": "intercommunication",
+        "sim": 0.4281081259250641
+      },
+      {
+        "token": "navigational",
+        "sim": 0.42611971497535706
+      },
+      {
+        "token": "directional",
+        "sim": 0.42603766918182373
+      },
+      {
+        "token": "computing",
+        "sim": 0.42546752095222473
+      },
+      {
+        "token": "diffraction",
+        "sim": 0.42501455545425415
+      },
+      {
+        "token": "positronic",
+        "sim": 0.4241997301578522
+      },
+      {
+        "token": "discriminative",
+        "sim": 0.4238511323928833
+      },
+      {
+        "token": "proration",
+        "sim": 0.42328765988349915
+      }
+    ]
+  }
+}

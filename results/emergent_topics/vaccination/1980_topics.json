@@ -1,0 +1,829 @@
+{
+  "decade": 1980,
+  "concept": "vaccination",
+  "concept_hits": 5,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 9,
+  "silhouette": 0.04219299182295799,
+  "clusters": {
+    "3": [
+      {
+        "token": "vaccines",
+        "sim": 0.8473700284957886
+      },
+      {
+        "token": "poliomyelitis",
+        "sim": 0.7521011829376221
+      },
+      {
+        "token": "anthrax",
+        "sim": 0.715811014175415
+      },
+      {
+        "token": "hiv",
+        "sim": 0.7021618485450745
+      },
+      {
+        "token": "polio",
+        "sim": 0.6968933343887329
+      },
+      {
+        "token": "tetanus",
+        "sim": 0.6860654354095459
+      },
+      {
+        "token": "viral",
+        "sim": 0.6800717115402222
+      },
+      {
+        "token": "influenza",
+        "sim": 0.6711475849151611
+      },
+      {
+        "token": "diphtheria",
+        "sim": 0.6534748077392578
+      },
+      {
+        "token": "tb",
+        "sim": 0.6501056551933289
+      },
+      {
+        "token": "herpes",
+        "sim": 0.6488931179046631
+      },
+      {
+        "token": "vaccinated",
+        "sim": 0.6426390409469604
+      },
+      {
+        "token": "hepatitis",
+        "sim": 0.637145459651947
+      },
+      {
+        "token": "gonorrhea",
+        "sim": 0.6305410861968994
+      },
+      {
+        "token": "bacillus",
+        "sim": 0.6294649243354797
+      },
+      {
+        "token": "htlv",
+        "sim": 0.6224879622459412
+      },
+      {
+        "token": "antibodies",
+        "sim": 0.6124426126480103
+      },
+      {
+        "token": "rabies",
+        "sim": 0.608115553855896
+      },
+      {
+        "token": "infections",
+        "sim": 0.6058620810508728
+      },
+      {
+        "token": "smallpox",
+        "sim": 0.6053550243377686
+      },
+      {
+        "token": "bacilli",
+        "sim": 0.6023709177970886
+      },
+      {
+        "token": "syphilis",
+        "sim": 0.6010846495628357
+      },
+      {
+        "token": "epidemics",
+        "sim": 0.600438117980957
+      },
+      {
+        "token": "infection",
+        "sim": 0.5970677733421326
+      },
+      {
+        "token": "viruses",
+        "sim": 0.5897972583770752
+      },
+      {
+        "token": "tuberculosis",
+        "sim": 0.5838778018951416
+      },
+      {
+        "token": "disease",
+        "sim": 0.5813329219818115
+      },
+      {
+        "token": "typhoid",
+        "sim": 0.5800632238388062
+      },
+      {
+        "token": "typhus",
+        "sim": 0.5786547660827637
+      },
+      {
+        "token": "inoculated",
+        "sim": 0.5765056014060974
+      },
+      {
+        "token": "microbe",
+        "sim": 0.5741974115371704
+      },
+      {
+        "token": "measles",
+        "sim": 0.5718145370483398
+      },
+      {
+        "token": "flu",
+        "sim": 0.5698914527893066
+      },
+      {
+        "token": "hydrophobia",
+        "sim": 0.5624613165855408
+      },
+      {
+        "token": "lyme",
+        "sim": 0.5597261190414429
+      },
+      {
+        "token": "virus",
+        "sim": 0.5519235134124756
+      },
+      {
+        "token": "aids",
+        "sim": 0.55165034532547
+      },
+      {
+        "token": "amoebic",
+        "sim": 0.5486146211624146
+      },
+      {
+        "token": "infectious",
+        "sim": 0.547792911529541
+      },
+      {
+        "token": "pellagra",
+        "sim": 0.5443820953369141
+      },
+      {
+        "token": "diseases",
+        "sim": 0.536268413066864
+      },
+      {
+        "token": "venereal",
+        "sim": 0.5277891755104065
+      },
+      {
+        "token": "leukemia",
+        "sim": 0.5252998471260071
+      }
+    ],
+    "7": [
+      {
+        "token": "vaccination",
+        "sim": 0.8340884447097778
+      },
+      {
+        "token": "immunization",
+        "sim": 0.8179947137832642
+      },
+      {
+        "token": "inoculation",
+        "sim": 0.8156757950782776
+      },
+      {
+        "token": "inoculations",
+        "sim": 0.6673537492752075
+      },
+      {
+        "token": "fluoridation",
+        "sim": 0.5887920260429382
+      },
+      {
+        "token": "preventive",
+        "sim": 0.570520281791687
+      },
+      {
+        "token": "sterilization",
+        "sim": 0.5700361728668213
+      },
+      {
+        "token": "dentistry",
+        "sim": 0.5592461824417114
+      }
+    ],
+    "6": [
+      {
+        "token": "vaccine",
+        "sim": 0.8057092428207397
+      },
+      {
+        "token": "antibiotics",
+        "sim": 0.6701573729515076
+      },
+      {
+        "token": "salk",
+        "sim": 0.6518770456314087
+      },
+      {
+        "token": "antibiotic",
+        "sim": 0.6414186954498291
+      },
+      {
+        "token": "steroid",
+        "sim": 0.6250083446502686
+      },
+      {
+        "token": "streptomycin",
+        "sim": 0.6152242422103882
+      },
+      {
+        "token": "penicillin",
+        "sim": 0.6077806353569031
+      },
+      {
+        "token": "prophylactic",
+        "sim": 0.6011441349983215
+      },
+      {
+        "token": "isoniazid",
+        "sim": 0.5972904562950134
+      },
+      {
+        "token": "strep",
+        "sim": 0.597214937210083
+      },
+      {
+        "token": "cortisone",
+        "sim": 0.5927290916442871
+      },
+      {
+        "token": "globulin",
+        "sim": 0.5909071564674377
+      },
+      {
+        "token": "antibody",
+        "sim": 0.5845813751220703
+      },
+      {
+        "token": "medications",
+        "sim": 0.5787379741668701
+      },
+      {
+        "token": "sulfa",
+        "sim": 0.5747708082199097
+      },
+      {
+        "token": "atabrine",
+        "sim": 0.5673593282699585
+      },
+      {
+        "token": "sulfanilamide",
+        "sim": 0.5580487251281738
+      },
+      {
+        "token": "anesthetics",
+        "sim": 0.5525891780853271
+      },
+      {
+        "token": "medication",
+        "sim": 0.5458093881607056
+      },
+      {
+        "token": "antitoxin",
+        "sim": 0.541838526725769
+      },
+      {
+        "token": "serum",
+        "sim": 0.5410358905792236
+      },
+      {
+        "token": "allergy",
+        "sim": 0.5347775220870972
+      },
+      {
+        "token": "digitalis",
+        "sim": 0.5301656126976013
+      },
+      {
+        "token": "estrogen",
+        "sim": 0.5271130800247192
+      }
+    ],
+    "5": [
+      {
+        "token": "azt",
+        "sim": 0.6716428995132446
+      },
+      {
+        "token": "chemotherapy",
+        "sim": 0.6285859942436218
+      },
+      {
+        "token": "placebo",
+        "sim": 0.6124394536018372
+      },
+      {
+        "token": "psychosurgery",
+        "sim": 0.6077365875244141
+      },
+      {
+        "token": "thalidomide",
+        "sim": 0.6063799262046814
+      },
+      {
+        "token": "transfusions",
+        "sim": 0.6061707735061646
+      },
+      {
+        "token": "contraceptive",
+        "sim": 0.592869222164154
+      },
+      {
+        "token": "accutane",
+        "sim": 0.5882006883621216
+      },
+      {
+        "token": "fetuses",
+        "sim": 0.5807856321334839
+      },
+      {
+        "token": "laetrile",
+        "sim": 0.5734112858772278
+      },
+      {
+        "token": "vitro",
+        "sim": 0.570989191532135
+      },
+      {
+        "token": "insemination",
+        "sim": 0.5682944059371948
+      },
+      {
+        "token": "ect",
+        "sim": 0.5679954290390015
+      },
+      {
+        "token": "hd",
+        "sim": 0.567022442817688
+      },
+      {
+        "token": "krebiozen",
+        "sim": 0.5489959716796875
+      },
+      {
+        "token": "biopsy",
+        "sim": 0.5367957353591919
+      },
+      {
+        "token": "checkups",
+        "sim": 0.5322184562683105
+      },
+      {
+        "token": "intravenous",
+        "sim": 0.5298128128051758
+      },
+      {
+        "token": "transfusion",
+        "sim": 0.5281370878219604
+      },
+      {
+        "token": "abusers",
+        "sim": 0.5271722674369812
+      }
+    ],
+    "8": [
+      {
+        "token": "rheumatoid",
+        "sim": 0.6499489545822144
+      },
+      {
+        "token": "mellitus",
+        "sim": 0.6233385801315308
+      },
+      {
+        "token": "asymptomatic",
+        "sim": 0.620561957359314
+      },
+      {
+        "token": "rlf",
+        "sim": 0.6202961802482605
+      },
+      {
+        "token": "glomerulonephritis",
+        "sim": 0.6196900010108948
+      },
+      {
+        "token": "periodontal",
+        "sim": 0.6178229451179504
+      },
+      {
+        "token": "endocarditis",
+        "sim": 0.6131975650787354
+      },
+      {
+        "token": "simplex",
+        "sim": 0.6092332601547241
+      },
+      {
+        "token": "infective",
+        "sim": 0.5998183488845825
+      },
+      {
+        "token": "pyelonephritis",
+        "sim": 0.589323878288269
+      },
+      {
+        "token": "botulism",
+        "sim": 0.5846704840660095
+      },
+      {
+        "token": "immunological",
+        "sim": 0.5840927362442017
+      },
+      {
+        "token": "edema",
+        "sim": 0.5818876624107361
+      },
+      {
+        "token": "disabling",
+        "sim": 0.5786004066467285
+      },
+      {
+        "token": "myasthenia",
+        "sim": 0.5768353939056396
+      },
+      {
+        "token": "renal",
+        "sim": 0.5759096145629883
+      },
+      {
+        "token": "pericarditis",
+        "sim": 0.57280433177948
+      },
+      {
+        "token": "hodgkin",
+        "sim": 0.5715587139129639
+      },
+      {
+        "token": "peptic",
+        "sim": 0.5695285797119141
+      },
+      {
+        "token": "melanoma",
+        "sim": 0.5688270926475525
+      },
+      {
+        "token": "lupus",
+        "sim": 0.5679441690444946
+      },
+      {
+        "token": "stenosis",
+        "sim": 0.5666857957839966
+      },
+      {
+        "token": "vaginal",
+        "sim": 0.5641812682151794
+      },
+      {
+        "token": "gallbladder",
+        "sim": 0.5639183521270752
+      },
+      {
+        "token": "degenerative",
+        "sim": 0.5622193813323975
+      },
+      {
+        "token": "sputum",
+        "sim": 0.5608590841293335
+      },
+      {
+        "token": "infarction",
+        "sim": 0.5568519830703735
+      },
+      {
+        "token": "silicosis",
+        "sim": 0.556396484375
+      },
+      {
+        "token": "duodenal",
+        "sim": 0.5551672577857971
+      },
+      {
+        "token": "hypertension",
+        "sim": 0.5550835728645325
+      },
+      {
+        "token": "sclerosis",
+        "sim": 0.5489364862442017
+      },
+      {
+        "token": "dystrophy",
+        "sim": 0.5474401712417603
+      },
+      {
+        "token": "diagnosis",
+        "sim": 0.5442312955856323
+      },
+      {
+        "token": "urinary",
+        "sim": 0.542989194393158
+      },
+      {
+        "token": "cirrhosis",
+        "sim": 0.541838526725769
+      },
+      {
+        "token": "pid",
+        "sim": 0.5406368970870972
+      },
+      {
+        "token": "atrial",
+        "sim": 0.5405579209327698
+      },
+      {
+        "token": "infertility",
+        "sim": 0.539145827293396
+      },
+      {
+        "token": "scarring",
+        "sim": 0.535963237285614
+      },
+      {
+        "token": "amcebiasis",
+        "sim": 0.5342884063720703
+      },
+      {
+        "token": "somatic",
+        "sim": 0.5291488766670227
+      },
+      {
+        "token": "psychomotor",
+        "sim": 0.5279309749603271
+      },
+      {
+        "token": "malignancy",
+        "sim": 0.5269576907157898
+      },
+      {
+        "token": "prostate",
+        "sim": 0.5268749594688416
+      }
+    ],
+    "1": [
+      {
+        "token": "poliovirus",
+        "sim": 0.6410870552062988
+      },
+      {
+        "token": "interferon",
+        "sim": 0.6265981197357178
+      },
+      {
+        "token": "dosages",
+        "sim": 0.6227414608001709
+      },
+      {
+        "token": "bacterial",
+        "sim": 0.6081660389900208
+      },
+      {
+        "token": "pathogenic",
+        "sim": 0.5938082337379456
+      },
+      {
+        "token": "bacteriological",
+        "sim": 0.592106819152832
+      },
+      {
+        "token": "bacterium",
+        "sim": 0.5858997106552124
+      },
+      {
+        "token": "recombinant",
+        "sim": 0.578719437122345
+      },
+      {
+        "token": "foodborne",
+        "sim": 0.5768933892250061
+      },
+      {
+        "token": "caries",
+        "sim": 0.5765320062637329
+      },
+      {
+        "token": "pasteurization",
+        "sim": 0.5749160051345825
+      },
+      {
+        "token": "toxins",
+        "sim": 0.5745899677276611
+      },
+      {
+        "token": "streptococci",
+        "sim": 0.5739048719406128
+      },
+      {
+        "token": "staphylococcus",
+        "sim": 0.5715105533599854
+      },
+      {
+        "token": "clostridium",
+        "sim": 0.567473292350769
+      },
+      {
+        "token": "gallstones",
+        "sim": 0.5674591660499573
+      },
+      {
+        "token": "herbicide",
+        "sim": 0.5645555257797241
+      },
+      {
+        "token": "aureus",
+        "sim": 0.5607749223709106
+      },
+      {
+        "token": "chemotherapeutic",
+        "sim": 0.5597522854804993
+      },
+      {
+        "token": "nitrites",
+        "sim": 0.5592228174209595
+      },
+      {
+        "token": "carcinogenic",
+        "sim": 0.5573880076408386
+      },
+      {
+        "token": "toxicity",
+        "sim": 0.5513769388198853
+      },
+      {
+        "token": "coagulase",
+        "sim": 0.5507790446281433
+      },
+      {
+        "token": "staph",
+        "sim": 0.5485354661941528
+      },
+      {
+        "token": "salmonellae",
+        "sim": 0.548048734664917
+      },
+      {
+        "token": "ingestion",
+        "sim": 0.5475684404373169
+      },
+      {
+        "token": "pyogenes",
+        "sim": 0.545728862285614
+      },
+      {
+        "token": "toxin",
+        "sim": 0.5442920923233032
+      },
+      {
+        "token": "ionizing",
+        "sim": 0.5432462692260742
+      },
+      {
+        "token": "pathogens",
+        "sim": 0.5406442284584045
+      },
+      {
+        "token": "enterococci",
+        "sim": 0.5404557585716248
+      },
+      {
+        "token": "staphylococci",
+        "sim": 0.5387024879455566
+      },
+      {
+        "token": "bacteria",
+        "sim": 0.5363426208496094
+      },
+      {
+        "token": "cloning",
+        "sim": 0.536291778087616
+      },
+      {
+        "token": "herbicides",
+        "sim": 0.5336775779724121
+      },
+      {
+        "token": "carcinogens",
+        "sim": 0.5273261070251465
+      }
+    ],
+    "4": [
+      {
+        "token": "std",
+        "sim": 0.6292333602905273
+      },
+      {
+        "token": "steroids",
+        "sim": 0.6074666976928711
+      },
+      {
+        "token": "therapies",
+        "sim": 0.6024657487869263
+      },
+      {
+        "token": "diabetics",
+        "sim": 0.5906310081481934
+      },
+      {
+        "token": "mammography",
+        "sim": 0.5852122902870178
+      },
+      {
+        "token": "orthomolecular",
+        "sim": 0.5614109635353088
+      },
+      {
+        "token": "transplantation",
+        "sim": 0.5564346313476562
+      },
+      {
+        "token": "cardiovascular",
+        "sim": 0.5557106137275696
+      },
+      {
+        "token": "pediatric",
+        "sim": 0.5490167737007141
+      },
+      {
+        "token": "radiological",
+        "sim": 0.5439208149909973
+      },
+      {
+        "token": "diabetes",
+        "sim": 0.5416497588157654
+      },
+      {
+        "token": "sartorius",
+        "sim": 0.5401984453201294
+      },
+      {
+        "token": "malnutrition",
+        "sim": 0.5281189680099487
+      },
+      {
+        "token": "preventable",
+        "sim": 0.5274174213409424
+      },
+      {
+        "token": "cdc",
+        "sim": 0.5262161493301392
+      }
+    ],
+    "2": [
+      {
+        "token": "microbes",
+        "sim": 0.5880008935928345
+      },
+      {
+        "token": "implants",
+        "sim": 0.5693798065185547
+      },
+      {
+        "token": "implantation",
+        "sim": 0.5664163827896118
+      },
+      {
+        "token": "tumors",
+        "sim": 0.5634864568710327
+      },
+      {
+        "token": "uterine",
+        "sim": 0.5630598664283752
+      },
+      {
+        "token": "polyps",
+        "sim": 0.5438119769096375
+      },
+      {
+        "token": "cancers",
+        "sim": 0.542815625667572
+      },
+      {
+        "token": "cancerous",
+        "sim": 0.5324558019638062
+      }
+    ],
+    "0": [
+      {
+        "token": "meningitis",
+        "sim": 0.573323130607605
+      },
+      {
+        "token": "rheumatic",
+        "sim": 0.5447889566421509
+      }
+    ]
+  }
+}

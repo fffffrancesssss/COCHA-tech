@@ -1,0 +1,823 @@
+{
+  "decade": 1920,
+  "concept": "radar",
+  "concept_hits": 3,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.07529933750629425,
+  "clusters": {
+    "4": [
+      {
+        "token": "transmitter",
+        "sim": 0.853007972240448
+      },
+      {
+        "token": "receiver",
+        "sim": 0.8408583998680115
+      },
+      {
+        "token": "transmitting",
+        "sim": 0.6409028768539429
+      },
+      {
+        "token": "dynamo",
+        "sim": 0.6003037691116333
+      },
+      {
+        "token": "electrically",
+        "sim": 0.5988554358482361
+      },
+      {
+        "token": "switchboard",
+        "sim": 0.5891329646110535
+      },
+      {
+        "token": "relay",
+        "sim": 0.5563980340957642
+      },
+      {
+        "token": "receivers",
+        "sim": 0.5491321086883545
+      },
+      {
+        "token": "telephony",
+        "sim": 0.5487383604049683
+      },
+      {
+        "token": "wiring",
+        "sim": 0.5381883382797241
+      },
+      {
+        "token": "switches",
+        "sim": 0.5355638861656189
+      },
+      {
+        "token": "electro",
+        "sim": 0.5267816781997681
+      },
+      {
+        "token": "induction",
+        "sim": 0.523468017578125
+      },
+      {
+        "token": "wires",
+        "sim": 0.5215031504631042
+      },
+      {
+        "token": "appliance",
+        "sim": 0.5157199501991272
+      },
+      {
+        "token": "switch",
+        "sim": 0.5133043527603149
+      },
+      {
+        "token": "telephonic",
+        "sim": 0.5123419761657715
+      },
+      {
+        "token": "orpheum",
+        "sim": 0.5113981366157532
+      },
+      {
+        "token": "television",
+        "sim": 0.5086528062820435
+      },
+      {
+        "token": "distributor",
+        "sim": 0.5083334445953369
+      },
+      {
+        "token": "wireless",
+        "sim": 0.5051993131637573
+      },
+      {
+        "token": "battery",
+        "sim": 0.5043531060218811
+      },
+      {
+        "token": "telephone",
+        "sim": 0.5001460909843445
+      },
+      {
+        "token": "microphone",
+        "sim": 0.49733757972717285
+      },
+      {
+        "token": "radio",
+        "sim": 0.4934379756450653
+      },
+      {
+        "token": "phone",
+        "sim": 0.49232256412506104
+      },
+      {
+        "token": "circuit",
+        "sim": 0.48377957940101624
+      },
+      {
+        "token": "amplified",
+        "sim": 0.4831717312335968
+      },
+      {
+        "token": "operator",
+        "sim": 0.4778461456298828
+      },
+      {
+        "token": "transmission",
+        "sim": 0.4767748713493347
+      },
+      {
+        "token": "generating",
+        "sim": 0.4727083444595337
+      },
+      {
+        "token": "switching",
+        "sim": 0.47227510809898376
+      },
+      {
+        "token": "apparatus",
+        "sim": 0.47158002853393555
+      }
+    ],
+    "1": [
+      {
+        "token": "antenna",
+        "sim": 0.7405486702919006
+      },
+      {
+        "token": "magneto",
+        "sim": 0.708059549331665
+      },
+      {
+        "token": "ignition",
+        "sim": 0.6261183023452759
+      },
+      {
+        "token": "ailerons",
+        "sim": 0.5874677896499634
+      },
+      {
+        "token": "rudders",
+        "sim": 0.563847541809082
+      },
+      {
+        "token": "tuning",
+        "sim": 0.5606335997581482
+      },
+      {
+        "token": "piston",
+        "sim": 0.5526201725006104
+      },
+      {
+        "token": "dynamos",
+        "sim": 0.5443549752235413
+      },
+      {
+        "token": "fuses",
+        "sim": 0.5217012166976929
+      },
+      {
+        "token": "rotating",
+        "sim": 0.5183871388435364
+      },
+      {
+        "token": "valves",
+        "sim": 0.5178091526031494
+      },
+      {
+        "token": "clockwork",
+        "sim": 0.5176740288734436
+      },
+      {
+        "token": "bobbin",
+        "sim": 0.5167836546897888
+      },
+      {
+        "token": "turbine",
+        "sim": 0.5167450308799744
+      },
+      {
+        "token": "tuned",
+        "sim": 0.5131521224975586
+      },
+      {
+        "token": "centrifugal",
+        "sim": 0.5119351148605347
+      },
+      {
+        "token": "plugs",
+        "sim": 0.5118099451065063
+      },
+      {
+        "token": "conveyor",
+        "sim": 0.5095657110214233
+      },
+      {
+        "token": "vertically",
+        "sim": 0.506093442440033
+      },
+      {
+        "token": "propellers",
+        "sim": 0.5035579204559326
+      },
+      {
+        "token": "gears",
+        "sim": 0.5030646920204163
+      },
+      {
+        "token": "hydraulic",
+        "sim": 0.49636226892471313
+      },
+      {
+        "token": "levers",
+        "sim": 0.49626100063323975
+      },
+      {
+        "token": "pulleys",
+        "sim": 0.4908910393714905
+      },
+      {
+        "token": "dividers",
+        "sim": 0.4821750521659851
+      },
+      {
+        "token": "suction",
+        "sim": 0.48117348551750183
+      },
+      {
+        "token": "synchronized",
+        "sim": 0.4810965657234192
+      },
+      {
+        "token": "blower",
+        "sim": 0.4801710247993469
+      },
+      {
+        "token": "pulley",
+        "sim": 0.47979867458343506
+      },
+      {
+        "token": "spools",
+        "sim": 0.47903209924697876
+      },
+      {
+        "token": "clicks",
+        "sim": 0.47542259097099304
+      },
+      {
+        "token": "vibrating",
+        "sim": 0.4744341969490051
+      },
+      {
+        "token": "geared",
+        "sim": 0.4740721583366394
+      }
+    ],
+    "2": [
+      {
+        "token": "generator",
+        "sim": 0.6791700124740601
+      },
+      {
+        "token": "converter",
+        "sim": 0.6722389459609985
+      },
+      {
+        "token": "synchronous",
+        "sim": 0.6701241731643677
+      },
+      {
+        "token": "wavemeter",
+        "sim": 0.6350892186164856
+      },
+      {
+        "token": "shunt",
+        "sim": 0.6347276568412781
+      },
+      {
+        "token": "condenser",
+        "sim": 0.6284695863723755
+      },
+      {
+        "token": "regulator",
+        "sim": 0.6253366470336914
+      },
+      {
+        "token": "rotor",
+        "sim": 0.6215614676475525
+      },
+      {
+        "token": "stator",
+        "sim": 0.619190514087677
+      },
+      {
+        "token": "photoelectric",
+        "sim": 0.6154409050941467
+      },
+      {
+        "token": "volt",
+        "sim": 0.6071242094039917
+      },
+      {
+        "token": "rheostat",
+        "sim": 0.6069611310958862
+      },
+      {
+        "token": "polarity",
+        "sim": 0.605340301990509
+      },
+      {
+        "token": "circuits",
+        "sim": 0.6046867966651917
+      },
+      {
+        "token": "rectifier",
+        "sim": 0.6017006039619446
+      },
+      {
+        "token": "alternator",
+        "sim": 0.5995572805404663
+      },
+      {
+        "token": "exciters",
+        "sim": 0.5992189049720764
+      },
+      {
+        "token": "exciter",
+        "sim": 0.598190426826477
+      },
+      {
+        "token": "electromotive",
+        "sim": 0.5945772528648376
+      },
+      {
+        "token": "armature",
+        "sim": 0.5908533334732056
+      },
+      {
+        "token": "voltages",
+        "sim": 0.5901936292648315
+      },
+      {
+        "token": "amplification",
+        "sim": 0.5892668962478638
+      },
+      {
+        "token": "generators",
+        "sim": 0.5869714617729187
+      },
+      {
+        "token": "polyphase",
+        "sim": 0.5849493741989136
+      },
+      {
+        "token": "amperes",
+        "sim": 0.5819844603538513
+      },
+      {
+        "token": "synchronism",
+        "sim": 0.5719041228294373
+      },
+      {
+        "token": "volts",
+        "sim": 0.5703645348548889
+      },
+      {
+        "token": "converters",
+        "sim": 0.5701282620429993
+      },
+      {
+        "token": "ohms",
+        "sim": 0.5697251558303833
+      },
+      {
+        "token": "emf",
+        "sim": 0.5670607686042786
+      },
+      {
+        "token": "inductance",
+        "sim": 0.5638870596885681
+      },
+      {
+        "token": "damped",
+        "sim": 0.55666184425354
+      },
+      {
+        "token": "transformer",
+        "sim": 0.5552362203598022
+      },
+      {
+        "token": "polarization",
+        "sim": 0.5549346208572388
+      },
+      {
+        "token": "thermal",
+        "sim": 0.5545247197151184
+      },
+      {
+        "token": "deflection",
+        "sim": 0.5542721748352051
+      },
+      {
+        "token": "coupling",
+        "sim": 0.5511518120765686
+      },
+      {
+        "token": "alternators",
+        "sim": 0.5510430335998535
+      },
+      {
+        "token": "switchboards",
+        "sim": 0.5488402843475342
+      },
+      {
+        "token": "decrement",
+        "sim": 0.5476775765419006
+      },
+      {
+        "token": "booster",
+        "sim": 0.5378770232200623
+      },
+      {
+        "token": "transformers",
+        "sim": 0.5376662015914917
+      },
+      {
+        "token": "voltage",
+        "sim": 0.5342150330543518
+      },
+      {
+        "token": "frequencies",
+        "sim": 0.5324397087097168
+      },
+      {
+        "token": "kw",
+        "sim": 0.5301039814949036
+      },
+      {
+        "token": "conductivity",
+        "sim": 0.5271122455596924
+      },
+      {
+        "token": "reactance",
+        "sim": 0.526143491268158
+      },
+      {
+        "token": "regulators",
+        "sim": 0.5257157683372498
+      },
+      {
+        "token": "impedance",
+        "sim": 0.5253047943115234
+      },
+      {
+        "token": "excitation",
+        "sim": 0.5225334763526917
+      },
+      {
+        "token": "vibrations",
+        "sim": 0.520325779914856
+      },
+      {
+        "token": "meters",
+        "sim": 0.5098834037780762
+      },
+      {
+        "token": "resonance",
+        "sim": 0.503592848777771
+      },
+      {
+        "token": "installations",
+        "sim": 0.5035441517829895
+      },
+      {
+        "token": "oscillation",
+        "sim": 0.5015442371368408
+      },
+      {
+        "token": "dielectric",
+        "sim": 0.49857044219970703
+      },
+      {
+        "token": "speeds",
+        "sim": 0.4982593357563019
+      },
+      {
+        "token": "gradient",
+        "sim": 0.49582570791244507
+      },
+      {
+        "token": "oscillations",
+        "sim": 0.49289166927337646
+      },
+      {
+        "token": "mechanisms",
+        "sim": 0.49287307262420654
+      },
+      {
+        "token": "elongation",
+        "sim": 0.4877787232398987
+      },
+      {
+        "token": "spacing",
+        "sim": 0.4858451187610626
+      },
+      {
+        "token": "alternating",
+        "sim": 0.4812859892845154
+      },
+      {
+        "token": "gradients",
+        "sim": 0.4789332151412964
+      },
+      {
+        "token": "compression",
+        "sim": 0.47854775190353394
+      },
+      {
+        "token": "velocities",
+        "sim": 0.4751293957233429
+      },
+      {
+        "token": "emission",
+        "sim": 0.4713748097419739
+      }
+    ],
+    "3": [
+      {
+        "token": "interrupter",
+        "sim": 0.6686499714851379
+      },
+      {
+        "token": "anode",
+        "sim": 0.6512879729270935
+      },
+      {
+        "token": "electrodes",
+        "sim": 0.6369520425796509
+      },
+      {
+        "token": "grid",
+        "sim": 0.6205317974090576
+      },
+      {
+        "token": "insulated",
+        "sim": 0.5986119508743286
+      },
+      {
+        "token": "electrode",
+        "sim": 0.5892667770385742
+      },
+      {
+        "token": "magnetized",
+        "sim": 0.5889863967895508
+      },
+      {
+        "token": "commutator",
+        "sim": 0.5875335931777954
+      },
+      {
+        "token": "magnets",
+        "sim": 0.5794251561164856
+      },
+      {
+        "token": "filaments",
+        "sim": 0.5633150339126587
+      },
+      {
+        "token": "selenium",
+        "sim": 0.5496437549591064
+      },
+      {
+        "token": "filament",
+        "sim": 0.5425450205802917
+      },
+      {
+        "token": "adjustable",
+        "sim": 0.5423902273178101
+      },
+      {
+        "token": "reflector",
+        "sim": 0.5421142578125
+      },
+      {
+        "token": "coil",
+        "sim": 0.5359166860580444
+      },
+      {
+        "token": "neon",
+        "sim": 0.535102128982544
+      },
+      {
+        "token": "cathode",
+        "sim": 0.5346956849098206
+      },
+      {
+        "token": "slots",
+        "sim": 0.5331870317459106
+      },
+      {
+        "token": "insulation",
+        "sim": 0.532553493976593
+      },
+      {
+        "token": "bulb",
+        "sim": 0.5259191989898682
+      },
+      {
+        "token": "liquefied",
+        "sim": 0.5178208351135254
+      },
+      {
+        "token": "tubular",
+        "sim": 0.5138291120529175
+      },
+      {
+        "token": "tungsten",
+        "sim": 0.5112903714179993
+      },
+      {
+        "token": "disk",
+        "sim": 0.5108879804611206
+      },
+      {
+        "token": "inserts",
+        "sim": 0.5101510882377625
+      },
+      {
+        "token": "discs",
+        "sim": 0.5055788159370422
+      },
+      {
+        "token": "oxides",
+        "sim": 0.5037636756896973
+      },
+      {
+        "token": "prism",
+        "sim": 0.5020388960838318
+      },
+      {
+        "token": "coils",
+        "sim": 0.49605056643486023
+      },
+      {
+        "token": "ultraviolet",
+        "sim": 0.4903380274772644
+      },
+      {
+        "token": "insulating",
+        "sim": 0.4869419038295746
+      },
+      {
+        "token": "magnesium",
+        "sim": 0.4860532879829407
+      },
+      {
+        "token": "tube",
+        "sim": 0.4859239459037781
+      },
+      {
+        "token": "abacus",
+        "sim": 0.4859045743942261
+      },
+      {
+        "token": "waterproofing",
+        "sim": 0.48509418964385986
+      },
+      {
+        "token": "syringe",
+        "sim": 0.4840790629386902
+      },
+      {
+        "token": "spectroscope",
+        "sim": 0.48269474506378174
+      },
+      {
+        "token": "condensing",
+        "sim": 0.48260927200317383
+      },
+      {
+        "token": "stencil",
+        "sim": 0.4813191890716553
+      },
+      {
+        "token": "bracket",
+        "sim": 0.47480329871177673
+      },
+      {
+        "token": "incandescent",
+        "sim": 0.4739595055580139
+      },
+      {
+        "token": "windings",
+        "sim": 0.47300153970718384
+      }
+    ],
+    "5": [
+      {
+        "token": "diaphragm",
+        "sim": 0.5639024972915649
+      },
+      {
+        "token": "phonation",
+        "sim": 0.5486108064651489
+      },
+      {
+        "token": "medulla",
+        "sim": 0.542249321937561
+      },
+      {
+        "token": "aorta",
+        "sim": 0.5328824520111084
+      },
+      {
+        "token": "auricle",
+        "sim": 0.524674117565155
+      },
+      {
+        "token": "radial",
+        "sim": 0.5136990547180176
+      },
+      {
+        "token": "resonator",
+        "sim": 0.5067577362060547
+      },
+      {
+        "token": "contractile",
+        "sim": 0.4963874816894531
+      },
+      {
+        "token": "capillary",
+        "sim": 0.492893785238266
+      },
+      {
+        "token": "cartilages",
+        "sim": 0.49096745252609253
+      },
+      {
+        "token": "meridians",
+        "sim": 0.4905276298522949
+      },
+      {
+        "token": "platting",
+        "sim": 0.48146066069602966
+      },
+      {
+        "token": "nectary",
+        "sim": 0.48092788457870483
+      },
+      {
+        "token": "urethra",
+        "sim": 0.48019376397132874
+      },
+      {
+        "token": "archegonia",
+        "sim": 0.4801176190376282
+      },
+      {
+        "token": "axis",
+        "sim": 0.4800979495048523
+      },
+      {
+        "token": "spore",
+        "sim": 0.4786229729652405
+      },
+      {
+        "token": "antheridium",
+        "sim": 0.4785257875919342
+      },
+      {
+        "token": "thallus",
+        "sim": 0.4776328206062317
+      },
+      {
+        "token": "cartilage",
+        "sim": 0.47406038641929626
+      }
+    ],
+    "0": [
+      {
+        "token": "electrons",
+        "sim": 0.5058534145355225
+      },
+      {
+        "token": "electron",
+        "sim": 0.5045155882835388
+      },
+      {
+        "token": "equations",
+        "sim": 0.4863763451576233
+      },
+      {
+        "token": "preposition",
+        "sim": 0.4776051640510559
+      },
+      {
+        "token": "notation",
+        "sim": 0.472753643989563
+      }
+    ]
+  }
+}

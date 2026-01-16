@@ -1,0 +1,831 @@
+{
+  "decade": 2010,
+  "concept": "internet",
+  "concept_hits": 9,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 10,
+  "silhouette": -0.025597315281629562,
+  "clusters": {
+    "9": [
+      {
+        "token": "web",
+        "sim": 0.8150209188461304
+      },
+      {
+        "token": "internet",
+        "sim": 0.7059233784675598
+      },
+      {
+        "token": "browser",
+        "sim": 0.700255274772644
+      },
+      {
+        "token": "websites",
+        "sim": 0.6789132356643677
+      },
+      {
+        "token": "online",
+        "sim": 0.6719951629638672
+      },
+      {
+        "token": "app",
+        "sim": 0.6459338665008545
+      },
+      {
+        "token": "wordpress",
+        "sim": 0.6304095983505249
+      },
+      {
+        "token": "webpages",
+        "sim": 0.6294963359832764
+      },
+      {
+        "token": "html",
+        "sim": 0.605122983455658
+      },
+      {
+        "token": "webmaster",
+        "sim": 0.604336142539978
+      },
+      {
+        "token": "plugin",
+        "sim": 0.6014087200164795
+      }
+    ],
+    "7": [
+      {
+        "token": "webpage",
+        "sim": 0.7618316411972046
+      },
+      {
+        "token": "homepage",
+        "sim": 0.6926735639572144
+      }
+    ],
+    "5": [
+      {
+        "token": "website",
+        "sim": 0.7324641346931458
+      },
+      {
+        "token": "site",
+        "sim": 0.6302777528762817
+      },
+      {
+        "token": "blog",
+        "sim": 0.6104531288146973
+      }
+    ],
+    "3": [
+      {
+        "token": "pwnedlist",
+        "sim": 0.7108607292175293
+      },
+      {
+        "token": "startpage",
+        "sim": 0.68449866771698
+      },
+      {
+        "token": "filezilla",
+        "sim": 0.6836099028587341
+      },
+      {
+        "token": "bluehost",
+        "sim": 0.6771932244300842
+      },
+      {
+        "token": "wufoo",
+        "sim": 0.6758042573928833
+      },
+      {
+        "token": "opendns",
+        "sim": 0.6750867366790771
+      },
+      {
+        "token": "bookmarklet",
+        "sim": 0.6657283306121826
+      },
+      {
+        "token": "hushmail",
+        "sim": 0.6562538146972656
+      },
+      {
+        "token": "brainshark",
+        "sim": 0.6558105945587158
+      },
+      {
+        "token": "feedblitz",
+        "sim": 0.6525773406028748
+      },
+      {
+        "token": "autoresponder",
+        "sim": 0.6520401239395142
+      },
+      {
+        "token": "notifier",
+        "sim": 0.6504770517349243
+      },
+      {
+        "token": "openid",
+        "sim": 0.6504250764846802
+      },
+      {
+        "token": "typekit",
+        "sim": 0.6492963433265686
+      },
+      {
+        "token": "bugmenot",
+        "sim": 0.647271990776062
+      },
+      {
+        "token": "weblink",
+        "sim": 0.6462497115135193
+      },
+      {
+        "token": "nagios",
+        "sim": 0.6447672843933105
+      },
+      {
+        "token": "webdav",
+        "sim": 0.6425626277923584
+      },
+      {
+        "token": "tweetdeck",
+        "sim": 0.6415718793869019
+      },
+      {
+        "token": "webserver",
+        "sim": 0.6380630731582642
+      },
+      {
+        "token": "demetricator",
+        "sim": 0.6342172026634216
+      },
+      {
+        "token": "https",
+        "sim": 0.6338595747947693
+      },
+      {
+        "token": "vcard",
+        "sim": 0.6313098073005676
+      },
+      {
+        "token": "intranet",
+        "sim": 0.6304219961166382
+      },
+      {
+        "token": "shortcode",
+        "sim": 0.6298794746398926
+      },
+      {
+        "token": "xhr",
+        "sim": 0.6293091177940369
+      },
+      {
+        "token": "phpmyadmin",
+        "sim": 0.6289805769920349
+      },
+      {
+        "token": "zimbra",
+        "sim": 0.6289653182029724
+      },
+      {
+        "token": "calendaring",
+        "sim": 0.6284304857254028
+      },
+      {
+        "token": "checkins",
+        "sim": 0.6282683610916138
+      },
+      {
+        "token": "webmail",
+        "sim": 0.6279083490371704
+      },
+      {
+        "token": "urls",
+        "sim": 0.627551794052124
+      },
+      {
+        "token": "minilock",
+        "sim": 0.6269696950912476
+      },
+      {
+        "token": "ghostery",
+        "sim": 0.6264678239822388
+      },
+      {
+        "token": "nameservers",
+        "sim": 0.6242982149124146
+      },
+      {
+        "token": "sitemaps",
+        "sim": 0.6242550611495972
+      },
+      {
+        "token": "wordtracker",
+        "sim": 0.6229476928710938
+      },
+      {
+        "token": "anonymizing",
+        "sim": 0.619905948638916
+      },
+      {
+        "token": "moodle",
+        "sim": 0.6197918653488159
+      },
+      {
+        "token": "toggl",
+        "sim": 0.6196441650390625
+      },
+      {
+        "token": "bitly",
+        "sim": 0.6189632415771484
+      },
+      {
+        "token": "trello",
+        "sim": 0.6182283759117126
+      },
+      {
+        "token": "nameserver",
+        "sim": 0.6177092790603638
+      },
+      {
+        "token": "tiddlywiki",
+        "sim": 0.6172887682914734
+      },
+      {
+        "token": "sitemap",
+        "sim": 0.6172058582305908
+      },
+      {
+        "token": "oauth",
+        "sim": 0.6160627007484436
+      },
+      {
+        "token": "igoogle",
+        "sim": 0.6156715154647827
+      },
+      {
+        "token": "aweber",
+        "sim": 0.6151784062385559
+      },
+      {
+        "token": "widget",
+        "sim": 0.6150291562080383
+      },
+      {
+        "token": "lastpass",
+        "sim": 0.6148658394813538
+      },
+      {
+        "token": "favicon",
+        "sim": 0.6147714853286743
+      },
+      {
+        "token": "shortener",
+        "sim": 0.6138322949409485
+      },
+      {
+        "token": "speedtest",
+        "sim": 0.6132287979125977
+      },
+      {
+        "token": "oovoo",
+        "sim": 0.6123374104499817
+      },
+      {
+        "token": "keepass",
+        "sim": 0.6123090386390686
+      },
+      {
+        "token": "ftp",
+        "sim": 0.6121230125427246
+      },
+      {
+        "token": "mediafire",
+        "sim": 0.6116999983787537
+      },
+      {
+        "token": "helloajax",
+        "sim": 0.6111708283424377
+      },
+      {
+        "token": "sitewide",
+        "sim": 0.6107343435287476
+      },
+      {
+        "token": "sugarsync",
+        "sim": 0.610667884349823
+      },
+      {
+        "token": "mailto",
+        "sim": 0.6088546514511108
+      },
+      {
+        "token": "robohelp",
+        "sim": 0.6086110472679138
+      },
+      {
+        "token": "directory",
+        "sim": 0.6082373261451721
+      },
+      {
+        "token": "edocr",
+        "sim": 0.606353759765625
+      },
+      {
+        "token": "scrobbler",
+        "sim": 0.6054039597511292
+      },
+      {
+        "token": "server",
+        "sim": 0.6050658226013184
+      },
+      {
+        "token": "cpanel",
+        "sim": 0.6039674282073975
+      },
+      {
+        "token": "remarketing",
+        "sim": 0.6027300953865051
+      },
+      {
+        "token": "fqdn",
+        "sim": 0.6021199226379395
+      },
+      {
+        "token": "webstore",
+        "sim": 0.6016439199447632
+      },
+      {
+        "token": "sideloading",
+        "sim": 0.6015634536743164
+      },
+      {
+        "token": "mediawiki",
+        "sim": 0.6012861728668213
+      },
+      {
+        "token": "ldap",
+        "sim": 0.6006498336791992
+      },
+      {
+        "token": "airdroid",
+        "sim": 0.5997708439826965
+      },
+      {
+        "token": "googlebot",
+        "sim": 0.5995247960090637
+      },
+      {
+        "token": "localhost",
+        "sim": 0.5992912650108337
+      },
+      {
+        "token": "login",
+        "sim": 0.5988673567771912
+      },
+      {
+        "token": "optin",
+        "sim": 0.5987735986709595
+      },
+      {
+        "token": "iowat",
+        "sim": 0.5983792543411255
+      },
+      {
+        "token": "webhosting",
+        "sim": 0.5964425802230835
+      },
+      {
+        "token": "longdesc",
+        "sim": 0.5962949395179749
+      },
+      {
+        "token": "cloudflare",
+        "sim": 0.5960025191307068
+      },
+      {
+        "token": "lifelog",
+        "sim": 0.5933230519294739
+      }
+    ],
+    "2": [
+      {
+        "token": "clicktale",
+        "sim": 0.6872661113739014
+      },
+      {
+        "token": "technet",
+        "sim": 0.6678388118743896
+      },
+      {
+        "token": "microsite",
+        "sim": 0.650127649307251
+      },
+      {
+        "token": "edsitement",
+        "sim": 0.6490344405174255
+      },
+      {
+        "token": "knovel",
+        "sim": 0.6479322910308838
+      },
+      {
+        "token": "physionet",
+        "sim": 0.645484447479248
+      },
+      {
+        "token": "chartbeat",
+        "sim": 0.6356866955757141
+      },
+      {
+        "token": "helpdesk",
+        "sim": 0.6348292827606201
+      },
+      {
+        "token": "gedmatch",
+        "sim": 0.6316564679145813
+      },
+      {
+        "token": "bookshare",
+        "sim": 0.6249594688415527
+      },
+      {
+        "token": "imedia",
+        "sim": 0.615692138671875
+      },
+      {
+        "token": "msdn",
+        "sim": 0.615336000919342
+      },
+      {
+        "token": "abine",
+        "sim": 0.6102721691131592
+      },
+      {
+        "token": "whispercast",
+        "sim": 0.6082683801651001
+      },
+      {
+        "token": "evidon",
+        "sim": 0.6077662706375122
+      },
+      {
+        "token": "iptc",
+        "sim": 0.606346845626831
+      },
+      {
+        "token": "whitepaper",
+        "sim": 0.6045920252799988
+      },
+      {
+        "token": "spokeo",
+        "sim": 0.6031537055969238
+      },
+      {
+        "token": "zendesk",
+        "sim": 0.600444495677948
+      },
+      {
+        "token": "ebrary",
+        "sim": 0.5997809767723083
+      },
+      {
+        "token": "sciencedirect",
+        "sim": 0.5985931158065796
+      },
+      {
+        "token": "visionmobile",
+        "sim": 0.5977728366851807
+      },
+      {
+        "token": "qualtrics",
+        "sim": 0.5961874723434448
+      },
+      {
+        "token": "yandex",
+        "sim": 0.5936448574066162
+      }
+    ],
+    "1": [
+      {
+        "token": "linkedln",
+        "sim": 0.6870914697647095
+      },
+      {
+        "token": "peoplebrowsr",
+        "sim": 0.6635515689849854
+      },
+      {
+        "token": "pastebin",
+        "sim": 0.6628749370574951
+      },
+      {
+        "token": "inmail",
+        "sim": 0.6604366302490234
+      },
+      {
+        "token": "email",
+        "sim": 0.6541337966918945
+      },
+      {
+        "token": "fanpage",
+        "sim": 0.6443235874176025
+      },
+      {
+        "token": "picthread",
+        "sim": 0.6415480375289917
+      },
+      {
+        "token": "homepages",
+        "sim": 0.6395909190177917
+      },
+      {
+        "token": "chatrooms",
+        "sim": 0.6348491311073303
+      },
+      {
+        "token": "bretbaier",
+        "sim": 0.6327192783355713
+      },
+      {
+        "token": "deviantart",
+        "sim": 0.6313392519950867
+      },
+      {
+        "token": "viber",
+        "sim": 0.6306266784667969
+      },
+      {
+        "token": "posterous",
+        "sim": 0.6288078427314758
+      },
+      {
+        "token": "addthis",
+        "sim": 0.6272648572921753
+      },
+      {
+        "token": "facebook",
+        "sim": 0.6250558495521545
+      },
+      {
+        "token": "mixi",
+        "sim": 0.6182806491851807
+      },
+      {
+        "token": "getglue",
+        "sim": 0.6157398223876953
+      },
+      {
+        "token": "mybloglog",
+        "sim": 0.6126490831375122
+      },
+      {
+        "token": "edmodo",
+        "sim": 0.6090256571769714
+      },
+      {
+        "token": "techmeme",
+        "sim": 0.6056640148162842
+      },
+      {
+        "token": "neogaf",
+        "sim": 0.6052059531211853
+      },
+      {
+        "token": "linkedin",
+        "sim": 0.6008806824684143
+      },
+      {
+        "token": "typepad",
+        "sim": 0.6003702878952026
+      },
+      {
+        "token": "photostream",
+        "sim": 0.5945305228233337
+      },
+      {
+        "token": "ebenefits",
+        "sim": 0.5937078595161438
+      },
+      {
+        "token": "gmail",
+        "sim": 0.5936393141746521
+      }
+    ],
+    "6": [
+      {
+        "token": "foxnewssunday",
+        "sim": 0.6784089803695679
+      },
+      {
+        "token": "glennbeck",
+        "sim": 0.6687402129173279
+      },
+      {
+        "token": "volunteermatch",
+        "sim": 0.6607712507247925
+      },
+      {
+        "token": "etree",
+        "sim": 0.6504964232444763
+      },
+      {
+        "token": "facethenation",
+        "sim": 0.631540060043335
+      },
+      {
+        "token": "songkick",
+        "sim": 0.6297472715377808
+      },
+      {
+        "token": "freshair",
+        "sim": 0.6262087821960449
+      },
+      {
+        "token": "stltoday",
+        "sim": 0.6223486661911011
+      },
+      {
+        "token": "billmoyers",
+        "sim": 0.6219417452812195
+      },
+      {
+        "token": "clickbank",
+        "sim": 0.6191573143005371
+      },
+      {
+        "token": "ezine",
+        "sim": 0.6188681125640869
+      },
+      {
+        "token": "accessatlanta",
+        "sim": 0.618268609046936
+      },
+      {
+        "token": "ebates",
+        "sim": 0.6110169291496277
+      },
+      {
+        "token": "thefivefnc",
+        "sim": 0.6103172302246094
+      },
+      {
+        "token": "tomiahonen",
+        "sim": 0.6075966358184814
+      },
+      {
+        "token": "sitepoint",
+        "sim": 0.6003217697143555
+      },
+      {
+        "token": "mydomain",
+        "sim": 0.5994606018066406
+      },
+      {
+        "token": "fastweb",
+        "sim": 0.5990477800369263
+      },
+      {
+        "token": "enews",
+        "sim": 0.5985668301582336
+      },
+      {
+        "token": "wwyd",
+        "sim": 0.5949791073799133
+      },
+      {
+        "token": "abebooks",
+        "sim": 0.5947109460830688
+      },
+      {
+        "token": "townhallfinance",
+        "sim": 0.5945257544517517
+      }
+    ],
+    "8": [
+      {
+        "token": "hyperlink",
+        "sim": 0.6740968823432922
+      }
+    ],
+    "4": [
+      {
+        "token": "netvibes",
+        "sim": 0.6734932661056519
+      },
+      {
+        "token": "wikispaces",
+        "sim": 0.6572586297988892
+      },
+      {
+        "token": "scribd",
+        "sim": 0.6534013152122498
+      },
+      {
+        "token": "squarespace",
+        "sim": 0.6505595445632935
+      },
+      {
+        "token": "libguides",
+        "sim": 0.641061544418335
+      },
+      {
+        "token": "herehttp",
+        "sim": 0.6398365497589111
+      },
+      {
+        "token": "glogster",
+        "sim": 0.637974202632904
+      },
+      {
+        "token": "siteground",
+        "sim": 0.6370357275009155
+      },
+      {
+        "token": "weebly",
+        "sim": 0.6332855224609375
+      },
+      {
+        "token": "embeddable",
+        "sim": 0.6295049786567688
+      },
+      {
+        "token": "hackaday",
+        "sim": 0.6270607113838196
+      },
+      {
+        "token": "pcworid",
+        "sim": 0.6269629597663879
+      },
+      {
+        "token": "mysite",
+        "sim": 0.625644862651825
+      },
+      {
+        "token": "youku",
+        "sim": 0.6252544522285461
+      },
+      {
+        "token": "wschools",
+        "sim": 0.6245283484458923
+      },
+      {
+        "token": "voki",
+        "sim": 0.6196452975273132
+      },
+      {
+        "token": "aurasma",
+        "sim": 0.6183406114578247
+      },
+      {
+        "token": "wpmu",
+        "sim": 0.6162089109420776
+      },
+      {
+        "token": "wikihow",
+        "sim": 0.61549973487854
+      },
+      {
+        "token": "picmonkey",
+        "sim": 0.6151056289672852
+      },
+      {
+        "token": "animoto",
+        "sim": 0.6097860336303711
+      },
+      {
+        "token": "branchout",
+        "sim": 0.6091460585594177
+      },
+      {
+        "token": "tedtalks",
+        "sim": 0.6068447828292847
+      },
+      {
+        "token": "wikia",
+        "sim": 0.6048359274864197
+      },
+      {
+        "token": "heroku",
+        "sim": 0.6043750643730164
+      },
+      {
+        "token": "fooducate",
+        "sim": 0.6002415418624878
+      },
+      {
+        "token": "powtoon",
+        "sim": 0.5956217646598816
+      }
+    ],
+    "0": [
+      {
+        "token": "emule",
+        "sim": 0.605103611946106
+      }
+    ]
+  }
+}

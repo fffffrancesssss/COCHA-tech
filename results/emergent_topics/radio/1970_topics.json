@@ -1,0 +1,823 @@
+{
+  "decade": 1970,
+  "concept": "radio",
+  "concept_hits": 5,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.07254911214113235,
+  "clusters": {
+    "0": [
+      {
+        "token": "radio",
+        "sim": 0.7991285920143127
+      },
+      {
+        "token": "transistor",
+        "sim": 0.5575699806213379
+      },
+      {
+        "token": "loudspeakers",
+        "sim": 0.5220844745635986
+      },
+      {
+        "token": "blares",
+        "sim": 0.5147956609725952
+      },
+      {
+        "token": "loudspeaker",
+        "sim": 0.5136102437973022
+      },
+      {
+        "token": "gramophone",
+        "sim": 0.4902562201023102
+      },
+      {
+        "token": "radios",
+        "sim": 0.4456368386745453
+      },
+      {
+        "token": "blaring",
+        "sim": 0.44503703713417053
+      },
+      {
+        "token": "tuned",
+        "sim": 0.4436397850513458
+      }
+    ],
+    "4": [
+      {
+        "token": "wireless",
+        "sim": 0.7324057817459106
+      },
+      {
+        "token": "shortwave",
+        "sim": 0.6653537750244141
+      },
+      {
+        "token": "wnyc",
+        "sim": 0.6234045624732971
+      },
+      {
+        "token": "hookup",
+        "sim": 0.607269823551178
+      },
+      {
+        "token": "teletype",
+        "sim": 0.5967994332313538
+      },
+      {
+        "token": "telex",
+        "sim": 0.5950897932052612
+      },
+      {
+        "token": "poldhu",
+        "sim": 0.5875751972198486
+      },
+      {
+        "token": "fm",
+        "sim": 0.5606945157051086
+      },
+      {
+        "token": "vhf",
+        "sim": 0.552358090877533
+      },
+      {
+        "token": "wlw",
+        "sim": 0.550662100315094
+      },
+      {
+        "token": "repairmen",
+        "sim": 0.5501145124435425
+      },
+      {
+        "token": "relay",
+        "sim": 0.5348029136657715
+      },
+      {
+        "token": "radiocast",
+        "sim": 0.5322408080101013
+      },
+      {
+        "token": "kfkb",
+        "sim": 0.5222030878067017
+      },
+      {
+        "token": "zabotin",
+        "sim": 0.5177248120307922
+      },
+      {
+        "token": "monitored",
+        "sim": 0.5154551863670349
+      },
+      {
+        "token": "coded",
+        "sim": 0.5114481449127197
+      },
+      {
+        "token": "transoceanic",
+        "sim": 0.5048327445983887
+      },
+      {
+        "token": "uhf",
+        "sim": 0.5007474422454834
+      },
+      {
+        "token": "catv",
+        "sim": 0.49435311555862427
+      },
+      {
+        "token": "telephonic",
+        "sim": 0.4937024712562561
+      },
+      {
+        "token": "domei",
+        "sim": 0.4906855821609497
+      },
+      {
+        "token": "afrs",
+        "sim": 0.48706623911857605
+      },
+      {
+        "token": "airwaves",
+        "sim": 0.47988080978393555
+      },
+      {
+        "token": "cable",
+        "sim": 0.4746997356414795
+      },
+      {
+        "token": "pbs",
+        "sim": 0.4727410674095154
+      },
+      {
+        "token": "telegraphic",
+        "sim": 0.468793660402298
+      },
+      {
+        "token": "philco",
+        "sim": 0.4648514986038208
+      },
+      {
+        "token": "polygraph",
+        "sim": 0.4578115940093994
+      },
+      {
+        "token": "salyut",
+        "sim": 0.456556499004364
+      },
+      {
+        "token": "relayed",
+        "sim": 0.45608559250831604
+      },
+      {
+        "token": "crosley",
+        "sim": 0.44921618700027466
+      },
+      {
+        "token": "stations",
+        "sim": 0.4483967423439026
+      },
+      {
+        "token": "station",
+        "sim": 0.44472217559814453
+      },
+      {
+        "token": "wor",
+        "sim": 0.4429185390472412
+      },
+      {
+        "token": "relays",
+        "sim": 0.44249069690704346
+      },
+      {
+        "token": "receivers",
+        "sim": 0.44229763746261597
+      },
+      {
+        "token": "tele",
+        "sim": 0.4388505220413208
+      },
+      {
+        "token": "switchboards",
+        "sim": 0.43797844648361206
+      },
+      {
+        "token": "channel",
+        "sim": 0.4376145601272583
+      },
+      {
+        "token": "communications",
+        "sim": 0.4357716143131256
+      },
+      {
+        "token": "bulletins",
+        "sim": 0.4353949725627899
+      },
+      {
+        "token": "wiretap",
+        "sim": 0.4352242946624756
+      },
+      {
+        "token": "comsat",
+        "sim": 0.43419408798217773
+      }
+    ],
+    "3": [
+      {
+        "token": "transmitter",
+        "sim": 0.7114717960357666
+      },
+      {
+        "token": "transmitters",
+        "sim": 0.6082130074501038
+      },
+      {
+        "token": "amplifier",
+        "sim": 0.575707197189331
+      },
+      {
+        "token": "radiotelephone",
+        "sim": 0.5629469752311707
+      },
+      {
+        "token": "transmissions",
+        "sim": 0.5484707355499268
+      },
+      {
+        "token": "oscilloscope",
+        "sim": 0.5296601057052612
+      },
+      {
+        "token": "precon",
+        "sim": 0.5265024900436401
+      },
+      {
+        "token": "telephony",
+        "sim": 0.5233211517333984
+      },
+      {
+        "token": "sensors",
+        "sim": 0.5163995027542114
+      },
+      {
+        "token": "antenna",
+        "sim": 0.5109637379646301
+      },
+      {
+        "token": "circuits",
+        "sim": 0.50835782289505
+      },
+      {
+        "token": "transmitting",
+        "sim": 0.49834680557250977
+      },
+      {
+        "token": "electronically",
+        "sim": 0.497775673866272
+      },
+      {
+        "token": "autopilot",
+        "sim": 0.49652767181396484
+      },
+      {
+        "token": "frequencies",
+        "sim": 0.49411559104919434
+      },
+      {
+        "token": "modulation",
+        "sim": 0.4931928515434265
+      },
+      {
+        "token": "blip",
+        "sim": 0.493033766746521
+      },
+      {
+        "token": "manually",
+        "sim": 0.4902912974357605
+      },
+      {
+        "token": "cb",
+        "sim": 0.4896708130836487
+      },
+      {
+        "token": "amplifiers",
+        "sim": 0.48907774686813354
+      },
+      {
+        "token": "audion",
+        "sim": 0.4863755702972412
+      },
+      {
+        "token": "antennas",
+        "sim": 0.48600730299949646
+      },
+      {
+        "token": "feedback",
+        "sim": 0.48512133955955505
+      },
+      {
+        "token": "radar",
+        "sim": 0.48429590463638306
+      },
+      {
+        "token": "electromagnetic",
+        "sim": 0.4782707393169403
+      },
+      {
+        "token": "beep",
+        "sim": 0.4769769012928009
+      },
+      {
+        "token": "oscillator",
+        "sim": 0.47475796937942505
+      },
+      {
+        "token": "detector",
+        "sim": 0.4713180959224701
+      },
+      {
+        "token": "projector",
+        "sim": 0.4697062075138092
+      },
+      {
+        "token": "sonar",
+        "sim": 0.46438899636268616
+      },
+      {
+        "token": "microwave",
+        "sim": 0.46436965465545654
+      },
+      {
+        "token": "navigational",
+        "sim": 0.4635540843009949
+      },
+      {
+        "token": "dipole",
+        "sim": 0.46285998821258545
+      },
+      {
+        "token": "radars",
+        "sim": 0.4600444436073303
+      },
+      {
+        "token": "jammer",
+        "sim": 0.45760679244995117
+      },
+      {
+        "token": "digital",
+        "sim": 0.4573637545108795
+      },
+      {
+        "token": "detectors",
+        "sim": 0.45619916915893555
+      },
+      {
+        "token": "activate",
+        "sim": 0.4517843425273895
+      },
+      {
+        "token": "activating",
+        "sim": 0.4485510289669037
+      },
+      {
+        "token": "telegraphy",
+        "sim": 0.43972888588905334
+      },
+      {
+        "token": "computer",
+        "sim": 0.4366195499897003
+      },
+      {
+        "token": "altimeter",
+        "sim": 0.4362272620201111
+      },
+      {
+        "token": "signals",
+        "sim": 0.4343127906322479
+      },
+      {
+        "token": "receptor",
+        "sim": 0.433294415473938
+      },
+      {
+        "token": "infrared",
+        "sim": 0.43070483207702637
+      }
+    ],
+    "5": [
+      {
+        "token": "broadcast",
+        "sim": 0.6738308668136597
+      },
+      {
+        "token": "wmca",
+        "sim": 0.5626698732376099
+      },
+      {
+        "token": "television",
+        "sim": 0.5598116517066956
+      },
+      {
+        "token": "broadcasts",
+        "sim": 0.5539568662643433
+      },
+      {
+        "token": "newscast",
+        "sim": 0.5518460273742676
+      },
+      {
+        "token": "tv",
+        "sim": 0.5172213912010193
+      },
+      {
+        "token": "anchorman",
+        "sim": 0.5142331123352051
+      },
+      {
+        "token": "newscaster",
+        "sim": 0.5107795596122742
+      },
+      {
+        "token": "newscasts",
+        "sim": 0.5077223777770996
+      },
+      {
+        "token": "broadcasting",
+        "sim": 0.48456084728240967
+      },
+      {
+        "token": "telecast",
+        "sim": 0.4819813370704651
+      },
+      {
+        "token": "announcers",
+        "sim": 0.47907301783561707
+      },
+      {
+        "token": "wgbh",
+        "sim": 0.47727537155151367
+      },
+      {
+        "token": "broadcaster",
+        "sim": 0.470619261264801
+      },
+      {
+        "token": "serials",
+        "sim": 0.4620931148529053
+      },
+      {
+        "token": "announcer",
+        "sim": 0.4538485109806061
+      },
+      {
+        "token": "network",
+        "sim": 0.451193630695343
+      },
+      {
+        "token": "bbc",
+        "sim": 0.4469684958457947
+      },
+      {
+        "token": "kaltenborn",
+        "sim": 0.4437727928161621
+      },
+      {
+        "token": "ubs",
+        "sim": 0.44347989559173584
+      },
+      {
+        "token": "reasoner",
+        "sim": 0.4415053427219391
+      },
+      {
+        "token": "newsroom",
+        "sim": 0.4391956925392151
+      },
+      {
+        "token": "commentator",
+        "sim": 0.43212324380874634
+      }
+    ],
+    "1": [
+      {
+        "token": "receiver",
+        "sim": 0.6109839677810669
+      },
+      {
+        "token": "intercom",
+        "sim": 0.6014047861099243
+      },
+      {
+        "token": "talkie",
+        "sim": 0.5858786106109619
+      },
+      {
+        "token": "communicator",
+        "sim": 0.579103410243988
+      },
+      {
+        "token": "walkie",
+        "sim": 0.5567713975906372
+      },
+      {
+        "token": "deangelis",
+        "sim": 0.5532944798469543
+      },
+      {
+        "token": "telephone",
+        "sim": 0.54140305519104
+      },
+      {
+        "token": "microphone",
+        "sim": 0.5396551489830017
+      },
+      {
+        "token": "phone",
+        "sim": 0.5252194404602051
+      },
+      {
+        "token": "dictaphone",
+        "sim": 0.5212975740432739
+      },
+      {
+        "token": "radarscope",
+        "sim": 0.5211142301559448
+      },
+      {
+        "token": "typer",
+        "sim": 0.5150443315505981
+      },
+      {
+        "token": "menore",
+        "sim": 0.500503420829773
+      },
+      {
+        "token": "rutt",
+        "sim": 0.4953300654888153
+      },
+      {
+        "token": "sextant",
+        "sim": 0.48913484811782837
+      },
+      {
+        "token": "vanderhof",
+        "sim": 0.48773717880249023
+      },
+      {
+        "token": "muddlehead",
+        "sim": 0.4856399893760681
+      },
+      {
+        "token": "nadya",
+        "sim": 0.48076385259628296
+      },
+      {
+        "token": "dispatcher",
+        "sim": 0.4806392788887024
+      },
+      {
+        "token": "stopwatch",
+        "sim": 0.4738163650035858
+      },
+      {
+        "token": "printout",
+        "sim": 0.4729210138320923
+      },
+      {
+        "token": "dial",
+        "sim": 0.47279998660087585
+      },
+      {
+        "token": "solari",
+        "sim": 0.467621386051178
+      },
+      {
+        "token": "clicks",
+        "sim": 0.46734488010406494
+      },
+      {
+        "token": "mouthpiece",
+        "sim": 0.4645612835884094
+      },
+      {
+        "token": "urling",
+        "sim": 0.46411460638046265
+      },
+      {
+        "token": "switchboard",
+        "sim": 0.46074914932250977
+      },
+      {
+        "token": "engel",
+        "sim": 0.45894190669059753
+      },
+      {
+        "token": "feyderspiel",
+        "sim": 0.4562605619430542
+      },
+      {
+        "token": "cowder",
+        "sim": 0.45292913913726807
+      },
+      {
+        "token": "televisor",
+        "sim": 0.4528138339519501
+      },
+      {
+        "token": "spindler",
+        "sim": 0.4514787197113037
+      },
+      {
+        "token": "radioman",
+        "sim": 0.45138782262802124
+      },
+      {
+        "token": "beamer",
+        "sim": 0.4513697624206543
+      },
+      {
+        "token": "hewett",
+        "sim": 0.4501214623451233
+      },
+      {
+        "token": "kiosk",
+        "sim": 0.45006313920021057
+      },
+      {
+        "token": "aubie",
+        "sim": 0.44985634088516235
+      },
+      {
+        "token": "paged",
+        "sim": 0.44848769903182983
+      },
+      {
+        "token": "technician",
+        "sim": 0.44492438435554504
+      },
+      {
+        "token": "haruhiku",
+        "sim": 0.44356605410575867
+      },
+      {
+        "token": "cascio",
+        "sim": 0.44184231758117676
+      },
+      {
+        "token": "dashboard",
+        "sim": 0.44067472219467163
+      },
+      {
+        "token": "winternitz",
+        "sim": 0.43871432542800903
+      },
+      {
+        "token": "bergholtz",
+        "sim": 0.4386943578720093
+      },
+      {
+        "token": "buzzes",
+        "sim": 0.4373847246170044
+      },
+      {
+        "token": "blevins",
+        "sim": 0.4360479414463043
+      },
+      {
+        "token": "comfleets",
+        "sim": 0.4357491135597229
+      },
+      {
+        "token": "operator",
+        "sim": 0.43519094586372375
+      },
+      {
+        "token": "augmentor",
+        "sim": 0.4339037239551544
+      },
+      {
+        "token": "dictograph",
+        "sim": 0.43312546610832214
+      },
+      {
+        "token": "deyoung",
+        "sim": 0.4328285753726959
+      },
+      {
+        "token": "epps",
+        "sim": 0.431936651468277
+      }
+    ],
+    "2": [
+      {
+        "token": "audio",
+        "sim": 0.5881161689758301
+      },
+      {
+        "token": "cassette",
+        "sim": 0.5861023664474487
+      },
+      {
+        "token": "earphones",
+        "sim": 0.5747865438461304
+      },
+      {
+        "token": "playback",
+        "sim": 0.5425768494606018
+      },
+      {
+        "token": "videotape",
+        "sim": 0.5181320309638977
+      },
+      {
+        "token": "recorders",
+        "sim": 0.5121161341667175
+      },
+      {
+        "token": "tape",
+        "sim": 0.5119041204452515
+      },
+      {
+        "token": "recorder",
+        "sim": 0.5096909999847412
+      },
+      {
+        "token": "microphones",
+        "sim": 0.49921414256095886
+      },
+      {
+        "token": "taped",
+        "sim": 0.4905380308628082
+      },
+      {
+        "token": "stereo",
+        "sim": 0.48846739530563354
+      },
+      {
+        "token": "transcribed",
+        "sim": 0.46727126836776733
+      },
+      {
+        "token": "victrola",
+        "sim": 0.4644384980201721
+      },
+      {
+        "token": "sony",
+        "sim": 0.46195492148399353
+      },
+      {
+        "token": "repairman",
+        "sim": 0.45869630575180054
+      },
+      {
+        "token": "keyboard",
+        "sim": 0.45647385716438293
+      },
+      {
+        "token": "taping",
+        "sim": 0.45324254035949707
+      },
+      {
+        "token": "transcriptions",
+        "sim": 0.44930851459503174
+      },
+      {
+        "token": "video",
+        "sim": 0.44880685210227966
+      },
+      {
+        "token": "ticker",
+        "sim": 0.44793859124183655
+      },
+      {
+        "token": "phonograph",
+        "sim": 0.4459979832172394
+      },
+      {
+        "token": "pianola",
+        "sim": 0.4451608657836914
+      },
+      {
+        "token": "tapes",
+        "sim": 0.44101637601852417
+      },
+      {
+        "token": "recording",
+        "sim": 0.43540656566619873
+      },
+      {
+        "token": "mimeograph",
+        "sim": 0.4342353343963623
+      },
+      {
+        "token": "cameras",
+        "sim": 0.43325066566467285
+      },
+      {
+        "token": "teevee",
+        "sim": 0.43143272399902344
+      }
+    ]
+  }
+}

@@ -1,0 +1,823 @@
+{
+  "decade": 2000,
+  "concept": "internet",
+  "concept_hits": 9,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.08642936497926712,
+  "clusters": {
+    "0": [
+      {
+        "token": "web",
+        "sim": 0.860492467880249
+      },
+      {
+        "token": "online",
+        "sim": 0.7808642387390137
+      },
+      {
+        "token": "internet",
+        "sim": 0.7681431770324707
+      },
+      {
+        "token": "blog",
+        "sim": 0.6978198885917664
+      },
+      {
+        "token": "facebook",
+        "sim": 0.6848974227905273
+      },
+      {
+        "token": "yahoo",
+        "sim": 0.6760830283164978
+      },
+      {
+        "token": "linkedin",
+        "sim": 0.6710401177406311
+      },
+      {
+        "token": "websites",
+        "sim": 0.6544249653816223
+      },
+      {
+        "token": "myspace",
+        "sim": 0.6523548364639282
+      },
+      {
+        "token": "google",
+        "sim": 0.6455844640731812
+      },
+      {
+        "token": "friendster",
+        "sim": 0.6435735821723938
+      },
+      {
+        "token": "blogs",
+        "sim": 0.6288231611251831
+      },
+      {
+        "token": "twitter",
+        "sim": 0.6267291307449341
+      },
+      {
+        "token": "cyberspace",
+        "sim": 0.6187909841537476
+      },
+      {
+        "token": "digg",
+        "sim": 0.6118103861808777
+      },
+      {
+        "token": "youtube",
+        "sim": 0.6113514304161072
+      },
+      {
+        "token": "messaging",
+        "sim": 0.6005336046218872
+      },
+      {
+        "token": "craigslist",
+        "sim": 0.597315788269043
+      }
+    ],
+    "4": [
+      {
+        "token": "website",
+        "sim": 0.7768880128860474
+      },
+      {
+        "token": "consumerreports",
+        "sim": 0.7388076782226562
+      },
+      {
+        "token": "webpage",
+        "sim": 0.7361316680908203
+      },
+      {
+        "token": "livejournal",
+        "sim": 0.7341245412826538
+      },
+      {
+        "token": "tellmemore",
+        "sim": 0.7256344556808472
+      },
+      {
+        "token": "earlyshow",
+        "sim": 0.7173120379447937
+      },
+      {
+        "token": "todayshow",
+        "sim": 0.7105541229248047
+      },
+      {
+        "token": "ireport",
+        "sim": 0.70395427942276
+      },
+      {
+        "token": "ehow",
+        "sim": 0.6896864175796509
+      },
+      {
+        "token": "weekendtoday",
+        "sim": 0.688240110874176
+      },
+      {
+        "token": "pmzone",
+        "sim": 0.6825839281082153
+      },
+      {
+        "token": "elearning",
+        "sim": 0.6755319833755493
+      },
+      {
+        "token": "larryking",
+        "sim": 0.6746203899383545
+      },
+      {
+        "token": "savingforcollege",
+        "sim": 0.6710805296897888
+      },
+      {
+        "token": "evite",
+        "sim": 0.6708598136901855
+      },
+      {
+        "token": "homepage",
+        "sim": 0.66637122631073
+      },
+      {
+        "token": "foxnews",
+        "sim": 0.6653022766113281
+      },
+      {
+        "token": "sciencefriday",
+        "sim": 0.661834716796875
+      },
+      {
+        "token": "epicurious",
+        "sim": 0.6614289879798889
+      },
+      {
+        "token": "boyslife",
+        "sim": 0.6605257987976074
+      },
+      {
+        "token": "americamagazine",
+        "sim": 0.6597437858581543
+      },
+      {
+        "token": "blogofthenation",
+        "sim": 0.657517671585083
+      },
+      {
+        "token": "bkshelf",
+        "sim": 0.6565695405006409
+      },
+      {
+        "token": "skinet",
+        "sim": 0.6548718214035034
+      },
+      {
+        "token": "tinyurl",
+        "sim": 0.6528905034065247
+      },
+      {
+        "token": "site",
+        "sim": 0.6517648100852966
+      },
+      {
+        "token": "communitycare",
+        "sim": 0.6416258811950684
+      },
+      {
+        "token": "meetup",
+        "sim": 0.6392310857772827
+      },
+      {
+        "token": "edrs",
+        "sim": 0.6372095346450806
+      },
+      {
+        "token": "motherearthnews",
+        "sim": 0.636376678943634
+      },
+      {
+        "token": "washingtonpost",
+        "sim": 0.6315019726753235
+      },
+      {
+        "token": "blogspot",
+        "sim": 0.630932092666626
+      },
+      {
+        "token": "fileworld",
+        "sim": 0.6299342513084412
+      },
+      {
+        "token": "musicfriends",
+        "sim": 0.6291052103042603
+      },
+      {
+        "token": "ifilm",
+        "sim": 0.6281890273094177
+      },
+      {
+        "token": "url",
+        "sim": 0.6215422749519348
+      },
+      {
+        "token": "billoreilly",
+        "sim": 0.6203752160072327
+      },
+      {
+        "token": "gretawire",
+        "sim": 0.6195214986801147
+      },
+      {
+        "token": "fieldandstream",
+        "sim": 0.6165152192115784
+      },
+      {
+        "token": "com",
+        "sim": 0.6159560680389404
+      },
+      {
+        "token": "cnnmoney",
+        "sim": 0.6115292310714722
+      },
+      {
+        "token": "imdb",
+        "sim": 0.6110283136367798
+      },
+      {
+        "token": "organicgardening",
+        "sim": 0.6053800582885742
+      },
+      {
+        "token": "beliefnet",
+        "sim": 0.6041706204414368
+      },
+      {
+        "token": "uscatholic",
+        "sim": 0.6021609306335449
+      },
+      {
+        "token": "pcworld",
+        "sim": 0.6010753512382507
+      },
+      {
+        "token": "podcast",
+        "sim": 0.5983301401138306
+      },
+      {
+        "token": "ngm",
+        "sim": 0.5982498526573181
+      },
+      {
+        "token": "shtml",
+        "sim": 0.5963293313980103
+      }
+    ],
+    "3": [
+      {
+        "token": "wordpress",
+        "sim": 0.7530040740966797
+      },
+      {
+        "token": "picasa",
+        "sim": 0.7072055339813232
+      },
+      {
+        "token": "bloglines",
+        "sim": 0.706983208656311
+      },
+      {
+        "token": "zoho",
+        "sim": 0.694919228553772
+      },
+      {
+        "token": "nsdl",
+        "sim": 0.6897029876708984
+      },
+      {
+        "token": "cloudmark",
+        "sim": 0.6894757151603699
+      },
+      {
+        "token": "salesforce",
+        "sim": 0.6779096722602844
+      },
+      {
+        "token": "mozilla",
+        "sim": 0.6774322986602783
+      },
+      {
+        "token": "javascript",
+        "sim": 0.6770896315574646
+      },
+      {
+        "token": "thinkfree",
+        "sim": 0.6757573485374451
+      },
+      {
+        "token": "webbased",
+        "sim": 0.6703124642372131
+      },
+      {
+        "token": "shutterfly",
+        "sim": 0.6684444546699524
+      },
+      {
+        "token": "mozy",
+        "sim": 0.6654627323150635
+      },
+      {
+        "token": "openoffice",
+        "sim": 0.6648584008216858
+      },
+      {
+        "token": "skype",
+        "sim": 0.6635053157806396
+      },
+      {
+        "token": "airspan",
+        "sim": 0.6561129093170166
+      },
+      {
+        "token": "firefox",
+        "sim": 0.6542760133743286
+      },
+      {
+        "token": "spamnet",
+        "sim": 0.6526724696159363
+      },
+      {
+        "token": "atheros",
+        "sim": 0.651492714881897
+      },
+      {
+        "token": "econgo",
+        "sim": 0.6490379571914673
+      },
+      {
+        "token": "movielink",
+        "sim": 0.6469864249229431
+      },
+      {
+        "token": "imap",
+        "sim": 0.6453428864479065
+      },
+      {
+        "token": "bittorrent",
+        "sim": 0.6413472890853882
+      },
+      {
+        "token": "mapquest",
+        "sim": 0.6402297019958496
+      },
+      {
+        "token": "copernic",
+        "sim": 0.6362530589103699
+      },
+      {
+        "token": "syncplicity",
+        "sim": 0.6359941363334656
+      },
+      {
+        "token": "xdrive",
+        "sim": 0.6345059275627136
+      },
+      {
+        "token": "downloadable",
+        "sim": 0.629384458065033
+      },
+      {
+        "token": "dropbox",
+        "sim": 0.6279099583625793
+      },
+      {
+        "token": "cinemanow",
+        "sim": 0.6248496770858765
+      },
+      {
+        "token": "freeware",
+        "sim": 0.6234734058380127
+      },
+      {
+        "token": "masterformat",
+        "sim": 0.6211195588111877
+      },
+      {
+        "token": "tomtom",
+        "sim": 0.6195152401924133
+      },
+      {
+        "token": "opensource",
+        "sim": 0.6165283918380737
+      },
+      {
+        "token": "omniture",
+        "sim": 0.6161043047904968
+      },
+      {
+        "token": "vtech",
+        "sim": 0.6148093938827515
+      },
+      {
+        "token": "emusic",
+        "sim": 0.614163339138031
+      },
+      {
+        "token": "metricom",
+        "sim": 0.6139938831329346
+      },
+      {
+        "token": "hotoffice",
+        "sim": 0.6112229228019714
+      },
+      {
+        "token": "iphoto",
+        "sim": 0.6094416379928589
+      },
+      {
+        "token": "zonealarm",
+        "sim": 0.6094377040863037
+      },
+      {
+        "token": "roxio",
+        "sim": 0.6083472967147827
+      },
+      {
+        "token": "maptech",
+        "sim": 0.607102632522583
+      },
+      {
+        "token": "smartphone",
+        "sim": 0.6046226620674133
+      },
+      {
+        "token": "sugarsync",
+        "sim": 0.6043267846107483
+      },
+      {
+        "token": "wherify",
+        "sim": 0.6038404703140259
+      },
+      {
+        "token": "webex",
+        "sim": 0.603578507900238
+      },
+      {
+        "token": "brightmail",
+        "sim": 0.6034647226333618
+      },
+      {
+        "token": "slingbox",
+        "sim": 0.6033626794815063
+      },
+      {
+        "token": "icq",
+        "sim": 0.6032184362411499
+      },
+      {
+        "token": "musicmatch",
+        "sim": 0.6017806529998779
+      },
+      {
+        "token": "middleware",
+        "sim": 0.6010681986808777
+      },
+      {
+        "token": "realnetworks",
+        "sim": 0.597748875617981
+      }
+    ],
+    "2": [
+      {
+        "token": "hyperlink",
+        "sim": 0.7237730622291565
+      },
+      {
+        "token": "faq",
+        "sim": 0.6985549926757812
+      },
+      {
+        "token": "gliffy",
+        "sim": 0.695885181427002
+      },
+      {
+        "token": "lnternet",
+        "sim": 0.6869214773178101
+      },
+      {
+        "token": "aggregators",
+        "sim": 0.6866399049758911
+      },
+      {
+        "token": "browser",
+        "sim": 0.6859435439109802
+      },
+      {
+        "token": "flickr",
+        "sim": 0.6851868629455566
+      },
+      {
+        "token": "newsgroups",
+        "sim": 0.6700295805931091
+      },
+      {
+        "token": "download",
+        "sim": 0.6640619039535522
+      },
+      {
+        "token": "bookmarked",
+        "sim": 0.6622208952903748
+      },
+      {
+        "token": "gnutella",
+        "sim": 0.6607729196548462
+      },
+      {
+        "token": "newsgroup",
+        "sim": 0.6525510549545288
+      },
+      {
+        "token": "intranet",
+        "sim": 0.6394240260124207
+      },
+      {
+        "token": "pdfs",
+        "sim": 0.6383005380630493
+      },
+      {
+        "token": "faqs",
+        "sim": 0.6365773677825928
+      },
+      {
+        "token": "listservs",
+        "sim": 0.6348955035209656
+      },
+      {
+        "token": "podcasting",
+        "sim": 0.6347007751464844
+      },
+      {
+        "token": "podcasts",
+        "sim": 0.6328425407409668
+      },
+      {
+        "token": "weblogs",
+        "sim": 0.6321167349815369
+      },
+      {
+        "token": "inboxes",
+        "sim": 0.627835750579834
+      },
+      {
+        "token": "login",
+        "sim": 0.6268562078475952
+      },
+      {
+        "token": "wikis",
+        "sim": 0.6254955530166626
+      },
+      {
+        "token": "hyperlinks",
+        "sim": 0.6252790689468384
+      },
+      {
+        "token": "bitnet",
+        "sim": 0.6247366666793823
+      },
+      {
+        "token": "urls",
+        "sim": 0.6240839958190918
+      },
+      {
+        "token": "telnet",
+        "sim": 0.622393012046814
+      },
+      {
+        "token": "intranets",
+        "sim": 0.6206036806106567
+      },
+      {
+        "token": "usenet",
+        "sim": 0.6191617846488953
+      },
+      {
+        "token": "realaudio",
+        "sim": 0.6161341667175293
+      },
+      {
+        "token": "frontpage",
+        "sim": 0.6150673031806946
+      },
+      {
+        "token": "netpuppets",
+        "sim": 0.6100564002990723
+      },
+      {
+        "token": "googles",
+        "sim": 0.6097033023834229
+      },
+      {
+        "token": "webcasts",
+        "sim": 0.6094152331352234
+      },
+      {
+        "token": "encrypting",
+        "sim": 0.6030223965644836
+      },
+      {
+        "token": "webmasters",
+        "sim": 0.6020393371582031
+      }
+    ],
+    "1": [
+      {
+        "token": "testdrive",
+        "sim": 0.6727973222732544
+      },
+      {
+        "token": "scifri",
+        "sim": 0.6530627608299255
+      },
+      {
+        "token": "newswatch",
+        "sim": 0.6518068909645081
+      },
+      {
+        "token": "chatroom",
+        "sim": 0.6505751609802246
+      },
+      {
+        "token": "claytonm",
+        "sim": 0.6460081338882446
+      },
+      {
+        "token": "csmonitor",
+        "sim": 0.6344743967056274
+      },
+      {
+        "token": "caffertyfile",
+        "sim": 0.6260753870010376
+      },
+      {
+        "token": "mail",
+        "sim": 0.6253334879875183
+      },
+      {
+        "token": "email",
+        "sim": 0.6233022212982178
+      },
+      {
+        "token": "weeklyreader",
+        "sim": 0.6224861741065979
+      },
+      {
+        "token": "showbiztonight",
+        "sim": 0.618007242679596
+      },
+      {
+        "token": "yourhealth",
+        "sim": 0.6134233474731445
+      },
+      {
+        "token": "ywt",
+        "sim": 0.6075452566146851
+      },
+      {
+        "token": "taylorpub",
+        "sim": 0.6043223142623901
+      },
+      {
+        "token": "openforum",
+        "sim": 0.6017191410064697
+      },
+      {
+        "token": "timeinc",
+        "sim": 0.5970646142959595
+      }
+    ],
+    "5": [
+      {
+        "token": "opentable",
+        "sim": 0.6631096601486206
+      },
+      {
+        "token": "autobytel",
+        "sim": 0.6561380624771118
+      },
+      {
+        "token": "turnitin",
+        "sim": 0.6552779674530029
+      },
+      {
+        "token": "mindspring",
+        "sim": 0.6531884670257568
+      },
+      {
+        "token": "zdnet",
+        "sim": 0.6481962203979492
+      },
+      {
+        "token": "nettrekker",
+        "sim": 0.646612823009491
+      },
+      {
+        "token": "technorati",
+        "sim": 0.6348749995231628
+      },
+      {
+        "token": "geocities",
+        "sim": 0.6287820339202881
+      },
+      {
+        "token": "hotmail",
+        "sim": 0.6279913783073425
+      },
+      {
+        "token": "barnesandnoble",
+        "sim": 0.6278562545776367
+      },
+      {
+        "token": "visitbritain",
+        "sim": 0.6234070062637329
+      },
+      {
+        "token": "bizrate",
+        "sim": 0.621427595615387
+      },
+      {
+        "token": "orbitz",
+        "sim": 0.621017575263977
+      },
+      {
+        "token": "ourhouse",
+        "sim": 0.6182398200035095
+      },
+      {
+        "token": "cardweb",
+        "sim": 0.6169546842575073
+      },
+      {
+        "token": "xoom",
+        "sim": 0.6167780160903931
+      },
+      {
+        "token": "collegehumor",
+        "sim": 0.6145806312561035
+      },
+      {
+        "token": "ivillage",
+        "sim": 0.6134024858474731
+      },
+      {
+        "token": "zillow",
+        "sim": 0.6124950647354126
+      },
+      {
+        "token": "doubleclick",
+        "sim": 0.6100980639457703
+      },
+      {
+        "token": "wsj",
+        "sim": 0.6077527403831482
+      },
+      {
+        "token": "stubhub",
+        "sim": 0.6039685010910034
+      },
+      {
+        "token": "healtheon",
+        "sim": 0.6037251949310303
+      },
+      {
+        "token": "hitwise",
+        "sim": 0.6033651828765869
+      },
+      {
+        "token": "carsdirect",
+        "sim": 0.601688027381897
+      },
+      {
+        "token": "moviefone",
+        "sim": 0.599319577217102
+      },
+      {
+        "token": "drkoop",
+        "sim": 0.5985379815101624
+      },
+      {
+        "token": "tripadvisor",
+        "sim": 0.5983701348304749
+      },
+      {
+        "token": "msn",
+        "sim": 0.5962620973587036
+      }
+    ]
+  }
+}

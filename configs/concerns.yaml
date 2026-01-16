@@ -107,7 +107,6 @@ concerns:
       - privacy
       - surveillance
       - tracking
-      - data
       - personal
       - consent
       - leak
@@ -123,6 +122,7 @@ concerns:
       - identity
       - anonymous
       - breach
+      - data
 
   childhood:
     base:

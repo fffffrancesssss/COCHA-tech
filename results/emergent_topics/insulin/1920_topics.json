@@ -1,0 +1,823 @@
+{
+  "decade": 1920,
+  "concept": "insulin",
+  "concept_hits": 3,
+  "sub_hits": null,
+  "topn": 200,
+  "k": 6,
+  "silhouette": 0.11219335347414017,
+  "clusters": {
+    "4": [
+      {
+        "token": "insulin",
+        "sim": 0.8787294626235962
+      },
+      {
+        "token": "residues",
+        "sim": 0.783920168876648
+      },
+      {
+        "token": "albuminoids",
+        "sim": 0.767920196056366
+      },
+      {
+        "token": "amino",
+        "sim": 0.7652512788772583
+      },
+      {
+        "token": "enzymes",
+        "sim": 0.76176917552948
+      },
+      {
+        "token": "lignin",
+        "sim": 0.7614442110061646
+      },
+      {
+        "token": "phosphates",
+        "sim": 0.7613846063613892
+      },
+      {
+        "token": "proteids",
+        "sim": 0.7533631324768066
+      },
+      {
+        "token": "microbial",
+        "sim": 0.7473509311676025
+      },
+      {
+        "token": "carbohydrate",
+        "sim": 0.7466336488723755
+      },
+      {
+        "token": "sugars",
+        "sim": 0.7459282875061035
+      },
+      {
+        "token": "cellulose",
+        "sim": 0.7355562448501587
+      },
+      {
+        "token": "anaerobic",
+        "sim": 0.7331745624542236
+      },
+      {
+        "token": "rhizosphere",
+        "sim": 0.7322142124176025
+      },
+      {
+        "token": "decompose",
+        "sim": 0.7307504415512085
+      },
+      {
+        "token": "urine",
+        "sim": 0.7255061864852905
+      },
+      {
+        "token": "nitrite",
+        "sim": 0.7201987504959106
+      },
+      {
+        "token": "mycorrhizal",
+        "sim": 0.7191622853279114
+      },
+      {
+        "token": "aeration",
+        "sim": 0.71640545129776
+      },
+      {
+        "token": "lignins",
+        "sim": 0.7159535884857178
+      },
+      {
+        "token": "nitrogenous",
+        "sim": 0.7144021987915039
+      },
+      {
+        "token": "bacterial",
+        "sim": 0.7129355072975159
+      },
+      {
+        "token": "decomposing",
+        "sim": 0.7117089033126831
+      },
+      {
+        "token": "impurities",
+        "sim": 0.7070465683937073
+      },
+      {
+        "token": "colloid",
+        "sim": 0.7050647735595703
+      },
+      {
+        "token": "digestibility",
+        "sim": 0.7038148641586304
+      },
+      {
+        "token": "derivatives",
+        "sim": 0.7032927870750427
+      },
+      {
+        "token": "proteins",
+        "sim": 0.7020483016967773
+      },
+      {
+        "token": "fermentation",
+        "sim": 0.7003363370895386
+      },
+      {
+        "token": "carbohydrates",
+        "sim": 0.6996809244155884
+      },
+      {
+        "token": "colloids",
+        "sim": 0.698779821395874
+      },
+      {
+        "token": "colloidal",
+        "sim": 0.698523223400116
+      },
+      {
+        "token": "ferments",
+        "sim": 0.698197603225708
+      },
+      {
+        "token": "feces",
+        "sim": 0.6953906416893005
+      },
+      {
+        "token": "digestible",
+        "sim": 0.6905021071434021
+      },
+      {
+        "token": "oxidation",
+        "sim": 0.6895434260368347
+      },
+      {
+        "token": "humic",
+        "sim": 0.6843584775924683
+      },
+      {
+        "token": "rootlets",
+        "sim": 0.6815731525421143
+      },
+      {
+        "token": "yeasts",
+        "sim": 0.6800329089164734
+      },
+      {
+        "token": "fungus",
+        "sim": 0.6753546595573425
+      },
+      {
+        "token": "compost",
+        "sim": 0.6702756881713867
+      },
+      {
+        "token": "fats",
+        "sim": 0.6701338291168213
+      },
+      {
+        "token": "acidity",
+        "sim": 0.669364333152771
+      },
+      {
+        "token": "nutrients",
+        "sim": 0.669325590133667
+      },
+      {
+        "token": "fecal",
+        "sim": 0.6680966019630432
+      },
+      {
+        "token": "mixtures",
+        "sim": 0.6669824123382568
+      },
+      {
+        "token": "gluten",
+        "sim": 0.6659709215164185
+      },
+      {
+        "token": "nutriment",
+        "sim": 0.6649225354194641
+      },
+      {
+        "token": "manuring",
+        "sim": 0.6638476252555847
+      },
+      {
+        "token": "diets",
+        "sim": 0.6635828018188477
+      },
+      {
+        "token": "protein",
+        "sim": 0.6635746955871582
+      },
+      {
+        "token": "mycorrhizas",
+        "sim": 0.6630656123161316
+      },
+      {
+        "token": "legumes",
+        "sim": 0.6606848239898682
+      },
+      {
+        "token": "vitamin",
+        "sim": 0.6581634283065796
+      },
+      {
+        "token": "granules",
+        "sim": 0.6532900333404541
+      },
+      {
+        "token": "latex",
+        "sim": 0.6362202167510986
+      }
+    ],
+    "3": [
+      {
+        "token": "glucose",
+        "sim": 0.870561957359314
+      },
+      {
+        "token": "benzoic",
+        "sim": 0.8006399869918823
+      },
+      {
+        "token": "acetic",
+        "sim": 0.7789943218231201
+      },
+      {
+        "token": "phosphoric",
+        "sim": 0.7657313346862793
+      },
+      {
+        "token": "hydrochloric",
+        "sim": 0.7374411821365356
+      },
+      {
+        "token": "oxides",
+        "sim": 0.7348295450210571
+      },
+      {
+        "token": "carbonate",
+        "sim": 0.7300422787666321
+      },
+      {
+        "token": "potassium",
+        "sim": 0.7300049662590027
+      },
+      {
+        "token": "hydroxide",
+        "sim": 0.7255496382713318
+      },
+      {
+        "token": "nitric",
+        "sim": 0.7253736257553101
+      },
+      {
+        "token": "arsenic",
+        "sim": 0.7223189473152161
+      },
+      {
+        "token": "dilute",
+        "sim": 0.7153910398483276
+      },
+      {
+        "token": "alum",
+        "sim": 0.7128565311431885
+      },
+      {
+        "token": "sulphate",
+        "sim": 0.7120180726051331
+      },
+      {
+        "token": "ammonium",
+        "sim": 0.7110313177108765
+      },
+      {
+        "token": "fluorine",
+        "sim": 0.7078272104263306
+      },
+      {
+        "token": "carbonic",
+        "sim": 0.7036658525466919
+      },
+      {
+        "token": "nitrates",
+        "sim": 0.7035099267959595
+      },
+      {
+        "token": "monoxide",
+        "sim": 0.6972184777259827
+      },
+      {
+        "token": "chloride",
+        "sim": 0.6971551179885864
+      },
+      {
+        "token": "nitrous",
+        "sim": 0.6922886371612549
+      },
+      {
+        "token": "dioxide",
+        "sim": 0.6909697651863098
+      },
+      {
+        "token": "cyanide",
+        "sim": 0.6908817291259766
+      },
+      {
+        "token": "aluminium",
+        "sim": 0.6902369260787964
+      },
+      {
+        "token": "sulphuric",
+        "sim": 0.6861096024513245
+      },
+      {
+        "token": "nitro",
+        "sim": 0.6834498643875122
+      },
+      {
+        "token": "phosphorus",
+        "sim": 0.6797922253608704
+      },
+      {
+        "token": "magnesium",
+        "sim": 0.6766724586486816
+      },
+      {
+        "token": "silicon",
+        "sim": 0.6742671728134155
+      },
+      {
+        "token": "iodine",
+        "sim": 0.6717097163200378
+      },
+      {
+        "token": "ammonia",
+        "sim": 0.6703451871871948
+      },
+      {
+        "token": "decomposes",
+        "sim": 0.6696755886077881
+      },
+      {
+        "token": "silicious",
+        "sim": 0.6671257019042969
+      },
+      {
+        "token": "uranium",
+        "sim": 0.6650630235671997
+      },
+      {
+        "token": "soluble",
+        "sim": 0.664650022983551
+      },
+      {
+        "token": "carbolic",
+        "sim": 0.6635115146636963
+      },
+      {
+        "token": "sodium",
+        "sim": 0.6629723310470581
+      },
+      {
+        "token": "aqueous",
+        "sim": 0.6601769328117371
+      },
+      {
+        "token": "residual",
+        "sim": 0.6594052314758301
+      },
+      {
+        "token": "chlorine",
+        "sim": 0.6562844514846802
+      },
+      {
+        "token": "liquefied",
+        "sim": 0.6552716493606567
+      },
+      {
+        "token": "solids",
+        "sim": 0.6543533205986023
+      },
+      {
+        "token": "acids",
+        "sim": 0.6536526679992676
+      },
+      {
+        "token": "silica",
+        "sim": 0.6522834300994873
+      },
+      {
+        "token": "nh",
+        "sim": 0.651458203792572
+      },
+      {
+        "token": "bismuth",
+        "sim": 0.6514424681663513
+      },
+      {
+        "token": "hornblende",
+        "sim": 0.6499624252319336
+      },
+      {
+        "token": "oxide",
+        "sim": 0.6451938152313232
+      },
+      {
+        "token": "alkaline",
+        "sim": 0.642851710319519
+      },
+      {
+        "token": "soverane",
+        "sim": 0.6423696279525757
+      },
+      {
+        "token": "antimony",
+        "sim": 0.6396965980529785
+      }
+    ],
+    "1": [
+      {
+        "token": "diabetes",
+        "sim": 0.8369387984275818
+      },
+      {
+        "token": "toxic",
+        "sim": 0.7532371878623962
+      },
+      {
+        "token": "amoebic",
+        "sim": 0.742417573928833
+      },
+      {
+        "token": "amcebiasis",
+        "sim": 0.7256039381027222
+      },
+      {
+        "token": "tumor",
+        "sim": 0.7250958681106567
+      },
+      {
+        "token": "anemia",
+        "sim": 0.7210459113121033
+      },
+      {
+        "token": "vaccine",
+        "sim": 0.714648962020874
+      },
+      {
+        "token": "abscess",
+        "sim": 0.7140306830406189
+      },
+      {
+        "token": "anesthesia",
+        "sim": 0.7074698209762573
+      },
+      {
+        "token": "septic",
+        "sim": 0.7045185565948486
+      },
+      {
+        "token": "antitoxin",
+        "sim": 0.7018358111381531
+      },
+      {
+        "token": "infective",
+        "sim": 0.6904682517051697
+      },
+      {
+        "token": "gastric",
+        "sim": 0.6897820234298706
+      },
+      {
+        "token": "excystation",
+        "sim": 0.686583399772644
+      },
+      {
+        "token": "infections",
+        "sim": 0.6835054159164429
+      },
+      {
+        "token": "dysentery",
+        "sim": 0.6816731691360474
+      },
+      {
+        "token": "constipation",
+        "sim": 0.6788349151611328
+      },
+      {
+        "token": "injecting",
+        "sim": 0.671630859375
+      },
+      {
+        "token": "thyroid",
+        "sim": 0.6695272326469421
+      },
+      {
+        "token": "bacilli",
+        "sim": 0.6695172786712646
+      },
+      {
+        "token": "communicable",
+        "sim": 0.6687350869178772
+      },
+      {
+        "token": "microbe",
+        "sim": 0.6627755761146545
+      },
+      {
+        "token": "rabies",
+        "sim": 0.6550499200820923
+      },
+      {
+        "token": "poisons",
+        "sim": 0.6519805192947388
+      },
+      {
+        "token": "bacillus",
+        "sim": 0.6519252061843872
+      },
+      {
+        "token": "masturbation",
+        "sim": 0.6477910280227661
+      },
+      {
+        "token": "prophylactic",
+        "sim": 0.6462587118148804
+      },
+      {
+        "token": "morphine",
+        "sim": 0.6431232690811157
+      }
+    ],
+    "5": [
+      {
+        "token": "hormone",
+        "sim": 0.7666244506835938
+      },
+      {
+        "token": "pancreas",
+        "sim": 0.7535524964332581
+      },
+      {
+        "token": "adrenal",
+        "sim": 0.7413405179977417
+      },
+      {
+        "token": "hormones",
+        "sim": 0.7390808463096619
+      },
+      {
+        "token": "trophozoites",
+        "sim": 0.7350996136665344
+      },
+      {
+        "token": "pituitary",
+        "sim": 0.7145944237709045
+      },
+      {
+        "token": "metabolism",
+        "sim": 0.7099881768226624
+      },
+      {
+        "token": "semen",
+        "sim": 0.7095381021499634
+      },
+      {
+        "token": "endocrines",
+        "sim": 0.7048174738883972
+      },
+      {
+        "token": "endocrine",
+        "sim": 0.700602650642395
+      },
+      {
+        "token": "leucocytes",
+        "sim": 0.6986120939254761
+      },
+      {
+        "token": "seminal",
+        "sim": 0.6890559792518616
+      },
+      {
+        "token": "protozoan",
+        "sim": 0.686776876449585
+      },
+      {
+        "token": "fungal",
+        "sim": 0.6832180619239807
+      },
+      {
+        "token": "chlorophyll",
+        "sim": 0.6798465251922607
+      },
+      {
+        "token": "ectoderm",
+        "sim": 0.6754003167152405
+      },
+      {
+        "token": "circulatory",
+        "sim": 0.6743248105049133
+      },
+      {
+        "token": "cortex",
+        "sim": 0.6741107702255249
+      },
+      {
+        "token": "spermatozoa",
+        "sim": 0.6713197231292725
+      },
+      {
+        "token": "alimentary",
+        "sim": 0.6708260178565979
+      },
+      {
+        "token": "cyst",
+        "sim": 0.6682689189910889
+      },
+      {
+        "token": "fission",
+        "sim": 0.6645821332931519
+      },
+      {
+        "token": "mycelium",
+        "sim": 0.6645456552505493
+      },
+      {
+        "token": "spore",
+        "sim": 0.6579561233520508
+      },
+      {
+        "token": "erythrocytes",
+        "sim": 0.6569616198539734
+      },
+      {
+        "token": "vesicles",
+        "sim": 0.6563810110092163
+      },
+      {
+        "token": "dissociation",
+        "sim": 0.6557315587997437
+      },
+      {
+        "token": "secretion",
+        "sim": 0.6529629826545715
+      },
+      {
+        "token": "gonads",
+        "sim": 0.6521366238594055
+      },
+      {
+        "token": "yolk",
+        "sim": 0.6503665447235107
+      },
+      {
+        "token": "cusn",
+        "sim": 0.648501992225647
+      },
+      {
+        "token": "radioactive",
+        "sim": 0.6451258659362793
+      },
+      {
+        "token": "contractile",
+        "sim": 0.6445397734642029
+      },
+      {
+        "token": "plasma",
+        "sim": 0.6429177522659302
+      },
+      {
+        "token": "ataxy",
+        "sim": 0.6421006917953491
+      },
+      {
+        "token": "vascular",
+        "sim": 0.6399449110031128
+      },
+      {
+        "token": "lymphatic",
+        "sim": 0.6398171782493591
+      },
+      {
+        "token": "micro",
+        "sim": 0.6392450332641602
+      }
+    ],
+    "2": [
+      {
+        "token": "preservative",
+        "sim": 0.7181527614593506
+      },
+      {
+        "token": "denatured",
+        "sim": 0.6876257658004761
+      },
+      {
+        "token": "distillation",
+        "sim": 0.6854327321052551
+      },
+      {
+        "token": "phosphate",
+        "sim": 0.6848282814025879
+      },
+      {
+        "token": "saccharin",
+        "sim": 0.6777163147926331
+      },
+      {
+        "token": "adulteration",
+        "sim": 0.6745695471763611
+      },
+      {
+        "token": "fermented",
+        "sim": 0.6718791127204895
+      },
+      {
+        "token": "chicory",
+        "sim": 0.6686484217643738
+      },
+      {
+        "token": "mayinit",
+        "sim": 0.6612544059753418
+      },
+      {
+        "token": "soaps",
+        "sim": 0.646512508392334
+      },
+      {
+        "token": "tobaccos",
+        "sim": 0.6460856199264526
+      },
+      {
+        "token": "linseed",
+        "sim": 0.6459640264511108
+      },
+      {
+        "token": "malt",
+        "sim": 0.6375057101249695
+      }
+    ],
+    "0": [
+      {
+        "token": "gradients",
+        "sim": 0.6808987855911255
+      },
+      {
+        "token": "germination",
+        "sim": 0.6766524314880371
+      },
+      {
+        "token": "refrigeration",
+        "sim": 0.668720543384552
+      },
+      {
+        "token": "ductility",
+        "sim": 0.6646370887756348
+      },
+      {
+        "token": "lubricating",
+        "sim": 0.6637753248214722
+      },
+      {
+        "token": "selenium",
+        "sim": 0.6634783744812012
+      },
+      {
+        "token": "plating",
+        "sim": 0.6624297499656677
+      },
+      {
+        "token": "thermal",
+        "sim": 0.6617560982704163
+      },
+      {
+        "token": "conductivity",
+        "sim": 0.6595395803451538
+      },
+      {
+        "token": "tungsten",
+        "sim": 0.6587284803390503
+      },
+      {
+        "token": "vulcanized",
+        "sim": 0.6492887139320374
+      },
+      {
+        "token": "processing",
+        "sim": 0.6439518928527832
+      },
+      {
+        "token": "annealing",
+        "sim": 0.6363646388053894
+      },
+      {
+        "token": "rectifier",
+        "sim": 0.6358618140220642
+      }
+    ]
+  }
+}
